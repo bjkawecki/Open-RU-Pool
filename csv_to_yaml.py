@@ -11,9 +11,16 @@ from utils.parse_headers import parse_headers, parse_translations
 if __name__ == "__main__":
 
     with open("data/course_a1.csv") as course:
-        reader = csv.DictReader(course)
+        reader = list(csv.DictReader(course))
 
-        for row in reader:
+        for i, row in enumerate(reader):
+
+            print(
+                "Processing row {} of {} with word name: {}".format(
+                    i + 1, len(reader), row["word_name"]
+                )
+            )
+
             theme = row["theme"]
             deck = row["deck_name"]
             name_ac = row["word_name"]
