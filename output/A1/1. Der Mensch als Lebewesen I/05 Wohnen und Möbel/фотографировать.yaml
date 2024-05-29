@@ -1,0 +1,42 @@
+name: фотографировать
+name_ac: фотографи́ровать
+publ_id:
+wordcls: verb
+translation:
+   - photographieren
+aspect: imperfective
+partner: сфотографи́ровать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: фо­тог­ра­фи́­рую
+pre_sin_2: фо­тог­ра­фи́­ру­ешь
+pre_sin_3: фо­тог­ра­фи́­ру­ет
+pre_plu_1: фо­тог­ра­фи́­ру­ем
+pre_plu_2: фо­тог­ра­фи́­ру­ете
+pre_plu_3: фо­тог­ра­фи́­ру­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: фо­тог­ра­фи́­ро­вал
+pas_fem: фо­тог­ра­фи́­ро­ва­ла
+pas_neu: фо­тог­ра­фи́­ро­ва­ло
+pas_plu: фо­тог­ра­фи́­ро­ва­ли
+par_pre_act: фо­тог­ра­фи́­ру­ющий
+par_pas_act: фо­тог­ра­фи́­ро­вав­ший
+par_pre_pas: фо­тог­ра­фи́­руя
+par_pas_pas: фо­тог­ра­фи́­ро­вав­ши, фо­тог­ра­фи́­ро­вав
+par_adv_pre: фо­тог­ра­фи́­ру­емый
+par_adv_pas: фо­тог­ра­фи́­ро­ван­ный
+imp_sin: фо­тог­ра­фи́­руй
+imp_plu: фо­тог­ра­фи́­руй­те
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: китаец
+name_ac: кита́ец
+publ_id:
+translation:
+   - Chinese
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: кита́ец
+sin_gen: ки­та́й­ца
+sin_dat: ки­та́й­цу
+sin_acc: ки­та́й­ца
+sin_ins: ки­та́й­цем
+sin_pre: ки­та́й­це
+plu_nom: ки­та́й­цы
+plu_gen: ки­та́й­цев
+plu_dat: ки­та́й­цам
+plu_acc: ки­та́й­цев
+plu_ins: ки­та́й­ца­ми
+plu_pre: ки­та́й­цах
+partitive:
+locative:
+comment:
+usage:
+etymol:

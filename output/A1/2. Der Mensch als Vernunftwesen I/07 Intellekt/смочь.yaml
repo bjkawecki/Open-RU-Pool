@@ -1,0 +1,43 @@
+name: смочь
+name_ac: смочь
+publ_id:
+wordcls: verb
+translation:
+   - können
+   - dürfen
+aspect: perfective
+partner: мочь
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: смо­гу́
+fut_sin_2: смо́­жешь
+fut_sin_3: смо́­жет
+fut_plu_1: смо́­жем
+fut_plu_2: смо́­же­те
+fut_plu_3: смо́­гут
+pas_mas: смог
+pas_fem: смог­ла́
+pas_neu: смог­ло́
+pas_plu: смог­ли́
+par_pre_act:
+par_pas_act: смо́г­ший
+par_pre_pas:
+par_pas_pas: смо́г­ши
+par_adv_pre:
+par_adv_pas:
+imp_sin: смо­ги́
+imp_plu: смо­ги́­те
+comment:
+usage:
+etymol:

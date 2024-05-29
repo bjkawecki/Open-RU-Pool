@@ -1,0 +1,29 @@
+wordcls: substantive
+name: фабрика
+name_ac: фа́брика
+publ_id:
+translation:
+   - Fabrik
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: фа́брика
+sin_gen: фа́б­ри­ки
+sin_dat: фа́б­ри­ке
+sin_acc: фа́б­ри­ку
+sin_ins: фа́б­ри­кой
+sin_pre: фа́б­ри­ке
+plu_nom: фа́б­ри­ки
+plu_gen: фа́б­рик
+plu_dat: фа́б­ри­кам
+plu_acc: фа́б­ри­ки
+plu_ins: фа́б­ри­ка­ми
+plu_pre: фа́б­ри­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

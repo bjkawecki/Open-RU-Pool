@@ -1,0 +1,29 @@
+wordcls: substantive
+name: государство
+name_ac: госуда́рство
+publ_id:
+translation:
+   - Staat
+genus: neutral
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: госуда́рство
+sin_gen: го­суд­а́рс­тва
+sin_dat: го­суд­а́рс­тву
+sin_acc: го­суд­а́рс­тво
+sin_ins: го­суд­а́рс­твом
+sin_pre: го­суд­а́рс­тве
+plu_nom: го­суд­а́рс­тва
+plu_gen: го­суд­а́рств
+plu_dat: го­суд­а́рс­твам
+plu_acc: го­суд­а́рс­тва
+plu_ins: го­суд­а́рс­тва­ми
+plu_pre: го­суд­а́рс­твах
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,41 @@
+name: будущий
+name_ac: бу́дущий
+publ_id:
+wordcls: adjective
+translation:
+   - künftig
+   - angehend
+is_gradable: true
+mas_nom: бу́дущий
+mas_gen: бу́­ду­ще­го
+mas_dat: бу́­ду­ще­му
+mas_acc: бу́дущий
+mas_ins: бу́­дущ­им
+mas_pre: бу́­дущ­ем
+fem_nom: бу́­ду­щая
+fem_gen: бу́­ду­щей
+fem_dat: бу́­ду­щей
+fem_acc: бу́­ду­щую
+fem_ins: бу́­ду­щей
+fem_pre: бу́­ду­щей
+neu_nom: бу́­ду­щее
+neu_gen: бу́­ду­ще­го
+neu_dat: бу́­ду­ще­му
+neu_acc: бу́­ду­щее
+neu_ins: бу́­дущ­им
+neu_pre: бу́­дущ­ем
+plu_nom: бу́­ду­щие
+plu_gen: бу́­дущ­их
+plu_dat: бу́­дущ­им
+plu_acc: бу́­ду­щие
+plu_ins: бу́­ду­щи­ми
+plu_pre: бу́­дущ­их
+sho_mas: бу́­дущ
+sho_fem: бу́­ду­ща
+sho_neu: бу́­ду­ще
+sho_plu: бу́­ду­щи
+compara: бу́­ду­щее
+superla: самый бу́дущий
+comment:
+usage:
+etymol:

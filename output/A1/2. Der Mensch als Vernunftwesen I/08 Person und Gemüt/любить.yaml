@@ -1,0 +1,42 @@
+name: любить
+name_ac: люби́ть
+publ_id:
+wordcls: verb
+translation:
+   - lieben
+aspect: imperfective
+partner:
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: люб­лю́
+pre_sin_2: лю́­бишь
+pre_sin_3: лю́­бит
+pre_plu_1: лю́­бим
+pre_plu_2: лю́­би­те
+pre_plu_3: лю́­бят
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: лю­би́л
+pas_fem: лю­би́­ла
+pas_neu: лю­би́­ло
+pas_plu: лю­би́­ли
+par_pre_act: лю́­бя­щий
+par_pas_act: лю­би́в­ший
+par_pre_pas: лю­бя́
+par_pas_pas: лю­би́в­ши, лю­би́в
+par_adv_pre: лю­би́­мый
+par_adv_pas: лю́б­лен­ный
+imp_sin: лю­би́
+imp_plu: лю­би́­те
+comment:
+usage:
+etymol:

@@ -1,0 +1,41 @@
+name: её
+name_ac: её
+publ_id:
+wordcls: pronoun
+translation:
+   - sie
+pro_type: personal
+dec_type: '2'
+mas_nom:
+mas_gen:
+mas_dat:
+mas_acc:
+mas_ins:
+mas_pre:
+fem_nom:
+fem_gen:
+fem_dat:
+fem_acc:
+fem_ins:
+fem_pre:
+neu_nom:
+neu_gen:
+neu_dat:
+neu_acc:
+neu_ins:
+neu_pre:
+sin_nom: она́
+sin_gen: (н)её
+sin_dat: (н)ей
+sin_acc: (н)её
+sin_ins: (н)ей
+sin_pre: о не́й
+plu_nom:
+plu_gen:
+plu_dat:
+plu_acc:
+plu_ins:
+plu_pre:
+comment: Akkusativ Singular weiblich
+usage:
+etymol:

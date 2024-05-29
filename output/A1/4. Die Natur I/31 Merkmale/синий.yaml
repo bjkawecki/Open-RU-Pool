@@ -1,0 +1,40 @@
+name: синий
+name_ac: си́ний
+publ_id:
+wordcls: adjective
+translation:
+   - dunkelblau
+is_gradable: true
+mas_nom: си́ний
+mas_gen: си́­не­го
+mas_dat: си́­не­му
+mas_acc: си́ний
+mas_ins: си́­ним
+mas_pre: си́­нем
+fem_nom: си́­няя
+fem_gen: си́­ней
+fem_dat: си́­ней
+fem_acc: си́­нюю
+fem_ins: си́­ней
+fem_pre: си́­ней
+neu_nom: си́­нее
+neu_gen: си́­не­го
+neu_dat: си́­не­му
+neu_acc: си́­нее
+neu_ins: си́­ним
+neu_pre: си́­нем
+plu_nom: си́­ние
+plu_gen: си́­них
+plu_dat: си́­ним
+plu_acc: си́­ние
+plu_ins: си́­ни­ми
+plu_pre: си́­них
+sho_mas: синь
+sho_fem: си­ня́
+sho_neu: си́­не
+sho_plu: си́­ни
+compara: си­не́е
+superla: самый си́ний
+comment:
+usage:
+etymol:

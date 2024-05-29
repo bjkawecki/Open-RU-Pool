@@ -1,0 +1,29 @@
+wordcls: substantive
+name: клуб
+name_ac: клуб
+publ_id:
+translation:
+   - Klub
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: клуб
+sin_gen: клу́­ба
+sin_dat: клу́­бу
+sin_acc: клуб
+sin_ins: клу́­бом
+sin_pre: клу́­бе
+plu_nom: клу́­бы
+plu_gen: клу́­бов
+plu_dat: клу́­бам
+plu_acc: клу́­бы
+plu_ins: клу́­ба­ми
+plu_pre: клу́­бах
+partitive:
+locative:
+comment:
+usage:
+etymol:

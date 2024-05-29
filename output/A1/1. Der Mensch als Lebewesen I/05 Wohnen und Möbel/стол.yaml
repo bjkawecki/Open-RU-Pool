@@ -1,0 +1,29 @@
+wordcls: substantive
+name: стол
+name_ac: стол
+publ_id:
+translation:
+   - Tisch
+genus: masculine
+dec_cls: class_2
+stress: suffix
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: стол
+sin_gen: сто­ла́
+sin_dat: сто­лу́
+sin_acc: стол
+sin_ins: сто­ло́м
+sin_pre: сто­ле́
+plu_nom: сто­лы́
+plu_gen: сто­ло́в
+plu_dat: сто­ла́м
+plu_acc: сто­лы́
+plu_ins: сто­ла́­ми
+plu_pre: сто­ла́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

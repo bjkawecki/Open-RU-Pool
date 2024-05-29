@@ -1,0 +1,41 @@
+name: ваш
+name_ac: ваш
+publ_id:
+wordcls: pronoun
+translation:
+   - ihr
+pro_type: possessive
+dec_type: '1'
+mas_nom: ваш
+mas_gen: ва́­ше­го
+mas_dat: ва́­ше­му
+mas_acc: ваш
+mas_ins: ва́­шим
+mas_pre: ва́­шем
+fem_nom: ва́­ша
+fem_gen: ва́­шей
+fem_dat: ва́­шей
+fem_acc: ва́­шу
+fem_ins: ва́­шей
+fem_pre: ва́­шей
+neu_nom: ва́­ше
+neu_gen: ва́­ше­го
+neu_dat: ва́­ше­му
+neu_acc: ва́­ше
+neu_ins: ва́­шим
+neu_pre: ва́­шем
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: ва́­ши
+plu_gen: ва́­ших
+plu_dat: ва́­шим
+plu_acc: ва́­ши
+plu_ins: ва́­ши­ми
+plu_pre: ва́­ших
+comment: 2. Person Plural
+usage:
+etymol:

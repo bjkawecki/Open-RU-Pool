@@ -1,0 +1,29 @@
+wordcls: substantive
+name: спортсмен
+name_ac: спортсме́н
+publ_id:
+translation:
+   - Sportler
+genus: masculine
+dec_cls: class_2
+stress: suffix
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: спортсме́н
+sin_gen: спорт­сме́­на
+sin_dat: спорт­сме́­ну
+sin_acc: спорт­сме́­на
+sin_ins: спорт­сме́­ном
+sin_pre: спорт­сме́­не
+plu_nom: спорт­сме́­ны
+plu_gen: спорт­сме́­нов
+plu_dat: спорт­сме́­нам
+plu_acc: спорт­сме́­нов
+plu_ins: спорт­сме́­на­ми
+plu_pre: спорт­сме́­нах
+partitive:
+locative:
+comment:
+usage:
+etymol:

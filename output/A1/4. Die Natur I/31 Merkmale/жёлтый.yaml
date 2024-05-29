@@ -1,0 +1,40 @@
+name: жёлтый
+name_ac: жёлтый
+publ_id:
+wordcls: adjective
+translation:
+   - gelb
+is_gradable: true
+mas_nom: жёлтый
+mas_gen: жёл­то­го
+mas_dat: жёл­то­му
+mas_acc: жёлтый
+mas_ins: жёл­тым
+mas_pre: жёл­том
+fem_nom: жёл­тая
+fem_gen: жёл­той
+fem_dat: жёл­той
+fem_acc: жёл­тую
+fem_ins: жёл­той
+fem_pre: жёл­той
+neu_nom: жёл­тое
+neu_gen: жёл­то­го
+neu_dat: жёл­то­му
+neu_acc: жёл­тое
+neu_ins: жёл­тым
+neu_pre: жёл­том
+plu_nom: жёл­тые
+plu_gen: жёл­тых
+plu_dat: жёл­тым
+plu_acc: жёл­тые
+plu_ins: жёл­ты­ми
+plu_pre: жёл­тых
+sho_mas: жёлт
+sho_fem: жел­та́
+sho_neu: жёл­то
+sho_plu: жёл­ты
+compara: жел­те́е
+superla: самый жёлтый
+comment:
+usage:
+etymol:

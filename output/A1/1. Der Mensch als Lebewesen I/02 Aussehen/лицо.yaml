@@ -1,0 +1,29 @@
+wordcls: substantive
+name: лицо
+name_ac: лицо́
+publ_id:
+translation:
+   - Gesicht
+genus: neutral
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: лицо́
+sin_gen: ли­ца́
+sin_dat: ли­цу́
+sin_acc: ли­цо́
+sin_ins: ли­цо́м
+sin_pre: ли­це́
+plu_nom: ли́­ца
+plu_gen: лиц
+plu_dat: ли́­цам
+plu_acc: ли́­ца
+plu_ins: ли́­ца­ми
+plu_pre: ли́­цах
+partitive:
+locative:
+comment:
+usage:
+etymol:

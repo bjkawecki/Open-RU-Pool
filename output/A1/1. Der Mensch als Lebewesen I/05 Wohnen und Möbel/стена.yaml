@@ -1,0 +1,29 @@
+wordcls: substantive
+name: стена
+name_ac: стена́
+publ_id:
+translation:
+   - Wand
+genus: feminine
+dec_cls: class_1
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: стена́
+sin_gen: сте­ны́
+sin_dat: сте­не́
+sin_acc: сте́­ну
+sin_ins: сте­но́й
+sin_pre: сте­не́
+plu_nom: сте́­ны
+plu_gen: стен
+plu_dat: сте́­нам
+plu_acc: сте́­ны
+plu_ins: сте́­на­ми
+plu_pre: сте́­нах
+partitive:
+locative:
+comment:
+usage:
+etymol:

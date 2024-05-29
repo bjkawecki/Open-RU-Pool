@@ -1,0 +1,31 @@
+wordcls: substantive
+name: родина
+name_ac: ро́дина
+publ_id:
+translation:
+   - Heimat
+   - Vaterland
+   - Geburtsland
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ро́дина
+sin_gen: ро́­ди­ны
+sin_dat: ро́­ди­не
+sin_acc: ро́­ди­ну
+sin_ins: ро́­ди­ной
+sin_pre: ро́­ди­не
+plu_nom: ро́­ди­ны
+plu_gen: ро́­дин
+plu_dat: ро́­дин­ам
+plu_acc: ро́­ди­ны
+plu_ins: ро́­ди­на­ми
+plu_pre: ро́­дин­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

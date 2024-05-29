@@ -1,0 +1,29 @@
+wordcls: substantive
+name: солнце
+name_ac: со́лнце
+publ_id:
+translation:
+   - Sonne
+genus: neutral
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: со́лнце
+sin_gen: со́лн­ца
+sin_dat: со́лн­цу
+sin_acc: со́лн­це
+sin_ins: со́лн­цем
+sin_pre: со́лн­це
+plu_nom: со́лн­ца
+plu_gen: солнц
+plu_dat: со́лн­цам
+plu_acc: со́лн­ца
+plu_ins: со́лн­ца­ми
+plu_pre: со́лн­цах
+partitive:
+locative:
+comment:
+usage:
+etymol:

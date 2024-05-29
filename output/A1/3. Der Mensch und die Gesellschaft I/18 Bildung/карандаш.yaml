@@ -1,0 +1,30 @@
+wordcls: substantive
+name: карандаш
+name_ac: каранда́ш
+publ_id:
+translation:
+   - Bleistift
+   - Stift
+genus: masculine
+dec_cls: class_2
+stress: suffix
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: каранда́ш
+sin_gen: ка­ран­да­ша́
+sin_dat: ка­ран­да­шу́
+sin_acc: ка­ран­да́ш
+sin_ins: ка­ран­да­шо́м
+sin_pre: ка­ран­да­ше́
+plu_nom: ка­ран­да­ши́
+plu_gen: ка­ран­да­ше́й
+plu_dat: ка­ран­да­ша́м
+plu_acc: ка­ран­да­ши́
+plu_ins: ка­ран­да­ша́­ми
+plu_pre: ка­ран­да­ша́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

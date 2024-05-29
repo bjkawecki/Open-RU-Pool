@@ -1,0 +1,29 @@
+wordcls: substantive
+name: кухня
+name_ac: ку́хня
+publ_id:
+translation:
+   - Küche
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ку́хня
+sin_gen: ку́х­ни
+sin_dat: ку́х­не
+sin_acc: ку́х­ню
+sin_ins: ку́х­ней
+sin_pre: ку́х­не
+plu_nom: ку́х­ни
+plu_gen: ку́­хонь
+plu_dat: ку́х­ням
+plu_acc: ку́х­ни
+plu_ins: ку́х­ня­ми
+plu_pre: ку́х­нях
+partitive:
+locative:
+comment:
+usage:
+etymol:

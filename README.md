@@ -9,3 +9,5 @@ This repository aims for an easy to manage Russian word pool organized as a coll
 The `main.py` generates a csv-table from the folder `output`.
 
 I used `csv_to_yaml.py` to create a starting point from a csv-table, that I put together in a rather cumbersome process.
+
+The language of the folders and translations currently is German.

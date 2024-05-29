@@ -1,0 +1,29 @@
+wordcls: substantive
+name: река
+name_ac: река́
+publ_id:
+translation:
+   - Fluss
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: река́
+sin_gen: ре­ки́
+sin_dat: ре­ке́
+sin_acc: ре́­ку
+sin_ins: ре­ко́й
+sin_pre: ре­ке́
+plu_nom: ре́­ки
+plu_gen: рек
+plu_dat: ре́­кам
+plu_acc: ре́­ки
+plu_ins: ре́­ка­ми
+plu_pre: ре́­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

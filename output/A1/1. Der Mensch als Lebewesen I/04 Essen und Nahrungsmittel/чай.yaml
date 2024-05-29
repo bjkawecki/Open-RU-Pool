@@ -1,0 +1,29 @@
+wordcls: substantive
+name: чай
+name_ac: чай
+publ_id:
+translation:
+   - Tee
+genus: masculine
+dec_cls: class_2
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: чай
+sin_gen: ча́я
+sin_dat: ча́ю
+sin_acc: чай
+sin_ins: ча́­ем
+sin_pre: ча́е
+plu_nom: чаи́
+plu_gen: ча­ёв
+plu_dat: ча­я́м
+plu_acc: чаи́
+plu_ins: ча­я́ми
+plu_pre: ча­я́х
+partitive: ча́ю
+locative: в чаю́
+comment:
+usage:
+etymol:

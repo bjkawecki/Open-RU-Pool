@@ -1,0 +1,29 @@
+wordcls: substantive
+name: медицина
+name_ac: медици́на
+publ_id:
+translation:
+   - Medizin
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: медици́на
+sin_gen: ме­ди­ци́­ны
+sin_dat: ме­ди­ци́­не
+sin_acc: ме­ди­ци́­ну
+sin_ins: ме­ди­ци́­ной
+sin_pre: ме­ди­ци́­не
+plu_nom: ме­ди­ци́­ны
+plu_gen: ме­диц­и́н
+plu_dat: ме­ди­ци́­нам
+plu_acc: ме­ди­ци́­ны
+plu_ins: ме­ди­ци́­на­ми
+plu_pre: ме­ди­ци́­нах
+partitive:
+locative:
+comment:
+usage:
+etymol:

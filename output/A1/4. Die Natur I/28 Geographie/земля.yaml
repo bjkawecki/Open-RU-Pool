@@ -1,0 +1,30 @@
+wordcls: substantive
+name: земля
+name_ac: земля́
+publ_id:
+translation:
+   - Boden
+   - Erde
+genus: feminine
+dec_cls: class_1
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: земля́
+sin_gen: зем­ли́
+sin_dat: зем­ле́
+sin_acc: зе́м­лю
+sin_ins: зем­лёй
+sin_pre: зем­ле́
+plu_nom: зе́м­ли
+plu_gen: зе­ме́ль
+plu_dat: зе́м­лям
+plu_acc: зе́м­ли
+plu_ins: зе́м­ля­ми
+plu_pre: зе́м­лях
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,40 @@
+name: серый
+name_ac: се́рый
+publ_id:
+wordcls: adjective
+translation:
+   - grau
+is_gradable: true
+mas_nom: се́рый
+mas_gen: се́­ро­го
+mas_dat: се́­ро­му
+mas_acc: се́рый
+mas_ins: се́­рым
+mas_pre: се́­ром
+fem_nom: се́­рая
+fem_gen: се́­рой
+fem_dat: се́­рой
+fem_acc: се́­рую
+fem_ins: се́­рой
+fem_pre: се́­рой
+neu_nom: се́­рое
+neu_gen: се́­ро­го
+neu_dat: се́­ро­му
+neu_acc: се́­рое
+neu_ins: се́­рым
+neu_pre: се́­ром
+plu_nom: се́­рые
+plu_gen: се́­рых
+plu_dat: се́­рым
+plu_acc: се́­рые
+plu_ins: се́­ры­ми
+plu_pre: се́­рых
+sho_mas: сер
+sho_fem: се­ра́
+sho_neu: се́­ро
+sho_plu: се́­ры
+compara: се­ре́е
+superla: самый се́рый
+comment:
+usage:
+etymol:

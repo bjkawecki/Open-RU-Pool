@@ -1,0 +1,40 @@
+name: талантливый
+name_ac: тала́нтливый
+publ_id:
+wordcls: adjective
+translation:
+   - talentiert
+is_gradable: true
+mas_nom: тала́нтливый
+mas_gen: та­ла́нт­ли­во­го
+mas_dat: та­ла́нт­ли­во­му
+mas_acc: та­ла́нт­ли­вый
+mas_ins: та­ла́нт­ли­вым
+mas_pre: та­ла́нт­ли­вом
+fem_nom: та­ла́нт­ли­вая
+fem_gen: та­ла́нт­ли­вой
+fem_dat: та­ла́нт­ли­вой
+fem_acc: та­ла́нт­ли­вую
+fem_ins: та­ла́нт­ли­вой
+fem_pre: та­ла́нт­ли­вой
+neu_nom: та­ла́нт­ли­вое
+neu_gen: та­ла́нт­ли­во­го
+neu_dat: та­ла́нт­ли­во­му
+neu_acc: та­ла́нт­ли­вое
+neu_ins: та­ла́нт­ли­вым
+neu_pre: та­ла́нт­ли­вом
+plu_nom: та­ла́нт­ли­вые
+plu_gen: та­ла́нт­ли­вых
+plu_dat: та­ла́нт­ли­вым
+plu_acc: та­ла́нт­ли­вые
+plu_ins: та­ла́нт­ли­вы­ми
+plu_pre: та­ла́нт­ли­вых
+sho_mas: та­ла́нт­лив
+sho_fem: та­ла́нт­ли­ва
+sho_neu: та­ла́нт­ли­во
+sho_plu: та­ла́нт­ли­вы
+compara: та­ла́нт­ли­вее
+superla: самый тала́нтливый
+comment:
+usage:
+etymol:

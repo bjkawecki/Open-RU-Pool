@@ -1,0 +1,43 @@
+name: учиться
+name_ac: учи́ться
+publ_id:
+wordcls: verb
+translation:
+   - lernen
+   - studieren
+aspect: imperfective
+partner: выучи́ться
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive: true
+pre_sin_1: уч­у́сь
+pre_sin_2: у́ч­ишь­ся
+pre_sin_3: у́ч­ит­ся
+pre_plu_1: у́ч­им­ся
+pre_plu_2: у́чи­тесь
+pre_plu_3: у́ч­ат­ся
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: уч­и́л­ся
+pas_fem: учи́­лась
+pas_neu: учи́­лось
+pas_plu: учи́­лись
+par_pre_act: уча́­щий­ся
+par_pas_act: уч­и́в­ший­ся
+par_pre_pas: уч­а́сь
+par_pas_pas: уч­и́в­шись
+par_adv_pre:
+par_adv_pas:
+imp_sin: уч­и́сь
+imp_plu: учи́­тесь
+comment:
+usage:
+etymol:

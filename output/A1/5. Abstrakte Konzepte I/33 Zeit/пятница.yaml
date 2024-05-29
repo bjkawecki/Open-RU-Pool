@@ -1,0 +1,29 @@
+wordcls: substantive
+name: пятница
+name_ac: пя́тница
+publ_id:
+translation:
+   - Freitag
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: пя́тница
+sin_gen: пя́т­ни­цы
+sin_dat: пя́т­ни­це
+sin_acc: пя́т­ни­цу
+sin_ins: пя́т­ни­цей
+sin_pre: пя́т­ни­це
+plu_nom: пя́т­ни­цы
+plu_gen: пя́т­ниц
+plu_dat: пя́т­ни­цам
+plu_acc: пя́т­ни­цы
+plu_ins: пя́т­ни­ца­ми
+plu_pre: пя́т­ни­цах
+partitive:
+locative:
+comment:
+usage:
+etymol:

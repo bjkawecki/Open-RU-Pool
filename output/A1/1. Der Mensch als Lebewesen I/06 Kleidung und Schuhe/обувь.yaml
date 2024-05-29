@@ -1,0 +1,29 @@
+wordcls: substantive
+name: обувь
+name_ac: о́бувь
+publ_id:
+translation:
+   - Schuhe
+genus: feminine
+dec_cls: class_3
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: о́бувь
+sin_gen: о́бу­ви
+sin_dat: о́бу­ви
+sin_acc: о́б­увь
+sin_ins: о́б­увью
+sin_pre: о́бу­ви
+plu_nom: о́бу­ви
+plu_gen: о́бу­вей
+plu_dat: о́бу­вям
+plu_acc: о́бу­ви
+plu_ins: о́бу­вя­ми
+plu_pre: о́бу­вях
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: сын
+name_ac: сын
+publ_id:
+translation:
+   - Sohn
+genus: masculine
+dec_cls: class_2
+stress: shifting
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: сын
+sin_gen: сы́­на
+sin_dat: сы́­ну
+sin_acc: сы́­на
+sin_ins: сы́­ном
+sin_pre: сы́­не
+plu_nom: сы­новья́
+plu_gen: сы­но­ве́й
+plu_dat: сы­новь­я́м
+plu_acc: сы­но­ве́й
+plu_ins: сы­новь­я́ми
+plu_pre: сы­новь­я́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

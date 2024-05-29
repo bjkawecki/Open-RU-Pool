@@ -1,0 +1,29 @@
+wordcls: substantive
+name: аптека
+name_ac: апте́ка
+publ_id:
+translation:
+   - Apotheke
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: апте́ка
+sin_gen: ап­те́­ки
+sin_dat: ап­те́­ке
+sin_acc: ап­те́­ку
+sin_ins: ап­те́­кой
+sin_pre: ап­те́­ке
+plu_nom: ап­те́­ки
+plu_gen: ап­те́к
+plu_dat: ап­те́­кам
+plu_acc: ап­те́­ки
+plu_ins: ап­те́­ка­ми
+plu_pre: ап­те́­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

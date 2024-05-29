@@ -1,0 +1,29 @@
+wordcls: substantive
+name: мебель
+name_ac: ме́бель
+publ_id:
+translation:
+   - Möbel
+genus: feminine
+dec_cls: class_3
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ме́бель
+sin_gen: ме́­бе­ли
+sin_dat: ме́­бе­ли
+sin_acc: ме́­бель
+sin_ins: ме́­белью
+sin_pre: ме́­бе­ли
+plu_nom: ме́­бе­ли
+plu_gen: ме́­бе­лей
+plu_dat: ме́­бел­ям
+plu_acc: ме́­бе­ли
+plu_ins: ме́­бе­ля­ми
+plu_pre: ме́­бел­ях
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,41 @@
+name: великий
+name_ac: вели́кий
+publ_id:
+wordcls: adjective
+translation:
+   - groß
+   - erhaben
+is_gradable: true
+mas_nom: ве́ликий
+mas_gen: ве­ли́­ко­го
+mas_dat: ве­ли́­ко­му
+mas_acc: ве­ли́­кий
+mas_ins: ве­ли́к­им
+mas_pre: ве­ли́к­ом
+fem_nom: ве­ли́­кая
+fem_gen: ве­ли́­кой
+fem_dat: ве­ли́­кой
+fem_acc: ве­ли́­кую
+fem_ins: ве­ли́­кой
+fem_pre: ве­ли́­кой
+neu_nom: ве­ли́­кое
+neu_gen: ве­ли́­ко­го
+neu_dat: ве­ли́­ко­му
+neu_acc: ве­ли́­кое
+neu_ins: ве­ли́к­им
+neu_pre: ве­ли́к­ом
+plu_nom: ве­ли́­кие
+plu_gen: ве­ли́к­их
+plu_dat: ве­ли́к­им
+plu_acc: ве­ли́­кие
+plu_ins: ве­ли́­ки­ми
+plu_pre: ве­ли́к­их
+sho_mas: ве­ли́к
+sho_fem: ве­ли́­ка
+sho_neu: ве­ли́­ко
+sho_plu: ве­ли́­ки
+compara:
+superla: самый ве́ликий
+comment:
+usage:
+etymol:

@@ -1,0 +1,30 @@
+wordcls: substantive
+name: автобус
+name_ac: авто́бус
+publ_id:
+translation:
+   - Bus
+   - Autobus
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: авто́бус
+sin_gen: ав­то́­бу­са
+sin_dat: ав­то́­бу­су
+sin_acc: ав­то́­бус
+sin_ins: ав­то́­бус­ом
+sin_pre: ав­то́­бу­се
+plu_nom: ав­то́­бу­сы
+plu_gen: ав­то́­бус­ов
+plu_dat: ав­то́­бус­ам
+plu_acc: ав­то́­бу­сы
+plu_ins: ав­то́­бу­са­ми
+plu_pre: ав­то́­бус­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

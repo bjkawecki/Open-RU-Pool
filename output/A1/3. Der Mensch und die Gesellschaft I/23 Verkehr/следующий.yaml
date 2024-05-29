@@ -1,0 +1,42 @@
+name: следующий
+name_ac: сле́дующий
+publ_id:
+wordcls: adjective
+translation:
+   - nächster
+   - Nach-
+   - Folge-
+is_gradable: true
+mas_nom: сле́дующий
+mas_gen: сле́­ду­юще­го
+mas_dat: сле́­ду­юще­му
+mas_acc: сле́дующий
+mas_ins: сле́­ду­ющ­им
+mas_pre: сле́­ду­ющ­ем
+fem_nom: сле́­ду­ющая
+fem_gen: сле́­ду­ющей
+fem_dat: сле́­ду­ющей
+fem_acc: сле́­ду­ющую
+fem_ins: сле́­ду­ющей
+fem_pre: сле́­ду­ющей
+neu_nom: сле́­ду­ющее
+neu_gen: сле́­ду­юще­го
+neu_dat: сле́­ду­юще­му
+neu_acc: сле́­ду­ющее
+neu_ins: сле́­ду­ющ­им
+neu_pre: сле́­ду­ющ­ем
+plu_nom: сле́­ду­ющие
+plu_gen: сле́­ду­ющ­их
+plu_dat: сле́­ду­ющ­им
+plu_acc: сле́­ду­ющие
+plu_ins: сле́­ду­ющи­ми
+plu_pre: сле́­ду­ющ­их
+sho_mas: сле́­ду­ющ
+sho_fem: сле́­ду­юща
+sho_neu: сле́­ду­юще
+sho_plu: сле́­ду­ющи
+compara: сле́­ду­ющее
+superla: самый сле́дующий
+comment:
+usage:
+etymol:

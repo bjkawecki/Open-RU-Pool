@@ -1,0 +1,41 @@
+name: народный
+name_ac: наро́дный
+publ_id:
+wordcls: adjective
+translation:
+   - volkstümlich
+   - Volks-
+is_gradable: true
+mas_nom: наро́дный
+mas_gen: на­ро́д­но­го
+mas_dat: на­ро́д­но­го
+mas_acc: наро́дный
+mas_ins: на­ро́д­ным
+mas_pre: на­ро́д­ном
+fem_nom: на­ро́д­ная
+fem_gen: на­ро́д­ной
+fem_dat: на­ро́д­ной
+fem_acc: на­ро́д­ную
+fem_ins: на­ро́д­ной
+fem_pre: на­ро́д­ной
+neu_nom: на­ро́д­ное
+neu_gen: на­ро́д­но­го
+neu_dat: на­ро́д­но­го
+neu_acc: на­ро́д­ное
+neu_ins: на­ро́д­ным
+neu_pre: на­ро́д­ном
+plu_nom: на­ро́д­ные
+plu_gen: на­ро́д­ных
+plu_dat: на­ро́д­ным
+plu_acc: на­ро́д­ные
+plu_ins: на­ро́д­ны­ми
+plu_pre: на­ро́д­ных
+sho_mas: на­ро́д­ен
+sho_fem: на­ро́д­на
+sho_neu: на­ро́д­но
+sho_plu: на­ро́д­ны
+compara: на­ро́д­нее
+superla: самый наро́дный
+comment:
+usage:
+etymol:

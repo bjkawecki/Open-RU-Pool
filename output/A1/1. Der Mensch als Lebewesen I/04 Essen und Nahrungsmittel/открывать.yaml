@@ -1,0 +1,42 @@
+name: открывать
+name_ac: открыва́ть
+publ_id:
+wordcls: verb
+translation:
+   - öffnen
+aspect: imperfective
+partner: откры́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: отк­ры­ва́ю
+pre_sin_2: отк­ры­ва́­ешь
+pre_sin_3: отк­ры­ва́­ет
+pre_plu_1: отк­ры­ва́­ем
+pre_plu_2: отк­ры­ва́­ете
+pre_plu_3: отк­ры­ва́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: отк­ры­ва́л
+pas_fem: отк­ры­ва́­ла
+pas_neu: отк­ры­ва́­ло
+pas_plu: отк­ры­ва́­ли
+par_pre_act: отк­ры­ва́­ющий
+par_pas_act: отк­ры­ва́в­ший
+par_pre_pas: отк­ры­ва́я
+par_pas_pas: отк­ры­ва́в­ши, отк­ры­ва́в
+par_adv_pre: отк­ры­ва́­емый
+par_adv_pas:
+imp_sin: отк­ры­ва́й
+imp_plu: отк­ры­ва́й­те
+comment:
+usage:
+etymol:

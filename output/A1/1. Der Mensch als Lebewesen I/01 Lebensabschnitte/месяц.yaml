@@ -1,0 +1,29 @@
+wordcls: substantive
+name: месяц
+name_ac: ме́сяц
+publ_id:
+translation:
+   - Monat
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ме́сяц
+sin_gen: ме́­ся­ца
+sin_dat: ме́­ся­цу
+sin_acc: ме́­сяц
+sin_ins: ме́­сяц­ем
+sin_pre: ме́­ся­це
+plu_nom: ме́­ся­цы
+plu_gen: ме́­сяц­ев
+plu_dat: ме́­сяц­ам
+plu_acc: ме́­ся­цы
+plu_ins: ме́­ся­ца­ми
+plu_pre: ме́­сяц­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,30 @@
+wordcls: substantive
+name: человек
+name_ac: челове́к
+publ_id:
+translation:
+   - Mensch
+   - Mann
+genus: masculine
+dec_cls: class_2
+stress: shifting
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: челове́к
+sin_gen: че­ло­ве́­ка
+sin_dat: че­ло­ве́­ку
+sin_acc: че­ло­ве́­ка
+sin_ins: че­ло­ве́­ком
+sin_pre: че­ло­ве́­ке
+plu_nom: лю́­ди
+plu_gen: лю­де́й
+plu_dat: лю́­дям
+plu_acc: лю­де́й
+plu_ins: людь­ми́
+plu_pre: лю́­дях
+partitive:
+locative:
+comment:
+usage:
+etymol:

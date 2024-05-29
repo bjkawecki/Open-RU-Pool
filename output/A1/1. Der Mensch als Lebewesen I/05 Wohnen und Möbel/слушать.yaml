@@ -1,0 +1,42 @@
+name: слушать
+name_ac: слу́шать
+publ_id:
+wordcls: verb
+translation:
+   - zuhören
+aspect: imperfective
+partner:
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: слу́­шаю
+pre_sin_2: слу́­ша­ешь
+pre_sin_3: слу́­ша­ет
+pre_plu_1: слу́­ша­ем
+pre_plu_2: слу́­ша­ете
+pre_plu_3: слу́­ша­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: слу́­шал
+pas_fem: слу́­ша­ла
+pas_neu: слу́­ша­ло
+pas_plu: слу́­ша­ли
+par_pre_act: слу́­ша­ющий
+par_pas_act: слу́­шав­ший
+par_pre_pas: слу́­шая
+par_pas_pas: слу́­шав­ши, слу́­шав
+par_adv_pre: слу́­ша­емый
+par_adv_pas: слу́­шан­ный
+imp_sin: слу́­шай
+imp_plu: слу́­шай­те
+comment:
+usage:
+etymol:

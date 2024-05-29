@@ -1,0 +1,40 @@
+name: красный
+name_ac: кра́сный
+publ_id:
+wordcls: adjective
+translation:
+   - rot
+is_gradable: true
+mas_nom: кра́сный
+mas_gen: кра́с­но­го
+mas_dat: кра́с­но­му
+mas_acc: кра́сный
+mas_ins: кра́с­ным
+mas_pre: кра́с­ном
+fem_nom: кра́с­ная
+fem_gen: кра́с­ной
+fem_dat: кра́с­ной
+fem_acc: кра́с­ную
+fem_ins: кра́с­ной
+fem_pre: кра́с­ной
+neu_nom: кра́с­ное
+neu_gen: кра́с­но­го
+neu_dat: кра́с­но­му
+neu_acc: кра́с­ное
+neu_ins: кра́с­ным
+neu_pre: кра́с­ном
+plu_nom: кра́с­ные
+plu_gen: кра́с­ных
+plu_dat: кра́с­ным
+plu_acc: кра́с­ные
+plu_ins: кра́с­ны­ми
+plu_pre: кра́с­ных
+sho_mas: кра́­сен
+sho_fem: крас­на́
+sho_neu: кра́с­но
+sho_plu: кра́с­ны
+compara: крас­не́е
+superla: самый кра́сный
+comment:
+usage:
+etymol:

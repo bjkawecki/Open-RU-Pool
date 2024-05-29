@@ -1,0 +1,40 @@
+name: китайский
+name_ac: кита́йский
+publ_id:
+wordcls: adjective
+translation:
+   - chinesisch
+is_gradable:
+mas_nom: китайский
+mas_gen: ки­та́й­ско­го
+mas_dat: ки­та́й­ско­му
+mas_acc: китайский
+mas_ins: ки­та́й­ским
+mas_pre: ки­та́й­ском
+fem_nom: ки­та́й­ская
+fem_gen: ки­та́й­ской
+fem_dat: ки­та́й­ской
+fem_acc: ки­та́й­скую
+fem_ins: ки­та́й­ской
+fem_pre: ки­та́й­ской
+neu_nom: ки­та́й­ское
+neu_gen: ки­та́й­ско­го
+neu_dat: ки­та́й­ско­му
+neu_acc: ки­та́й­ское
+neu_ins: ки­та́й­ским
+neu_pre: ки­та́й­ском
+plu_nom: ки­та́й­ские
+plu_gen: ки­та́й­ских
+plu_dat: ки­та́й­ским
+plu_acc: ки­та́й­ские
+plu_ins: ки­та́й­ски­ми
+plu_pre: ки­та́й­ских
+sho_mas:
+sho_fem:
+sho_neu:
+sho_plu:
+compara:
+superla:
+comment:
+usage:
+etymol:

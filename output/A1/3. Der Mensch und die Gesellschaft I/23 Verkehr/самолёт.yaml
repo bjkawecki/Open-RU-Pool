@@ -1,0 +1,29 @@
+wordcls: substantive
+name: самолёт
+name_ac: самолёт
+publ_id:
+translation:
+   - Flugzeug
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: самолёт
+sin_gen: са­мо­лё­та
+sin_dat: са­мо­лё­ту
+sin_acc: са­мол­ёт
+sin_ins: са­мо­лё­том
+sin_pre: са­мо­лё­те
+plu_nom: са­мо­лё­ты
+plu_gen: са­мо­лё­тов
+plu_dat: са­мо­лё­там
+plu_acc: са­мо­лё­ты
+plu_ins: са­мо­лё­та­ми
+plu_pre: са­мо­лё­тах
+partitive:
+locative:
+comment:
+usage:
+etymol:

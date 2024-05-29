@@ -1,0 +1,41 @@
+name: детский
+name_ac: де́тский
+publ_id:
+wordcls: adjective
+translation:
+   - Kinder-
+   - kindlich
+is_gradable:
+mas_nom: де́тский
+mas_gen: де́тс­ко­го
+mas_dat: де́тс­ко­му
+mas_acc: де́тс­кий
+mas_ins: де́тс­ким
+mas_pre: де́тс­ком
+fem_nom: де́тс­кая
+fem_gen: де́тс­кой
+fem_dat: де́тс­кой
+fem_acc: де́тс­кую
+fem_ins: де́тс­кой
+fem_pre: де́тс­кой
+neu_nom: де́тс­кое
+neu_gen: де́тс­ко­го
+neu_dat: де́тс­ко­му
+neu_acc: де́тс­кое
+neu_ins: де́тс­ким
+neu_pre: де́тс­ком
+plu_nom: де́тс­кие
+plu_gen: де́тс­ких
+plu_dat: де́тс­ким
+plu_acc: де́тс­кие
+plu_ins: де́тс­ки­ми
+plu_pre: де́тс­ких
+sho_mas:
+sho_fem:
+sho_neu:
+sho_plu:
+compara:
+superla:
+comment:
+usage:
+etymol:

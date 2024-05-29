@@ -1,0 +1,40 @@
+name: правый
+name_ac: пра́вый
+publ_id:
+wordcls: adjective
+translation:
+   - rechter
+is_gradable: true
+mas_nom: пра́вый
+mas_gen: пра́­во­го
+mas_dat: пра́­во­му
+mas_acc: пра́вый
+mas_ins: пра́­вым
+mas_pre: пра́­вом
+fem_nom: пра́­вая
+fem_gen: пра́­вой
+fem_dat: пра́­вой
+fem_acc: пра́­вую
+fem_ins: пра́­вой
+fem_pre: пра́­вой
+neu_nom: пра́­вое
+neu_gen: пра́­во­го
+neu_dat: пра́­во­му
+neu_acc: пра́­вое
+neu_ins: пра́­вым
+neu_pre: пра́­вом
+plu_nom: пра́­вые
+plu_gen: пра́­вых
+plu_dat: пра́­вым
+plu_acc: пра́­вые
+plu_ins: пра́­вы­ми
+plu_pre: пра́­вых
+sho_mas: прав
+sho_fem: пра́­ва
+sho_neu: пра́­во
+sho_plu: пра́­вы
+compara: пра­ве́е
+superla: самый пра́вый
+comment:
+usage:
+etymol:

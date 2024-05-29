@@ -1,0 +1,29 @@
+wordcls: substantive
+name: овощи
+name_ac: о́вощи
+publ_id:
+translation:
+   - Gemüse
+genus: none
+dec_cls: irregular
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan: true
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: о́вощи
+plu_gen: ово­ще́й
+plu_dat: ово­ща́м
+plu_acc: о́во­щи
+plu_ins: ово­ща́­ми
+plu_pre: ово­ща́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

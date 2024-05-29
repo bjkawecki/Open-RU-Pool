@@ -1,0 +1,30 @@
+wordcls: substantive
+name: мороженое
+name_ac: моро́женое
+publ_id:
+translation:
+   - Speiseeis
+   - Eis
+genus: neutral
+dec_cls: adjective
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: моро́женое
+sin_gen: мо­ро́­же­но­го
+sin_dat: мо­ро́­же­но­му
+sin_acc: мо­ро́­же­ное
+sin_ins: мо­ро́­же­ным
+sin_pre: мо­ро́­же­ном
+plu_nom: мо­ро́­же­ные
+plu_gen: мо­ро́­же­ных
+plu_dat: мо­ро́­же­ным
+plu_acc: мо­ро́­же­ные
+plu_ins: мо­ро́­же­ны­ми
+plu_pre: мо­ро́­же­ных
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,41 @@
+name: один
+name_ac: оди́н
+publ_id:
+wordcls: numeral
+translation:
+   - ein
+num_type: cardinal
+dec_type: adjective
+mas_nom: од­и́н
+mas_gen: од­но­го́
+mas_dat: од­но­му́
+mas_acc: од­и́н
+mas_ins: од­ни́м
+mas_pre: од­но́м
+fem_nom: од­на́
+fem_gen: од­но́й
+fem_dat: од­но́й
+fem_acc: од­ну́
+fem_ins: од­но́й
+fem_pre: од­но́й
+neu_nom: од­но́
+neu_gen: од­но­го́
+neu_dat: од­но­му́
+neu_acc: од­но́
+neu_ins: од­ни́м
+neu_pre: од­но́м
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: од­ни́
+plu_gen: од­ни́х
+plu_dat: од­ни́м
+plu_acc: од­ни́
+plu_ins: од­ни́­ми
+plu_pre: од­ни́х
+comment: männlich
+usage:
+etymol:

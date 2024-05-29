@@ -1,0 +1,40 @@
+name: бедный
+name_ac: бе́дный
+publ_id:
+wordcls: adjective
+translation:
+   - arm
+is_gradable: true
+mas_nom: бе́дный
+mas_gen: бе́д­но­го
+mas_dat: бе́д­но­му
+mas_acc: бе́дный
+mas_ins: бе́д­ным
+mas_pre: бе́д­ном
+fem_nom: бе́д­ная
+fem_gen: бе́д­ной
+fem_dat: бе́д­ной
+fem_acc: бе́д­ную
+fem_ins: бе́д­ной
+fem_pre: бе́д­ной
+neu_nom: бе́д­ное
+neu_gen: бе́д­но­го
+neu_dat: бе́д­но­му
+neu_acc: бе́д­ное
+neu_ins: бе́д­ным
+neu_pre: бе́д­ном
+plu_nom: бе́д­ные
+plu_gen: бе́д­ных
+plu_dat: бе́д­ным
+plu_acc: бе́д­ные
+plu_ins: бе́д­ны­ми
+plu_pre: бе́д­ных
+sho_mas: бе́­ден
+sho_fem: бед­на́
+sho_neu: бе́д­но
+sho_plu: бе́д­ны
+compara: бед­не́е
+superla: самый бе́дный
+comment:
+usage:
+etymol:

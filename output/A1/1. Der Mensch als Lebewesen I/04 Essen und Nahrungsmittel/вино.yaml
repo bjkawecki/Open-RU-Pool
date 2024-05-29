@@ -1,0 +1,29 @@
+wordcls: substantive
+name: вино
+name_ac: вино́
+publ_id:
+translation:
+   - Wein
+genus: neutral
+dec_cls: class_2
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: вино́
+sin_gen: ви­на́
+sin_dat: ви­ну́
+sin_acc: ви­но́
+sin_ins: ви­но́м
+sin_pre: ви­не́
+plu_nom: ви́­на
+plu_gen: вин
+plu_dat: ви́­нам
+plu_acc: ви́­на
+plu_ins: ви́­на­ми
+plu_pre: ви́­нах
+partitive:
+locative:
+comment:
+usage:
+etymol:

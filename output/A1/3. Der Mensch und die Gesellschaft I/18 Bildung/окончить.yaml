@@ -1,0 +1,43 @@
+name: окончить
+name_ac: око́нчить
+publ_id:
+wordcls: verb
+translation:
+   - abschließen
+   - absolvieren
+aspect: perfective
+partner: ока́нчивать
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: ок­о́н­чу
+fut_sin_2: ок­о́н­чишь
+fut_sin_3: ок­о́н­чит
+fut_plu_1: ок­о́н­чим
+fut_plu_2: ок­о́н­чи­те
+fut_plu_3: ок­о́н­чат
+pas_mas: ок­о́н­чил
+pas_fem: ок­о́н­чи­ла
+pas_neu: ок­о́н­чи­ло
+pas_plu: ок­о́н­чи­ли
+par_pre_act:
+par_pas_act: ок­о́н­чи­вший
+par_pre_pas:
+par_pas_pas: ок­о́н­чи­вши, ок­о́н­чив
+par_adv_pre:
+par_adv_pas: ок­о́н­чен­ный
+imp_sin: ок­о́н­чи
+imp_plu: ок­о́н­чи­те
+comment:
+usage:
+etymol:

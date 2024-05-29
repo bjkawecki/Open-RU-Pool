@@ -1,0 +1,29 @@
+wordcls: substantive
+name: стихи
+name_ac: стихи́
+publ_id:
+translation:
+   - Verse
+genus: none
+dec_cls: irregular
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan: true
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: сти́хи
+plu_gen: сти­хо́в
+plu_dat: сти­ха́м
+plu_acc: сти­хи́
+plu_ins: сти­ха́­ми
+plu_pre: сти­ха́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,42 @@
+name: понять
+name_ac: поня́ть
+publ_id:
+wordcls: verb
+translation:
+   - verstehen
+aspect: perfective
+partner: понима́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: пой­му́
+fut_sin_2: пой­мёшь
+fut_sin_3: пой­мёт
+fut_plu_1: пой­мём
+fut_plu_2: пой­мё­те
+fut_plu_3: пой­му́т
+pas_mas: по́­нял
+pas_fem: по­ня­ла́
+pas_neu: по́­ня­ло
+pas_plu: по́­ня­ли
+par_pre_act:
+par_pas_act: по­ня́в­ший
+par_pre_pas:
+par_pas_pas: по­ня́в­ши, по­ня́в
+par_adv_pre:
+par_adv_pas: по́­ня­тый
+imp_sin: пой­ми́
+imp_plu: пой­ми́­те
+comment:
+usage:
+etymol:

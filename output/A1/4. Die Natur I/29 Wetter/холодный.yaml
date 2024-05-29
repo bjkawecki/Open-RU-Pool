@@ -1,0 +1,40 @@
+name: холодный
+name_ac: холо́дный
+publ_id:
+wordcls: adjective
+translation:
+   - kalt
+is_gradable: true
+mas_nom: холо́дный
+mas_gen: хо­ло́д­но­го
+mas_dat: хо­ло́д­но­му
+mas_acc: хо́лодный
+mas_ins: хо­ло́д­ным
+mas_pre: хо­ло́д­ном
+fem_nom: хо­ло́д­ная
+fem_gen: хо­ло́д­ной
+fem_dat: хо­ло́д­ной
+fem_acc: хо­ло́д­ную
+fem_ins: хо­ло́д­ной
+fem_pre: хо­ло́д­ной
+neu_nom: хо­ло́д­ное
+neu_gen: хо­ло́д­но­го
+neu_dat: хо­ло́д­но­му
+neu_acc: хо­ло́д­ное
+neu_ins: хо­ло́д­ным
+neu_pre: хо­ло́д­ном
+plu_nom: хо­ло́д­ные
+plu_gen: хо­ло́д­ных
+plu_dat: хо­ло́д­ным
+plu_acc: хо­ло́д­ные
+plu_ins: хо­ло́д­ны­ми
+plu_pre: хо­ло́д­ных
+sho_mas: хо́­лод­ен
+sho_fem: хо­лод­на́
+sho_neu: хо́­лод­но
+sho_plu: хо̀­лод­ны́
+compara: хо­лод­не́е
+superla: самый хо́лодный
+comment:
+usage:
+etymol:

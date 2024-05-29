@@ -1,0 +1,42 @@
+name: дарить
+name_ac: дари́ть
+publ_id:
+wordcls: verb
+translation:
+   - schenken
+aspect: imperfective
+partner: подари́ть
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: accusative
+preposition:
+is_reflexive:
+pre_sin_1: да­рю́
+pre_sin_2: да́­ришь
+pre_sin_3: да́­рит
+pre_plu_1: да́­рим
+pre_plu_2: да́­ри­те
+pre_plu_3: да́­рят
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: да­ри́л
+pas_fem: да­ри́­ла
+pas_neu: да­ри́­ло
+pas_plu: да­ри́­ли
+par_pre_act: да­ря́­щий
+par_pas_act: да­ри́в­ший
+par_pre_pas: да­ря́
+par_pas_pas: да­ри́в­ши, да­ри́в
+par_adv_pre: да­ри́­мый
+par_adv_pas: да́­рен­ный
+imp_sin: да­ри́
+imp_plu: да­ри́­те
+comment:
+usage:
+etymol:

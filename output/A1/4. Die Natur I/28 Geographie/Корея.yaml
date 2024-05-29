@@ -1,0 +1,29 @@
+wordcls: substantive
+name: Корея
+name_ac: Коре́я
+publ_id:
+translation:
+   - Korea
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: Коре́я
+sin_gen: Коре́и
+sin_dat: Коре́е
+sin_acc: Коре́ю
+sin_ins: Коре́ей
+sin_pre: Коре́е
+plu_nom: Коре́и
+plu_gen: Коре́й
+plu_dat: Коре́ям
+plu_acc: Коре́и
+plu_ins: Коре́ями
+plu_pre: Коре́ях
+partitive:
+locative:
+comment:
+usage:
+etymol:

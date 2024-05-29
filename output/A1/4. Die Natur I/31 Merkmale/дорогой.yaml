@@ -1,0 +1,42 @@
+name: дорогой
+name_ac: дорого́й
+publ_id:
+wordcls: adjective
+translation:
+   - teuer
+   - lieb
+   - wert
+is_gradable: true
+mas_nom: дорого́й
+mas_gen: до­ро­го́­го
+mas_dat: до­ро­го́­му
+mas_acc: дорого́й
+mas_ins: до­рог­и́м
+mas_pre: до­рог­о́м
+fem_nom: до­ро­га́я
+fem_gen: до­ро­го́й
+fem_dat: до­ро­го́й
+fem_acc: до­ро­гу́ю
+fem_ins: до­ро­го́й
+fem_pre: до­ро­го́й
+neu_nom: до­ро­го́е
+neu_gen: до­ро­го́­го
+neu_dat: до­ро­го́­му
+neu_acc: до­ро­го́е
+neu_ins: до­рог­и́м
+neu_pre: до­рог­о́м
+plu_nom: до­ро­ги́е
+plu_gen: до­рог­и́х
+plu_dat: до­рог­и́м
+plu_acc: до­ро­ги́е
+plu_ins: до­ро­ги́­ми
+plu_pre: до­рог­и́х
+sho_mas: до́­рог
+sho_fem: до­ро­га́
+sho_neu: до́­ро­го
+sho_plu: до́­ро­ги
+compara: до­ро́­же
+superla: самый дорогой
+comment:
+usage:
+etymol:

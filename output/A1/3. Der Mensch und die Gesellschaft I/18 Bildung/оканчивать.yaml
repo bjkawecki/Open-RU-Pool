@@ -1,0 +1,43 @@
+name: оканчивать
+name_ac: ока́нчивать
+publ_id:
+wordcls: verb
+translation:
+   - abschließen
+   - absolvieren
+aspect: imperfective
+partner: око́нчить
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: ок­а́н­чи­ваю
+pre_sin_2: ок­а́н­чи­ва­ешь
+pre_sin_3: ок­а́н­чи­ва­ет
+pre_plu_1: ок­а́н­чи­ва­ем
+pre_plu_2: ок­а́н­чи­ва­ете
+pre_plu_3: ок­а́н­чи­ва­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: ок­а́н­чи­вал
+pas_fem: ок­а́н­чи­ва­ла
+pas_neu: ок­а́н­чи­ва­ло
+pas_plu: ок­а́н­чи­ва­ли
+par_pre_act: ок­а́н­чи­ва­ющий
+par_pas_act: ок­а́н­чи­вав­ший
+par_pre_pas: ок­а́н­чи­вая
+par_pas_pas: "ок­а́н­чи­вав­ши, ок­а́н­чи­вав\n"
+par_adv_pre: ок­а́н­чи­ва­емый
+par_adv_pas:
+imp_sin: ок­а́н­чи­вай
+imp_plu: ок­а́н­чи­вай­те
+comment:
+usage:
+etymol:

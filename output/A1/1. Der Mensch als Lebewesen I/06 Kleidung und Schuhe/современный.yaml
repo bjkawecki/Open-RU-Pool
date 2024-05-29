@@ -1,0 +1,42 @@
+name: современный
+name_ac: совреме́нный
+publ_id:
+wordcls: adjective
+translation:
+   - aktuell
+   - gegenwärtig
+   - zeitgenössisch
+is_gradable: true
+mas_nom: совреме́нный
+mas_gen: сов­ре­ме́н­но­го
+mas_dat: сов­ре­ме́н­но­му
+mas_acc: сов­ре­ме́н­ный
+mas_ins: сов­ре­ме́н­ным
+mas_pre: сов­ре­ме́н­ном
+fem_nom: сов­ре­ме́н­ная
+fem_gen: сов­ре­ме́н­ной
+fem_dat: сов­ре­ме́н­ной
+fem_acc: сов­ре­ме́н­ную
+fem_ins: сов­ре­ме́н­ной
+fem_pre: сов­ре­ме́н­ной
+neu_nom: сов­ре­ме́н­ное
+neu_gen: сов­ре­ме́н­но­го
+neu_dat: сов­ре­ме́н­но­му
+neu_acc: сов­ре­ме́н­ное
+neu_ins: сов­ре­ме́н­ным
+neu_pre: сов­ре­ме́н­ном
+plu_nom: сов­ре­ме́н­ные
+plu_gen: сов­ре­ме́н­ных
+plu_dat: сов­ре­ме́н­ным
+plu_acc: сов­ре­ме́н­ные
+plu_ins: сов­ре­ме́н­ны­ми
+plu_pre: сов­ре­ме́н­ных
+sho_mas: сов­ре­ме́н­ен
+sho_fem: сов­ре­ме́н­на
+sho_neu: сов­ре­ме́н­но
+sho_plu: сов­ре­ме́н­ны
+compara: сов­ре­ме́н­нее
+superla: самый совреме́нный
+comment:
+usage:
+etymol:

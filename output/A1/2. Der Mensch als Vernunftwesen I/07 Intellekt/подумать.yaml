@@ -1,0 +1,43 @@
+name: подумать
+name_ac: поду́мать
+publ_id:
+wordcls: verb
+translation:
+   - denken
+   - nachdenken
+aspect: perfective
+partner: ду́мать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: по­ду́­маю
+fut_sin_2: по­ду́­ма­ешь
+fut_sin_3: по­ду́­ма­ет
+fut_plu_1: по­ду́­ма­ем
+fut_plu_2: по­ду́­ма­ете
+fut_plu_3: по­ду́­ма­ют
+pas_mas: по­ду́м­ал
+pas_fem: по­ду́­ма­ла
+pas_neu: по­ду́­ма­ло
+pas_plu: по­ду́­ма­ли
+par_pre_act:
+par_pas_act: по­ду́м­ав­ший
+par_pre_pas:
+par_pas_pas: по­ду́м­ав­ши, по­ду́м­ав
+par_adv_pre:
+par_adv_pas:
+imp_sin: по­ду́­май
+imp_plu: по­ду́­май­те
+comment:
+usage:
+etymol:

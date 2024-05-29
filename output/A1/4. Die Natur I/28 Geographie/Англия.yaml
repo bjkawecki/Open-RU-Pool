@@ -1,0 +1,29 @@
+wordcls: substantive
+name: Англия
+name_ac: А́нглия
+publ_id:
+translation:
+   - England
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: А́нглия
+sin_gen: А́нглии
+sin_dat: А́нглии
+sin_acc: А́нглию
+sin_ins: А́нглией
+sin_pre: А́нглии
+plu_nom: А́нглии
+plu_gen: А́нглий
+plu_dat: А́нглиям
+plu_acc: А́нглии
+plu_ins: А́нглиями
+plu_pre: А́нглиях
+partitive:
+locative:
+comment:
+usage:
+etymol:

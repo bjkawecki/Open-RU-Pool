@@ -1,0 +1,29 @@
+wordcls: substantive
+name: мама
+name_ac: ма́ма
+publ_id:
+translation:
+   - Mama
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: ма́ма
+sin_gen: ма́­мы
+sin_dat: ма́­ме
+sin_acc: ма́­му
+sin_ins: ма́­мой
+sin_pre: ма́­ме
+plu_nom: ма́­мы
+plu_gen: мам
+plu_dat: ма́­мам
+plu_acc: мам
+plu_ins: ма́­ма­ми
+plu_pre: ма́­мах
+partitive:
+locative:
+comment:
+usage:
+etymol:

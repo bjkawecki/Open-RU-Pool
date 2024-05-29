@@ -1,0 +1,40 @@
+name: лёгкий
+name_ac: лёгкий
+publ_id:
+wordcls: adjective
+translation:
+   - leicht
+is_gradable: true
+mas_nom: лёгкий
+mas_gen: лёгкого
+mas_dat: лёгкому
+mas_acc: лёгкий
+mas_ins: лёгким
+mas_pre: лёгком
+fem_nom: лёгкая
+fem_gen: лёгкой
+fem_dat: лёгкой
+fem_acc: лёгкую
+fem_ins: лёгкой
+fem_pre: лёгкой
+neu_nom: лёгкое
+neu_gen: лёгкого
+neu_dat: лёгкому
+neu_acc: лёгкое
+neu_ins: лёгким
+neu_pre: лёгком
+plu_nom: лёгкие
+plu_gen: лёгких
+plu_dat: лёгким
+plu_acc: лёгкие
+plu_ins: лёгкими
+plu_pre: лёгких
+sho_mas: лёгок
+sho_fem: легка
+sho_neu: легко
+sho_plu: легки
+compara: легче
+superla: самый лёгкий
+comment:
+usage:
+etymol:

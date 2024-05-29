@@ -1,0 +1,29 @@
+wordcls: substantive
+name: теннис
+name_ac: те́ннис
+publ_id:
+translation:
+   - Tennis
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: те́ннис
+sin_gen: те́н­ни­са
+sin_dat: те́н­ни­су
+sin_acc: те́н­нис
+sin_ins: те́н­ни­сом
+sin_pre: те́н­ни­се
+plu_nom: те́н­ни­сы
+plu_gen: те́н­ни­сов
+plu_dat: те́н­ни­сам
+plu_acc: те́н­ни­сы
+plu_ins: те́н­ни­са­ми
+plu_pre: те́н­ни­сах
+partitive:
+locative:
+comment:
+usage:
+etymol:

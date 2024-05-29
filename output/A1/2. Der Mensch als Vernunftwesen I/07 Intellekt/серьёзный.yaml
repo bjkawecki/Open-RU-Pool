@@ -1,0 +1,41 @@
+name: серьёзный
+name_ac: серьёзный
+publ_id:
+wordcls: adjective
+translation:
+   - ernst
+   - seriös
+is_gradable: true
+mas_nom: серьёзный
+mas_gen: серь­ёз­но­го
+mas_dat: серь­ёз­но­му
+mas_acc: серь­ёз­ный
+mas_ins: серь­ёз­ным
+mas_pre: серь­ёз­ном
+fem_nom: серь­ёз­ная
+fem_gen: серь­ёз­ной
+fem_dat: серь­ёз­ной
+fem_acc: серь­ёз­ную
+fem_ins: серь­ёз­ной
+fem_pre: серь­ёз­ной
+neu_nom: серь­ёз­ное
+neu_gen: серь­ёз­но­го
+neu_dat: серь­ёз­но­му
+neu_acc: серь­ёз­ное
+neu_ins: серь­ёз­ным
+neu_pre: серь­ёз­ном
+plu_nom: серь­ёз­ные
+plu_gen: серь­ёз­ных
+plu_dat: серь­ёз­ным
+plu_acc: серь­ёз­ные
+plu_ins: серь­ёз­ны­ми
+plu_pre: серь­ёз­ных
+sho_mas: серь­ёз­ен
+sho_fem: серь­ёз­на
+sho_neu: серь­ёз­но
+sho_plu: серь­ёз­ны
+compara: серь­ёз­нее
+superla: самый серьёзный
+comment:
+usage:
+etymol:

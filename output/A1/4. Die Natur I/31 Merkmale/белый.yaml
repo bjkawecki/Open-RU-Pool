@@ -1,0 +1,40 @@
+name: белый
+name_ac: бе́лый
+publ_id:
+wordcls: adjective
+translation:
+   - weiß
+is_gradable: true
+mas_nom: бе́лый
+mas_gen: бе́­ло­го
+mas_dat: бе́­ло­му
+mas_acc: бе́лый
+mas_ins: бе́­лым
+mas_pre: бе́­лом
+fem_nom: бе́­лая
+fem_gen: бе́­лой
+fem_dat: бе́­лой
+fem_acc: бе́­лую
+fem_ins: бе́­лой
+fem_pre: бе́­лой
+neu_nom: бе́­лое
+neu_gen: бе́­ло­го
+neu_dat: бе́­ло­му
+neu_acc: бе́­лое
+neu_ins: бе́­лым
+neu_pre: бе́­лом
+plu_nom: бе́­лые
+plu_gen: бе́­лых
+plu_dat: бе́­лым
+plu_acc: бе́­лые
+plu_ins: бе́­лыми
+plu_pre: бе́­лых
+sho_mas: бел
+sho_fem: бе­ла́
+sho_neu: бе́­ло
+sho_plu: бе́­лы
+compara: бе­ле́е
+superla: самый бе́лый
+comment:
+usage:
+etymol:

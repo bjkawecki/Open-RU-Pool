@@ -1,0 +1,29 @@
+wordcls: substantive
+name: фраза
+name_ac: фра́за
+publ_id:
+translation:
+   - Phrase
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: фра́за
+sin_gen: фра́­зы
+sin_dat: фра́­зе
+sin_acc: фра́­зу
+sin_ins: фра́­зой
+sin_pre: фра́­зе
+plu_nom: фра́­зы
+plu_gen: фраз
+plu_dat: фра́­зам
+plu_acc: фра́­зы
+plu_ins: фра́­за­ми
+plu_pre: фра́­зах
+partitive:
+locative:
+comment:
+usage:
+etymol:

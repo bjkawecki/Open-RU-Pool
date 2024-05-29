@@ -1,0 +1,42 @@
+name: называться
+name_ac: называ́ться
+publ_id:
+wordcls: verb
+translation:
+   - heißen
+aspect: imperfective
+partner: назва́ться
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive: true
+pre_sin_1: на­зы­ва́­юсь
+pre_sin_2: на­зы­ва́­ешь­ся
+pre_sin_3: на­зы­ва́­ет­ся
+pre_plu_1: на­зы­ва́­ем­ся
+pre_plu_2: на­зы­ва́­ет­есь
+pre_plu_3: на­зы­ва́­ют­ся
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: на­зыв­а́л­ся
+pas_fem: на­зы­ва́­лась
+pas_neu: на­зы­ва́­лось
+pas_plu: на­зы­ва́­лись
+par_pre_act: на­зы­ва́­ющий­ся
+par_pas_act: на­зыв­а́в­ший­ся
+par_pre_pas: на­зы­ва́­ясь
+par_pas_pas: на­зыв­а́в­шись
+par_adv_pre:
+par_adv_pas:
+imp_sin: на­зы­ва́й­ся
+imp_plu: на­зы­ва́й­тесь
+comment:
+usage:
+etymol:

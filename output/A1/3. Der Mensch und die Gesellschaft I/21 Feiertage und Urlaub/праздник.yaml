@@ -1,0 +1,30 @@
+wordcls: substantive
+name: праздник
+name_ac: пра́здник
+publ_id:
+translation:
+   - Feiertag
+   - Feier
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: пра́здник
+sin_gen: пра́зд­ни­ка
+sin_dat: пра́зд­ни­ку
+sin_acc: пра́зд­ник
+sin_ins: пра́зд­ни­ком
+sin_pre: пра́зд­ни­ке
+plu_nom: пра́зд­ни­ки
+plu_gen: пра́зд­ни­ков
+plu_dat: пра́зд­ни­кам
+plu_acc: пра́зд­ни­ки
+plu_ins: пра́зд­ни­ка­ми
+plu_pre: пра́зд­ни­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

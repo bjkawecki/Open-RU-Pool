@@ -1,0 +1,42 @@
+name: ужинать
+name_ac: у́жинать
+publ_id:
+wordcls: verb
+translation:
+   - zu Abend essen
+aspect: imperfective
+partner: поу́жинать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: у́жи­наю
+pre_sin_2: у́жи­на­ешь
+pre_sin_3: у́жи­на­ет
+pre_plu_1: у́жи­на­ем
+pre_plu_2: у́жи­на­ете
+pre_plu_3: у́жи­на­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: у́жи­нал
+pas_fem: у́жи­на­ла
+pas_neu: у́жи­на­ло
+pas_plu: у́жи­на­ли
+par_pre_act: у́жи­на­ющий
+par_pas_act: у́жи­нав­ший
+par_pre_pas: у́жи­ная
+par_pas_pas: у́жи­нав­ши, у́жи­нав
+par_adv_pre:
+par_adv_pas:
+imp_sin: у́жи­най
+imp_plu: у́жи­най­те
+comment:
+usage:
+etymol:

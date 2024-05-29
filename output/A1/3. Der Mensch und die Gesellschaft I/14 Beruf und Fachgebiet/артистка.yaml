@@ -1,0 +1,29 @@
+wordcls: substantive
+name: артистка
+name_ac: арти́стка
+publ_id:
+translation:
+   - Künstlerin
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: арти́стка
+sin_gen: ар­ти́ст­ки
+sin_dat: ар­ти́ст­ке
+sin_acc: ар­ти́ст­ку
+sin_ins: ар­ти́ст­кой
+sin_pre: ар­ти́ст­ке
+plu_nom: ар­ти́ст­ки
+plu_gen: ар­ти́­сток
+plu_dat: ар­ти́ст­кам
+plu_acc: ар­ти́­сток
+plu_ins: ар­ти́ст­ка­ми
+plu_pre: ар­ти́ст­ках
+partitive:
+locative:
+comment: Künstlerin, die vor Publikum auftritt
+usage:
+etymol:

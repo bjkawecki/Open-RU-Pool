@@ -1,0 +1,30 @@
+wordcls: substantive
+name: чайник
+name_ac: ча́йник
+publ_id:
+translation:
+   - Wasserkocher
+   - Teekessel
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: чайник
+sin_gen: ча́й­ни­ка
+sin_dat: ча́й­ни­ку
+sin_acc: ча́й­ник
+sin_ins: ча́й­ни­ком
+sin_pre: ча́й­ни­ке
+plu_nom: ча́й­ни­ки
+plu_gen: ча́й­ни­ков
+plu_dat: ча́й­ни­кам
+plu_acc: ча́й­ни­ки
+plu_ins: ча́й­ни­ка­ми
+plu_pre: ча́й­ни­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: выставка
+name_ac: вы́ставка
+publ_id:
+translation:
+   - Ausstellung
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: вы́ставка
+sin_gen: вы́с­та­вки
+sin_dat: вы́с­та­вке
+sin_acc: вы́с­та­вку
+sin_ins: вы́с­та­вкой
+sin_pre: вы́с­та­вке
+plu_nom: вы́с­та­вки
+plu_gen: вы́с­та­вок
+plu_dat: вы́с­та­вкам
+plu_acc: вы́с­та­вки
+plu_ins: вы́с­та­вка­ми
+plu_pre: вы́с­та­вках
+partitive:
+locative:
+comment:
+usage:
+etymol:

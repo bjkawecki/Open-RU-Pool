@@ -1,0 +1,40 @@
+name: весёлый
+name_ac: весёлый
+publ_id:
+wordcls: adjective
+translation:
+   - fröhlich
+is_gradable: true
+mas_nom: весёлый
+mas_gen: ве­сё­ло­го
+mas_dat: ве­сё­ло­му
+mas_acc: ве­сё­лый
+mas_ins: ве­сёл­ым
+mas_pre: ве­сёл­ом
+fem_nom: ве­сё­лая
+fem_gen: ве­сё­лой
+fem_dat: ве­сё­лой
+fem_acc: ве­сё­лую
+fem_ins: ве­сё­лой
+fem_pre: ве­сё­лой
+neu_nom: ве­сё­лое
+neu_gen: ве­сё­ло­го
+neu_dat: ве­сё­ло­му
+neu_acc: ве­сё­лое
+neu_ins: ве­сёл­ым
+neu_pre: ве­сёл­ом
+plu_nom: ве­сё­лые
+plu_gen: ве­сёл­ых
+plu_dat: ве­сёл­ым
+plu_acc: ве­сё­лые
+plu_ins: ве­сё­лы­ми
+plu_pre: ве­сёл­ых
+sho_mas: ве́­сел
+sho_fem: ве­се­ла́
+sho_neu: ве́­се­ло
+sho_plu: ве́­се­лы
+compara: ве­се­ле́е
+superla: самый весёлый
+comment:
+usage:
+etymol:

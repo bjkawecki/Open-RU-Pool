@@ -1,0 +1,42 @@
+name: стать
+name_ac: стать
+publ_id:
+wordcls: verb
+translation:
+   - werden
+aspect: perfective
+partner: станови́ться
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: ста́­ну
+fut_sin_2: ста́­нешь
+fut_sin_3: ста́­нет
+fut_plu_1: ста́­нем
+fut_plu_2: ста́­не­те
+fut_plu_3: ста́­нут
+pas_mas: стал
+pas_fem: ста́­ла
+pas_neu: ста́­ло
+pas_plu: ста́­ли
+par_pre_act:
+par_pas_act: ста́в­ший
+par_pre_pas:
+par_pas_pas: ста́в­ши, ста́в
+par_adv_pre:
+par_adv_pas:
+imp_sin: стань
+imp_plu: ста́нь­те
+comment:
+usage:
+etymol:

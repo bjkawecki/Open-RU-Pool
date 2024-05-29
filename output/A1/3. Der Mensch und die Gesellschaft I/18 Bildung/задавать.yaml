@@ -1,0 +1,42 @@
+name: задавать
+name_ac: задава́ть
+publ_id:
+wordcls: verb
+translation:
+   - aufgeben
+aspect: imperfective
+partner: зада́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: accusative
+preposition:
+is_reflexive:
+pre_sin_1: за­даю́
+pre_sin_2: за­да­ёшь
+pre_sin_3: за­да­ёт
+pre_plu_1: за­да­ём
+pre_plu_2: за­да­ёте
+pre_plu_3: за­да­ю́т
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: за­дав­а́л
+pas_fem: за­да­ва́­ла
+pas_neu: за­да­ва́­ло
+pas_plu: за­да­ва́­ли
+par_pre_act: за­да­ю́щий
+par_pas_act: за­дав­а́в­ший
+par_pre_pas: за­да­ва́я
+par_pas_pas: за­дав­а́в­ши, за­дав­а́в
+par_adv_pre: за­да­ва́­емый
+par_adv_pas:
+imp_sin: за­да­ва́й
+imp_plu: за­да­ва́й­те
+comment:
+usage:
+etymol:

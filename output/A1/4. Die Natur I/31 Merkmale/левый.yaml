@@ -1,0 +1,40 @@
+name: левый
+name_ac: ле́вый
+publ_id:
+wordcls: adjective
+translation:
+   - linker
+is_gradable: true
+mas_nom: ле́вый
+mas_gen: ле́­во­го
+mas_dat: ле́­во­му
+mas_acc: ле́вый
+mas_ins: ле́­вым
+mas_pre: ле́­вом
+fem_nom: ле́­вая
+fem_gen: ле́­вой
+fem_dat: ле́­вой
+fem_acc: ле́­вую
+fem_ins: ле́­вой
+fem_pre: ле́­вой
+neu_nom: ле́­вое
+neu_gen: ле́­во­го
+neu_dat: ле́­во­му
+neu_acc: ле́­вое
+neu_ins: ле́­вым
+neu_pre: ле́­вом
+plu_nom: ле́­вые
+plu_gen: ле́­вых
+plu_dat: ле́­вым
+plu_acc: ле́­вые
+plu_ins: ле́­вы­ми
+plu_pre: ле́­вых
+sho_mas: лев
+sho_fem: ле́­ва
+sho_neu: ле́­во
+sho_plu: ле́­вы
+compara: ле­ве́е
+superla: самый ле́вый
+comment:
+usage:
+etymol:

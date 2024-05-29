@@ -1,0 +1,43 @@
+name: получить
+name_ac: получи́ть
+publ_id:
+wordcls: verb
+translation:
+   - erhalten
+   - bekommen
+aspect: perfective
+partner: получа́ть
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: по­лу­чу́
+fut_sin_2: по­лу́ч­ишь
+fut_sin_3: по­лу́ч­ит
+fut_plu_1: по­лу́ч­им
+fut_plu_2: по­лу́­чи­те
+fut_plu_3: по­лу́ч­ат
+pas_mas: по­луч­и́л
+pas_fem: по­лу­чи́­ла
+pas_neu: по­лу­чи́­ло
+pas_plu: по­лу­чи́­ли
+par_pre_act:
+par_pas_act: по­луч­и́в­ший
+par_pre_pas:
+par_pas_pas: по­луч­и́в­ши, по­луч­и́в
+par_adv_pre:
+par_adv_pas: по­лу́ч­ен­ный
+imp_sin: по­лу­чи́
+imp_plu: по­лу­чи́­те
+comment:
+usage:
+etymol:

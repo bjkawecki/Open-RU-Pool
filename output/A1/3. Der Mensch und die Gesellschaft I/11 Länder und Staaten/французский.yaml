@@ -1,0 +1,40 @@
+name: французский
+name_ac: францу́зский
+publ_id:
+wordcls: adjective
+translation:
+   - französisch
+is_gradable:
+mas_nom: францу́зский
+mas_gen: фран­цу́зс­ко­го
+mas_dat: фран­цу́зс­ко­му
+mas_acc: францу́зский
+mas_ins: фран­цу́зс­ким
+mas_pre: фран­цу́зс­ком
+fem_nom: фран­цу́зс­кая
+fem_gen: фран­цу́зс­кой
+fem_dat: фран­цу́зс­кой
+fem_acc: фран­цу́зс­кую
+fem_ins: фран­цу́зс­кой
+fem_pre: фран­цу́зс­кой
+neu_nom: фран­цу́зс­кое
+neu_gen: фран­цу́зс­ко­го
+neu_dat: фран­цу́зс­ко­му
+neu_acc: фран­цу́зс­кое
+neu_ins: фран­цу́зс­ким
+neu_pre: фран­цу́зс­ком
+plu_nom: фран­цу́зс­кие
+plu_gen: фран­цу́зс­ких
+plu_dat: фран­цу́зс­ким
+plu_acc: фран­цу́зс­кие
+plu_ins: фран­цу́зс­ки­ми
+plu_pre: фран­цу́зс­ких
+sho_mas:
+sho_fem:
+sho_neu:
+sho_plu:
+compara:
+superla:
+comment:
+usage:
+etymol:

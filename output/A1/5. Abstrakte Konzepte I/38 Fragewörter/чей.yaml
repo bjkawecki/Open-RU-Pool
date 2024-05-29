@@ -1,0 +1,41 @@
+name: чей
+name_ac: чей
+publ_id:
+wordcls: pronoun
+translation:
+   - wessen
+pro_type: interrogative
+dec_type: '1'
+mas_nom: чей
+mas_gen: чь­его́
+mas_dat: чь­ему́
+mas_acc: чей
+mas_ins: чь­им
+mas_pre: чь­ём
+fem_nom: чья
+fem_gen: чь­ей
+fem_dat: чь­ей
+fem_acc: чью
+fem_ins: чь­ей
+fem_pre: чь­ей
+neu_nom: чьё
+neu_gen: чь­его́
+neu_dat: чь­ему́
+neu_acc: чьё
+neu_ins: чь­им
+neu_pre: чь­ём
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: чьи
+plu_gen: чь­их
+plu_dat: чь­им
+plu_acc: чьи
+plu_ins: чь­и́ми
+plu_pre: чь­их
+comment:
+usage:
+etymol:

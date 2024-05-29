@@ -1,0 +1,29 @@
+wordcls: substantive
+name: книга
+name_ac: кни́га
+publ_id:
+translation:
+   - Buch
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: кни́га
+sin_gen: кни́­ги
+sin_dat: кни́­ге
+sin_acc: кни́­гу
+sin_ins: кни́­гой
+sin_pre: кни́­ге
+plu_nom: кни́­ги
+plu_gen: книг
+plu_dat: кни́­гам
+plu_acc: кни́­ги
+plu_ins: кни́­га­ми
+plu_pre: кни́­гах
+partitive:
+locative:
+comment:
+usage:
+etymol:

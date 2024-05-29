@@ -1,0 +1,29 @@
+wordcls: substantive
+name: игра
+name_ac: игра
+publ_id:
+translation:
+   - Spiel
+genus: feminine
+dec_cls: class_1
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: игра
+sin_gen: иг­ры́
+sin_dat: иг­ре́
+sin_acc: иг­ру́
+sin_ins: иг­ро́й
+sin_pre: иг­ре́
+plu_nom: и́г­ры
+plu_gen: игр
+plu_dat: и́г­рам
+plu_acc: и́г­ры
+plu_ins: и́г­ра­ми
+plu_pre: и́г­рах
+partitive:
+locative:
+comment:
+usage:
+etymol:

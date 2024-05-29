@@ -1,0 +1,29 @@
+wordcls: substantive
+name: преподавательница
+name_ac: преподава́тельница
+publ_id:
+translation:
+   - Lehrerin
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: преподава́тельница
+sin_gen: пре­по­да­ва́т­ель­ни­цы
+sin_dat: пре­по­да­ва́т­ель­ни­це
+sin_acc: пре­по­да­ва́т­ель­ни­цу
+sin_ins: пре­по­да­ва́т­ель­ни­цей
+sin_pre: пре­по­да­ва́т­ель­ни­це
+plu_nom: пре­по­да­ва́т­ель­ни­цы
+plu_gen: пре­по­да­ва́т­ель­ниц
+plu_dat: пре­по­да­ва́т­ель­ни­цам
+plu_acc: пре­по­да­ва́т­ель­ниц
+plu_ins: пре­по­да­ва́т­ель­ни­ца­ми
+plu_pre: пре­по­да­ва́т­ель­ни­цах
+partitive:
+locative:
+comment: allgemein
+usage:
+etymol:

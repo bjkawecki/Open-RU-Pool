@@ -1,0 +1,31 @@
+wordcls: substantive
+name: девушка
+name_ac: де́вушка
+publ_id:
+translation:
+   - junge Frau
+   - Fräulein
+   - Freundin
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: де́вушка
+sin_gen: де́­вуш­ки
+sin_dat: де́­вуш­ке
+sin_acc: де́­вуш­ку
+sin_ins: де́­вуш­кой
+sin_pre: де́­вуш­ке
+plu_nom: де́­вуш­ки
+plu_gen: де́­вуш­ек
+plu_dat: де́­вуш­кам
+plu_acc: де́­вуш­ек
+plu_ins: де́­вуш­ка­ми
+plu_pre: де́­вуш­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

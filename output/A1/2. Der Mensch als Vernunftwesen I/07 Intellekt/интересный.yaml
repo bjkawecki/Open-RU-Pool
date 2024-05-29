@@ -1,0 +1,40 @@
+name: интересный
+name_ac: интере́сный
+publ_id:
+wordcls: adjective
+translation:
+   - interessant
+is_gradable: true
+mas_nom: интере́сный
+mas_gen: ин­те­ре́с­но­го
+mas_dat: ин­те­ре́с­но­му
+mas_acc: интере́сный
+mas_ins: ин­те­ре́с­ным
+mas_pre: ин­те­ре́с­ном
+fem_nom: ин­те­ре́с­ная
+fem_gen: ин­те­ре́с­ной
+fem_dat: ин­те­ре́с­ной
+fem_acc: ин­те­ре́с­ную
+fem_ins: ин­те­ре́с­ной
+fem_pre: ин­те­ре́с­ной
+neu_nom: ин­те­ре́с­ное
+neu_gen: ин­те­ре́с­но­го
+neu_dat: ин­те­ре́с­но­му
+neu_acc: ин­те­ре́с­ное
+neu_ins: ин­те­ре́с­ным
+neu_pre: ин­те­ре́с­ном
+plu_nom: ин­те­ре́с­ные
+plu_gen: ин­те­ре́с­ных
+plu_dat: ин­те­ре́с­ным
+plu_acc: ин­те­ре́с­ные
+plu_ins: ин­те­ре́с­ны­ми
+plu_pre: ин­те­ре́с­ных
+sho_mas: ин­те­ре́с­ен
+sho_fem: ин­те­ре́с­на
+sho_neu: ин­те­ре́с­но
+sho_plu: ин­те­ре́с­ны
+compara: ин­те­ре́с­нее
+superla: самый интере́сный
+comment:
+usage:
+etymol:

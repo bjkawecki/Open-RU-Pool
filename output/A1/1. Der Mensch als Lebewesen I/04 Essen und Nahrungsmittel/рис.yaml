@@ -1,0 +1,29 @@
+wordcls: substantive
+name: рис
+name_ac: рис
+publ_id:
+translation:
+   - Reis
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: рис
+sin_gen: ри́­са
+sin_dat: ри́­су
+sin_acc: рис
+sin_ins: ри́­сом
+sin_pre: ри́­се
+plu_nom: ри́­сы
+plu_gen: ри́­сов
+plu_dat: ри́­сам
+plu_acc: ри́­сы
+plu_ins: ри́­са­ми
+plu_pre: ри́­сах
+partitive: ри́­су
+locative:
+comment:
+usage:
+etymol:

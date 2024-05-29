@@ -1,0 +1,29 @@
+wordcls: substantive
+name: балет
+name_ac: бале́т
+publ_id:
+translation:
+   - Balett
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: бале́т
+sin_gen: ба­ле́­та
+sin_dat: ба­ле́­ту
+sin_acc: ба­ле́т
+sin_ins: ба­ле́т­ом
+sin_pre: ба­ле́­те
+plu_nom: ба­ле́­ты
+plu_gen: ба­ле́т­ов
+plu_dat: ба­ле́т­ам
+plu_acc: ба­ле́­ты
+plu_ins: ба­ле́­та­ми
+plu_pre: ба­ле́т­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

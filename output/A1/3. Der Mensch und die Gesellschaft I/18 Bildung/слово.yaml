@@ -1,0 +1,29 @@
+wordcls: substantive
+name: слово
+name_ac: сло́во
+publ_id:
+translation:
+   - Wort
+genus: neutral
+dec_cls: class_2
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: сло́во
+sin_gen: сло́­ва
+sin_dat: сло́­ву
+sin_acc: сло́­во
+sin_ins: сло́­вом
+sin_pre: сло́­ве
+plu_nom: сло­ва́
+plu_gen: слов
+plu_dat: сло­ва́м
+plu_acc: сло­ва́
+plu_ins: сло­ва́­ми
+plu_pre: сло­ва́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

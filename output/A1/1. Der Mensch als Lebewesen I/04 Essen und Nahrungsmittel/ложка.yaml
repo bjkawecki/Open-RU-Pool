@@ -1,0 +1,29 @@
+wordcls: substantive
+name: ложка
+name_ac: ло́жка
+publ_id:
+translation:
+   - Löffel
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ло́жка
+sin_gen: ло́ж­ки
+sin_dat: ло́ж­ке
+sin_acc: ло́ж­ку
+sin_ins: ло́ж­кой
+sin_pre: ло́ж­ке
+plu_nom: ло́ж­ки
+plu_gen: ло́­жек
+plu_dat: ло́ж­кам
+plu_acc: ло́ж­ки
+plu_ins: ло́ж­ка­ми
+plu_pre: ло́ж­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,45 @@
+name: хотеть
+name_ac: хоте́ть
+publ_id:
+wordcls: verb
+translation:
+   - wollen
+   - möchten
+   - wünschen
+   - zu etwas Lust haben
+aspect: imperfective
+partner: захоте́ть
+conjugation:
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: хо­чу́
+pre_sin_2: хо́­чешь
+pre_sin_3: хо́­чет
+pre_plu_1: хо­ти́м
+pre_plu_2: хо­ти́­те
+pre_plu_3: хо­тя́т
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: хо­те́л
+pas_fem: хо­те́­ла
+pas_neu: хо­те́­ло
+pas_plu: хо­те́­ли
+par_pre_act: хо­тя́­щий
+par_pas_act: хо­те́в­ший
+par_pre_pas: хо­тя́
+par_pas_pas: хо­те́в­ши, хо­те́в
+par_adv_pre:
+par_adv_pas:
+imp_sin: хо­ти́
+imp_plu: хо­ти́­те
+comment:
+usage:
+etymol:

@@ -1,0 +1,41 @@
+name: какой
+name_ac: како́й
+publ_id:
+wordcls: pronoun
+translation:
+   - welcher
+pro_type: interrogative
+dec_type: '1'
+mas_nom: ка­ко́й
+mas_gen: ка­ко́­го
+mas_dat: ка­ко́­му
+mas_acc: ка­ко́й
+mas_ins: ка­ки́м
+mas_pre: ка­ко́м
+fem_nom: ка­ка́я
+fem_gen: ка­ко́й
+fem_dat: ка­ко́й
+fem_acc: ка­ку́ю
+fem_ins: ка­ко́й
+fem_pre: ка­ко́й
+neu_nom: ка­ко́е
+neu_gen: ка­ко́­го
+neu_dat: ка­ко́­му
+neu_acc: ка­ко́е
+neu_ins: ка­ки́м
+neu_pre: ка­ко́м
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: ка­ки́е
+plu_gen: ка­ки́х
+plu_dat: ка­ки́м
+plu_acc: ка­ки́е
+plu_ins: ка­ки́­ми
+plu_pre: ка­ки́х
+comment:
+usage:
+etymol:

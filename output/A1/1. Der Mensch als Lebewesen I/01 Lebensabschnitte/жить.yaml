@@ -1,0 +1,42 @@
+name: жить
+name_ac: жить
+publ_id:
+wordcls: verb
+translation:
+   - leben
+aspect: imperfective
+partner: прожи́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: жи­ву́
+pre_sin_2: жи­вёшь
+pre_sin_3: жи­вёт
+pre_plu_1: жи­вём
+pre_plu_2: жи­вё­те
+pre_plu_3: жи­ву́т
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: жил
+pas_fem: жи­ла́
+pas_neu: жи́­ло
+pas_plu: жи́­ли
+par_pre_act: жи­ву́­щий
+par_pas_act: жи́в­ший
+par_pre_pas: жи­вя́
+par_pas_pas: жи́в­ши, жи́в
+par_adv_pre:
+par_adv_pas:
+imp_sin: жи­ви́
+imp_plu: жи­ви́­те
+comment:
+usage:
+etymol:

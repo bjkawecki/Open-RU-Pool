@@ -1,0 +1,42 @@
+name: завтракать
+name_ac: за́втракать
+publ_id:
+wordcls: verb
+translation:
+   - frühstücken
+aspect: imperfective
+partner: поза́втракать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: accusative
+preposition:
+is_reflexive:
+pre_sin_1: за́вт­ра­каю
+pre_sin_2: за́вт­ра­ка­ешь
+pre_sin_3: за́вт­ра­ка­ет
+pre_plu_1: за́вт­ра­ка­ем
+pre_plu_2: за́вт­ра­ка­ете
+pre_plu_3: за́вт­ра­ка­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: за́вт­ра­кал
+pas_fem: за́вт­ра­ка­ла
+pas_neu: за́вт­ра­ка­ло
+pas_plu: за́вт­ра­ка­ли
+par_pre_act: за́вт­ра­ка­ющий
+par_pas_act: за́вт­ра­кав­ший
+par_pre_pas: за́вт­ра­кая
+par_pas_pas: за́вт­ра­кав­ши, за́вт­ра­кав
+par_adv_pre:
+par_adv_pas:
+imp_sin: за́вт­ра­кай
+imp_plu: за́вт­ра­кай­те
+comment:
+usage:
+etymol:

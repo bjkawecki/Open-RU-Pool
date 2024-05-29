@@ -1,0 +1,41 @@
+name: тысяча
+name_ac: ты́сяча
+publ_id:
+wordcls: numeral
+translation:
+   - tausend
+num_type: cardinal
+dec_type: substantive
+mas_nom:
+mas_gen:
+mas_dat:
+mas_acc:
+mas_ins:
+mas_pre:
+fem_nom:
+fem_gen:
+fem_dat:
+fem_acc:
+fem_ins:
+fem_pre:
+neu_nom:
+neu_gen:
+neu_dat:
+neu_acc:
+neu_ins:
+neu_pre:
+sin_nom: ты́­ся­ча
+sin_gen: ты́­ся­чи
+sin_dat: ты́­ся­че
+sin_acc: ты́­ся­чу
+sin_ins: ты́­ся­чей, ты́­ся­чею
+sin_pre: ты́­ся­че
+plu_nom: ты́­ся­чи
+plu_gen: ты́­сяч
+plu_dat: ты́­сяч­ам
+plu_acc: ты́­ся­чи
+plu_ins: ты́­ся­ча­ми
+plu_pre: ты́­сяч­ах
+comment:
+usage:
+etymol:

@@ -1,0 +1,42 @@
+name: кончить
+name_ac: ко́нчить
+publ_id:
+wordcls: verb
+translation:
+   - beenden
+aspect: perfective
+partner: конча́ть
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: ко́н­чу
+fut_sin_2: ко́н­чишь
+fut_sin_3: ко́н­чит
+fut_plu_1: ко́н­чим
+fut_plu_2: ко́н­чи­те
+fut_plu_3: ко́н­чат
+pas_mas: ко́н­чил
+pas_fem: ко́н­чи­ла
+pas_neu: ко́н­чи­ло
+pas_plu: ко́н­чи­ли
+par_pre_act:
+par_pas_act: ко́н­чи­вший
+par_pre_pas:
+par_pas_pas: ко́н­чи­вши, ко́н­чив
+par_adv_pre:
+par_adv_pas: ко́н­чен­ный
+imp_sin: ко́н­чи
+imp_plu: ко́н­чи­те
+comment:
+usage:
+etymol:

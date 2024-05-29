@@ -1,0 +1,40 @@
+name: хороший
+name_ac: хоро́ший
+publ_id:
+wordcls: adjective
+translation:
+   - gut
+is_gradable: true
+mas_nom: хоро́ший
+mas_gen: хо­ро́­ше­го
+mas_dat: хо­ро́­ше­му
+mas_acc: хо­ро́­ший
+mas_ins: хо­ро́ш­им
+mas_pre: хо­ро́ш­ем
+fem_nom: хо­ро́­шая
+fem_gen: хо­ро́­шей
+fem_dat: хо­ро́­шей
+fem_acc: хо­ро́­шую
+fem_ins: хо­ро́­шей
+fem_pre: хо­ро́­шей
+neu_nom: хо­ро́­шее
+neu_gen: хо­ро́­ше­го
+neu_dat: хо­ро́­ше­му
+neu_acc: хо­ро́­шее
+neu_ins: хо­ро́ш­им
+neu_pre: хо­ро́ш­ем
+plu_nom: хо­ро́­шие
+plu_gen: хо­ро́ш­их
+plu_dat: хо­ро́ш­им
+plu_acc: хо­ро́­шие
+plu_ins: хо­ро́­ши­ми
+plu_pre: хо­ро́ш­их
+sho_mas: хо­ро́ш
+sho_fem: хо­ро­ша́
+sho_neu: хо­ро­шо́
+sho_plu: хо­ро­ши́
+compara: лу́ч­ше
+superla: самый хоро́ший
+comment:
+usage:
+etymol:

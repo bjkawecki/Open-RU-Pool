@@ -1,0 +1,43 @@
+name: мочь
+name_ac: мочь
+publ_id:
+wordcls: verb
+translation:
+   - können
+   - dürfen
+aspect: imperfective
+partner: смочь
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: мо­гу́
+pre_sin_2: мо́­жешь
+pre_sin_3: мо́­жет
+pre_plu_1: мо́­жем
+pre_plu_2: мо́­же­те
+pre_plu_3: мо́­гут
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: мог
+pas_fem: мог­ла́
+pas_neu: мог­ло́
+pas_plu: мог­ли́
+par_pre_act: мо­гу́­щий
+par_pas_act: мо́г­ший
+par_pre_pas:
+par_pas_pas: мо́г­ши
+par_adv_pre:
+par_adv_pas:
+imp_sin: мо­ги́
+imp_plu: мо­ги́­те
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: бассейн
+name_ac: бассе́йн
+publ_id:
+translation:
+   - Schwimmbad
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: бассейн
+sin_gen: бас­се́й­на
+sin_dat: бас­се́й­ну
+sin_acc: бас­се́йн
+sin_ins: бас­се́й­ном
+sin_pre: бас­се́й­не
+plu_nom: бас­се́й­ны
+plu_gen: бас­се́й­нов
+plu_dat: бас­се́й­нам
+plu_acc: бас­се́й­ны
+plu_ins: бас­се́й­на­ми
+plu_pre: бас­се́й­нах
+partitive:
+locative:
+comment:
+usage:
+etymol:

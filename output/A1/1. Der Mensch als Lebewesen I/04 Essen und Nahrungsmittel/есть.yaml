@@ -1,0 +1,42 @@
+name: есть
+name_ac: есть
+publ_id:
+wordcls: verb
+translation:
+   - essen
+aspect: imperfective
+partner:
+conjugation:
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: ем
+pre_sin_2: ешь
+pre_sin_3: ест
+pre_plu_1: ед­и́м
+pre_plu_2: еди́­те
+pre_plu_3: ед­я́т
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: ел
+pas_fem: е́ла
+pas_neu: е́ло
+pas_plu: е́ли
+par_pre_act: едя́­щий
+par_pas_act: е́в­ший
+par_pre_pas: едя́
+par_pas_pas: е́в­ши, е́в
+par_adv_pre:
+par_adv_pas: е́д­ен­ный
+imp_sin: ешь
+imp_plu: е́шь­те
+comment:
+usage:
+etymol:

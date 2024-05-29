@@ -1,0 +1,31 @@
+wordcls: substantive
+name: ресторан
+name_ac: рестора́н
+publ_id:
+translation:
+   - Restaurant
+   - Gaststätte
+   - Speiselokal
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: рестора́н
+sin_gen: рес­то­ра́­на
+sin_dat: рес­то­ра́­ну
+sin_acc: рес­то­ра́н
+sin_ins: рес­то­ра́н­ом
+sin_pre: рес­то­ра́­не
+plu_nom: рес­то­ра́­ны
+plu_gen: рес­то­ра́н­ов
+plu_dat: рес­то­ра́н­ам
+plu_acc: рес­то­ра́­ны
+plu_ins: рес­то­ра́­на­ми
+plu_pre: рес­то­ра́н­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

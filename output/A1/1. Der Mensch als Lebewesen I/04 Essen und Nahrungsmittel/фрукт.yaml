@@ -1,0 +1,29 @@
+wordcls: substantive
+name: фрукт
+name_ac: фру́кт
+publ_id:
+translation:
+   - Frucht
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: фрукт
+sin_gen: фру́к­та
+sin_dat: фру́к­ту
+sin_acc: фрукт
+sin_ins: фру́к­том
+sin_pre: фру́к­те
+plu_nom: фру́к­ты
+plu_gen: фру́к­тов
+plu_dat: фру́к­там
+plu_acc: фру́к­ты
+plu_ins: фру́к­та­ми
+plu_pre: фру́к­тах
+partitive:
+locative:
+comment:
+usage:
+etymol:

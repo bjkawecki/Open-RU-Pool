@@ -1,0 +1,42 @@
+name: попросить
+name_ac: попроси́ть
+publ_id:
+wordcls: verb
+translation:
+   - bitten
+aspect: perfective
+partner: проси́ть
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: поп­ро­шу́
+fut_sin_2: поп­ро́­сишь
+fut_sin_3: поп­ро́­сит
+fut_plu_1: поп­ро́­сим
+fut_plu_2: поп­ро́­си­те
+fut_plu_3: поп­ро́­сят
+pas_mas: поп­ро­си́л
+pas_fem: поп­ро­си́­ла
+pas_neu: поп­ро­си́­ло
+pas_plu: поп­ро­си́­ли
+par_pre_act:
+par_pas_act: поп­ро­си́в­ший
+par_pre_pas:
+par_pas_pas: поп­ро­си́в­ши, поп­ро­си́в
+par_adv_pre:
+par_adv_pas: поп­ро́­шен­ный
+imp_sin: поп­ро­си́
+imp_plu: поп­ро­си́­те
+comment:
+usage:
+etymol:

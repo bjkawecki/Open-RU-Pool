@@ -1,0 +1,43 @@
+name: поступать
+name_ac: поступа́ть
+publ_id:
+wordcls: verb
+translation:
+   - machen
+   - handeln
+aspect: imperfective
+partner: поступи́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: пос­ту­па́ю
+pre_sin_2: пос­ту­па́­ешь
+pre_sin_3: пос­ту­па́­ет
+pre_plu_1: пос­ту­па́­ем
+pre_plu_2: пос­ту­па́­ете
+pre_plu_3: пос­ту­па́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: пос­ту­па́л
+pas_fem: пос­ту­па́­ла
+pas_neu: пос­ту­па́­ло
+pas_plu: пос­ту­па́­ли
+par_pre_act: пос­ту­па́­ющий
+par_pas_act: пос­ту­па́в­ший
+par_pre_pas: пос­ту­па́я
+par_pas_pas: пос­ту­па́в­ши, пос­ту­па́в
+par_adv_pre:
+par_adv_pas:
+imp_sin: пос­ту­па́й
+imp_plu: пос­ту­па́й­те
+comment:
+usage:
+etymol:

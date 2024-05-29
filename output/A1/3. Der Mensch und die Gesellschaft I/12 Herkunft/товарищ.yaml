@@ -1,0 +1,31 @@
+wordcls: substantive
+name: товарищ
+name_ac: това́рищ
+publ_id:
+translation:
+   - Genosse
+   - Kamerad
+   - Freund
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: това́рищ
+sin_gen: то­ва́­ри­ща
+sin_dat: то­ва́­ри­щу
+sin_acc: то­ва́­ри­ща
+sin_ins: то­ва́­ри­щем
+sin_pre: то­ва́­ри­ще
+plu_nom: то­ва́­ри­щи
+plu_gen: то­ва́­ри­щей
+plu_dat: то­ва́­ри­щам
+plu_acc: то­ва́­ри­щей
+plu_ins: то­ва́­ри­ща­ми
+plu_pre: то­ва́­ри­щах
+partitive:
+locative:
+comment:
+usage:
+etymol:

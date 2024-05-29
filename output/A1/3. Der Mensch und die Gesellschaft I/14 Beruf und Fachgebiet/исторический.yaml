@@ -1,0 +1,41 @@
+name: исторический
+name_ac: истори́ческий
+publ_id:
+wordcls: adjective
+translation:
+   - geschichtlich
+   - Geschichts-
+is_gradable:
+mas_nom: истори́ческий
+mas_gen: ис­то­ри́ч­ес­ко­го
+mas_dat: ис­то­ри́ч­ес­ко­му
+mas_acc: истори́ческий
+mas_ins: ис­то­ри́ч­ес­ким
+mas_pre: ис­то­ри́ч­ес­ком
+fem_nom: ис­то­ри́ч­ес­кая
+fem_gen: ис­то­ри́ч­ес­кой
+fem_dat: ис­то­ри́ч­ес­кой
+fem_acc: ис­то­ри́ч­ес­кую
+fem_ins: ис­то­ри́ч­ес­кой
+fem_pre: ис­то­ри́ч­ес­кой
+neu_nom: ис­то­ри́ч­ес­кое
+neu_gen: ис­то­ри́ч­ес­ко­го
+neu_dat: ис­то­ри́ч­ес­ко­му
+neu_acc: ис­то­ри́ч­ес­кое
+neu_ins: ис­то­ри́ч­ес­ким
+neu_pre: ис­то­ри́ч­ес­ком
+plu_nom: ис­то­ри́ч­ес­кие
+plu_gen: ис­то­ри́ч­ес­ких
+plu_dat: ис­то­ри́ч­ес­ким
+plu_acc: ис­то­ри́ч­ес­кие
+plu_ins: ис­то­ри́ч­ес­ки­ми
+plu_pre: ис­то­ри́ч­ес­ких
+sho_mas:
+sho_fem:
+sho_neu:
+sho_plu:
+compara:
+superla:
+comment:
+usage:
+etymol:

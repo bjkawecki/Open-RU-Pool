@@ -1,0 +1,40 @@
+name: богатый
+name_ac: бога́тый
+publ_id:
+wordcls: adjective
+translation:
+   - reich
+is_gradable: true
+mas_nom: бога́тый
+mas_gen: бо­га́­то­го
+mas_dat: бо­га́­то­му
+mas_acc: бога́тый
+mas_ins: бо­га́т­ым
+mas_pre: бо­га́т­ом
+fem_nom: бо­га́­тая
+fem_gen: бо­га́­той
+fem_dat: бо­га́­той
+fem_acc: бо­га́­тую
+fem_ins: бо­га́­той
+fem_pre: бо­га́­той
+neu_nom: бо­га́­тое
+neu_gen: бо­га́­то­го
+neu_dat: бо­га́­то­му
+neu_acc: бо­га́­тое
+neu_ins: бо­га́т­ым
+neu_pre: бо­га́т­ом
+plu_nom: бо­га́­тые
+plu_gen: бо­га́т­ых
+plu_dat: бо­га́т­ым
+plu_acc: бо­га́­тые
+plu_ins: бо­га́­ты­ми
+plu_pre: бо­га́т­ых
+sho_mas: бо­га́т
+sho_fem: бо­га́­та
+sho_neu: бо­га́­то
+sho_plu: бо­га́­ты
+compara: бо­га́­че
+superla: самый бога́тый
+comment:
+usage:
+etymol:

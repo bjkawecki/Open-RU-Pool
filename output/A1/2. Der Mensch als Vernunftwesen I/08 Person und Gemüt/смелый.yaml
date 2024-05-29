@@ -1,0 +1,42 @@
+name: смелый
+name_ac: сме́лый
+publ_id:
+wordcls: adjective
+translation:
+   - kühn
+   - beherzt
+   - schneidig
+is_gradable: true
+mas_nom: сме́лый
+mas_gen: смелого
+mas_dat: сме́­ло­му
+mas_acc: сме́­лый
+mas_ins: сме́­лым
+mas_pre: сме́­лом
+fem_nom: сме́­лая
+fem_gen: сме́­лой
+fem_dat: сме́­лой
+fem_acc: сме́­лую
+fem_ins: сме́­лой
+fem_pre: сме́­лой
+neu_nom: сме́­лое
+neu_gen: сме́­ло­го
+neu_dat: сме́­ло­му
+neu_acc: сме́­лое
+neu_ins: сме́­лым
+neu_pre: сме́­лом
+plu_nom: сме́­лые
+plu_gen: сме́­лых
+plu_dat: сме́­лым
+plu_acc: сме́­лые
+plu_ins: сме́­лы­ми
+plu_pre: сме́­лых
+sho_mas: смел
+sho_fem: сме­ла́
+sho_neu: сме́­ло
+sho_plu: сме́­лы
+compara: сме­ле́е
+superla: самый сме́лый
+comment:
+usage:
+etymol:

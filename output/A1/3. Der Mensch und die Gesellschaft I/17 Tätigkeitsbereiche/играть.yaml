@@ -1,0 +1,42 @@
+name: играть
+name_ac: игра́ть
+publ_id:
+wordcls: verb
+translation:
+   - spielen
+aspect: imperfective
+partner: поигра́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: иг­ра́ю
+pre_sin_2: иг­ра́­ешь
+pre_sin_3: иг­ра́­ет
+pre_plu_1: иг­ра́­ем
+pre_plu_2: иг­ра́­ете
+pre_plu_3: иг­ра́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: иг­ра́л
+pas_fem: иг­ра́­ла
+pas_neu: иг­ра́­ло
+pas_plu: иг­ра́­ли
+par_pre_act: иг­ра́­ющий
+par_pas_act: иг­ра́­вший
+par_pre_pas: иг­ра́я
+par_pas_pas: иг­ра́­вши, иг­ра́в
+par_adv_pre: иг­ра́­емый
+par_adv_pas: и́г­ран­ный
+imp_sin: иг­ра́й
+imp_plu: иг­ра́й­те
+comment:
+usage:
+etymol:

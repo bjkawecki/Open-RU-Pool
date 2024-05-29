@@ -1,0 +1,40 @@
+name: сильный
+name_ac: си́льный
+publ_id:
+wordcls: adjective
+translation:
+   - stark
+is_gradable: true
+mas_nom: си́льный
+mas_gen: си́ль­но­го
+mas_dat: си́ль­но­му
+mas_acc: си́ль­ный
+mas_ins: си́ль­ным
+mas_pre: си́ль­ном
+fem_nom: си́ль­ная
+fem_gen: си́ль­ной
+fem_dat: си́ль­ной
+fem_acc: си́ль­ную
+fem_ins: си́ль­ной
+fem_pre: си́ль­ной
+neu_nom: си́ль­ное
+neu_gen: си́ль­но­го
+neu_dat: си́ль­но­му
+neu_acc: си́ль­ное
+neu_ins: си́ль­ным
+neu_pre: си́ль­ном
+plu_nom: си́ль­ные
+plu_gen: си́ль­ных
+plu_dat: си́ль­ным
+plu_acc: си́ль­ные
+plu_ins: си́ль­ны­ми
+plu_pre: си́ль­ных
+sho_mas: си­лён
+sho_fem: силь­на́
+sho_neu: си́ль­но
+sho_plu: силь­ны́
+compara: силь­не́е
+superla: самый си́льный
+comment:
+usage:
+etymol:

@@ -1,0 +1,42 @@
+name: позавтракать
+name_ac: поза́втракать
+publ_id:
+wordcls: verb
+translation:
+   - frühstücken
+aspect: perfective
+partner: за́втракать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: по­за́вт­ра­каю
+fut_sin_2: по­за́вт­ра­ка­ешь
+fut_sin_3: по­за́вт­ра­ка­ет
+fut_plu_1: по­за́вт­ра­ка­ем
+fut_plu_2: по­за́вт­ра­ка­ете
+fut_plu_3: по­за́вт­ра­ка­ют
+pas_mas: по­за́вт­ра­кал
+pas_fem: по­за́вт­ра­ка­ла
+pas_neu: по­за́вт­ра­ка­ло
+pas_plu: по­за́вт­ра­ка­ли
+par_pre_act:
+par_pas_act: по­за́вт­ра­кав­ший
+par_pre_pas:
+par_pas_pas: по­за́вт­ра­кав­ши, по­за́вт­ра­кав
+par_adv_pre:
+par_adv_pas:
+imp_sin: по­за́вт­ра­кай
+imp_plu: по­за́вт­ра­кай­те
+comment:
+usage:
+etymol:

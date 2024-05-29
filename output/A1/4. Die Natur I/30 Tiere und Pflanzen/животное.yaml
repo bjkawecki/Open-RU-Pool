@@ -1,0 +1,29 @@
+wordcls: substantive
+name: животное
+name_ac: живо́тное
+publ_id:
+translation:
+   - Tier
+genus: neutral
+dec_cls: adjective
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: жи­во́т­ное
+sin_gen: жи­во́т­но­го
+sin_dat: жи­во́т­но­му
+sin_acc: жи­во́т­ное
+sin_ins: жи­во́т­ным
+sin_pre: жи­во́т­ном
+plu_nom: жи­во́т­ные
+plu_gen: жи­во́т­ных
+plu_dat: жи­во́т­ным
+plu_acc: жи­во́т­ных
+plu_ins: жи­во́т­ны­ми
+plu_pre: жи­во́т­ных
+partitive:
+locative:
+comment:
+usage:
+etymol:

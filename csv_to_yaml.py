@@ -31,7 +31,7 @@ if __name__ == "__main__":
                 if wordclass_id == key:
                     wordclass = enum.wordclasses[key]
             output = "output"
-            level = "a1"
+            level = "A1"
             PATH = f"./{output}/{level}/{theme}/{deck}"
             os.makedirs(PATH, exist_ok=True)
             dataMap = dict()

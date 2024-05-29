@@ -1,0 +1,44 @@
+name: гулять
+name_ac: гуля́ть
+publ_id:
+wordcls: verb
+translation:
+   - spazieren
+   - spazieren gehen
+   - ausgehen
+aspect: imperfective
+partner: погуля́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: гу­ля́ю
+pre_sin_2: гу­ля́­ешь
+pre_sin_3: гу­ля́­ет
+pre_plu_1: гу­ля́­ем
+pre_plu_2: гу­ля́­ете
+pre_plu_3: гу­ля́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: гу­ля́л
+pas_fem: гу­ля́­ла
+pas_neu: гу­ля́­ло
+pas_plu: гу­ля́­ли
+par_pre_act: гу­ля́­ющий
+par_pas_act: гу­ля́в­ший
+par_pre_pas: гу­ля́я
+par_pas_pas: гу­ля́в­ши, гу­ля́в
+par_adv_pre:
+par_adv_pas:
+imp_sin: гу­ля́й
+imp_plu: гу­ля́й­те
+comment:
+usage:
+etymol:

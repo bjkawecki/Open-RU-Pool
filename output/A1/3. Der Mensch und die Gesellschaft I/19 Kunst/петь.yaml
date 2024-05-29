@@ -1,0 +1,42 @@
+name: петь
+name_ac: петь
+publ_id:
+wordcls: verb
+translation:
+   - singen
+aspect: imperfective
+partner: спеть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: пою́
+pre_sin_2: по­ёшь
+pre_sin_3: по­ёт
+pre_plu_1: по­ём
+pre_plu_2: по­ёте
+pre_plu_3: по­ю́т
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: пел
+pas_fem: пе́­ла
+pas_neu: пе́­ло
+pas_plu: пе́­ли
+par_pre_act: по­ю́щий
+par_pas_act: пе́в­ший
+par_pre_pas: поя́
+par_pas_pas: пе́в­ши, пе́в
+par_adv_pre:
+par_adv_pas: пе́­тый
+imp_sin: пой
+imp_plu: по́й­те
+comment:
+usage:
+etymol:

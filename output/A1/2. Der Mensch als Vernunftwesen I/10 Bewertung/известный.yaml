@@ -1,0 +1,42 @@
+name: известный
+name_ac: изве́стный
+publ_id:
+wordcls: adjective
+translation:
+   - bekannt
+   - berühmt
+   - bedeutend
+is_gradable: true
+mas_nom: изве́стный
+mas_gen: из­ве́ст­но­го
+mas_dat: из­ве́ст­но­му
+mas_acc: изве́стный
+mas_ins: из­ве́ст­ным
+mas_pre: из­ве́ст­ном
+fem_nom: из­ве́ст­ная
+fem_gen: из­ве́ст­ной
+fem_dat: из­ве́ст­ной
+fem_acc: из­ве́ст­ную
+fem_ins: из­ве́ст­ной
+fem_pre: из­ве́ст­ной
+neu_nom: из­ве́ст­ное
+neu_gen: из­ве́ст­но­го
+neu_dat: из­ве́ст­но­му
+neu_acc: из­ве́ст­ное
+neu_ins: из­ве́ст­ным
+neu_pre: из­ве́ст­ном
+plu_nom: из­ве́ст­ные
+plu_gen: из­ве́ст­ных
+plu_dat: из­ве́ст­ным
+plu_acc: из­ве́ст­ные
+plu_ins: из­ве́ст­ны­ми
+plu_pre: из­ве́ст­ных
+sho_mas: из­ве́­стен
+sho_fem: из­ве́ст­на
+sho_neu: из­ве́ст­но
+sho_plu: из­ве́ст­ны
+compara: из­ве́ст­нее
+superla: самый изве́стный
+comment:
+usage:
+etymol:

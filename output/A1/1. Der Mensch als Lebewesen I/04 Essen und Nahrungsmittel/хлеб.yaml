@@ -1,0 +1,29 @@
+wordcls: substantive
+name: хлеб
+name_ac: хлеб
+publ_id:
+translation:
+   - Brot
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: хлеб
+sin_gen: хле́­ба
+sin_dat: хле́­бу
+sin_acc: хлеб
+sin_ins: хле́­бом
+sin_pre: хле́­бе
+plu_nom: хле́­бы
+plu_gen: хле́­бов
+plu_dat: хле́­бам
+plu_acc: хле́­бы
+plu_ins: хле́­ба­ми
+plu_pre: хле́­бах
+partitive:
+locative:
+comment:
+usage:
+etymol:

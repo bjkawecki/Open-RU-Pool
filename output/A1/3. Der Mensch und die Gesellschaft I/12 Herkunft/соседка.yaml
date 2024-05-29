@@ -1,0 +1,29 @@
+wordcls: substantive
+name: соседка
+name_ac: сосе́дка
+publ_id:
+translation:
+   - Nachbarin
+genus: feminine
+dec_cls: class_1
+stress: suffix
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: сосе́дка
+sin_gen: со­се́д­ки
+sin_dat: со­се́д­ке
+sin_acc: со­се́д­ку
+sin_ins: со­се́д­кой
+sin_pre: со­се́д­ке
+plu_nom: со­се́д­ки
+plu_gen: со­се́д­ок
+plu_dat: со­се́д­кам
+plu_acc: со­се́д­ок
+plu_ins: со­се́д­ка­ми
+plu_pre: со­се́д­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

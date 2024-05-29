@@ -1,0 +1,41 @@
+name: каждый
+name_ac: ка́ждый
+publ_id:
+wordcls: pronoun
+translation:
+   - jeder
+pro_type: indefinite
+dec_type: '1'
+mas_nom: ка́ждый
+mas_gen: ка́ж­до­го
+mas_dat: ка́ж­до­му
+mas_acc: ка́ж­дый
+mas_ins: ка́ж­дым
+mas_pre: ка́ж­дом
+fem_nom: ка́ж­дая
+fem_gen: ка́ж­дой
+fem_dat: ка́ж­дой
+fem_acc: ка́ж­дую
+fem_ins: ка́ж­дой
+fem_pre: ка́ж­дой
+neu_nom: ка́ж­дое
+neu_gen: ка́ж­до­го
+neu_dat: ка́ж­до­му
+neu_acc: ка́ж­дое
+neu_ins: ка́ж­дым
+neu_pre: ка́ж­дом
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: ка́ж­дые
+plu_gen: ка́ж­дых
+plu_dat: ка́ж­дым
+plu_acc: ка́ж­дые
+plu_ins: ка́ж­ды­ми
+plu_pre: ка́ж­дых
+comment:
+usage:
+etymol:

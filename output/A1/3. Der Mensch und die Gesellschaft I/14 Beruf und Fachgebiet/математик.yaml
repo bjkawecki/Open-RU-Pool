@@ -1,0 +1,29 @@
+wordcls: substantive
+name: математик
+name_ac: матема́тик
+publ_id:
+translation:
+   - Mathematiker
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: матема́тик
+sin_gen: ма­те­ма́­ти­ка
+sin_dat: ма­те­ма́­ти­ку
+sin_acc: ма­те­ма́­ти­ка
+sin_ins: ма­те­ма́­тик­ом
+sin_pre: ма­те­ма́­ти­ке
+plu_nom: ма­те­ма́­ти­ки
+plu_gen: ма­те­ма́­тик­ов
+plu_dat: ма­те­ма́­тик­ам
+plu_acc: ма­те­ма́­тик­ов
+plu_ins: ма­те­ма́­ти­ка­ми
+plu_pre: ма­те­ма́­тик­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

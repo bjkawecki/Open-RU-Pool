@@ -1,0 +1,40 @@
+name: первый
+name_ac: пе́рвый
+publ_id:
+wordcls: adjective
+translation:
+   - erster
+is_gradable:
+mas_nom: пе́рвый
+mas_gen: пе́р­во­го
+mas_dat: пе́р­во­му
+mas_acc: пе́рвый
+mas_ins: пе́р­вым
+mas_pre: пе́р­вом
+fem_nom: пе́р­вая
+fem_gen: пе́р­вой
+fem_dat: пе́р­вой
+fem_acc: пе́р­вую
+fem_ins: пе́р­вой
+fem_pre: пе́р­вой
+neu_nom: пе́р­вое
+neu_gen: пе́р­во­го
+neu_dat: пе́р­во­му
+neu_acc: пе́р­вое
+neu_ins: пе́р­вым
+neu_pre: пе́р­вом
+plu_nom: пе́р­вые
+plu_gen: пе́р­вых
+plu_dat: пе́р­вым
+plu_acc: пе́р­вые
+plu_ins: пе́р­вы­ми
+plu_pre: пе́р­вых
+sho_mas:
+sho_fem:
+sho_neu:
+sho_plu:
+compara:
+superla:
+comment:
+usage:
+etymol:

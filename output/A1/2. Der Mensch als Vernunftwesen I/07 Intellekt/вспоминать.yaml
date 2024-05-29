@@ -1,0 +1,42 @@
+name: вспоминать
+name_ac: вспомина́ть
+publ_id:
+wordcls: verb
+translation:
+   - sich erinnern
+aspect: imperfective
+partner: вспо́мнить
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: accusative
+preposition:
+is_reflexive:
+pre_sin_1: вспо­ми­на́ю
+pre_sin_2: вспо­ми­на́­ешь
+pre_sin_3: вспо­ми­на́­ет
+pre_plu_1: вспо­ми­на́­ем
+pre_plu_2: вспо­ми­на́­ете
+pre_plu_3: вспо­ми­на́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: вспо­мин­а́л
+pas_fem: вспо­ми­на́­ла
+pas_neu: вспо­ми­на́­ло
+pas_plu: вспо­ми­на́­ли
+par_pre_act: вспо­ми­на́­ющий
+par_pas_act: вспо­мин­а́в­ший
+par_pre_pas: вспо­ми­на́я
+par_pas_pas: вспо­мин­а́в­ши, вспо­мин­а́в
+par_adv_pre: вспо­ми­на́­емый
+par_adv_pas:
+imp_sin: вспо­ми­на́й
+imp_plu: вспо­ми­на́й­те
+comment:
+usage:
+etymol:

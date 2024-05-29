@@ -1,0 +1,41 @@
+name: наш
+name_ac: наш
+publ_id:
+wordcls: pronoun
+translation:
+   - unser
+pro_type: possessive
+dec_type: '1'
+mas_nom: наш
+mas_gen: на́­ше­го
+mas_dat: на́­ше­му
+mas_acc: наш
+mas_ins: на́­шим
+mas_pre: на́­шем
+fem_nom: на́­ша
+fem_gen: на́­шей
+fem_dat: на́­шей
+fem_acc: на́­шу
+fem_ins: на́­шей
+fem_pre: на́­шей
+neu_nom: на́­ше
+neu_gen: на́­ше­го
+neu_dat: на́­ше­му
+neu_acc: на́­ше
+neu_ins: на́­шим
+neu_pre: на́­шем
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: на́­ши
+plu_gen: на́­ших
+plu_dat: на́­шим
+plu_acc: на́­ши
+plu_ins: на́­ши­ми
+plu_pre: на́­ших
+comment:
+usage:
+etymol:

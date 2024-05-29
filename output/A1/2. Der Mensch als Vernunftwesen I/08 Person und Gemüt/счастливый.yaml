@@ -1,0 +1,40 @@
+name: счастливый
+name_ac: счастли́вый
+publ_id:
+wordcls: adjective
+translation:
+   - glücklich
+is_gradable: true
+mas_nom: счастли́вый
+mas_gen: счаст­ли́­во­го
+mas_dat: счаст­ли́­во­му
+mas_acc: счаст­ли́­вый
+mas_ins: счаст­ли́­вым
+mas_pre: счаст­ли́­вом
+fem_nom: счаст­ли́­вая
+fem_gen: счаст­ли́­вой
+fem_dat: счаст­ли́­вой
+fem_acc: счаст­ли́­вую
+fem_ins: счаст­ли́­вой
+fem_pre: счаст­ли́­вой
+neu_nom: счаст­ли́­вое
+neu_gen: счаст­ли́­во­го
+neu_dat: счаст­ли́­во­му
+neu_acc: счаст­ли́­вое
+neu_ins: счаст­ли́­вым
+neu_pre: счаст­ли́­вом
+plu_nom: счаст­ли́­вые
+plu_gen: счаст­ли́­вых
+plu_dat: счаст­ли́­вым
+plu_acc: счаст­ли́­вые
+plu_ins: счаст­ли́­вы­ми
+plu_pre: счаст­ли́­вых
+sho_mas: сча̀ст­ли́в
+sho_fem: сча̀ст­ли́­ва
+sho_neu: сча̀ст­ли́­во
+sho_plu: сча̀ст­ли́­вы
+compara: счаст­ли́­вее
+superla: самый сча́стливый
+comment:
+usage:
+etymol:

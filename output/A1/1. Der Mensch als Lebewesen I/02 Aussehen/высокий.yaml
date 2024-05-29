@@ -1,0 +1,42 @@
+name: высокий
+name_ac: высо́кий
+publ_id:
+wordcls: adjective
+translation:
+   - hoch
+   - hochgewachsen
+   - gehoben
+is_gradable: true
+mas_nom: высо́кий
+mas_gen: вы­со́­ко­го
+mas_dat: вы­со́­ко­му
+mas_acc: высо́кий
+mas_ins: вы­со́к­им
+mas_pre: вы­со́к­ом
+fem_nom: вы­со́­кая
+fem_gen: вы­со́­кой
+fem_dat: вы­со́­кой
+fem_acc: вы­со́­кую
+fem_ins: вы­со́­кой
+fem_pre: вы­со́­кой
+neu_nom: вы­со́­кое
+neu_gen: вы­со́­ко­го
+neu_dat: вы­со́­ко­му
+neu_acc: вы­со́­кое
+neu_ins: вы­со́к­им
+neu_pre: вы­со́к­ом
+plu_nom: вы­со́­кие
+plu_gen: вы­со́к­их
+plu_dat: вы­со́к­им
+plu_acc: вы­со́­кие
+plu_ins: вы­со́­ки­ми
+plu_pre: вы­со́к­их
+sho_mas: вы­со́к
+sho_fem: вы­со­ка́
+sho_neu: вы́­со­ко
+sho_plu: вы́­со­ки
+compara: вы́­ше
+superla: самый высо́кий
+comment:
+usage:
+etymol:

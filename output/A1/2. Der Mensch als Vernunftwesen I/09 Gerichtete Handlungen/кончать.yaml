@@ -1,0 +1,42 @@
+name: кончать
+name_ac: конча́ть
+publ_id:
+wordcls: verb
+translation:
+   - beenden
+aspect: imperfective
+partner: ко́нчить
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: кон­ча́ю
+pre_sin_2: кон­ча́­ешь
+pre_sin_3: кон­ча́­ет
+pre_plu_1: кон­ча́­ем
+pre_plu_2: кон­ча́­ете
+pre_plu_3: кон­ча́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: кон­ча́л
+pas_fem: кон­ча́­ла
+pas_neu: кон­ча́­ло
+pas_plu: кон­ча́­ли
+par_pre_act: кон­ча́­ющий
+par_pas_act: кон­ча́­вший
+par_pre_pas: кон­ча́я
+par_pas_pas: кон­ча́­вши, кон­ча́в
+par_adv_pre: кон­ча́­емый
+par_adv_pas:
+imp_sin: кон­ча́й
+imp_plu: кон­ча́й­те
+comment:
+usage:
+etymol:

@@ -1,0 +1,30 @@
+wordcls: substantive
+name: масло
+name_ac: ма́сло
+publ_id:
+translation:
+   - Fett
+   - Öl
+genus: neutral
+dec_cls: class_2
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ма́сло
+sin_gen: ма́с­ла
+sin_dat: ма́с­лу
+sin_acc: ма́с­ло
+sin_ins: ма́с­лом
+sin_pre: ма́с­ле
+plu_nom: мас­ла́
+plu_gen: ма́­сел
+plu_dat: мас­ла́м
+plu_acc: мас­ла́
+plu_ins: мас­ла́­ми
+plu_pre: мас­ла́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

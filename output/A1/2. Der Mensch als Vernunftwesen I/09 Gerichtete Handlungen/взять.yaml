@@ -1,0 +1,44 @@
+name: взять
+name_ac: взять
+publ_id:
+wordcls: verb
+translation:
+   - nehmen
+   - greifen
+   - fassen
+aspect: perfective
+partner: брать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: возь­му́
+fut_sin_2: возь­мёшь
+fut_sin_3: возь­мёт
+fut_plu_1: возь­мём
+fut_plu_2: возь­мё­те
+fut_plu_3: возь­му́т
+pas_mas: взял
+pas_fem: взя­ла́
+pas_neu: взя́­ло
+pas_plu: взя́­ли
+par_pre_act:
+par_pas_act: взя́в­ший
+par_pre_pas:
+par_pas_pas: взя́в­ши, взяв
+par_adv_pre:
+par_adv_pas: взя́­тый
+imp_sin: возь­ми́
+imp_plu: возь­ми́­те
+comment:
+usage:
+etymol:

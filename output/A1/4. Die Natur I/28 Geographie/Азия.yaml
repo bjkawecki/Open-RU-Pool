@@ -1,0 +1,29 @@
+wordcls: substantive
+name: Азия
+name_ac: А́зия
+publ_id:
+translation:
+   - Asien
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan: true
+is_plu_tan:
+sin_nom: А́зия
+sin_gen: А́зии
+sin_dat: А́зии
+sin_acc: А́зию
+sin_ins: А́зией
+sin_pre: А́зии
+plu_nom:
+plu_gen:
+plu_dat:
+plu_acc:
+plu_ins:
+plu_pre:
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,43 @@
+name: позвонить
+name_ac: позвони́ть
+publ_id:
+wordcls: verb
+translation:
+   - klingeln
+   - anrufen
+aspect: perfective
+partner: звони́ть
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: поз­во­ню́
+fut_sin_2: поз­во­ни́шь
+fut_sin_3: поз­во­ни́т
+fut_plu_1: поз­во­ни́м
+fut_plu_2: поз­во­ни́­те
+fut_plu_3: поз­во­ня́т
+pas_mas: поз­во­ни́л
+pas_fem: поз­во­ни́­ла
+pas_neu: поз­во­ни́­ло
+pas_plu: поз­во­ни́­ли
+par_pre_act:
+par_pas_act: поз­во­ни́в­ший
+par_pre_pas:
+par_pas_pas: поз­во­ни́в­ши, поз­во­ни́в
+par_adv_pre:
+par_adv_pas:
+imp_sin: поз­во­ни́
+imp_plu: поз­во­ни́­те
+comment:
+usage:
+etymol:

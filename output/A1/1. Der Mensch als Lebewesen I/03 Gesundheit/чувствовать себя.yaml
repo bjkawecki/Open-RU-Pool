@@ -1,0 +1,42 @@
+name: чувствовать себя
+name_ac: чу́вствовать себя́
+publ_id:
+wordcls: verb
+translation:
+   - sich fühlen
+aspect: imperfective
+partner: почу́вствовать себя
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: чу́вс­твую
+pre_sin_2: чу́вс­тву­ешь
+pre_sin_3: чу́вс­тву­ет
+pre_plu_1: чу́вс­тву­ем
+pre_plu_2: чу́вс­тву­ете
+pre_plu_3: чу́вс­тву­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: чу́вс­тво­вал
+pas_fem: чу́вс­тво­ва­ла
+pas_neu: чу́вс­тво­ва­ло
+pas_plu: чу́вс­тво­ва­ли
+par_pre_act: чу́вс­тву­ющий
+par_pas_act: чу́вс­тво­вав­ший
+par_pre_pas: чу́вс­твуя
+par_pas_pas: чу́вс­тво­вав­ши, чу́вс­тво­вав
+par_adv_pre: чу́вс­тву­емый
+par_adv_pas: чу́вс­тво­ван­ный
+imp_sin: чу́вс­твуй
+imp_plu: чу́вс­твуй­те
+comment:
+usage:
+etymol:

@@ -1,0 +1,41 @@
+name: любимый
+name_ac: люби́мый
+publ_id:
+wordcls: adjective
+translation:
+   - geliebt
+   - lieb
+is_gradable: true
+mas_nom: люби́мый
+mas_gen: лю­би́­мо­го
+mas_dat: лю­би́­мо­му
+mas_acc: люби́мый
+mas_ins: лю­би́м­ым
+mas_pre: лю­би́м­ом
+fem_nom: лю­би́­мая
+fem_gen: лю­би́­мой
+fem_dat: лю­би́­мой
+fem_acc: лю­би́­мую
+fem_ins: лю­би́­мой
+fem_pre: лю­би́­мой
+neu_nom: лю­би́­мое
+neu_gen: лю­би́­мо­го
+neu_dat: лю­би́­мо­му
+neu_acc: лю­би́­мое
+neu_ins: лю­би́м­ым
+neu_pre: лю­би́м­ом
+plu_nom: лю­би́­мые
+plu_gen: лю­би́м­ых
+plu_dat: лю­би́м­ым
+plu_acc: лю­би́­мые
+plu_ins: лю­би́­мы­ми
+plu_pre: лю­би́м­ых
+sho_mas: лю­би́м
+sho_fem: лю­би́­ма
+sho_neu: лю­би́­мо
+sho_plu: лю­би́­мы
+compara: лю­би́­мее
+superla: самый люби́мый
+comment:
+usage:
+etymol:

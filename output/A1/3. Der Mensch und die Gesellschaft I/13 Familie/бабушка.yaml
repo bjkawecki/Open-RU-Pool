@@ -1,0 +1,30 @@
+wordcls: substantive
+name: бабушка
+name_ac: ба́бушка
+publ_id:
+translation:
+   - Großmutter
+   - Oma
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: ба́бушка
+sin_gen: ба́­буш­ки
+sin_dat: ба́­буш­ке
+sin_acc: ба́­буш­ку
+sin_ins: ба́­буш­кой
+sin_pre: ба́­буш­ке
+plu_nom: ба́­буш­ки
+plu_gen: ба́­буш­ек
+plu_dat: ба́­буш­кам
+plu_acc: ба́­буш­ек
+plu_ins: ба́­буш­ка­ми
+plu_pre: ба́­буш­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

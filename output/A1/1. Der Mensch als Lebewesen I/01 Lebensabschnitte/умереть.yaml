@@ -1,0 +1,42 @@
+name: умереть
+name_ac: умере́ть
+publ_id:
+wordcls: verb
+translation:
+   - sterben
+aspect: perfective
+partner: уми­ра́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: ум­ру́
+pre_sin_2: ум­рёшь
+pre_sin_3: ум­рёт
+pre_plu_1: ум­рём
+pre_plu_2: ум­рё­те
+pre_plu_3: ум­ру́т
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: у́м­ер
+pas_fem: ум­ер­ла́
+pas_neu: у́м­ер­ло
+pas_plu: у́м­ер­ли
+par_pre_act: ум­е́р­ший
+par_pas_act: ум­е́р­ши, уме­ре́в
+par_pre_pas:
+par_pas_pas:
+par_adv_pre:
+par_adv_pas:
+imp_sin: ум­ри́
+imp_plu: ум­ри́­те
+comment:
+usage:
+etymol:

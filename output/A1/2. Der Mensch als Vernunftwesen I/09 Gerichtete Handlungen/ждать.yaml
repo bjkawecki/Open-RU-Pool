@@ -1,0 +1,42 @@
+name: ждать
+name_ac: ждать
+publ_id:
+wordcls: verb
+translation:
+   - warten
+aspect: imperfective
+partner: подожда́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: accusative
+preposition:
+is_reflexive:
+pre_sin_1: жду
+pre_sin_2: ждёшь
+pre_sin_3: ждёт
+pre_plu_1: ждём
+pre_plu_2: ждё­те
+pre_plu_3: ждут
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: ждал
+pas_fem: жда­ла́
+pas_neu: жда́­ло
+pas_plu: жда́­ли
+par_pre_act: жду́­щий
+par_pas_act: жда́в­ший
+par_pre_pas: ждя
+par_pas_pas: жда́в­ши, жда́в
+par_adv_pre:
+par_adv_pas: жда́н­ный
+imp_sin: жди
+imp_plu: жди́­те
+comment:
+usage:
+etymol:

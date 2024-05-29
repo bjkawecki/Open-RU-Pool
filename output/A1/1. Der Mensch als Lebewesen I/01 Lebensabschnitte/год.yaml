@@ -1,0 +1,29 @@
+wordcls: substantive
+name: год
+name_ac: год
+publ_id:
+translation:
+   - Jahr
+genus: masculine
+dec_cls: class_2
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: год
+sin_gen: го́­да
+sin_dat: го́­ду
+sin_acc: год
+sin_ins: го́­дом
+sin_pre: го́­де
+plu_nom: го́­ды
+plu_gen: лет, го­до́в
+plu_dat: го­да́м
+plu_acc: го́­ды
+plu_ins: го­да́­ми
+plu_pre: го­да́х
+partitive:
+locative: в го­ду́
+comment:
+usage:
+etymol:

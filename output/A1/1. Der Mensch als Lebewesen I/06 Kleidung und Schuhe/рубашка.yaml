@@ -1,0 +1,29 @@
+wordcls: substantive
+name: рубашка
+name_ac: руба́шка
+publ_id:
+translation:
+   - Hemd
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: руба́шка
+sin_gen: ру­ба́ш­ки
+sin_dat: ру­ба́ш­ке
+sin_acc: ру­ба́ш­ку
+sin_ins: ру­ба́ш­кой
+sin_pre: ру­ба́ш­ке
+plu_nom: ру­ба́ш­ки
+plu_gen: ру­ба́ш­ек
+plu_dat: ру­ба́ш­кам
+plu_acc: ру­ба́ш­ки
+plu_ins: ру­ба́ш­ка­ми
+plu_pre: ру­ба́ш­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

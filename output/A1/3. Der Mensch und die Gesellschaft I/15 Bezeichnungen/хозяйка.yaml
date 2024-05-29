@@ -1,0 +1,30 @@
+wordcls: substantive
+name: хозяйка
+name_ac: хозя́йка
+publ_id:
+translation:
+   - Gastgeberin
+   - Wirtin
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: хозяйка
+sin_gen: хо­зя́й­ки
+sin_dat: хо­зя́й­ке
+sin_acc: хо­зя́й­ку
+sin_ins: хо­зя́й­кой
+sin_pre: хо­зя́й­ке
+plu_nom: хо­зя́й­ки
+plu_gen: хо­зя́­ек
+plu_dat: хо­зя́й­кам
+plu_acc: хо­зя́­ек
+plu_ins: хо­зя́й­ка­ми
+plu_pre: хо­зя́й­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

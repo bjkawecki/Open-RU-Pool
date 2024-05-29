@@ -1,0 +1,42 @@
+name: запоминать
+name_ac: запомина́ть
+publ_id:
+wordcls: verb
+translation:
+   - sich merken
+aspect: imperfective
+partner: запо́мнить
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: accusative
+preposition:
+is_reflexive:
+pre_sin_1: за­по­ми­на́ю
+pre_sin_2: за­по­ми­на́­ешь
+pre_sin_3: за­по­ми­на́­ет
+pre_plu_1: за­по­ми­на́­ем
+pre_plu_2: за­по­ми­на́­ете
+pre_plu_3: за­по­ми­на́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: за­по­ми­на́л
+pas_fem: за­по­ми­на́­ла
+pas_neu: за­по­ми­на́­ло
+pas_plu: за­по­ми­на́­ли
+par_pre_act: за­по­ми­на́­ющий
+par_pas_act: за­по­ми­на́в­ший
+par_pre_pas: за­по­ми­на́я
+par_pas_pas: за­по­ми­на́в­ши, за­по­ми­на́в
+par_adv_pre: за­по­ми­на́­емый
+par_adv_pas:
+imp_sin: за­по­ми­на́й
+imp_plu: за­по­ми­на́й­те
+comment:
+usage:
+etymol:

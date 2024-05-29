@@ -1,0 +1,42 @@
+name: нравиться
+name_ac: нра́виться
+publ_id:
+wordcls: verb
+translation:
+   - gefallen
+aspect: imperfective
+partner: понра́виться
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: dative
+preposition:
+is_reflexive:
+pre_sin_1: нра́в­люсь
+pre_sin_2: нра́­вишь­ся
+pre_sin_3: нра́­вит­ся
+pre_plu_1: нра́­вим­ся
+pre_plu_2: нра́­вит­есь
+pre_plu_3: нра́­вят­ся
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: нра́­вил­ся
+pas_fem: нра́­вил­ась
+pas_neu: нра́­вил­ось
+pas_plu: нра́­вил­ись
+par_pre_act: нра́­вя­щий­ся
+par_pas_act: нра́­вив­ший­ся
+par_pre_pas: нра́­вясь
+par_pas_pas: нра́­вив­шись
+par_adv_pre:
+par_adv_pas:
+imp_sin: нра́вь­ся
+imp_plu: нра́вь­тесь
+comment:
+usage:
+etymol:

@@ -1,0 +1,44 @@
+name: посылать
+name_ac: посыла́ть
+publ_id:
+wordcls: verb
+translation:
+   - schicken
+   - verschicken
+   - senden
+aspect: imperfective
+partner: посла́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: по­сы­ла́ю
+pre_sin_2: по­сы­ла́­ешь
+pre_sin_3: по­сы­ла́­ет
+pre_plu_1: по­сы­ла́­ем
+pre_plu_2: по­сы­ла́­ете
+pre_plu_3: по­сы­ла́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: по­сыл­а́л
+pas_fem: по­сы­ла́­ла
+pas_neu: по­сы­ла́­ло
+pas_plu: по­сы­ла́­ли
+par_pre_act: по­сы­ла́­ющий
+par_pas_act: по­сыл­а́в­ший
+par_pre_pas: по­сы­ла́я
+par_pas_pas: по­сыл­а́в­ши, по­сыл­а́в
+par_adv_pre: по­сы­ла́­емый
+par_adv_pas:
+imp_sin: по­сы­ла́й
+imp_plu: по­сы­ла́й­те
+comment:
+usage:
+etymol:

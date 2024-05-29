@@ -1,0 +1,29 @@
+wordcls: substantive
+name: внук
+name_ac: внук
+publ_id:
+translation:
+   - Enkel
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: внук
+sin_gen: вну́­ка
+sin_dat: вну́­ку
+sin_acc: вну́­ка
+sin_ins: вну́­ком
+sin_pre: вну́­ке
+plu_nom: вну́­ки
+plu_gen: вну́­ков
+plu_dat: вну́­кам
+plu_acc: вну́­ков
+plu_ins: вну́­ка­ми
+plu_pre: вну́­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

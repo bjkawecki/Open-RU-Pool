@@ -1,0 +1,43 @@
+name: рисовать
+name_ac: рисова́ть
+publ_id:
+wordcls: verb
+translation:
+   - zeichnen
+   - malen
+aspect: imperfective
+partner: нарисова́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: ри­су́ю
+pre_sin_2: ри­су́­ешь
+pre_sin_3: ри­су́­ет
+pre_plu_1: ри­су́­ем
+pre_plu_2: ри­су́­ете
+pre_plu_3: ри­су́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: ри­сов­а́л
+pas_fem: ри­со­ва́­ла
+pas_neu: ри­со­ва́­ло
+pas_plu: ри­со­ва́­ли
+par_pre_act: ри­су́­ющий
+par_pas_act: ри­сов­а́в­ший
+par_pre_pas: ри­су́я
+par_pas_pas: ри­сов­а́в­ши, ри­сов­а́в
+par_adv_pre: ри­су́­емый
+par_adv_pas: ри­со́в­ан­ный
+imp_sin: ри­су́й
+imp_plu: ри­су́й­те
+comment:
+usage:
+etymol:

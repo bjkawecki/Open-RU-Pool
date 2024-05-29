@@ -1,0 +1,30 @@
+wordcls: substantive
+name: учёный
+name_ac: учёный
+publ_id:
+translation:
+   - Wissenschaftler
+   - Gelehrter
+genus: masculine
+dec_cls: adjective
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: учёный
+sin_gen: учё­но­го
+sin_dat: учё­но­му
+sin_acc: учё­но­го
+sin_ins: учё­ным
+sin_pre: учё­ном
+plu_nom: учё­ные
+plu_gen: учё­ных
+plu_dat: учё­ным
+plu_acc: учё­ных
+plu_ins: учё­ны­ми
+plu_pre: учё­ных
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,42 @@
+name: танцевать
+name_ac: танцева́ть
+publ_id:
+wordcls: verb
+translation:
+   - tanzen
+aspect: imperfective
+partner: станцева́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: тан­цу́ю
+pre_sin_2: тан­цу́­ешь
+pre_sin_3: тан­цу́­ет
+pre_plu_1: тан­цу́­ем
+pre_plu_2: тан­цу́­ете
+pre_plu_3: тан­цу́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: тан­це­ва́л
+pas_fem: тан­це­ва́­ла
+pas_neu: тан­це­ва́­ло
+pas_plu: тан­це­ва́­ли
+par_pre_act: тан­цу́­ющий
+par_pas_act: тан­це­ва́в­ший
+par_pre_pas: тан­цу́я
+par_pas_pas: тан­це­ва́в­ши, тан­це­ва́в
+par_adv_pre: тан­цу́­емый
+par_adv_pas: тан­цо́­ван­ный
+imp_sin: тан­цу́й
+imp_plu: тан­цу́й­те
+comment:
+usage:
+etymol:

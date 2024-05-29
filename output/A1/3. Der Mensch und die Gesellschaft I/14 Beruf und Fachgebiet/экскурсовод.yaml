@@ -1,0 +1,29 @@
+wordcls: substantive
+name: экскурсовод
+name_ac: экскурсово́д
+publ_id:
+translation:
+   - Fremdenführer
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: экскурсово́д
+sin_gen: экс­кур­со­во́­да
+sin_dat: экс­кур­со­во́­ду
+sin_acc: экс­кур­со­во́­да
+sin_ins: экс­кур­со­во́д­ом
+sin_pre: экс­кур­со­во́­де
+plu_nom: экс­кур­со­во́­ды
+plu_gen: экс­кур­со­во́д­ов
+plu_dat: экс­кур­со­во́д­ам
+plu_acc: экс­кур­со­во́д­ов
+plu_ins: экс­кур­со­во́­да­ми
+plu_pre: экс­кур­со­во́д­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

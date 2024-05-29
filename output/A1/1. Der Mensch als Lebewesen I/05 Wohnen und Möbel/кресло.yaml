@@ -1,0 +1,29 @@
+wordcls: substantive
+name: кресло
+name_ac: кре́сло
+publ_id:
+translation:
+   - Sessel
+genus: neutral
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: кре́сло
+sin_gen: кре́с­ла
+sin_dat: кре́с­лу
+sin_acc: кре́с­ло
+sin_ins: кре́с­лом
+sin_pre: кре́с­ле
+plu_nom: кре́с­ла
+plu_gen: кре́­сел
+plu_dat: кре́с­лам
+plu_acc: кре́с­ла
+plu_ins: кре́с­ла­ми
+plu_pre: кре́с­лах
+partitive:
+locative:
+comment:
+usage:
+etymol:

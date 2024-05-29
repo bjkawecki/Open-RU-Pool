@@ -1,0 +1,40 @@
+name: здоровый
+name_ac: здоро́вый
+publ_id:
+wordcls: adjective
+translation:
+   - gesund
+is_gradable: true
+mas_nom: здоро́вый
+mas_gen: здорового
+mas_dat: здо­ро́­во­му
+mas_acc: здо­ро́­вый
+mas_ins: здо­ро́в­ым
+mas_pre: здо­ро́в­ом
+fem_nom: здо­ро́­вая
+fem_gen: здо­ро́­вой
+fem_dat: здо­ро́­вой
+fem_acc: здо­ро́­вую
+fem_ins: здо­ро́­вой
+fem_pre: здо­ро́­вой
+neu_nom: здо­ро́­вое
+neu_gen: здорового
+neu_dat: здо­ро́­во­му
+neu_acc: здо­ро́­вое
+neu_ins: здо­ро́в­ым
+neu_pre: здо­ро́в­ом
+plu_nom: здо­ро́­вые
+plu_gen: здо­ро́в­ых
+plu_dat: здо­ро́в­ым
+plu_acc: здо­ро́­вые
+plu_ins: здо­ро́­вы­ми
+plu_pre: здо­ро́в­ых
+sho_mas: здо­ро́в
+sho_fem: здо­ро́­ва
+sho_neu: здо­ро́­во
+sho_plu: здо­ро́­вы
+compara: здо­ро­ве́е
+superla: самый здоро́вый
+comment:
+usage:
+etymol:

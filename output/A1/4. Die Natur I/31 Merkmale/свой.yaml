@@ -1,0 +1,41 @@
+name: свой
+name_ac: свой
+publ_id:
+wordcls: pronoun
+translation:
+   - eigener
+pro_type: possessive
+dec_type: '1'
+mas_nom: свой
+mas_gen: сво­его́
+mas_dat: сво­ему́
+mas_acc: свой
+mas_ins: сво­и́м
+mas_pre: сво­ём
+fem_nom: своя́
+fem_gen: сво­е́й
+fem_dat: сво­е́й
+fem_acc: свою́
+fem_ins: сво­е́й
+fem_pre: сво­е́й
+neu_nom: своё
+neu_gen: сво­его́
+neu_dat: сво­ему́
+neu_acc: своё
+neu_ins: сво­и́м
+neu_pre: сво­ём
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: свои́
+plu_gen: сво­и́х
+plu_dat: сво­и́м
+plu_acc: свои́
+plu_ins: сво­и́ми
+plu_pre: сво­и́х
+comment:
+usage:
+etymol:

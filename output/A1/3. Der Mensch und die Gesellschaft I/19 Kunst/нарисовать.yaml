@@ -1,0 +1,43 @@
+name: нарисовать
+name_ac: нарисова́ть
+publ_id:
+wordcls: verb
+translation:
+   - zeichnen
+   - malen
+aspect: perfective
+partner: рисова́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: на­ри­су́ю
+fut_sin_2: на­ри­су́­ешь
+fut_sin_3: на­ри­су́­ет
+fut_plu_1: на­ри­су́­ем
+fut_plu_2: на­ри­су́­ете
+fut_plu_3: на­ри­су́­ют
+pas_mas: на­ри­со­ва́л
+pas_fem: на­ри­со­ва́­ла
+pas_neu: на­ри­со­ва́­ло
+pas_plu: на­ри­со­ва́­ли
+par_pre_act:
+par_pas_act: на­ри­со­ва́в­ший
+par_pre_pas:
+par_pas_pas: на­ри­со­ва́в­ши, на­ри­со­ва́в
+par_adv_pre:
+par_adv_pas: на­ри­со́­ван­ный
+imp_sin: на­ри­су́й
+imp_plu: на­ри­су́й­те
+comment:
+usage:
+etymol:

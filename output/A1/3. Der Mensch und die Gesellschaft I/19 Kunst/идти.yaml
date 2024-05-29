@@ -1,0 +1,42 @@
+name: идти
+name_ac: идти́
+publ_id:
+wordcls: verb
+translation:
+   - gehen
+aspect: imperfective
+partner: пойти́
+conjugation: e
+is_motion_verb: true
+motion_partner: ходить
+direction: uni
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: иду́
+pre_sin_2: ид­ёшь
+pre_sin_3: ид­ёт
+pre_plu_1: ид­ём
+pre_plu_2: идё­те
+pre_plu_3: ид­у́т
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: шёл
+pas_fem: шла
+pas_neu: шло
+pas_plu: шли
+par_pre_act: иду́­щий
+par_pas_act: ше́д­ший
+par_pre_pas: идя́
+par_pas_pas: ше́д­ши
+par_adv_pre:
+par_adv_pas:
+imp_sin: иди́
+imp_plu: иди́­те
+comment:
+usage:
+etymol:

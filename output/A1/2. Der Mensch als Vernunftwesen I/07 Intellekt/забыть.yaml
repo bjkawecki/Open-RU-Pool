@@ -1,0 +1,42 @@
+name: забыть
+name_ac: забы́ть
+publ_id:
+wordcls: verb
+translation:
+   - vergessen
+aspect: perfective
+partner: забыва́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: accusative
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: забуду
+fut_sin_2: забудешь
+fut_sin_3: забудет
+fut_plu_1: забудем
+fut_plu_2: забудете
+fut_plu_3: забудут
+pas_mas: забыл
+pas_fem: забыла
+pas_neu: забыло
+pas_plu: забыли
+par_pre_act:
+par_pas_act: забывший
+par_pre_pas:
+par_pas_pas: забывши, забыв
+par_adv_pre:
+par_adv_pas: забытый
+imp_sin: забудь
+imp_plu: забудьте
+comment:
+usage:
+etymol:

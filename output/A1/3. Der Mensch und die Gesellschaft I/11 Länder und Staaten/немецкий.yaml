@@ -1,0 +1,40 @@
+name: немецкий
+name_ac: неме́цкий
+publ_id:
+wordcls: adjective
+translation:
+   - deutsch
+is_gradable:
+mas_nom: неме́цкий
+mas_gen: не­ме́ц­ко­го
+mas_dat: не­ме́ц­ко­му
+mas_acc: неме́цкий
+mas_ins: не­ме́ц­ким
+mas_pre: не­ме́ц­ком
+fem_nom: не­ме́ц­кая
+fem_gen: не­ме́ц­кой
+fem_dat: не­ме́ц­кой
+fem_acc: не­ме́ц­кую
+fem_ins: не­ме́ц­кой
+fem_pre: не­ме́ц­кой
+neu_nom: не­ме́ц­кое
+neu_gen: не­ме́ц­ко­го
+neu_dat: не­ме́ц­ко­му
+neu_acc: не­ме́ц­кое
+neu_ins: не­ме́ц­ким
+neu_pre: не­ме́ц­ком
+plu_nom: не­ме́ц­кие
+plu_gen: не­ме́ц­ких
+plu_dat: не­ме́ц­ким
+plu_acc: не­ме́ц­кие
+plu_ins: не­ме́ц­ки­ми
+plu_pre: не­ме́ц­ких
+sho_mas:
+sho_fem:
+sho_neu:
+sho_plu:
+compara:
+superla:
+comment:
+usage:
+etymol:

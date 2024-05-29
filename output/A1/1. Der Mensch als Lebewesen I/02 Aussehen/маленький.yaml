@@ -1,0 +1,40 @@
+name: маленький
+name_ac: ма́ленький
+publ_id:
+wordcls: adjective
+translation:
+   - klein
+is_gradable: true
+mas_nom: ма́ленький
+mas_gen: ма́­лень­ко­го
+mas_dat: ма́­лень­ко­му
+mas_acc: ма́­лень­кий
+mas_ins: ма́­лень­ким
+mas_pre: ма́­лень­ком
+fem_nom: ма́­лень­кая
+fem_gen: ма́­лень­кой
+fem_dat: ма́­лень­кой
+fem_acc: ма́­лень­кую
+fem_ins: ма́­лень­кой
+fem_pre: ма́­лень­кой
+neu_nom: ма́­лень­кое
+neu_gen: ма́­лень­ко­го
+neu_dat: ма́­лень­ко­му
+neu_acc: ма́­лень­кое
+neu_ins: ма́­лень­ким
+neu_pre: ма́­лень­ком
+plu_nom: ма́­лень­кие
+plu_gen: ма́­лень­ких
+plu_dat: ма́­лень­ким
+plu_acc: ма́­лень­кие
+plu_ins: ма́­лень­ки­ми
+plu_pre: ма́­лень­ких
+sho_mas: мал
+sho_fem: ма­ла́
+sho_neu: ма­ло́
+sho_plu: ма­лы́
+compara: ме́нь­ше
+superla: самый ма́ленький
+comment:
+usage:
+etymol:

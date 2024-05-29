@@ -1,0 +1,40 @@
+name: старый
+name_ac: ста́рый
+publ_id:
+wordcls: adjective
+translation:
+   - alt
+is_gradable: true
+mas_nom: ста́рый
+mas_gen: ста́­ро­го
+mas_dat: ста́­ро­му
+mas_acc: ста́рый
+mas_ins: ста́­рым
+mas_pre: ста́­ром
+fem_nom: ста́­рая
+fem_gen: ста́­рой
+fem_dat: ста́­рой
+fem_acc: ста́­рую
+fem_ins: ста́­рой
+fem_pre: ста́­рой
+neu_nom: ста́­рое
+neu_gen: ста́­ро­го
+neu_dat: ста́­ро­му
+neu_acc: ста́­рое
+neu_ins: ста́­рым
+neu_pre: ста́­ром
+plu_nom: ста́­рые
+plu_gen: ста́­рых
+plu_dat: ста́­рым
+plu_acc: ста́­рые
+plu_ins: ста́­ры­ми
+plu_pre: ста́­рых
+sho_mas: стар
+sho_fem: ста­ра́
+sho_neu: ста́­ро
+sho_plu: ста́­ры
+compara: ста­ре́е
+superla: самый ста́рый
+comment:
+usage:
+etymol:

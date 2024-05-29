@@ -1,0 +1,29 @@
+wordcls: substantive
+name: сумка
+name_ac: су́мка
+publ_id:
+translation:
+   - Tasche
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: су́мка
+sin_gen: су́м­ки
+sin_dat: су́м­ке
+sin_acc: су́м­ку
+sin_ins: су́м­кой
+sin_pre: су́м­ке
+plu_nom: су́м­ки
+plu_gen: су́­мок
+plu_dat: су́м­кам
+plu_acc: су́м­ки
+plu_ins: су́м­ка­ми
+plu_pre: су́м­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

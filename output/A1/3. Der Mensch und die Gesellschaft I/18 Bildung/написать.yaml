@@ -1,0 +1,42 @@
+name: написать
+name_ac: написа́ть
+publ_id:
+wordcls: verb
+translation:
+   - schreiben
+aspect: perfective
+partner: писа́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: на­пи­шу́
+fut_sin_2: на­пи́ш­ешь
+fut_sin_3: на­пи́ш­ет
+fut_plu_1: на­пи́ш­ем
+fut_plu_2: на­пи́­ше­те
+fut_plu_3: на­пи́ш­ут
+pas_mas: на­пис­а́л
+pas_fem: на­пи­са́­ла
+pas_neu: на­пи­са́­ло
+pas_plu: на­пи­са́­ли
+par_pre_act:
+par_pas_act: на­пис­а́в­ший
+par_pre_pas:
+par_pas_pas: на­пис­а́в­ши, на­пис­а́в
+par_adv_pre:
+par_adv_pas: на­пи́с­ан­ный
+imp_sin: на­пи­ши́
+imp_plu: на­пи­ши́­те
+comment:
+usage:
+etymol:

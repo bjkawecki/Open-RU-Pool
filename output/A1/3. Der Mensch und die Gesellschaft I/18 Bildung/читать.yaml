@@ -1,0 +1,42 @@
+name: читать
+name_ac: чита́ть
+publ_id:
+wordcls: verb
+translation:
+   - lesen
+aspect: imperfective
+partner: прочита́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: чи­та́ю
+pre_sin_2: чи­та́­ешь
+pre_sin_3: чи­та́­ет
+pre_plu_1: чи­та́­ем
+pre_plu_2: чи­та́­ете
+pre_plu_3: чи­та́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: чи­та́л
+pas_fem: чи­та́­ла
+pas_neu: чи­та́­ло
+pas_plu: чи­та́­ли
+par_pre_act: чи­та́­ющий
+par_pas_act: чи­та́в­ший
+par_pre_pas: чи­та́я
+par_pas_pas: чи­та́в­ши, чи­та́в
+par_adv_pre: чи­та́­емый
+par_adv_pas: чи́­тан­ный
+imp_sin: чи­та́й
+imp_plu: чи­та́й­те
+comment:
+usage:
+etymol:

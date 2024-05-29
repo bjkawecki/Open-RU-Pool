@@ -1,0 +1,40 @@
+name: младший
+name_ac: мла́дший
+publ_id:
+wordcls: adjective
+translation:
+   - jüngerer
+is_gradable:
+mas_nom: мла́дший
+mas_gen: мла́д­ше­го
+mas_dat: мла́д­шему
+mas_acc: мла́дший
+mas_ins: мла́д­шим
+mas_pre: мла́д­шем
+fem_nom: мла́д­шая
+fem_gen: мла́д­шей
+fem_dat: мла́д­шей
+fem_acc: мла́д­шую
+fem_ins: мла́д­шей
+fem_pre: мла́д­шей
+neu_nom: мла́д­шее
+neu_gen: мла́д­ше­го
+neu_dat: мла́д­ше­му
+neu_acc: мла́д­шее
+neu_ins: мла́д­шим
+neu_pre: мла́д­шем
+plu_nom: мла́д­шие
+plu_gen: мла́д­шие
+plu_dat: мла́д­шим
+plu_acc: мла́д­шие
+plu_ins: мла́д­ши­ми
+plu_pre: мла́д­ших
+sho_mas:
+sho_fem:
+sho_neu:
+sho_plu:
+compara:
+superla:
+comment:
+usage:
+etymol:

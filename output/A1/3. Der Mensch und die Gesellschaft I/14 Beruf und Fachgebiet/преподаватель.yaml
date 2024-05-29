@@ -1,0 +1,29 @@
+wordcls: substantive
+name: преподаватель
+name_ac: преподава́тель
+publ_id:
+translation:
+   - Lehrer
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: преподава́тель
+sin_gen: пре­по­да­ва́­те­ля
+sin_dat: пре­по­да­ва́­те­лю
+sin_acc: пре­по­да­ва́­те­ля
+sin_ins: пре­по­да­ва́­те­лем
+sin_pre: пре­по­да­ва́­те­ле
+plu_nom: пре­по­да­ва́­те­ли
+plu_gen: пре­по­да­ва́­те­лей
+plu_dat: пре­по­да­ва́­те­лям
+plu_acc: пре­по­да­ва́­те­лей
+plu_ins: пре­по­да­ва́­те­ля­ми
+plu_pre: пре­по­да­ва́­те­лях
+partitive:
+locative:
+comment: allgemein
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: марка
+name_ac: ма́рка
+publ_id:
+translation:
+   - Marke
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ма́рка
+sin_gen: ма́р­ки
+sin_dat: ма́р­ке
+sin_acc: ма́р­ку
+sin_ins: ма́р­кой
+sin_pre: ма́р­ке
+plu_nom: ма́р­ки
+plu_gen: ма́­рок
+plu_dat: ма́р­кам
+plu_acc: ма́р­ки
+plu_ins: ма́р­ка­ми
+plu_pre: ма́р­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

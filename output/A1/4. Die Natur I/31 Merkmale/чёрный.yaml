@@ -1,0 +1,40 @@
+name: чёрный
+name_ac: чёрный
+publ_id:
+wordcls: adjective
+translation:
+   - schwarz
+is_gradable: true
+mas_nom: чёрный
+mas_gen: чёр­но­го
+mas_dat: чёр­но­му
+mas_acc: чёрный
+mas_ins: чёр­ным
+mas_pre: чёр­ном
+fem_nom: чёр­ная
+fem_gen: чёр­ной
+fem_dat: чёр­ной
+fem_acc: чёр­ную
+fem_ins: чёр­ной
+fem_pre: чёр­ной
+neu_nom: чёр­ное
+neu_gen: чёр­но­го
+neu_dat: чёр­но­му
+neu_acc: чёр­ное
+neu_ins: чёр­ным
+neu_pre: чёр­ном
+plu_nom: чёр­ные
+plu_gen: чёр­ных
+plu_dat: чёр­ным
+plu_acc: чёр­ные
+plu_ins: чёр­ны­ми
+plu_pre: чёр­ных
+sho_mas: чё­рен
+sho_fem: чер­на́
+sho_neu: чер­но́
+sho_plu: чер­ны́
+compara: чер­не́е
+superla: самый чёрный
+comment:
+usage:
+etymol:

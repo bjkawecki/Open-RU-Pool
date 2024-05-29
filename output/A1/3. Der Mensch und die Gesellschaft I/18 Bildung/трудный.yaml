@@ -1,0 +1,41 @@
+name: трудный
+name_ac: тру́дный
+publ_id:
+wordcls: adjective
+translation:
+   - schwierig
+   - anstrengend
+is_gradable: true
+mas_nom: тру́дный
+mas_gen: тру́д­но­го
+mas_dat: тру́д­но­му
+mas_acc: тру́дный
+mas_ins: тру́д­ным
+mas_pre: тру́д­ном
+fem_nom: тру́д­ная
+fem_gen: тру́д­ной
+fem_dat: тру́д­ной
+fem_acc: тру́д­ную
+fem_ins: тру́д­ной
+fem_pre: тру́д­ной
+neu_nom: тру́д­ное
+neu_gen: тру́д­но­го
+neu_dat: тру́д­но­му
+neu_acc: тру́д­ное
+neu_ins: тру́д­ным
+neu_pre: тру́д­ном
+plu_nom: тру́д­ные
+plu_gen: тру́д­ных
+plu_dat: тру́д­ным
+plu_acc: тру́д­ные
+plu_ins: тру́д­ны­ми
+plu_pre: тру́д­ных
+sho_mas: тру́­ден
+sho_fem: труд­на́
+sho_neu: тру́д­но
+sho_plu: тру́д­ны
+compara: труд­не́е
+superla: самый тру́дный
+comment:
+usage:
+etymol:

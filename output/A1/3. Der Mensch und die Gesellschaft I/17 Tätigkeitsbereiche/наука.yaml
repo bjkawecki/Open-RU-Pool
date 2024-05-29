@@ -1,0 +1,29 @@
+wordcls: substantive
+name: наука
+name_ac: нау́ка
+publ_id:
+translation:
+   - Wissenschaft
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: нау́ка
+sin_gen: на­у́ки
+sin_dat: на­у́ке
+sin_acc: на­у́ку
+sin_ins: на­у́кой
+sin_pre: на­у́ке
+plu_nom: на­у́ки
+plu_gen: на­у́к
+plu_dat: на­у́к­ам
+plu_acc: на­у́ки
+plu_ins: на­у́ка­ми
+plu_pre: на­у́к­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

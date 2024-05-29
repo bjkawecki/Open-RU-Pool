@@ -1,0 +1,42 @@
+name: понравиться
+name_ac: понра́виться
+publ_id:
+wordcls: verb
+translation:
+   - gefallen
+aspect: perfective
+partner: нра́виться
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: пон­ра́­влюсь
+fut_sin_2: пон­ра́­вишь­ся
+fut_sin_3: пон­ра́­вит­ся
+fut_plu_1: пон­ра́­вим­ся
+fut_plu_2: пон­ра́­вит­есь
+fut_plu_3: пон­ра́­вят­ся
+pas_mas: пон­ра́­вил­ся
+pas_fem: пон­ра́­вил­ась
+pas_neu: пон­ра́­вил­ось
+pas_plu: пон­ра́­вил­ись
+par_pre_act:
+par_pas_act: пон­ра́­вив­ший­ся
+par_pre_pas:
+par_pas_pas: пон­ра́­вив­шись
+par_adv_pre:
+par_adv_pas:
+imp_sin: пон­ра́вь­ся
+imp_plu: пон­ра́вь­тесь
+comment:
+usage:
+etymol:

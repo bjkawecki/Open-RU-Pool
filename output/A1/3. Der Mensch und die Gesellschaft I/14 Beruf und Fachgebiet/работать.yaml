@@ -1,0 +1,42 @@
+name: работать
+name_ac: рабо́тать
+publ_id:
+wordcls: verb
+translation:
+   - arbeiten
+aspect: imperfective
+partner: порабо́тать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: ра­бо́­таю
+pre_sin_2: ра­бо́­та­ешь
+pre_sin_3: ра­бо́­та­ет
+pre_plu_1: ра­бо́­та­ем
+pre_plu_2: ра­бо́­та­ете
+pre_plu_3: ра­бо́­та­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: ра­бо́т­ал
+pas_fem: ра­бо́­та­ла
+pas_neu: ра­бо́­та­ло
+pas_plu: ра­бо́­та­ли
+par_pre_act: ра­бо́­та­ющий
+par_pas_act: ра­бо́т­ав­ший
+par_pre_pas: ра­бо́­тая
+par_pas_pas: ра­бо́т­ав­ши, ра­бо́т­ав
+par_adv_pre:
+par_adv_pas:
+imp_sin: ра­бо́­тай
+imp_plu: ра­бо́­тай­те
+comment:
+usage:
+etymol:

@@ -1,0 +1,40 @@
+name: большой
+name_ac: большо́й
+publ_id:
+wordcls: adjective
+translation:
+   - groß
+is_gradable: true
+mas_nom: большо́й
+mas_gen: боль­шо́­го
+mas_dat: боль­шо́­му
+mas_acc: большой
+mas_ins: боль­ши́м
+mas_pre: боль­шо́м
+fem_nom: боль­ша́я
+fem_gen: боль­шо́й
+fem_dat: боль­шо́й
+fem_acc: боль­шу́ю
+fem_ins: боль­шо́й
+fem_pre: боль­шо́й
+neu_nom: боль­шо́е
+neu_gen: боль­шо́­го
+neu_dat: боль­шо́­му
+neu_acc: боль­шо́е
+neu_ins: боль­ши́м
+neu_pre: боль­шо́м
+plu_nom: боль­ши́е
+plu_gen: боль­ши́х
+plu_dat: боль­ши́м
+plu_acc: боль­ши́е
+plu_ins: боль­ши́­ми
+plu_pre: боль­ши́х
+sho_mas: ве­ли́к
+sho_fem: ве­ли­ка́
+sho_neu: ве­ли­ко́
+sho_plu: ве­ли­ки́
+compara: бо́ль­ше
+superla: самый большой
+comment:
+usage:
+etymol:

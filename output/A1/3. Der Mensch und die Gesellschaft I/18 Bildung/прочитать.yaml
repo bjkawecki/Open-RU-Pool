@@ -1,0 +1,42 @@
+name: прочитать
+name_ac: прочита́ть
+publ_id:
+wordcls: verb
+translation:
+   - durchlesen
+aspect: perfective
+partner: чита́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: про­чи­та́ю
+fut_sin_2: про­чи­та́­ешь
+fut_sin_3: про­чи­та́­ет
+fut_plu_1: про­чи­та́­ем
+fut_plu_2: про­чи­та́­ете
+fut_plu_3: про­чи­та́­ют
+pas_mas: про­чит­а́л
+pas_fem: про­чи­та́­ла
+pas_neu: про­чи­та́­ло
+pas_plu: про­чи­та́­ли
+par_pre_act:
+par_pas_act: про­чит­а́в­ший
+par_pre_pas:
+par_pas_pas: прочитавши, прочитав
+par_adv_pre:
+par_adv_pas: про­чи́т­ан­ный
+imp_sin: про­чи­та́й
+imp_plu: про­чи­та́й­те
+comment:
+usage:
+etymol:

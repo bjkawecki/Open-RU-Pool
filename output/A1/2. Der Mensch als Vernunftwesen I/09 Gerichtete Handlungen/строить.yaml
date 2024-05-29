@@ -1,0 +1,42 @@
+name: строить
+name_ac: стро́ить
+publ_id:
+wordcls: verb
+translation:
+   - bauen
+aspect: imperfective
+partner: постро́ить
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: стро́ю
+pre_sin_2: стро́­ишь
+pre_sin_3: стро́­ит
+pre_plu_1: стро́­им
+pre_plu_2: стро́­ите
+pre_plu_3: стро́­ят
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: стро́­ил
+pas_fem: стро́­ила
+pas_neu: стро́­ило
+pas_plu: стро́­или
+par_pre_act: стро́­ящий
+par_pas_act: стро́­ив­ший
+par_pre_pas: стро́я
+par_pas_pas: стро́­ив­ши, стро́­ив
+par_adv_pre: стро́­имый
+par_adv_pas: стро́­ен­ный
+imp_sin: строй
+imp_plu: стро́й­те
+comment:
+usage:
+etymol:

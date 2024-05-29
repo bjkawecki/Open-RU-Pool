@@ -1,0 +1,40 @@
+name: больной
+name_ac: больной
+publ_id:
+wordcls: adjective
+translation:
+   - krank
+is_gradable: true
+mas_nom: боль­но́й
+mas_gen: боль­но́­го
+mas_dat: боль­но́­му
+mas_acc: боль­но́й
+mas_ins: боль­ны́м
+mas_pre: боль­но́м
+fem_nom: боль­на́я
+fem_gen: боль­но́й
+fem_dat: боль­но́й
+fem_acc: боль­ну́ю
+fem_ins: боль­но́й
+fem_pre: боль­но́й
+neu_nom: боль­но́е
+neu_gen: боль­но́­го
+neu_dat: боль­но́­му
+neu_acc: боль­но́е
+neu_ins: боль­ны́м
+neu_pre: боль­но́м
+plu_nom: боль­ны́е
+plu_gen: боль­ны́х
+plu_dat: боль­ны́м
+plu_acc: боль­ны́е
+plu_ins: боль­ны́­ми
+plu_pre: боль­ны́х
+sho_mas: бо́­лен
+sho_fem: боль­на́
+sho_neu: боль­но́
+sho_plu: боль­ны́
+compara: боль­не́е
+superla: самый бо́лный
+comment:
+usage:
+etymol:

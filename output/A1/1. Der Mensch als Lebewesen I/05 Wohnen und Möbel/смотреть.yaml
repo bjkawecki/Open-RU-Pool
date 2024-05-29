@@ -1,0 +1,43 @@
+name: смотреть
+name_ac: смотре́ть
+publ_id:
+wordcls: verb
+translation:
+   - schauen
+   - anschauen
+aspect: imperfective
+partner: посмотре́ть
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: смот­рю́
+pre_sin_2: смо́т­ришь
+pre_sin_3: смо́т­рит
+pre_plu_1: смо́т­рим
+pre_plu_2: смо́т­ри­те
+pre_plu_3: смо́т­рят
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: смот­ре́л
+pas_fem: смот­ре́­ла
+pas_neu: смот­ре́­ло
+pas_plu: смот­ре́­ли
+par_pre_act: смот­ря́­щий
+par_pas_act: смот­ре́­вший
+par_pre_pas: смот­ря́
+par_pas_pas: смот­ре́­вши, смот­ре́в
+par_adv_pre: смот­ри́­мый
+par_adv_pas: смо́т­рен­ный
+imp_sin: смот­ри́
+imp_plu: смот­ри́­те
+comment:
+usage:
+etymol:

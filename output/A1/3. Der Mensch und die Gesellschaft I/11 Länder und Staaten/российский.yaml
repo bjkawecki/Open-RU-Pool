@@ -1,0 +1,40 @@
+name: российский
+name_ac: росси́йский
+publ_id:
+wordcls: adjective
+translation:
+   - russländisch
+is_gradable:
+mas_nom: российский
+mas_gen: рос­си́й­ско­го
+mas_dat: рос­си́й­ско­му
+mas_acc: российский
+mas_ins: рос­си́й­ским
+mas_pre: рос­си́й­ском
+fem_nom: рос­си́й­ская
+fem_gen: рос­си́й­ской
+fem_dat: рос­си́й­ской
+fem_acc: рос­си́й­скую
+fem_ins: рос­си́й­ской
+fem_pre: рос­си́й­ской
+neu_nom: рос­си́й­ское
+neu_gen: рос­си́й­ско­го
+neu_dat: рос­си́й­ско­му
+neu_acc: рос­си́й­ское
+neu_ins: рос­си́й­ским
+neu_pre: рос­си́й­ском
+plu_nom: рос­си́й­ские
+plu_gen: рос­си́й­ских
+plu_dat: рос­си́й­ским
+plu_acc: рос­си́й­ские
+plu_ins: рос­си́й­ски­ми
+plu_pre: рос­си́й­ских
+sho_mas:
+sho_fem:
+sho_neu:
+sho_plu:
+compara:
+superla:
+comment:
+usage:
+etymol:

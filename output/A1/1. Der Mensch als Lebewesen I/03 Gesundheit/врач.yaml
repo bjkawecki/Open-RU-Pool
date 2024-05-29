@@ -1,0 +1,29 @@
+wordcls: substantive
+name: врач
+name_ac: врач
+publ_id:
+translation:
+   - Arzt
+genus: masculine
+dec_cls: class_2
+stress: suffix
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: врач
+sin_gen: вра­ча́
+sin_dat: вра­чу́
+sin_acc: вра­ча́
+sin_ins: вра­чо́м
+sin_pre: вра­че́
+plu_nom: вра­чи́
+plu_gen: вра­че́й
+plu_dat: вра­ча́м
+plu_acc: вра­че́й
+plu_ins: вра­ча́­ми
+plu_pre: вра­ча́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

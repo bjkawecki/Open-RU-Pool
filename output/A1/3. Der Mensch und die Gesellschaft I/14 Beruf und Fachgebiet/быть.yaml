@@ -1,0 +1,42 @@
+name: быть
+name_ac: быть
+publ_id:
+wordcls: verb
+translation:
+   - sein
+aspect: imperfective
+partner:
+conjugation:
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3: есть
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: бу́­ду
+fut_sin_2: бу́­дешь
+fut_sin_3: бу́­дет
+fut_plu_1: бу́­дем
+fut_plu_2: бу́­де­те
+fut_plu_3: бу́­дут
+pas_mas: был
+pas_fem: бы­ла́
+pas_neu: бы́­ло
+pas_plu: бы́­ли
+par_pre_act: бу́­ду­щий
+par_pas_act: бы́в­ший
+par_pre_pas:
+par_pas_pas: бу́­ду­чи
+par_adv_pre:
+par_adv_pas:
+imp_sin: будь
+imp_plu: бу́дь­те
+comment:
+usage:
+etymol:

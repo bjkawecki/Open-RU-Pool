@@ -1,0 +1,40 @@
+name: зелёный
+name_ac: зелёный
+publ_id:
+wordcls: adjective
+translation:
+   - grün
+is_gradable: true
+mas_nom: зелёный
+mas_gen: зе­лё­но­го
+mas_dat: зе­лё­но­му
+mas_acc: зелёный
+mas_ins: зе­лён­ым
+mas_pre: зе­лён­ом
+fem_nom: зе­лё­ная
+fem_gen: зе­лё­ной
+fem_dat: зе­лё­ной
+fem_acc: зе­лё­ную
+fem_ins: зе­лё­ной
+fem_pre: зе­лё­ной
+neu_nom: зе­лё­ное
+neu_gen: зе­лё­но­го
+neu_dat: зе­лё­но­му
+neu_acc: зе­лё­ное
+neu_ins: зе­лён­ым
+neu_pre: зе­лён­ом
+plu_nom: зе­лё­ные
+plu_gen: зе­лён­ых
+plu_dat: зе­лён­ым
+plu_acc: зе­лё­ные
+plu_ins: зе­лё­ны­ми
+plu_pre: зе­лён­ых
+sho_mas: зе́­лен
+sho_fem: зе­ле­на́
+sho_neu: зе́­ле­но
+sho_plu: зе́­ле­ны
+compara: зе­ле­не́е
+superla: самый зелёный
+comment:
+usage:
+etymol:

@@ -1,0 +1,42 @@
+name: помочь
+name_ac: помо́чь
+publ_id:
+wordcls: verb
+translation:
+   - helfen
+aspect: perfective
+partner: помога́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: dative
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: по­мо­гу́
+fut_sin_2: по­мо́ж­ешь
+fut_sin_3: по­мо́ж­ет
+fut_plu_1: по­мо́ж­ем
+fut_plu_2: по­мо́­же­те
+fut_plu_3: по­мо́г­ут
+pas_mas: по­мо́г
+pas_fem: по­мог­ла́
+pas_neu: по­мог­ло́
+pas_plu: по­мог­ли́
+par_pre_act:
+par_pas_act: по­мо́г­ший
+par_pre_pas:
+par_pas_pas: по­мо́г­ши
+par_adv_pre:
+par_adv_pas:
+imp_sin: по­мо­ги́
+imp_plu: по­мо­ги́­те
+comment:
+usage:
+etymol:

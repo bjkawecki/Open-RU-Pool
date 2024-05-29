@@ -1,0 +1,29 @@
+wordcls: substantive
+name: дверь
+name_ac: дверь
+publ_id:
+translation:
+   - Tür
+genus: feminine
+dec_cls: class_3
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: дверь
+sin_gen: две́­ри
+sin_dat: две́­ри
+sin_acc: дверь
+sin_ins: две́рью
+sin_pre: две́­ри
+plu_nom: две́­ри
+plu_gen: две­ре́й
+plu_dat: две­ря́м
+plu_acc: две́­ри
+plu_ins: две­ря́­ми, дверь­ми́
+plu_pre: две­ря́х
+partitive:
+locative: в/на две­ри́
+comment:
+usage:
+etymol:

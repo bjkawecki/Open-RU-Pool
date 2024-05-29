@@ -1,0 +1,40 @@
+name: горячий
+name_ac: горя́чий
+publ_id:
+wordcls: adjective
+translation:
+   - heiß
+is_gradable: true
+mas_nom: горя́чий
+mas_gen: го­ря́­че­го
+mas_dat: го­ря́­че­му
+mas_acc: го­ря́­чий
+mas_ins: го­ря́ч­им
+mas_pre: го­ря́ч­ем
+fem_nom: го­ря́­чая
+fem_gen: го­ря́­чей
+fem_dat: го­ря́­чей
+fem_acc: го­ря́­чую
+fem_ins: го­ря́­чей
+fem_pre: го­ря́­чей
+neu_nom: го­ря́­чее
+neu_gen: го­ря́­че­го
+neu_dat: го­ря́­че­му
+neu_acc: го­ря́­чее
+neu_ins: го­ря́ч­им
+neu_pre: го­ря́ч­ем
+plu_nom: го­ря́­чие
+plu_gen: го­ря́ч­их
+plu_dat: го­ря́ч­им
+plu_acc: го­ря́­чие
+plu_ins: го­ря́­чи­ми
+plu_pre: го­ря́ч­их
+sho_mas: го­ря́ч
+sho_fem: го­ря­ча́
+sho_neu: го­ря­чо́
+sho_plu: го­ря­чи́
+compara: го­ря́­чее
+superla: самый горя́чий
+comment:
+usage:
+etymol:

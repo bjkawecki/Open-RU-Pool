@@ -1,0 +1,29 @@
+wordcls: substantive
+name: мясо
+name_ac: мя́со
+publ_id:
+translation:
+   - Fleisch
+genus: neutral
+dec_cls: class_2
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: мя́со
+sin_gen: мя́­са
+sin_dat: мя́­су
+sin_acc: мя́­со
+sin_ins: мя́­сом
+sin_pre: мя́­се
+plu_nom: мя­са́
+plu_gen: мяс
+plu_dat: мя­са́м
+plu_acc: мя­са́
+plu_ins: мя­са́­ми
+plu_pre: мя­са́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,43 @@
+name: встречать
+name_ac: встреча́ть
+publ_id:
+wordcls: verb
+translation:
+   - treffen
+   - begegnen
+aspect: imperfective
+partner: встре́тить
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: accusative
+preposition:
+is_reflexive:
+pre_sin_1: встре­ча́ю
+pre_sin_2: встре­ча́­ешь
+pre_sin_3: встре­ча́­ет
+pre_plu_1: встре­ча́­ем
+pre_plu_2: встре­ча́­ете
+pre_plu_3: встре­ча́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: встре­ча́л
+pas_fem: встре­ча́­ла
+pas_neu: встре­ча́­ло
+pas_plu: встре­ча́­ли
+par_pre_act: встре­ча́­ющий
+par_pas_act: встре­ча́в­ший
+par_pre_pas: встре­ча́я
+par_pas_pas: встре­ча́в­ши, встре­ча́в
+par_adv_pre: встре­ча́­емый
+par_adv_pas: встре­ча́й
+imp_sin: встре­ча́й­те
+imp_plu:
+comment:
+usage:
+etymol:

@@ -1,0 +1,44 @@
+name: сделать
+name_ac: сде́лать
+publ_id:
+wordcls: verb
+translation:
+   - machen
+   - tun
+   - herstellen
+aspect: perfective
+partner: де́лать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: сде́­лаю
+fut_sin_2: сде́­ла­ешь
+fut_sin_3: сде́­ла­ет
+fut_plu_1: сде́­ла­ем
+fut_plu_2: сде́­ла­ете
+fut_plu_3: сде́­ла­ют
+pas_mas: сде́­лал
+pas_fem: сде́­ла­ла
+pas_neu: сде́­ла­ло
+pas_plu: сде́­ла­ли
+par_pre_act:
+par_pas_act: сде́­лав­ший
+par_pre_pas:
+par_pas_pas: сде́­лав­ши, сде́­лав
+par_adv_pre:
+par_adv_pas: сде́­лан­ный
+imp_sin: сде́­лай
+imp_plu: сде́­лай­те
+comment:
+usage:
+etymol:

@@ -1,0 +1,41 @@
+name: мой
+name_ac: мой
+publ_id:
+wordcls: pronoun
+translation:
+   - mein
+pro_type: possessive
+dec_type: '1'
+mas_nom: мой
+mas_gen: мо­его́
+mas_dat: мо­ему́
+mas_acc: мой
+mas_ins: мо­и́м
+mas_pre: мо­ём
+fem_nom: моя́
+fem_gen: мо­е́й
+fem_dat: мо­е́й
+fem_acc: мою́
+fem_ins: мо­е́й
+fem_pre: мо­е́й
+neu_nom: моё
+neu_gen: мо­его́
+neu_dat: мо­ему́
+neu_acc: моё
+neu_ins: мо­и́м
+neu_pre: мо­ём
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: мои́
+plu_gen: мо­и́х
+plu_dat: мо­и́м
+plu_acc: мои́
+plu_ins: мо­и́ми
+plu_pre: мо­и́х
+comment:
+usage:
+etymol:

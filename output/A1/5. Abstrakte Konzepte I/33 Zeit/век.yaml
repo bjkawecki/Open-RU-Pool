@@ -1,0 +1,30 @@
+wordcls: substantive
+name: век
+name_ac: век
+publ_id:
+translation:
+   - Jahrhundert
+   - Zeitalter
+genus: masculine
+dec_cls: class_2
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: век
+sin_gen: ве́­ка
+sin_dat: ве́­ку
+sin_acc: век
+sin_ins: ве́­ком
+sin_pre: ве́­ке
+plu_nom: ве­ка́
+plu_gen: ве­ко́в
+plu_dat: ве­ка́м
+plu_acc: ве­ка́
+plu_ins: ве­ка́­ми
+plu_pre: ве­ка́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

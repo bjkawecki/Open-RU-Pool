@@ -1,0 +1,30 @@
+wordcls: substantive
+name: житель
+name_ac: жи́тель
+publ_id:
+translation:
+   - Einwohner
+   - Bewohner
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: жи́тель
+sin_gen: жи́­те­ля
+sin_dat: жи́­те­лю
+sin_acc: жи́­те­ля
+sin_ins: жи́­тел­ем
+sin_pre: жи́­те­ле
+plu_nom: жи́­те­ли
+plu_gen: жи́­те­лей
+plu_dat: жи́­тел­ям
+plu_acc: жи́­те­лей
+plu_ins: жи́­те­ля­ми
+plu_pre: жи́­тел­ях
+partitive:
+locative:
+comment:
+usage:
+etymol:

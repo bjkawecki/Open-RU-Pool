@@ -1,0 +1,30 @@
+wordcls: substantive
+name: столовая
+name_ac: столо́вая
+publ_id:
+translation:
+   - Kantine
+   - Esszimmer
+genus: feminine
+dec_cls: adjective
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: столо́вая
+sin_gen: сто­ло́­вой
+sin_dat: сто­ло́­вой
+sin_acc: сто­ло́­вую
+sin_ins: сто­ло́­вой
+sin_pre: сто­ло́­вой
+plu_nom: сто­ло́­вые
+plu_gen: сто­ло́в­ых
+plu_dat: сто­ло́в­ым
+plu_acc: сто­ло́­вые
+plu_ins: сто­ло́­вы­ми
+plu_pre: сто­ло́в­ых
+partitive:
+locative:
+comment:
+usage:
+etymol:

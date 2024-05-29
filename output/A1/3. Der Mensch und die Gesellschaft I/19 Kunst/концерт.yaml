@@ -1,0 +1,29 @@
+wordcls: substantive
+name: концерт
+name_ac: конце́рт
+publ_id:
+translation:
+   - Konzert
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: конце́рт
+sin_gen: кон­це́­рта
+sin_dat: кон­це́­рту
+sin_acc: кон­це́рт
+sin_ins: кон­це́­ртом
+sin_pre: кон­це́­рте
+plu_nom: кон­це́­рты
+plu_gen: кон­це́­ртов
+plu_dat: кон­це́­ртам
+plu_acc: кон­це́­рты
+plu_ins: кон­це́­рта­ми
+plu_pre: кон­це́­ртах
+partitive:
+locative:
+comment:
+usage:
+etymol:

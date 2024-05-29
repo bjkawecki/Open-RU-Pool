@@ -1,0 +1,30 @@
+wordcls: substantive
+name: фотоаппарат
+name_ac: фотоаппара́т
+publ_id:
+translation:
+   - Photoapparat
+   - Kamera
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: фотоаппара́т
+sin_gen: фо̀­то­ап­па­ра́­та
+sin_dat: фо̀­то­ап­па­ра́­ту
+sin_acc: фо̀­то­ап­па­ра́т
+sin_ins: фо̀­то­ап­па­ра́т­ом
+sin_pre: фо̀­то­ап­па­ра́­те
+plu_nom: фо̀­то­ап­па­ра́­ты
+plu_gen: фо̀­то­ап­па­ра́т­ов
+plu_dat: фо̀­то­ап­па­ра́т­ам
+plu_acc: фо̀­то­ап­па­ра́­ты
+plu_ins: фо̀­то­ап­па­ра́­та­ми
+plu_pre: фо̀­то­ап­па­ра́т­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

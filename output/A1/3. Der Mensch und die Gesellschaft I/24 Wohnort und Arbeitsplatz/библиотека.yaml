@@ -1,0 +1,29 @@
+wordcls: substantive
+name: библиотека
+name_ac: библиоте́ка
+publ_id:
+translation:
+   - Bibliothek
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: библиоте́ка
+sin_gen: биб­ли­оте́­ки
+sin_dat: биб­ли­оте́­ке
+sin_acc: биб­ли­оте́­ку
+sin_ins: биб­ли­оте́­кой
+sin_pre: биб­ли­оте́­ке
+plu_nom: биб­ли­оте́­ки
+plu_gen: биб­ли­от­е́к
+plu_dat: биб­ли­оте́­кам
+plu_acc: биб­ли­оте́­ки
+plu_ins: биб­ли­оте́­ка­ми
+plu_pre: биб­ли­оте́­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

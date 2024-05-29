@@ -1,0 +1,42 @@
+name: родиться
+name_ac: роди́ться
+publ_id:
+wordcls: verb
+translation:
+   - geboren werden
+aspect: perfective
+partner: рожда́ться
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive: true
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: ро­жу́сь
+fut_sin_2: ро­ди́шь­ся
+fut_sin_3: ро­ди́т­ся
+fut_plu_1: ро­ди́м­ся
+fut_plu_2: ро­ди́т­есь
+fut_plu_3: ро­дя́т­ся
+pas_mas: ро­ди́л­ся
+pas_fem: ро­дил­а́сь
+pas_neu: ро­ди́л­ось
+pas_plu: ро­ди́л­ись
+par_pre_act: ро­дя́­щий­ся
+par_pas_act: ро­ди́в­ший­ся
+par_pre_pas: ро­дя́сь
+par_pas_pas: ро­ди́в­шись
+par_adv_pre:
+par_adv_pas:
+imp_sin: ро­ди́сь
+imp_plu: ро­ди́т­есь
+comment:
+usage:
+etymol:

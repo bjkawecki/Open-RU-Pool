@@ -1,0 +1,30 @@
+wordcls: substantive
+name: экзамен
+name_ac: экза́мен
+publ_id:
+translation:
+   - Prüfung
+   - Examen
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: экза́мен
+sin_gen: эк­за́­ме­на
+sin_dat: эк­за́­ме­ну
+sin_acc: эк­за́­мен
+sin_ins: эк­за́­мен­ом
+sin_pre: эк­за́­ме­не
+plu_nom: эк­за́­ме­ны
+plu_gen: эк­за́­мен­ов
+plu_dat: эк­за́­мен­ам
+plu_acc: эк­за́­ме­ны
+plu_ins: эк­за́­ме­на­ми
+plu_pre: эк­за́­мен­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

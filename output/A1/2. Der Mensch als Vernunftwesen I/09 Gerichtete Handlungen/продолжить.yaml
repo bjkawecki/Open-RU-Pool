@@ -1,0 +1,43 @@
+name: продолжить
+name_ac: продо́лжить
+publ_id:
+wordcls: verb
+translation:
+   - fortsetzen
+   - weitermachen
+aspect: perfective
+partner: продолжа́ть
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: про­до́л­жу
+fut_sin_2: про­до́л­жишь
+fut_sin_3: про­до́л­жит
+fut_plu_1: про­до́л­жим
+fut_plu_2: про­до́л­жи­те
+fut_plu_3: про­до́л­жат
+pas_mas: про­до́л­жил
+pas_fem: про­до́л­жи­ла
+pas_neu: про­до́л­жи­ло
+pas_plu: про­до́л­жи­ли
+par_pre_act:
+par_pas_act: про­до́л­жи­вший
+par_pre_pas:
+par_pas_pas: про­до́л­жи­вши, про­до́л­жив
+par_adv_pre:
+par_adv_pas: про­до́л­жен­ный
+imp_sin: про­до́л­жи
+imp_plu: про­до́л­жи­те
+comment:
+usage:
+etymol:

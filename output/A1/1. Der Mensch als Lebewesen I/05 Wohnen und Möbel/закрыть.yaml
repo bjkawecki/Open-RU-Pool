@@ -1,0 +1,43 @@
+name: закрыть
+name_ac: закры́ть
+publ_id:
+wordcls: verb
+translation:
+   - schließen
+   - verdecken
+aspect: perfective
+partner: закрыва́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: accusative
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: зак­ры́л
+pas_fem: зак­ры́­ла
+pas_neu: зак­ры́­ло
+pas_plu: зак­ры́­ли
+par_pre_act:
+par_pas_act: зак­ры́­вший
+par_pre_pas:
+par_pas_pas: зак­ры́­вши, зак­ры́в
+par_adv_pre:
+par_adv_pas: зак­ры́­тый
+imp_sin: зак­ро́й
+imp_plu: зак­ро́й­те
+comment:
+usage:
+etymol:

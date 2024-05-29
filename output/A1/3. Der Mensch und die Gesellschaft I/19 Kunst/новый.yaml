@@ -1,0 +1,40 @@
+name: новый
+name_ac: но́вый
+publ_id:
+wordcls: adjective
+translation:
+   - neu
+is_gradable: true
+mas_nom: но́вый
+mas_gen: но́­во­го
+mas_dat: но́­во­му
+mas_acc: но́вый
+mas_ins: но́­вым
+mas_pre: но́­вом
+fem_nom: но́­вая
+fem_gen: но́­вой
+fem_dat: но́­вой
+fem_acc: но́­вую
+fem_ins: но́­вой
+fem_pre: но́­вой
+neu_nom: но́­вое
+neu_gen: но́­во­го
+neu_dat: но́­во­му
+neu_acc: но́­вое
+neu_ins: но́­вым
+neu_pre: но́­вом
+plu_nom: но́­вые
+plu_gen: но́­вых
+plu_dat: но́­вым
+plu_acc: но́­вые
+plu_ins: но́­вы­ми
+plu_pre: но́­вых
+sho_mas: нов
+sho_fem: но­ва́
+sho_neu: но́­во
+sho_plu: но́­вы
+compara: но­ве́е
+superla: самый но́вый
+comment:
+usage:
+etymol:

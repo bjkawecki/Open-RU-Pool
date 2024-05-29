@@ -1,0 +1,29 @@
+wordcls: substantive
+name: цирк
+name_ac: цирк
+publ_id:
+translation:
+   - Zirkus
+genus: masculine
+dec_cls: class_2
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: цирк
+sin_gen: ци́р­ка
+sin_dat: ци́р­ку
+sin_acc: цирк
+sin_ins: ци́р­ком
+sin_pre: ци́р­ке
+plu_nom: ци́р­ки
+plu_gen: ци́р­ков
+plu_dat: ци́р­кам
+plu_acc: ци́р­ки
+plu_ins: ци́р­ка­ми
+plu_pre: ци́р­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,42 @@
+name: обедать
+name_ac: обе́дать
+publ_id:
+wordcls: verb
+translation:
+   - zu Mittag essen
+aspect: imperfective
+partner: пообе́дать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: обе́­даю
+pre_sin_2: обе́­да­ешь
+pre_sin_3: обе́­да­ет
+pre_plu_1: обе́­да­ем
+pre_plu_2: обе́­да­ете
+pre_plu_3: обе́­да­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: обе́­дал
+pas_fem: обе́­да­ла
+pas_neu: обе́­да­ло
+pas_plu: обе́­да­ли
+par_pre_act: обе́­да­ющий
+par_pas_act: обе́­дав­ший
+par_pre_pas: обе́­дая
+par_pas_pas: обе́­дав­ши, обе́­дав
+par_adv_pre:
+par_adv_pas:
+imp_sin: обе́­дай
+imp_plu: обе́­дай­те
+comment:
+usage:
+etymol:

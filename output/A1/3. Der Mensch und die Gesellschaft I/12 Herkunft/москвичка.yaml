@@ -1,0 +1,29 @@
+wordcls: substantive
+name: москвичка
+name_ac: москви́чка
+publ_id:
+translation:
+   - Moskauerin
+genus: feminine
+dec_cls: class_1
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: москви́чка
+sin_gen: моск­ви́ч­ки
+sin_dat: моск­ви́ч­ке
+sin_acc: моск­ви́ч­ку
+sin_ins: моск­ви́ч­кой
+sin_pre: моск­ви́ч­ке
+plu_nom: моск­ви́ч­ки
+plu_gen: моск­ви́­чек
+plu_dat: моск­ви́ч­кам
+plu_acc: моск­ви́­чек
+plu_ins: моск­ви́ч­ка­ми
+plu_pre: моск­ви́ч­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

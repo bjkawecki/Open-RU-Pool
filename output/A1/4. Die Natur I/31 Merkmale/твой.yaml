@@ -1,0 +1,41 @@
+name: твой
+name_ac: твой
+publ_id:
+wordcls: pronoun
+translation:
+   - dein
+pro_type: possessive
+dec_type: '1'
+mas_nom: твой
+mas_gen: тво­его́
+mas_dat: тво­ему́
+mas_acc: твой
+mas_ins: тво­и́м
+mas_pre: тво­ём
+fem_nom: твоя́
+fem_gen: тво­е́й
+fem_dat: тво­е́й
+fem_acc: твою́
+fem_ins: тво­е́й
+fem_pre: тво­е́й
+neu_nom: твоё
+neu_gen: тво­его́
+neu_dat: тво­ему́
+neu_acc: твоё
+neu_ins: тво­и́м
+neu_pre: тво­ём
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: твои́
+plu_gen: тво­и́х
+plu_dat: тво­и́м
+plu_acc: твои́
+plu_ins: тво­и́ми
+plu_pre: тво­и́х
+comment:
+usage:
+etymol:

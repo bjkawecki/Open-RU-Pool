@@ -1,0 +1,40 @@
+name: вкусный
+name_ac: вку́сный
+publ_id:
+wordcls: adjective
+translation:
+   - lecker
+is_gradable: true
+mas_nom: вку́сный
+mas_gen: вку́с­но­го
+mas_dat: вку́с­но­му
+mas_acc: вку́с­ный
+mas_ins: вку́с­ным
+mas_pre: вку́с­ном
+fem_nom: вку́с­ная
+fem_gen: вку́с­ной
+fem_dat: вку́с­ной
+fem_acc: вку́с­ную
+fem_ins: вку́с­ной
+fem_pre: вку́с­ной
+neu_nom: вку́с­ное
+neu_gen: вку́с­но­го
+neu_dat: вку́с­но­му
+neu_acc: вку́с­ное
+neu_ins: вку́с­ным
+neu_pre: вку́с­ном
+plu_nom: вку́с­ные
+plu_gen: вку́с­ных
+plu_dat: вку́с­ным
+plu_acc: вку́с­ные
+plu_ins: вку́с­ны­ми
+plu_pre: вку́с­ных
+sho_mas: вку́­сен
+sho_fem: вкус­на́
+sho_neu: вку́с­но
+sho_plu: вку́с­ны
+compara: вкус­не́е
+superla: самый вку́сный
+comment:
+usage:
+etymol:

@@ -1,0 +1,42 @@
+name: показать
+name_ac: показа́ть
+publ_id:
+wordcls: verb
+translation:
+   - zeigen
+aspect: perfective
+partner: пока́зывать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+fut_sin_1: по­ка­жу́
+fut_sin_2: по­ка́ж­ешь
+fut_sin_3: по­ка́ж­ет
+fut_plu_1: по­ка́ж­ем
+fut_plu_2: по­ка́­же­те
+fut_plu_3: по­ка́ж­ут
+pas_mas: по­каз­а́л
+pas_fem: по­ка­за́­ла
+pas_neu: по­ка­за́­ло
+pas_plu: по­ка­за́­ли
+par_pre_act:
+par_pas_act: по­каз­а́в­ший
+par_pre_pas:
+par_pas_pas: "по­каз­а́в­ши, по­каз­а́в\n"
+par_adv_pre:
+par_adv_pas: по­ка́з­ан­ный
+imp_sin: по­ка­жи́
+imp_plu: по­ка­жи́­те
+comment:
+usage:
+etymol:

@@ -1,0 +1,42 @@
+name: интересоваться
+name_ac: интересова́ться
+publ_id:
+wordcls: verb
+translation:
+   - sich interessieren
+aspect: imperfective
+partner: заинтере́соваться
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case: instrumental
+preposition:
+is_reflexive: true
+pre_sin_1: ин­те­ре­су́­юсь
+pre_sin_2: ин­те­ре­су́­ешь­ся
+pre_sin_3: ин­те­ре­су́­ет­ся
+pre_plu_1: ин­те­ре­су́­ем­ся
+pre_plu_2: ин­те­ре­су́­ет­есь
+pre_plu_3: ин­те­ре­су́­ют­ся
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: ин­те­ре­со­ва́л­ся
+pas_fem: ин­те­ре­со­ва́л­ась
+pas_neu: ин­те­ре­со­ва́л­ось
+pas_plu: ин­те­ре­со­ва́л­ись
+par_pre_act: ин­те­ре­су́­ющий­ся
+par_pas_act: ин­те­ре­со­ва́в­ший­ся
+par_pre_pas: ин­те­ре­су́­ясь
+par_pas_pas: ин­те­ре­со­ва́в­шись
+par_adv_pre:
+par_adv_pas:
+imp_sin: ин­те­ре­су́й­ся
+imp_plu: ин­те­ре­су́й­тесь
+comment:
+usage:
+etymol:

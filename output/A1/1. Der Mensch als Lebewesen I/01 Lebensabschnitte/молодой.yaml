@@ -1,0 +1,40 @@
+name: молодой
+name_ac: молодой
+publ_id:
+wordcls: adjective
+translation:
+   - jung
+is_gradable: true
+mas_nom: молодой
+mas_gen: мо­ло­до́­го
+mas_dat: мо­ло­до́­му
+mas_acc: мо­ло­до́й
+mas_ins: мо­лод­ы́м
+mas_pre: мо­лод­о́м
+fem_nom: мо­ло­да́я
+fem_gen: мо­ло­до́й
+fem_dat: мо­ло­до́й
+fem_acc: мо­ло­ду́ю
+fem_ins: мо­ло­до́й
+fem_pre: мо­ло­до́й
+neu_nom: мо­ло­до́е
+neu_gen: мо­ло­до́­го
+neu_dat: мо­ло­до́­му
+neu_acc: мо­ло­до́е
+neu_ins: мо­лод­ы́м
+neu_pre: мо­лод­о́м
+plu_nom: мо­ло­ды́е
+plu_gen: мо­лод­ы́х
+plu_dat: мо­лод­ы́м
+plu_acc: мо­ло­ды́е
+plu_ins: мо­ло­ды́­ми
+plu_pre: мо­лод­ы́х
+sho_mas: мо́­лод
+sho_fem: мо­ло­да́
+sho_neu: мо́­ло­до
+sho_plu: мо́­ло­ды
+compara: мо­ло́­же
+superla: самый молодой
+comment:
+usage:
+etymol:

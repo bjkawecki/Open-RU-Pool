@@ -1,0 +1,40 @@
+name: красивый
+name_ac: краси́вый
+publ_id:
+wordcls: adjective
+translation:
+   - schön
+is_gradable: true
+mas_nom: краси́вый
+mas_gen: кра­си́­во­го
+mas_dat: кра­си́­во­му
+mas_acc: кра­си́­вый
+mas_ins: кра­си́в­ым
+mas_pre: кра­си́в­ом
+fem_nom: кра­си́­вая
+fem_gen: кра­си́­вой
+fem_dat: кра­си́­вой
+fem_acc: кра­си́­вую
+fem_ins: кра­си́­вой
+fem_pre: кра­си́­вой
+neu_nom: кра­си́­вое
+neu_gen: кра­си́­во­го
+neu_dat: кра­си́­во­му
+neu_acc: кра­си́­вое
+neu_ins: кра­си́в­ым
+neu_pre: кра­си́в­ом
+plu_nom: кра­си́­вые
+plu_gen: кра­си́в­ых
+plu_dat: кра­си́в­ым
+plu_acc: кра­си́­вые
+plu_ins: кра­си́­вы­ми
+plu_pre: кра­си́в­ых
+sho_mas: кра­си́в
+sho_fem: кра­си́­ва
+sho_neu: кра­си́­во
+sho_plu: кра­си́­вы
+compara: кра­си́­вее
+superla: самый краси́вый
+comment:
+usage:
+etymol:

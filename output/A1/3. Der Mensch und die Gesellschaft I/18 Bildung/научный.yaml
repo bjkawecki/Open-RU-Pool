@@ -1,0 +1,41 @@
+name: научный
+name_ac: нау́чный
+publ_id:
+wordcls: adjective
+translation:
+   - wissenschaftlich
+   - Forschungs-
+is_gradable: true
+mas_nom: нау́чный
+mas_gen: на­у́ч­но­го
+mas_dat: на­у́ч­но­му
+mas_acc: нау́чный
+mas_ins: на­у́ч­ным
+mas_pre: на­у́ч­ном
+fem_nom: на­у́ч­ная
+fem_gen: на­у́ч­ной
+fem_dat: на­у́ч­ной
+fem_acc: на­у́ч­ную
+fem_ins: на­у́ч­ной
+fem_pre: на­у́ч­ной
+neu_nom: на­у́ч­ное
+neu_gen: на­у́ч­но­го
+neu_dat: на­у́ч­но­му
+neu_acc: на­у́ч­ное
+neu_ins: на­у́ч­ным
+neu_pre: на­у́ч­ном
+plu_nom: на­у́ч­ные
+plu_gen: на­у́ч­ных
+plu_dat: на­у́ч­ным
+plu_acc: на­у́ч­ные
+plu_ins: на­у́ч­ны­ми
+plu_pre: на­у́ч­ных
+sho_mas: на­у́ч­ен
+sho_fem: на­у́ч­на
+sho_neu: на­у́ч­но
+sho_plu: на­у́ч­ны
+compara: на­у́ч­нее
+superla: самый нау́чный
+comment:
+usage:
+etymol:

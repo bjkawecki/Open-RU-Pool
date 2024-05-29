@@ -1,0 +1,42 @@
+name: думать
+name_ac: ду́мать
+publ_id:
+wordcls: verb
+translation:
+   - denken
+aspect: imperfective
+partner: поду́мать
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: ду́­маю
+pre_sin_2: ду́­ма­ешь
+pre_sin_3: ду́­ма­ет
+pre_plu_1: ду́­ма­ем
+pre_plu_2: ду́­ма­ете
+pre_plu_3: ду́­ма­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: ду́­мал
+pas_fem: ду́­ма­ла
+pas_neu: ду́­ма­ло
+pas_plu: ду́­ма­ли
+par_pre_act: ду́­ма­ющий
+par_pas_act: ду́­мав­ший
+par_pre_pas: ду́­мая
+par_pas_pas: ду́­мав­ши, ду́­мав
+par_adv_pre:
+par_adv_pas:
+imp_sin: ду́­май
+imp_plu: ду́­май­те
+comment:
+usage:
+etymol:

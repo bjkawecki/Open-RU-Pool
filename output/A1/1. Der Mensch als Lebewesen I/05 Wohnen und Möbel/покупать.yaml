@@ -1,0 +1,42 @@
+name: покупать
+name_ac: покупа́ть
+publ_id:
+wordcls: verb
+translation:
+   - kaufen
+aspect: imperfective
+partner: купи́ть
+conjugation: e
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: по­ку­па́ю
+pre_sin_2: по­ку­па́­ешь
+pre_sin_3: по­ку­па́­ет
+pre_plu_1: по­ку­па́­ем
+pre_plu_2: по­ку­па́­ете
+pre_plu_3: по­ку­па́­ют
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: по­куп­а́л
+pas_fem: по­ку­па́­ла
+pas_neu: по­ку­па́­ло
+pas_plu: по­ку­па́­ли
+par_pre_act: по­ку­па́­ющий
+par_pas_act: по­куп­а́в­ший
+par_pre_pas: по­ку­па́я
+par_pas_pas: по­куп­а́в­ши, по­куп­а́в
+par_adv_pre: по­ку­па́­емый
+par_adv_pas:
+imp_sin: по­ку­па́й
+imp_plu: по­ку­па́й­те
+comment:
+usage:
+etymol:

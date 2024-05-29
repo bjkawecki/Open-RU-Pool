@@ -1,0 +1,42 @@
+name: просить
+name_ac: проси́ть
+publ_id:
+wordcls: verb
+translation:
+   - bitten
+aspect: imperfective
+partner: попроси́ть
+conjugation: i
+is_motion_verb:
+motion_partner:
+direction:
+obj_case:
+preposition:
+is_reflexive:
+pre_sin_1: про­шу́
+pre_sin_2: про́­сишь
+pre_sin_3: про́­сит
+pre_plu_1: про́­сим
+pre_plu_2: про́­си­те
+pre_plu_3: про́­сят
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+pas_mas: про­си́л
+pas_fem: про­си́­ла
+pas_neu: про­си́­ло
+pas_plu: про­си́­ли
+par_pre_act: про­ся́­щий
+par_pas_act: про­си́в­ший
+par_pre_pas: про­ся́
+par_pas_pas: про­си́в­ши, про­си́в
+par_adv_pre: про­си́­мый
+par_adv_pas: про́­шен­ный
+imp_sin: про­си́
+imp_plu: про­си́­те
+comment:
+usage:
+etymol:

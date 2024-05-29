@@ -1,0 +1,40 @@
+name: коричневый
+name_ac: кори́чневый
+publ_id:
+wordcls: adjective
+translation:
+   - braun
+is_gradable: true
+mas_nom: кори́чневый
+mas_gen: ко­ри́ч­не­во­го
+mas_dat: ко­ри́ч­не­во­му
+mas_acc: кори́чневый
+mas_ins: ко­ри́ч­не­вым
+mas_pre: ко­ри́ч­не­вом
+fem_nom: ко­ри́ч­не­вая
+fem_gen: ко­ри́ч­не­вой
+fem_dat: ко­ри́ч­не­вой
+fem_acc: ко­ри́ч­не­вую
+fem_ins: ко­ри́ч­не­вой
+fem_pre: ко­ри́ч­не­вой
+neu_nom: ко­ри́ч­не­вое
+neu_gen: ко­ри́ч­не­во­го
+neu_dat: ко­ри́ч­не­во­му
+neu_acc: ко­ри́ч­не­вое
+neu_ins: ко­ри́ч­не­вым
+neu_pre: ко­ри́ч­не­вом
+plu_nom: ко­ри́ч­не­вые
+plu_gen: ко­ри́ч­не­вых
+plu_dat: ко­ри́ч­не­вым
+plu_acc: ко­ри́ч­не­вые
+plu_ins: ко­ри́ч­не­вы­ми
+plu_pre: ко­ри́ч­не­вых
+sho_mas: ко­ри́ч­нев
+sho_fem: ко­ри́ч­не­ва
+sho_neu: ко­ри́ч­не­во
+sho_plu: ко­ри́ч­не­вы
+compara: ко­ри́ч­не­вее
+superla: самый кори́чневый
+comment:
+usage:
+etymol:

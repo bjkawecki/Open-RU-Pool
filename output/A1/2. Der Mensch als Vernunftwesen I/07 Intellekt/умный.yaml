@@ -1,0 +1,42 @@
+name: умный
+name_ac: у́мный
+publ_id:
+wordcls: adjective
+translation:
+   - schlau
+   - intelligent
+   - geistreich
+is_gradable: true
+mas_nom: у́мный
+mas_gen: у́м­но­го
+mas_dat: у́м­но­му
+mas_acc: у́м­ный
+mas_ins: у́м­ным
+mas_pre: у́м­ном
+fem_nom: у́м­ная
+fem_gen: у́м­ной
+fem_dat: у́м­ной
+fem_acc: у́м­ную
+fem_ins: у́м­ной
+fem_pre: у́м­ной
+neu_nom: у́м­ное
+neu_gen: у́м­но­го
+neu_dat: у́м­но­му
+neu_acc: у́м­ное
+neu_ins: у́м­ным
+neu_pre: у́м­ном
+plu_nom: у́м­ные
+plu_gen: у́м­ных
+plu_dat: у́м­ным
+plu_acc: у́м­ные
+plu_ins: у́м­ны­ми
+plu_pre: у́м­ных
+sho_mas: ум­ён
+sho_fem: ум­на́
+sho_neu: ум­но́
+sho_plu: ум­ны́
+compara: ум­не́е
+superla: самый у́мный
+comment:
+usage:
+etymol:
