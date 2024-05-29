@@ -6,7 +6,7 @@ import glob
 yaml_file_names = glob.glob("./a1/*.yaml")
 
 rows_to_write = []
-header = ["id"]
+header = ["count"]
 
 for i, each_yaml_file in enumerate(yaml_file_names):
     print(
@@ -21,7 +21,7 @@ for i, each_yaml_file in enumerate(yaml_file_names):
             header.append(instance) if instance not in header else header
 
         values = dict()
-        values.update({"id": i})
+        values.update({"count": i + 1})
         for instance in data:
             for field in header:
                 if instance == field:
