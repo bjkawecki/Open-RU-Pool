@@ -14,59 +14,79 @@ wordclasses = {
 }
 
 
-usage = [
-    "sophisticated",
-    "colloquial",
-    "formal",
-    "mat",
-    "archaic",
-    "poetic",
-    "term",
-]
+usage = {
+    1: "sophisticated",
+    2: "colloquial",
+    3: "formal",
+    4: "mat",
+    5: "archaic",
+    6: "poetic",
+    7: "term",
+}
 
-etymol = [
-    "German",
-    "English",
-    "French",
-    "Turkish",
-    "Persian",
-    "Dutch",
-    "Arabic",
-    "Italian",
-    "Latin",
-    "Greek, Curch Slavonic",
-]
+etymol = {
+    1: "German",
+    2: "English",
+    3: "French",
+    4: "Turkish",
+    5: "Persian",
+    6: "Dutch",
+    7: "Arabic",
+    8: "Italian",
+    9: "Latin",
+    10: "Greek",
+    11: "Curch Slavonic",
+}
 
-num_type = ["cardinal", "collecting", "ordinal"]
+num_type = {1: "cardinal", 2: "collecting", 3: "ordinal"}
 
-dec_type = ["substantive", "adjective"]
+dec_type = {1: "substantive", 2: "adjective"}
 
-prep_type = ["local" "directional", "temporal", "causal", "modal"]
+prep_type = {1: "local", 2: "directional", 3: "temporal", 4: "causal", 5: "modal"}
 
-prep_case = ["genitive", "dative", "accusative", "instrumental", "prepositive"]
+prep_case = {
+    1: "genitive",
+    2: "dative",
+    3: "accusative",
+    4: "instrumental",
+    5: "prepositive",
+}
 
-pro_type = [
-    "personal",
-    "possessive",
-    "demonstrative",
-    "interrogative",
-    "relative",
-    "definite",
-    "indefinite",
-    "negation",
-]
+pro_type = {
+    1: "personal",
+    2: "possessive",
+    3: "demonstrative",
+    4: "interrogative",
+    5: "relative",
+    6: "definite",
+    7: "indefinite",
+    8: "negation",
+}
 
 
-genus = ["feminine", "masculine", "neutral", "none"]
+genus = {1: "feminine", 2: "masculine", 3: "neutral", 4: "none"}
 
-declination = ["class_1", "class_2", "class_3", "adjective", "irregular", "none"]
+declination = {
+    1: "class_1",
+    2: "class_2",
+    3: "class_3",
+    4: "adjective",
+    5: "irregular",
+    6: "none",
+}
 
-stress = ["root", "suffix", "shifting"]
+stress = {1: "root", 2: "suffix", 3: "shifting"}
 
-aspect = ["perfective", "imperfective"]
+aspect = {1: "perfective", 2: "imperfective"}
 
-conjugtaion = ["e", " i", " irregular"]
+conjugation = {1: "e", 2: "i", 3: "irregular"}
 
-direction = ["uni", "multi"]
+direction = {1: "uni", 2: "multi"}
 
-obj_case = ["genitive", "dative", "accusative", "instrumental", "prepositive"]
+obj_case = {
+    1: "genitive",
+    2: "dative",
+    3: "accusative",
+    4: "instrumental",
+    5: "prepositive",
+}

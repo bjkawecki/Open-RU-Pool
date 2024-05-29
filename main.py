@@ -3,7 +3,7 @@ import csv
 import glob
 
 
-yaml_file_names = glob.glob("./a1/*.yaml")
+yaml_file_names = sorted(glob.glob("./output/**/*.yaml", recursive=True))
 
 rows_to_write = []
 header = ["count"]
@@ -28,7 +28,7 @@ for i, each_yaml_file in enumerate(yaml_file_names):
                     values.update({field: data[instance]})
         rows_to_write.append(values)
 
-with open("a1.csv", "w", newline="") as outcsv:
+with open("output.csv", "w", newline="") as outcsv:
     writer = csv.DictWriter(outcsv, fieldnames=header)
     writer.writeheader()
     writer.writerows(rows_to_write)

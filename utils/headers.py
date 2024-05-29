@@ -1,9 +1,12 @@
-headers = {
+translations = {
     "translation_1": "translation",
     "translation_2": "translation",
     "translation_3": "translation",
     "translation_4": "translation",
     "translation_5": "translation",
+}
+
+headers = {
     "comment": "comment",
     "usage": "usage",
     "etymology": "etymol",

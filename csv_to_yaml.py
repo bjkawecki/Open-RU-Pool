@@ -4,8 +4,9 @@ import yaml
 import ruamel.yaml as ruyml
 
 from utils.unaccentify import unaccentify
-from utils.enum import wordclasses
-from utils.headers import headers
+from utils import enum
+from utils.headers import headers, translations
+from utils.parse_headers import parse_headers, parse_translations
 
 if __name__ == "__main__":
 
@@ -19,11 +20,12 @@ if __name__ == "__main__":
             name = unaccentify(row["word_name"])
             wordclass_id = int(row["word_class"])
             wordclass = str()
-            for key in wordclasses:
+            for key in enum.wordclasses:
                 if wordclass_id == key:
-                    wordclass = wordclasses[key]
+                    wordclass = enum.wordclasses[key]
             output = "output"
-            PATH = f"./{output}/{theme}/{deck}"
+            level = "a1"
+            PATH = f"./{output}/{level}/{theme}/{deck}"
             os.makedirs(PATH, exist_ok=True)
             dataMap = dict()
             wordclass_template = f"./templates/{wordclass}.yaml"
@@ -33,10 +35,11 @@ if __name__ == "__main__":
                 dataMap["name"] = name
                 dataMap["name_ac"] = name_ac
                 dataMap["wordcls"] = wordclass
+                dataMap["translation"] = []
+                translation_list = []
 
-                for header in headers:
-                    if row[header]:
-                        dataMap[headers[header]] = row[header]
+                parse_headers(headers, dataMap=dataMap, row=row)
+                parse_translations(translations, dataMap=dataMap, row=row)
 
             with open(f"{PATH}/{name}.yaml", "w") as template:
 
