@@ -4,40 +4,12 @@ publ_id:
 wordcls: preposition
 translation:
 
-type:
-  - local
-  - directional
-  - temporal
-  - causal
-  - modal
+prep_type:
 
-case:
-  - genitive
-  - dative
-  - accusative
-  - instrumental
-  - prepositive
+prep_case:
 
 comment:
 
 usage:
-  - sophisticated
-  - colloquial
-  - formal
-  - mat
-  - archaic
-  - poetic
-  - term
 
 etymol:
-  - German
-  - English
-  - French
-  - Turkish
-  - Persian
-  - Dutch
-  - Arabic
-  - Italian
-  - Latin
-  - Greek
-  - Curch Slavonic

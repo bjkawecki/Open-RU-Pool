@@ -5,36 +5,14 @@ wordcls: verb
 translation:
 
 aspect:
-  - perfective
-  - imperfective
-
 partner:
-
 conjugation:
-  - e
-  - i
-  - irregular
 
-motion_verb:
-  - true
-  - false
-
+is_motion_verb:
 direction:
-  - uni
-  - multi
-
 obj_case:
-  - genitive
-  - dative
-  - accusative
-  - instrumental
-  - prepositive
-
 preposition:
-
-reflexive:
-  - true
-  - false
+is_reflexive:
 
 pre_sin_1:
 pre_sin_2:
@@ -70,23 +48,5 @@ imp_plu:
 comment:
 
 usage:
-  - sophisticated
-  - colloquial
-  - formal
-  - mat
-  - archaic
-  - poetic
-  - term
 
 etymol:
-  - German
-  - English
-  - French
-  - Turkish
-  - Persian
-  - Dutch
-  - Arabic
-  - Italian
-  - Latin
-  - Greek
-  - Curch Slavonic

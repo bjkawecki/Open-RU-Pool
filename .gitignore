@@ -1,2 +1,4 @@
 .venv
-openrussian-data
+data
+__pycache__
+a1

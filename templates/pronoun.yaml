@@ -4,19 +4,9 @@ publ_id:
 wordcls: pronoun
 translation:
 
-type:
-  - personal
-  - possessive
-  - demonstrative
-  - interrogative
-  - relative
-  - definite
-  - indefinite
-  - negation
+pro_type:
 
-declination:
-  - adjective
-  - substantive
+dec_type:
 
 mas_nom:
 mas_gen:
@@ -56,23 +46,5 @@ plu_pre:
 comment:
 
 usage:
-  - sophisticated
-  - colloquial
-  - formal
-  - mat
-  - archaic
-  - poetic
-  - term
 
 etymol:
-  - German
-  - English
-  - French
-  - Turkish
-  - Persian
-  - Dutch
-  - Arabic
-  - Italian
-  - Latin
-  - Greek
-  - Curch Slavonic

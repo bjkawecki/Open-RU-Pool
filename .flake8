@@ -1,0 +1,16 @@
+[flake8]
+exclude =
+    .git,
+    __pycache__,
+    .venv,
+    data,
+    docs,
+    logs,
+    static
+filename = *.py
+accept-encodings = utf-8
+inline-quotes = double
+max-complexity = 12
+max-linenumber = 500
+max-line-length = 88
+multiline-quotes = double

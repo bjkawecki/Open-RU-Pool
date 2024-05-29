@@ -4,9 +4,7 @@ publ_id:
 wordcls: adjective
 translation:
 
-gradable:
-  - true
-  - false
+is_gradable:
 
 mas_nom:
 mas_gen:
@@ -47,23 +45,5 @@ superla:
 comment:
 
 usage:
-  - sophisticated
-  - colloquial
-  - formal
-  - mat
-  - archaic
-  - poetic
-  - term
 
 etymol:
-  - German
-  - English
-  - French
-  - Turkish
-  - Persian
-  - Dutch
-  - Arabic
-  - Italian
-  - Latin
-  - Greek
-  - Curch Slavonic

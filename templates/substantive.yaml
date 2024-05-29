@@ -5,35 +5,16 @@ publ_id:
 translation:
 
 genus:
-  - feminine
-  - masculine
-  - neutral
-  - none
 
 declination:
-  - class_1
-  - class_2
-  - class_3
-  - adjective
-  - irregular
-  - none
 
 stress:
-  - root
-  - suffix
-  - shifting
 
-animate:
-  - true
-  - false
+is_animate:
 
-sin_tan:
-  - true
-  - false
+is_sin_tan:
 
-plu_tan:
-  - true
-  - false
+is_plu_tan:
 
 sin_nom:
 sin_gen:
@@ -55,23 +36,5 @@ locative:
 comment:
 
 usage:
-  - sophisticated
-  - colloquial
-  - formal
-  - mat
-  - archaic
-  - poetic
-  - term
 
 etymol:
-  - German
-  - English
-  - French
-  - Turkish
-  - Persian
-  - Dutch
-  - Arabic
-  - Italian
-  - Latin
-  - Greek
-  - Curch Slavonic
