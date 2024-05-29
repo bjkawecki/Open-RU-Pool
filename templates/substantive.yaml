@@ -1,0 +1,77 @@
+name:
+name_ac:
+publ_id:
+wordcls: substantive
+translation:
+
+genus:
+  - feminine
+  - masculine
+  - neutral
+  - none
+
+declination:
+  - class_1
+  - class_2
+  - class_3
+  - adjective
+  - irregular
+  - none
+
+stress:
+  - root
+  - suffix
+  - shifting
+
+animate:
+  - true
+  - false
+
+sin_tan:
+  - true
+  - false
+
+plu_tan:
+  - true
+  - false
+
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+
+plu_nom:
+plu_gen:
+plu_dat:
+plu_acc:
+plu_ins:
+plu_pre:
+
+partitive:
+locative:
+
+comment:
+
+usage:
+  - sophisticated
+  - colloquial
+  - formal
+  - mat
+  - archaic
+  - poetic
+  - term
+
+etymol:
+  - German
+  - English
+  - French
+  - Turkish
+  - Persian
+  - Dutch
+  - Arabic
+  - Italian
+  - Latin
+  - Greek
+  - Curch Slavonic

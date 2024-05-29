@@ -1,0 +1,43 @@
+name:
+name_ac:
+publ_id:
+wordcls: preposition
+translation:
+
+type:
+  - local
+  - directional
+  - temporal
+  - causal
+  - modal
+
+case:
+  - genitive
+  - dative
+  - accusative
+  - instrumental
+  - prepositive
+
+comment:
+
+usage:
+  - sophisticated
+  - colloquial
+  - formal
+  - mat
+  - archaic
+  - poetic
+  - term
+
+etymol:
+  - German
+  - English
+  - French
+  - Turkish
+  - Persian
+  - Dutch
+  - Arabic
+  - Italian
+  - Latin
+  - Greek
+  - Curch Slavonic

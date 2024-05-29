@@ -1,0 +1,92 @@
+name:
+name_ac:
+publ_id:
+wordcls: verb
+translation:
+
+aspect:
+  - perfective
+  - imperfective
+
+partner:
+
+conjugation:
+  - e
+  - i
+  - irregular
+
+motion_verb:
+  - true
+  - false
+
+direction:
+  - uni
+  - multi
+
+obj_case:
+  - genitive
+  - dative
+  - accusative
+  - instrumental
+  - prepositive
+
+preposition:
+
+reflexive:
+  - true
+  - false
+
+pre_sin_1:
+pre_sin_2:
+pre_sin_3:
+pre_plu_1:
+pre_plu_2:
+pre_plu_3:
+
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+
+pas_mas:
+pas_fem:
+pas_neu:
+pas_plu:
+
+par_pre_act:
+par_pas_act:
+
+par_pre_pas:
+par_pas_pas:
+
+par_adv_pre:
+par_adv_pas:
+
+imp_sin:
+imp_plu:
+
+comment:
+
+usage:
+  - sophisticated
+  - colloquial
+  - formal
+  - mat
+  - archaic
+  - poetic
+  - term
+
+etymol:
+  - German
+  - English
+  - French
+  - Turkish
+  - Persian
+  - Dutch
+  - Arabic
+  - Italian
+  - Latin
+  - Greek
+  - Curch Slavonic
