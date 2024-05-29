@@ -9,7 +9,9 @@ partner:
 conjugation:
 
 is_motion_verb:
+motion_partner:
 direction:
+
 obj_case:
 preposition:
 is_reflexive:

@@ -5,7 +5,7 @@ import ruamel.yaml as ruyml
 
 from utils.unaccentify import unaccentify
 from utils.enum import wordclasses
-
+from utils.headers import headers
 
 if __name__ == "__main__":
 
@@ -22,8 +22,8 @@ if __name__ == "__main__":
             for key in wordclasses:
                 if wordclass_id == key:
                     wordclass = wordclasses[key]
-
-            PATH = f"./a1/{theme}/{deck}"
+            output = "output"
+            PATH = f"./{output}/{theme}/{deck}"
             os.makedirs(PATH, exist_ok=True)
             dataMap = dict()
             wordclass_template = f"./templates/{wordclass}.yaml"
@@ -33,6 +33,10 @@ if __name__ == "__main__":
                 dataMap["name"] = name
                 dataMap["name_ac"] = name_ac
                 dataMap["wordcls"] = wordclass
+
+                for header in headers:
+                    if row[header]:
+                        dataMap[headers[header]] = row[header]
 
             with open(f"{PATH}/{name}.yaml", "w") as template:
 
