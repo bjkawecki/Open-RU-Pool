@@ -40,7 +40,7 @@ etymol = {
 
 num_type = {1: "cardinal", 2: "collecting", 3: "ordinal"}
 
-dec_type = {1: "substantive", 2: "adjective"}
+dec_type = {1: "substantive", 2: "adjective", 3: "none"}
 
 prep_type = {1: "local", 2: "directional", 3: "temporal", 4: "causal", 5: "modal"}
 
@@ -66,7 +66,7 @@ pro_type = {
 
 genus = {1: "feminine", 2: "masculine", 3: "neutral", 4: "none"}
 
-declination = {
+dec_cls = {
     1: "class_1",
     2: "class_2",
     3: "class_3",
@@ -79,7 +79,7 @@ stress = {1: "root", 2: "suffix", 3: "shifting"}
 
 aspect = {1: "perfective", 2: "imperfective"}
 
-conjugation = {1: "e", 2: "i", 3: "irregular"}
+con_cls = {1: "e", 2: "i", 3: "irregular"}
 
 direction = {1: "uni", 2: "multi"}
 

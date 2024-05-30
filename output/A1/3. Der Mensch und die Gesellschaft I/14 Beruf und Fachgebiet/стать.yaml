@@ -6,7 +6,7 @@ translation:
    - werden
 aspect: perfective
 partner: станови́ться
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

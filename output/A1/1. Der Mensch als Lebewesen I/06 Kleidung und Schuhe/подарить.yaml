@@ -6,7 +6,7 @@ translation:
    - schenken
 aspect: perfective
 partner: да́рить
-conjugation: i
+con_cls: i
 is_motion_verb:
 motion_partner:
 direction:

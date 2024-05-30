@@ -6,7 +6,7 @@ translation:
    - helfen
 aspect: imperfective
 partner: помо́чь
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

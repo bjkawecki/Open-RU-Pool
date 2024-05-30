@@ -6,7 +6,7 @@ translation:
    - heißen
 aspect: imperfective
 partner: назва́ться
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

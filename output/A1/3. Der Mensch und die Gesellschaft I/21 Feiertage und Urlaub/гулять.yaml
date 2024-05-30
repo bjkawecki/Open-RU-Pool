@@ -8,7 +8,7 @@ translation:
    - ausgehen
 aspect: imperfective
 partner: погуля́ть
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

@@ -68,7 +68,7 @@ headers = {
     "verb_of_motion_partner": "motion_partner",
     "direction": "direction",
     "reflexive": "is_reflexive",
-    "conjugation_class": "conjugation",
+    "conjugation_class": "con_cls",
     "object_case": "obj_case",
     "present_singular_1": "pre_sin_1",
     "present_singular_2": "pre_sin_2",

@@ -6,7 +6,7 @@ translation:
    - beenden
 aspect: imperfective
 partner: ко́нчить
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

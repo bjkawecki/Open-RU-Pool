@@ -7,7 +7,7 @@ translation:
    - dürfen
 aspect: perfective
 partner: мочь
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

@@ -6,7 +6,7 @@ translation:
    - zu Abend essen
 aspect: imperfective
 partner: поу́жинать
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

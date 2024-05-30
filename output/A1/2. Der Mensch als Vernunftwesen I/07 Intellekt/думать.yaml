@@ -6,7 +6,7 @@ translation:
    - denken
 aspect: imperfective
 partner: поду́мать
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

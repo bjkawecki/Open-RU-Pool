@@ -6,7 +6,7 @@ translation:
    - bauen
 aspect: perfective
 partner: стро́ить
-conjugation: i
+con_cls: i
 is_motion_verb:
 motion_partner:
 direction:

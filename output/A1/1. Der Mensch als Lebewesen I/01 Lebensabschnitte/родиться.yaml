@@ -6,7 +6,7 @@ translation:
    - geboren werden
 aspect: perfective
 partner: рожда́ться
-conjugation: i
+con_cls: i
 is_motion_verb:
 motion_partner:
 direction:

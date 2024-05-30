@@ -6,7 +6,7 @@ translation:
    - sich mit etwas beschäftigen
 aspect: imperfective
 partner: заня́ться
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

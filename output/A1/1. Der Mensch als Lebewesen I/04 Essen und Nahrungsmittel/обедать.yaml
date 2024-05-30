@@ -6,7 +6,7 @@ translation:
    - zu Mittag essen
 aspect: imperfective
 partner: пообе́дать
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

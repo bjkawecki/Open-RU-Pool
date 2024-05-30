@@ -6,7 +6,7 @@ translation:
    - gefallen
 aspect: imperfective
 partner: понра́виться
-conjugation: i
+con_cls: i
 is_motion_verb:
 motion_partner:
 direction:

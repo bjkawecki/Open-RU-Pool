@@ -6,7 +6,7 @@ translation:
    - sich merken
 aspect: imperfective
 partner: запо́мнить
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

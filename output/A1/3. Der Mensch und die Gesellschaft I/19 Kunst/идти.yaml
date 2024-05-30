@@ -6,7 +6,7 @@ translation:
    - gehen
 aspect: imperfective
 partner: пойти́
-conjugation: e
+con_cls: e
 is_motion_verb: true
 motion_partner: ходить
 direction: uni

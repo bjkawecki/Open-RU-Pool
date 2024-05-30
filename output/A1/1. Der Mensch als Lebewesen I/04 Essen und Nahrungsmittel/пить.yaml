@@ -6,7 +6,7 @@ translation:
    - trinken
 aspect: imperfective
 partner: вы́пить
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

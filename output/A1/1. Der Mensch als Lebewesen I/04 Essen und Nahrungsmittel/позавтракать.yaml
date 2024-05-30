@@ -6,7 +6,7 @@ translation:
    - frühstücken
 aspect: perfective
 partner: за́втракать
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

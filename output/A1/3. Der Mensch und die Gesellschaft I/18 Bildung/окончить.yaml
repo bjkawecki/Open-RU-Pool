@@ -7,7 +7,7 @@ translation:
    - absolvieren
 aspect: perfective
 partner: ока́нчивать
-conjugation: i
+con_cls: i
 is_motion_verb:
 motion_partner:
 direction:

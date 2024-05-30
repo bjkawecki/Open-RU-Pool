@@ -43,7 +43,6 @@ if __name__ == "__main__":
                 dataMap["name_ac"] = name_ac
                 dataMap["wordcls"] = wordclass
                 dataMap["translation"] = []
-                translation_list = []
 
                 parse_headers(headers, dataMap=dataMap, row=row)
                 parse_translations(translations, dataMap=dataMap, row=row)

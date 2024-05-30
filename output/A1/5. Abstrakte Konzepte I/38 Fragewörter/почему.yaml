@@ -5,7 +5,7 @@ wordcls: pronoun
 translation:
    - warum
 pro_type: interrogative
-dec_type: '3'
+dec_type: none
 mas_nom:
 mas_gen:
 mas_dat:

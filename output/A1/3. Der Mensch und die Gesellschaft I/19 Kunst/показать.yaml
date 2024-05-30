@@ -6,7 +6,7 @@ translation:
    - zeigen
 aspect: perfective
 partner: пока́зывать
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:

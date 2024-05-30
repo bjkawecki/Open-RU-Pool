@@ -6,7 +6,7 @@ translation:
    - schreiben
 aspect: perfective
 partner: писа́ть
-conjugation: e
+con_cls: e
 is_motion_verb:
 motion_partner:
 direction:
