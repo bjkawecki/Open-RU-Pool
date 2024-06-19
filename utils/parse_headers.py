@@ -1,4 +1,4 @@
-from utils import enum
+from utils import enums
 
 header_dict = {
     "substantive_declination_class": "dec_cls",
@@ -35,7 +35,7 @@ def parse_headers(headers, dataMap, row):
             dataMap[headers[header]] = row_header
             new_header = header_dict.get(header)
             if new_header:
-                new_header_dict = getattr(enum, new_header)
+                new_header_dict = getattr(enums, new_header)
                 dataMap[new_header] = new_header_dict[int(row_header)]
 
             new_header_boolean = header_dict_booleans.get(header)

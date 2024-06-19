@@ -4,7 +4,7 @@ import yaml
 import ruamel.yaml as ruyml
 
 from utils.unaccentify import unaccentify
-from utils import enum
+from utils import enums
 from utils.headers import headers, translations
 from utils.parse_headers import parse_headers, parse_translations
 
@@ -27,9 +27,9 @@ if __name__ == "__main__":
             name = unaccentify(row["word_name"])
             wordclass_id = int(row["word_class"])
             wordclass = str()
-            for key in enum.wordclasses:
+            for key in enums.wordclasses:
                 if wordclass_id == key:
-                    wordclass = enum.wordclasses[key]
+                    wordclass = enums.wordclasses[key]
             output = "output"
             level = "A1"
             PATH = f"./{output}/{level}/{theme}/{deck}"
