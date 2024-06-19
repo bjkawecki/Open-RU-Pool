@@ -5,7 +5,7 @@ wordcls: numeral
 translation:
    - sechzig
 num_type: cardinal
-dec_type: substantive
+dec_type: adjective
 mas_nom:
 mas_gen:
 mas_dat:

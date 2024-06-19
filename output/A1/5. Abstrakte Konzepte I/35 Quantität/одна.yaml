@@ -5,7 +5,7 @@ wordcls: numeral
 translation:
    - eine
 num_type: cardinal
-dec_type: adjective
+dec_type: substantive
 mas_nom: од­и́н
 mas_gen: од­но­го́
 mas_dat: од­но­му́

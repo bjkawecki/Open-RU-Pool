@@ -40,7 +40,7 @@ etymol = {
 
 num_type = {1: "cardinal", 2: "collecting", 3: "ordinal"}
 
-dec_type = {1: "substantive", 2: "adjective", 3: "none"}
+dec_type = {1: "adjective", 2: "substantive", 3: "none"}
 
 prep_type = {1: "local", 2: "directional", 3: "temporal", 4: "causal", 5: "modal"}
 
