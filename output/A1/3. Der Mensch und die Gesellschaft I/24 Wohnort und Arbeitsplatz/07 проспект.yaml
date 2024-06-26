@@ -1,0 +1,29 @@
+wordcls: substantive
+name: проспект
+name_ac: проспе́кт
+publ_id:
+translation:
+   - Prospekt
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: проспе́кт
+sin_gen: прос­пе́­кта
+sin_dat: прос­пе́­кту
+sin_acc: прос­пе́кт
+sin_ins: прос­пе́­ктом
+sin_pre: прос­пе́­кте
+plu_nom: прос­пе́­кты
+plu_gen: прос­пе́­ктов
+plu_dat: прос­пе́­ктам
+plu_acc: прос­пе́­кты
+plu_ins: прос­пе́­кта­ми
+plu_pre: прос­пе́­ктах
+partitive:
+locative:
+comment: sehr lange, gerade und breite Straße in einer Stadt
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: Швейцария
+name_ac: Швейца́рия
+publ_id:
+translation:
+   - Schweiz
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: Швейца́рия
+sin_gen: Швейца́рии
+sin_dat: Швейца́рии
+sin_acc: Швейца́рию
+sin_ins: Швейца́рией
+sin_pre: Швейца́рии
+plu_nom: Швейца́рии
+plu_gen: Швейца́рий
+plu_dat: Швейца́риям
+plu_acc: Швейца́рии
+plu_ins: Швейца́риями
+plu_pre: Швейца́риях
+partitive:
+locative:
+comment:
+usage:
+etymol:

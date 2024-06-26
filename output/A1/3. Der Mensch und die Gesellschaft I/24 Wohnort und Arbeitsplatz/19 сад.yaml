@@ -1,0 +1,29 @@
+wordcls: substantive
+name: сад
+name_ac: сад
+publ_id:
+translation:
+   - Garten
+genus: masculine
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: сад
+sin_gen: са́­да
+sin_dat: са́­ду
+sin_acc: сад
+sin_ins: са́­дом
+sin_pre: са́­де
+plu_nom: са­ды́
+plu_gen: са­до́в
+plu_dat: са­да́м
+plu_acc: са­ды́
+plu_ins: са­да́­ми
+plu_pre: са­да́х
+partitive:
+locative: в са­ду́
+comment:
+usage:
+etymol:

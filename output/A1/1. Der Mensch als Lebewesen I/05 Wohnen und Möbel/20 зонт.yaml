@@ -1,0 +1,30 @@
+wordcls: substantive
+name: зонт
+name_ac: зонт
+publ_id:
+translation:
+   - Schirm
+   - Regenschirm
+genus: masculine
+dec_cls: '2'
+stress: suffix
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: зонт
+sin_gen: зон­та́
+sin_dat: зон­ту́
+sin_acc: зонт
+sin_ins: зон­то́м
+sin_pre: зон­те́
+plu_nom: зон­ты́
+plu_gen: зон­то́в
+plu_dat: зон­та́м
+plu_acc: зон­ты́
+plu_ins: зон­та́­ми
+plu_pre: зон­та́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

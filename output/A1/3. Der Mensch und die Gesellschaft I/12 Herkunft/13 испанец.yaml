@@ -1,0 +1,29 @@
+wordcls: substantive
+name: испанец
+name_ac: испа́нец
+publ_id:
+translation:
+   - Spanier
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: испа́нец
+sin_gen: ис­па́­нца
+sin_dat: ис­па́­нцу
+sin_acc: ис­па́­нца
+sin_ins: ис­па́­нцем
+sin_pre: ис­па́­нце
+plu_nom: ис­па́­нцы
+plu_gen: ис­па́­нцев
+plu_dat: ис­па́­нцам
+plu_acc: ис­па́­нцев
+plu_ins: ис­па́­нца­ми
+plu_pre: ис­па́­нцах
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: паспорт
+name_ac: па́спорт
+publ_id:
+translation:
+   - Pass
+genus: masculine
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: па́спорт
+sin_gen: па́с­по­рта
+sin_dat: па́с­по­рту
+sin_acc: па́с­порт
+sin_ins: па́с­по­ртом
+sin_pre: па́с­по­рте
+plu_nom: пас­по­рта́
+plu_gen: пас­по­рто́в
+plu_dat: пас­по­рта́м
+plu_acc: пас­по­рта́
+plu_ins: пас­по­рта́­ми
+plu_pre: пас­по­рта́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: аэропорт
+name_ac: аэропо́рт
+publ_id:
+translation:
+   - Flughafen
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: аэропо́рт
+sin_gen: аэро­по́р­та
+sin_dat: аэро­по́р­ту
+sin_acc: аэро­по́рт
+sin_ins: аэро­по́р­том
+sin_pre: аэро­по́р­те
+plu_nom: аэро­по́р­ты
+plu_gen: аэро­по́р­тов
+plu_dat: аэро­по́р­там
+plu_acc: аэро­по́р­ты
+plu_ins: аэро­по́р­та­ми
+plu_pre: аэро­по́р­тах
+partitive:
+locative: в аэро­пор­ту́
+comment:
+usage:
+etymol:

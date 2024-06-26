@@ -1,0 +1,29 @@
+wordcls: substantive
+name: футбол
+name_ac: футбо́л
+publ_id:
+translation:
+   - Fußball
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: футбо́л
+sin_gen: фут­бо́­ла
+sin_dat: фут­бо́­лу
+sin_acc: фут­бо́л
+sin_ins: фут­бо́­лом
+sin_pre: фут­бо́­ле
+plu_nom: фут­бо́­лы
+plu_gen: фут­бо́­лов
+plu_dat: фут­бо́­лам
+plu_acc: фут­бо́­лы
+plu_ins: фут­бо́­ла­ми
+plu_pre: фут­бо́­лах
+partitive:
+locative:
+comment:
+usage:
+etymol:

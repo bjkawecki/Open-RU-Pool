@@ -1,0 +1,30 @@
+wordcls: substantive
+name: машина
+name_ac: маши́на
+publ_id:
+translation:
+   - Auto
+   - Maschine
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: маши́на
+sin_gen: ма­ши́­ны
+sin_dat: ма­ши́­не
+sin_acc: ма­ши́­ну
+sin_ins: ма­ши́­ной
+sin_pre: ма­ши́­не
+plu_nom: ма­ши́­ны
+plu_gen: ма­ши́н
+plu_dat: ма­ши́н­ам
+plu_acc: ма­ши́­ны
+plu_ins: ма­ши́­на­ми
+plu_pre: ма­ши́н­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

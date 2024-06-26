@@ -1,0 +1,29 @@
+wordcls: substantive
+name: план
+name_ac: план
+publ_id:
+translation:
+   - Plan
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: план
+sin_gen: пла́­на
+sin_dat: пла́­ну
+sin_acc: план
+sin_ins: пла́­ном
+sin_pre: пла́­не
+plu_nom: пла́­ны
+plu_gen: пла́­нов
+plu_dat: пла́­нам
+plu_acc: пла́­ны
+plu_ins: пла́­на­ми
+plu_pre: пла́­нах
+partitive:
+locative:
+comment:
+usage:
+etymol:

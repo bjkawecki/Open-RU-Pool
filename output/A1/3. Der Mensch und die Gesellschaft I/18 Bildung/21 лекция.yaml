@@ -1,0 +1,29 @@
+wordcls: substantive
+name: лекция
+name_ac: ле́кция
+publ_id:
+translation:
+   - Vorlesung
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ле́кция
+sin_gen: ле́к­ции
+sin_dat: ле́к­ции
+sin_acc: ле́к­цию
+sin_ins: ле́к­ци­ей
+sin_pre: ле́к­ции
+plu_nom: ле́к­ции
+plu_gen: ле́к­ций
+plu_dat: ле́к­ци­ям
+plu_acc: ле́к­ции
+plu_ins: ле́к­ци­ями
+plu_pre: ле́к­ци­ях
+partitive:
+locative:
+comment:
+usage:
+etymol:

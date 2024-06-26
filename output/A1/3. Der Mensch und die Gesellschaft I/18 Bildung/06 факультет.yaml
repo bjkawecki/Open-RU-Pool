@@ -1,0 +1,29 @@
+wordcls: substantive
+name: факультет
+name_ac: факульте́т
+publ_id:
+translation:
+   - Fakultät
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: факульте́т
+sin_gen: фа­куль­те́­та
+sin_dat: фа­куль­те́­ту
+sin_acc: фа­куль­те́т
+sin_ins: фа­куль­те́­том
+sin_pre: фа­куль­те́­те
+plu_nom: фа­куль­те́­ты
+plu_gen: фа­куль­те́­тов
+plu_dat: фа­куль­те́­там
+plu_acc: фа­куль­те́­ты
+plu_ins: фа­куль­те́­та­ми
+plu_pre: фа­куль­те́­тах
+partitive:
+locative:
+comment:
+usage:
+etymol:

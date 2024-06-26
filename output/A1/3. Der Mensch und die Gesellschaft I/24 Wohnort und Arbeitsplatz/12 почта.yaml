@@ -1,0 +1,29 @@
+wordcls: substantive
+name: почта
+name_ac: по́чта
+publ_id:
+translation:
+   - Post
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: по́чта
+sin_gen: по́ч­ты
+sin_dat: по́ч­те
+sin_acc: по́ч­ту
+sin_ins: по́ч­той
+sin_pre: по́ч­те
+plu_nom: по́ч­ты
+plu_gen: почт
+plu_dat: по́ч­там
+plu_acc: по́ч­ты
+plu_ins: по́ч­та­ми
+plu_pre: по́ч­тах
+partitive:
+locative:
+comment:
+usage:
+etymol:

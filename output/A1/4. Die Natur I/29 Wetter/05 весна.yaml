@@ -1,0 +1,29 @@
+wordcls: substantive
+name: весна
+name_ac: весна́
+publ_id:
+translation:
+   - Frühling
+genus: feminine
+dec_cls: '1'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: весна́
+sin_gen: вес­ны́
+sin_dat: вес­не́
+sin_acc: вес­ну́
+sin_ins: вес­но́й
+sin_pre: вес­не́
+plu_nom: вёс­ны
+plu_gen: вё­сен
+plu_dat: вёс­нам
+plu_acc: вёс­ны
+plu_ins: вёс­на­ми
+plu_pre: вёс­нах
+partitive:
+locative:
+comment:
+usage:
+etymol:

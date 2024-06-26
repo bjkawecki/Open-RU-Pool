@@ -1,0 +1,29 @@
+wordcls: substantive
+name: километр
+name_ac: киломе́тр
+publ_id:
+translation:
+   - Kilometer
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: киломе́тр
+sin_gen: ки­лом­е́т­ра
+sin_dat: ки­лом­е́т­ру
+sin_acc: ки­лом­е́тр
+sin_ins: ки­лом­е́т­ром
+sin_pre: ки­лом­е́т­ре
+plu_nom: ки­лом­е́т­ры
+plu_gen: ки­лом­е́т­ров
+plu_dat: ки­лом­е́т­рам
+plu_acc: ки­лом­е́т­ры
+plu_ins: ки­лом­е́т­ра­ми
+plu_pre: ки­лом­е́т­рах
+partitive:
+locative:
+comment:
+usage:
+etymol:

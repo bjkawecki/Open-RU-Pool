@@ -1,0 +1,29 @@
+wordcls: substantive
+name: мальчик
+name_ac: ма́льчик
+publ_id:
+translation:
+   - Junge
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: ма́льчик
+sin_gen: ма́ль­чи­ка
+sin_dat: ма́ль­чи­ку
+sin_acc: ма́ль­чи­ка
+sin_ins: ма́ль­чи­ком
+sin_pre: ма́ль­чи­ке
+plu_nom: ма́ль­чи­ки
+plu_gen: ма́ль­чи­ков
+plu_dat: ма́ль­чи­кам
+plu_acc: ма́ль­чи­ков
+plu_ins: ма́ль­чи­ка­ми
+plu_pre: ма́ль­чи­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

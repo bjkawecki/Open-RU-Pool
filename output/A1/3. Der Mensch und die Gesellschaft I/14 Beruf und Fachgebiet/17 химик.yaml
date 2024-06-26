@@ -1,0 +1,29 @@
+wordcls: substantive
+name: химик
+name_ac: хи́мик
+publ_id:
+translation:
+   - Chemiker
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: хи́мик
+sin_gen: хи́­ми­ка
+sin_dat: хи́­ми­ку
+sin_acc: хи́­ми­ка
+sin_ins: хи́­мик­ом
+sin_pre: хи́­ми­ке
+plu_nom: хи́­ми­ки
+plu_gen: хи́­мик­ов
+plu_dat: хи́­мик­ам
+plu_acc: хи́­мик­ов
+plu_ins: хи́­ми­ка­ми
+plu_pre: хи́­мик­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

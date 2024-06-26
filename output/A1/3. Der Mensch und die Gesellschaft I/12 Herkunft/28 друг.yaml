@@ -1,0 +1,29 @@
+wordcls: substantive
+name: друг
+name_ac: друг
+publ_id:
+translation:
+   - Freund
+genus: masculine
+dec_cls: '2'
+stress: shifting
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: друг
+sin_gen: дру́­га
+sin_dat: дру́­гу
+sin_acc: дру́­га
+sin_ins: дру́­гом
+sin_pre: дру́­ге
+plu_nom: друзья́
+plu_gen: дру­зе́й
+plu_dat: друзь­я́м
+plu_acc: дру­зе́й
+plu_ins: друзь­я́ми
+plu_pre: друзь­я́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

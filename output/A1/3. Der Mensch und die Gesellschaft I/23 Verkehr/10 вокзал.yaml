@@ -1,0 +1,29 @@
+wordcls: substantive
+name: вокзал
+name_ac: вокза́л
+publ_id:
+translation:
+   - Bahnhof
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: вокза́л
+sin_gen: вок­за́­ла
+sin_dat: вок­за́­лу
+sin_acc: вок­за́л
+sin_ins: вок­за́­лом
+sin_pre: вок­за́­ле
+plu_nom: вок­за́­лы
+plu_gen: вок­за́­лов
+plu_dat: вок­за́­лам
+plu_acc: вок­за́­лы
+plu_ins: вок­за́­ла­ми
+plu_pre: вок­за́­лах
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: газета
+name_ac: газе́та
+publ_id:
+translation:
+   - Zeitung
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: газе́та
+sin_gen: га­зе́­ты
+sin_dat: га­зе́­те
+sin_acc: га­зе́­ту
+sin_ins: га­зе́­той
+sin_pre: га­зе́­те
+plu_nom: га­зе́­ты
+plu_gen: га­зе́т
+plu_dat: га­зе́т­ам
+plu_acc: га­зе́­ты
+plu_ins: га­зе́­та­ми
+plu_pre: га­зе́т­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

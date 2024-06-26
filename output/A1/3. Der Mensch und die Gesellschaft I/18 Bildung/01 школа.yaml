@@ -1,0 +1,29 @@
+wordcls: substantive
+name: школа
+name_ac: шко́ла
+publ_id:
+translation:
+   - Schule
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: шко́ла
+sin_gen: шко́­лы
+sin_dat: шко́­ле
+sin_acc: шко́­лу
+sin_ins: шко́­лой
+sin_pre: шко́­ле
+plu_nom: шко́­лы
+plu_gen: школ
+plu_dat: шко́­лам
+plu_acc: шко́­лы
+plu_ins: шко́­ла­ми
+plu_pre: шко́­лах
+partitive:
+locative:
+comment:
+usage:
+etymol:

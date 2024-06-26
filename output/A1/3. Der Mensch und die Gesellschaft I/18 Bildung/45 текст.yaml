@@ -1,0 +1,29 @@
+wordcls: substantive
+name: текст
+name_ac: текст
+publ_id:
+translation:
+   - Text
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: текст
+sin_gen: те́кс­та
+sin_dat: те́кс­ту
+sin_acc: текст
+sin_ins: те́кс­том
+sin_pre: те́кс­те
+plu_nom: те́кс­ты
+plu_gen: те́кс­тов
+plu_dat: те́кс­там
+plu_acc: те́кс­ты
+plu_ins: те́кс­та­ми
+plu_pre: те́кс­тах
+partitive:
+locative:
+comment:
+usage:
+etymol:

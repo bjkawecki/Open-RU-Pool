@@ -1,0 +1,29 @@
+wordcls: substantive
+name: автор
+name_ac: а́втор
+publ_id:
+translation:
+   - Autor
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: а́втор
+sin_gen: а́в­то­ра
+sin_dat: а́в­то­ру
+sin_acc: а́в­то­ра
+sin_ins: а́в­то­ром
+sin_pre: а́в­то­ре
+plu_nom: а́в­то­ры
+plu_gen: а́в­то­ров
+plu_dat: а́в­то­рам
+plu_acc: а́в­то­ров
+plu_ins: а́в­то­ра­ми
+plu_pre: а́в­то­рах
+partitive:
+locative:
+comment:
+usage:
+etymol:

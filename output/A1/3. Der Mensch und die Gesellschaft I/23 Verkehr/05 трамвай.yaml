@@ -1,0 +1,30 @@
+wordcls: substantive
+name: трамвай
+name_ac: трамва́й
+publ_id:
+translation:
+   - Straßenbahn
+   - Tram
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: трамва́й
+sin_gen: трам­ва́я
+sin_dat: трам­ва́ю
+sin_acc: трам­ва́й
+sin_ins: трам­ва́­ем
+sin_pre: трам­ва́е
+plu_nom: трам­ва́и
+plu_gen: трам­ва́­ев
+plu_dat: трам­ва́­ям
+plu_acc: трам­ва́и
+plu_ins: трам­ва́­ями
+plu_pre: трам­ва́­ях
+partitive:
+locative:
+comment:
+usage:
+etymol:

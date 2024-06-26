@@ -1,0 +1,29 @@
+wordcls: substantive
+name: отец
+name_ac: оте́ц
+publ_id:
+translation:
+   - Vater
+genus: masculine
+dec_cls: '2'
+stress: suffix
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: оте́ц
+sin_gen: от­ца́
+sin_dat: от­цу́
+sin_acc: от­ца́
+sin_ins: от­цо́м
+sin_pre: от­це́
+plu_nom: от­цы́
+plu_gen: от­цо́в
+plu_dat: от­ца́м
+plu_acc: от­цо́в
+plu_ins: от­ца́­ми
+plu_pre: от­ца́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

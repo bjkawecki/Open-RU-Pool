@@ -1,0 +1,29 @@
+wordcls: substantive
+name: март
+name_ac: март
+publ_id:
+translation:
+   - März
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: март
+sin_gen: ма́р­та
+sin_dat: ма́р­ту
+sin_acc: март
+sin_ins: ма́р­том
+sin_pre: ма́р­те
+plu_nom: ма́р­ты
+plu_gen: ма́р­тов
+plu_dat: ма́р­там
+plu_acc: ма́р­ты
+plu_ins: ма́р­та­ми
+plu_pre: ма́р­тах
+partitive:
+locative:
+comment:
+usage:
+etymol:

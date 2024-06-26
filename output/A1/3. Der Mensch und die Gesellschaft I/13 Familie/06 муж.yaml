@@ -1,0 +1,29 @@
+wordcls: substantive
+name: муж
+name_ac: муж
+publ_id:
+translation:
+   - Ehemann
+genus: masculine
+dec_cls: '2'
+stress: shifting
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: муж
+sin_gen: му́­жа
+sin_dat: му́­жу
+sin_acc: му́­жа
+sin_ins: му́­жем
+sin_pre: му́­же
+plu_nom: мужья́
+plu_gen: му­же́й
+plu_dat: мужь­я́м
+plu_acc: му­же́й
+plu_ins: мужь­я́ми
+plu_pre: мужь­я́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

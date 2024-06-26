@@ -1,0 +1,29 @@
+wordcls: substantive
+name: вагон
+name_ac: ваго́н
+publ_id:
+translation:
+   - Wagon
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ваго́н
+sin_gen: ва­го́­на
+sin_dat: ва­го́­ну
+sin_acc: ва­го́н
+sin_ins: ва­го́н­ом
+sin_pre: ва­го́­не
+plu_nom: ва­го́­ны
+plu_gen: ва­го́н­ов
+plu_dat: ва­го́н­ам
+plu_acc: ва­го́­ны
+plu_ins: ва­го́­на­ми
+plu_pre: ва­го́н­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

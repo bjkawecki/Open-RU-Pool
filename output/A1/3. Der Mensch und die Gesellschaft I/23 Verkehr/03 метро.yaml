@@ -1,0 +1,30 @@
+wordcls: substantive
+name: метро
+name_ac: метро́
+publ_id:
+translation:
+   - U-Bahn
+   - Metro
+genus: neutral
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan: true
+is_plu_tan:
+sin_nom: метро́
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom:
+plu_gen:
+plu_dat:
+plu_acc:
+plu_ins:
+plu_pre:
+partitive:
+locative:
+comment:
+usage:
+etymol:

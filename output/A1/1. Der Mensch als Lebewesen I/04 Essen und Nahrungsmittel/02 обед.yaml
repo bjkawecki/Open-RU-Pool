@@ -1,0 +1,29 @@
+wordcls: substantive
+name: обед
+name_ac: обе́д
+publ_id:
+translation:
+   - Mittagessen
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: обе́д
+sin_gen: обе́­да
+sin_dat: обе́­ду
+sin_acc: об­е́д
+sin_ins: обе́­дом
+sin_pre: обе́­де
+plu_nom: обе́­ды
+plu_gen: обе́­дов
+plu_dat: обе́­дам
+plu_acc: обе́­ды
+plu_ins: обе́­да­ми
+plu_pre: обе́­дах
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: Африка
+name_ac: А́фрика
+publ_id:
+translation:
+   - Afrika
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: А́фрика
+sin_gen: А́фрики
+sin_dat: А́фрике
+sin_acc: А́фрику
+sin_ins: А́фрикой
+sin_pre: А́фрике
+plu_nom: А́фрики
+plu_gen: А́фрик
+plu_dat: А́фрикам
+plu_acc: А́фрики
+plu_ins: А́фриками
+plu_pre: А́фриках
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: город
+name_ac: го́род
+publ_id:
+translation:
+   - Stadt
+genus: masculine
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: го́род
+sin_gen: го́­ро­да
+sin_dat: го́­ро­ду
+sin_acc: го́­род
+sin_ins: го́­род­ом
+sin_pre: го́­ро­де
+plu_nom: го­ро­да́
+plu_gen: го­род­о́в
+plu_dat: го­род­а́м
+plu_acc: го­ро­да́
+plu_ins: го­ро­да́­ми
+plu_pre: го­род­а́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

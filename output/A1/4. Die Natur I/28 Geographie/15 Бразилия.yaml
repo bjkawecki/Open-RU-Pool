@@ -1,0 +1,29 @@
+wordcls: substantive
+name: Бразилия
+name_ac: Брази́лия
+publ_id:
+translation:
+   - Brasilien
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: Брази́лия
+sin_gen: Брази́лии
+sin_dat: Брази́лии
+sin_acc: Брази́лию
+sin_ins: Брази́лией
+sin_pre: Брази́лии
+plu_nom: Брази́лии
+plu_gen: Брази́лий
+plu_dat: Брази́лиям
+plu_acc: Брази́лии
+plu_ins: Брази́лиями
+plu_pre: Брази́лиях
+partitive:
+locative:
+comment:
+usage:
+etymol:

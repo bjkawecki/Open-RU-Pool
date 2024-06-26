@@ -1,0 +1,30 @@
+wordcls: substantive
+name: полиция
+name_ac: поли́ция
+publ_id:
+translation:
+   - Polizei
+   - Polizei
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: поли́ция
+sin_gen: по­ли́­ции
+sin_dat: по­ли́­ции
+sin_acc: по­ли́­цию
+sin_ins: по­ли́­ци­ей
+sin_pre: по­ли́­ции
+plu_nom: по­ли́­ции
+plu_gen: по­ли́­ций
+plu_dat: по­ли́­ци­ям
+plu_acc: по­ли́­ции
+plu_ins: по­ли́­ци­ями
+plu_pre: по­ли́­ци­ях
+partitive:
+locative:
+comment:
+usage:
+etymol:

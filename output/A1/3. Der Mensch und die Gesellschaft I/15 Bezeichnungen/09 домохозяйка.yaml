@@ -1,0 +1,30 @@
+wordcls: substantive
+name: домохозяйка
+name_ac: домохозя́йка
+publ_id:
+translation:
+   - Hausfrau
+   - Haushälterin
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: до­мо­хо­зя́й­ка
+sin_gen: до­мо­хо­зя́й­ки
+sin_dat: до­мо­хо­зя́й­ке
+sin_acc: до­мо­хо­зя́й­ку
+sin_ins: до­мо­хо­зя́й­кой
+sin_pre: до­мо­хо­зя́й­ке
+plu_nom: до­мо­хо­зя́й­ки
+plu_gen: до­мо­хо­зя́­ек
+plu_dat: до­мо­хо­зя́й­кам
+plu_acc: до­мо­хо­зя́­ек
+plu_ins: до­мо­хо­зя́й­ка­ми
+plu_pre: до­мо­хо­зя́й­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

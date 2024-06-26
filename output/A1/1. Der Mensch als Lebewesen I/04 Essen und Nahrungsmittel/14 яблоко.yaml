@@ -1,0 +1,29 @@
+wordcls: substantive
+name: яблоко
+name_ac: я́блоко
+publ_id:
+translation:
+   - Apfel
+genus: neutral
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: я́блоко
+sin_gen: я́б­ло­ка
+sin_dat: я́б­ло­ку
+sin_acc: я́б­ло­ко
+sin_ins: я́б­ло­ком
+sin_pre: я́б­ло­ке
+plu_nom: я́б­ло­ки
+plu_gen: я́б­лок
+plu_dat: я́б­ло­кам
+plu_acc: я́б­ло­ки
+plu_ins: я́б­ло­ка­ми
+plu_pre: я́б­ло­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

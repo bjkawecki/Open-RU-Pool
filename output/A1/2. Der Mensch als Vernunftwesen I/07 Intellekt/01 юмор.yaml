@@ -1,0 +1,29 @@
+wordcls: substantive
+name: юмор
+name_ac: ю́мор
+publ_id:
+translation:
+   - Humor
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ю́мор
+sin_gen: ю́мо­ра
+sin_dat: ю́мо­ру
+sin_acc: ю́м­ор
+sin_ins: ю́мо­ром
+sin_pre: ю́мо­ре
+plu_nom: ю́мо­ры
+plu_gen: ю́мо­ров
+plu_dat: ю́мо­рам
+plu_acc: ю́мо­ры
+plu_ins: ю́мо­ра­ми
+plu_pre: ю́мо­рах
+partitive: ю́мо­ру
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: соль
+name_ac: соль
+publ_id:
+translation:
+   - Salz
+genus: feminine
+dec_cls: '3'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: соль
+sin_gen: со́ли
+sin_dat: со́ли
+sin_acc: соль
+sin_ins: со́лью
+sin_pre: со́ли
+plu_nom: со́ли
+plu_gen: соле́й
+plu_dat: соля́м
+plu_acc: со́ли
+plu_ins: соля́ми
+plu_pre: соля́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

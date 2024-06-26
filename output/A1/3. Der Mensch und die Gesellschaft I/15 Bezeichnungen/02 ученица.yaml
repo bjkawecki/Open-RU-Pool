@@ -1,0 +1,29 @@
+wordcls: substantive
+name: ученица
+name_ac: учени́ца
+publ_id:
+translation:
+   - Schülerin
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: учени́ца
+sin_gen: уче­ни́­цы
+sin_dat: уче­ни́­це
+sin_acc: уче­ни́­цу
+sin_ins: уче­ни́­цей
+sin_pre: уче­ни́­це
+plu_nom: уче­ни́­цы
+plu_gen: уче­ни́ц
+plu_dat: уче­ни́ц­ам
+plu_acc: уче­ни́ц
+plu_ins: уче­ни́­ца­ми
+plu_pre: уче­ни́ц­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: сестра
+name_ac: сестра́
+publ_id:
+translation:
+   - Schwester
+genus: feminine
+dec_cls: '1'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: сестра́
+sin_gen: сест­ры́
+sin_dat: сест­ре́
+sin_acc: сест­ру́
+sin_ins: сест­ро́й
+sin_pre: сест­ре́
+plu_nom: сёст­ры
+plu_gen: сес­тёр
+plu_dat: сёст­рам
+plu_acc: сес­тёр
+plu_ins: сёст­ра­ми
+plu_pre: сёст­рах
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: песня
+name_ac: пе́сня
+publ_id:
+translation:
+   - Lied
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: пе́сня
+sin_gen: пе́с­ни
+sin_dat: пе́с­не
+sin_acc: пе́с­ню
+sin_ins: пе́с­ней
+sin_pre: пе́с­не
+plu_nom: пе́с­ни
+plu_gen: пе́­сен
+plu_dat: пе́с­ням
+plu_acc: пе́с­ни
+plu_ins: пе́с­ня­ми
+plu_pre: пе́с­нях
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: Италия
+name_ac: Ита́лия
+publ_id:
+translation:
+   - Italien
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: Ита́лия
+sin_gen: Ита́лии
+sin_dat: Ита́лии
+sin_acc: Ита́лию
+sin_ins: Ита́лией
+sin_pre: Ита́лии
+plu_nom: Ита́лии
+plu_gen: Ита́лий
+plu_dat: Ита́лиям
+plu_acc: Ита́лии
+plu_ins: Ита́лиями
+plu_pre: Ита́лиях
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: немка
+name_ac: не́мка
+publ_id:
+translation:
+   - Deutsche
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: не́мка
+sin_gen: не́м­ки
+sin_dat: не́м­ке
+sin_acc: не́м­ку
+sin_ins: не́м­кой
+sin_pre: не́м­ке
+plu_nom: не́м­ки
+plu_gen: не́­мок
+plu_dat: не́м­кам
+plu_acc: не́­мок
+plu_ins: не́м­ка­ми
+plu_pre: не́м­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

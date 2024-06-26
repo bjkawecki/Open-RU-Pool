@@ -24,6 +24,7 @@ if __name__ == "__main__":
             theme = row["theme"]
             deck = row["deck_name"]
             name_ac = row["word_name"]
+            word_counter = str(row["public_word_id"])[4:]
             name = unaccentify(row["word_name"])
             wordclass_id = int(row["word_class"])
             wordclass = str()
@@ -47,7 +48,7 @@ if __name__ == "__main__":
                 parse_headers(headers, dataMap=dataMap, row=row)
                 parse_translations(translations, dataMap=dataMap, row=row)
 
-            with open(f"{PATH}/{name}.yaml", "w") as template:
+            with open(f"{PATH}/{word_counter} {name}.yaml", "w") as template:
 
                 ruyaml = ruyml.YAML()
                 ruyaml.indent(sequence=4, offset=3)

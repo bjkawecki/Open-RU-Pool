@@ -1,0 +1,31 @@
+wordcls: substantive
+name: место
+name_ac: ме́сто
+publ_id:
+translation:
+   - Ort
+   - Platz
+   - Stelle
+genus: neutral
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ме́сто
+sin_gen: ме́с­та
+sin_dat: ме́с­ту
+sin_acc: ме́с­то
+sin_ins: ме́с­том
+sin_pre: ме́с­те
+plu_nom: мес­та́
+plu_gen: мест
+plu_dat: мес­та́м
+plu_acc: мес­та́
+plu_ins: мес­та́­ми
+plu_pre: мес­та́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

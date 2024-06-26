@@ -1,0 +1,29 @@
+wordcls: substantive
+name: внучка
+name_ac: вну́чка
+publ_id:
+translation:
+   - Enkelin
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: вну́чка
+sin_gen: вну́ч­ки
+sin_dat: вну́ч­ке
+sin_acc: вну́ч­ку
+sin_ins: вну́ч­кой
+sin_pre: вну́ч­ке
+plu_nom: вну́ч­ки
+plu_gen: вну́­чек
+plu_dat: вну́ч­кам
+plu_acc: вну́­чек
+plu_ins: вну́ч­ка­ми
+plu_pre: вну́ч­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: выход
+name_ac: вы́ход
+publ_id:
+translation:
+   - Ausgang
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: вы́ход
+sin_gen: вы́­хо­да
+sin_dat: вы́­хо­ду
+sin_acc: вы́­ход
+sin_ins: вы́­ход­ом
+sin_pre: вы́­хо­де
+plu_nom: вы́­хо­ды
+plu_gen: вы́­ход­ов
+plu_dat: вы́­ход­ам
+plu_acc: вы́­хо­ды
+plu_ins: вы́­хо­да­ми
+plu_pre: вы́­ход­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

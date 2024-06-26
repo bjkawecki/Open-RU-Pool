@@ -1,0 +1,29 @@
+wordcls: substantive
+name: здание
+name_ac: зда́ние
+publ_id:
+translation:
+   - Gebäude
+genus: neutral
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: зда́ние
+sin_gen: зда́­ния
+sin_dat: зда́­нию
+sin_acc: зда́­ние
+sin_ins: зда́­ни­ем
+sin_pre: зда́­нии
+plu_nom: зда́­ния
+plu_gen: зда́­ний
+plu_dat: зда́­ни­ям
+plu_acc: зда́­ния
+plu_ins: зда́­ни­ями
+plu_pre: зда́­ни­ях
+partitive:
+locative:
+comment:
+usage:
+etymol:

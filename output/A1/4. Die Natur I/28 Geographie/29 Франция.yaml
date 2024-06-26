@@ -1,0 +1,29 @@
+wordcls: substantive
+name: Франция
+name_ac: Фра́нция
+publ_id:
+translation:
+   - Frankreich
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: Фра́нция
+sin_gen: Фра́нции
+sin_dat: Фра́нции
+sin_acc: Фра́нцию
+sin_ins: Фра́нцией
+sin_pre: Фра́нции
+plu_nom: Фра́нции
+plu_gen: Фра́нций
+plu_dat: Фра́нциям
+plu_acc: Фра́нции
+plu_ins: Фра́нциями
+plu_pre: Фра́нциях
+partitive:
+locative:
+comment:
+usage:
+etymol:

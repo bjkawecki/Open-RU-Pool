@@ -1,0 +1,29 @@
+wordcls: substantive
+name: физика
+name_ac: фи́зика
+publ_id:
+translation:
+   - Physik
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: фи́зика
+sin_gen: фи́­зи­ки
+sin_dat: фи́­зи­ке
+sin_acc: фи́­зи­ку
+sin_ins: фи́­зи­кой
+sin_pre: фи́­зи­ке
+plu_nom: фи́­зи­ки
+plu_gen: фи́­зик
+plu_dat: фи́­зик­ам
+plu_acc: фи́­зи­ки
+plu_ins: фи́­зи­ка­ми
+plu_pre: фи́­зик­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

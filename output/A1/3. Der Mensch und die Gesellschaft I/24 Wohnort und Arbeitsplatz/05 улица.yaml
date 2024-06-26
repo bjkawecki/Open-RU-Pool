@@ -1,0 +1,29 @@
+wordcls: substantive
+name: улица
+name_ac: у́лица
+publ_id:
+translation:
+   - Straße
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: у́лица
+sin_gen: у́ли­цы
+sin_dat: у́ли­це
+sin_acc: у́ли­цу
+sin_ins: у́ли­цей
+sin_pre: у́ли­це
+plu_nom: у́ли­цы
+plu_gen: у́л­иц
+plu_dat: у́ли­цам
+plu_acc: у́ли­цы
+plu_ins: у́ли­ца­ми
+plu_pre: у́ли­цах
+partitive:
+locative:
+comment:
+usage:
+etymol:

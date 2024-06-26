@@ -1,0 +1,29 @@
+wordcls: substantive
+name: дядя
+name_ac: дя́дя
+publ_id:
+translation:
+   - Onkel
+genus: masculine
+dec_cls: '1'
+stress: shifting
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: дя́дя
+sin_gen: дя́­ди
+sin_dat: дя́­де
+sin_acc: дя́­дю
+sin_ins: дя́­дей
+sin_pre: дя́­де
+plu_nom: дядья́
+plu_gen: дядь­ёв
+plu_dat: дядь­я́м
+plu_acc: дядь­ёв
+plu_ins: дядь­я́ми
+plu_pre: дядь­я́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

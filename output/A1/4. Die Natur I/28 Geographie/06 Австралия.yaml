@@ -1,0 +1,29 @@
+wordcls: substantive
+name: Австралия
+name_ac: Австра́лия
+publ_id:
+translation:
+   - Australien
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: Австра́лия
+sin_gen: Австра́лии
+sin_dat: Австра́лии
+sin_acc: Австра́лию
+sin_ins: Австра́лией
+sin_pre: Австра́лии
+plu_nom: Австра́лии
+plu_gen: Австра́лий
+plu_dat: Австра́лиям
+plu_acc: Австра́лии
+plu_ins: Австра́лиями
+plu_pre: Австра́лиях
+partitive:
+locative:
+comment:
+usage:
+etymol:

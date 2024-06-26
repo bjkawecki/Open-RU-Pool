@@ -1,0 +1,29 @@
+wordcls: substantive
+name: килограмм
+name_ac: килогра́мм
+publ_id:
+translation:
+   - Kilogramm
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: килогра́мм
+sin_gen: ки­лог­ра́м­ма
+sin_dat: ки­лог­ра́м­му
+sin_acc: ки­лог­ра́м­м
+sin_ins: ки­лог­ра́м­мом
+sin_pre: ки­лог­ра́м­ме
+plu_nom: ки­лог­ра́м­мы
+plu_gen: ки­лог­ра́м­мов, ки­лог­ра́м­м
+plu_dat: ки­лог­ра́м­мам
+plu_acc: ки­лог­ра́м­мы
+plu_ins: ки­лог­ра́м­ма­ми
+plu_pre: килограммах
+partitive:
+locative:
+comment:
+usage:
+etymol:

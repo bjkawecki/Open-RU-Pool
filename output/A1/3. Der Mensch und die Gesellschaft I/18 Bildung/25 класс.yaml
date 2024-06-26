@@ -1,0 +1,29 @@
+wordcls: substantive
+name: класс
+name_ac: класс
+publ_id:
+translation:
+   - Klasse
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: класс
+sin_gen: кла́с­са
+sin_dat: кла́с­су
+sin_acc: клас­с
+sin_ins: кла́с­сом
+sin_pre: кла́с­се
+plu_nom: кла́с­сы
+plu_gen: кла́с­сов
+plu_dat: кла́с­сам
+plu_acc: кла́с­сы
+plu_ins: кла́с­са­ми
+plu_pre: кла́с­сах
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: лампа
+name_ac: ла́мпа
+publ_id:
+translation:
+   - Lampe
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ла́мпа
+sin_gen: ла́м­пы
+sin_dat: ла́м­пе
+sin_acc: ла́м­пу
+sin_ins: ла́м­пой
+sin_pre: ла́м­пе
+plu_nom: ла́м­пы
+plu_gen: ламп
+plu_dat: ла́м­пам
+plu_acc: ла́м­пы
+plu_ins: ла́м­па­ми
+plu_pre: ла́м­пах
+partitive:
+locative:
+comment:
+usage:
+etymol:

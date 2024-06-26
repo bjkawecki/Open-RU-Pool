@@ -1,0 +1,29 @@
+wordcls: substantive
+name: мужчина
+name_ac: мужчи́на
+publ_id:
+translation:
+   - Mann
+genus: masculine
+dec_cls: '1'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: мужчи́на
+sin_gen: муж­чи́­ны
+sin_dat: муж­чи́­не
+sin_acc: муж­чи́­ну
+sin_ins: муж­чи́­ной
+sin_pre: муж­чи́­не
+plu_nom: муж­чи́­ны
+plu_gen: муж­чи́н
+plu_dat: муж­чи́­нам
+plu_acc: муж­чи́н
+plu_ins: муж­чи́­на­ми
+plu_pre: муж­чи́­нах
+partitive:
+locative:
+comment:
+usage:
+etymol:

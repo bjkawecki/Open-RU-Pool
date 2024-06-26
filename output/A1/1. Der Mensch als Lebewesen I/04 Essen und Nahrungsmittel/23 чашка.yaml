@@ -1,0 +1,29 @@
+wordcls: substantive
+name: чашка
+name_ac: ча́шка
+publ_id:
+translation:
+   - Tasse
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ча́шка
+sin_gen: ча́ш­ки
+sin_dat: ча́ш­ке
+sin_acc: ча́ш­ку
+sin_ins: ча́ш­кой
+sin_pre: ча́ш­ке
+plu_nom: ча́ш­ки
+plu_gen: ча́­шек
+plu_dat: ча́ш­кам
+plu_acc: ча́ш­ки
+plu_ins: ча́ш­ка­ми
+plu_pre: ча́ш­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

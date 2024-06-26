@@ -1,0 +1,30 @@
+wordcls: substantive
+name: число
+name_ac: число́
+publ_id:
+translation:
+   - Zahl
+   - Datum
+genus: neutral
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: чис­ло́
+sin_gen: чис­ла́
+sin_dat: чис­лу́
+sin_acc: чис­ло́
+sin_ins: чис­ло́м
+sin_pre: чис­ле́
+plu_nom: чи́с­ла
+plu_gen: чи́­сел
+plu_dat: чи́с­лам
+plu_acc: чи́с­ла
+plu_ins: чи́с­ла­ми
+plu_pre: чи́с­лах
+partitive:
+locative:
+comment:
+usage:
+etymol:

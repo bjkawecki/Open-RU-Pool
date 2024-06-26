@@ -1,0 +1,30 @@
+wordcls: substantive
+name: район
+name_ac: райо́н
+publ_id:
+translation:
+   - Ortsteil
+   - Landkreis
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: райо́н
+sin_gen: рай­о́на
+sin_dat: рай­о́ну
+sin_acc: рай­о́н
+sin_ins: рай­о́н­ом
+sin_pre: рай­о́не
+plu_nom: рай­о́ны
+plu_gen: рай­о́н­ов
+plu_dat: рай­о́н­ам
+plu_acc: рай­о́ны
+plu_ins: рай­о́на­ми
+plu_pre: рай­о́н­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

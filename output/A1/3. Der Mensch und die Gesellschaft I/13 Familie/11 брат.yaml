@@ -1,0 +1,29 @@
+wordcls: substantive
+name: брат
+name_ac: брат
+publ_id:
+translation:
+   - Bruder
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: брат
+sin_gen: бра́­та
+sin_dat: бра́­ту
+sin_acc: бра́­та
+sin_ins: бра́­том
+sin_pre: бра́­те
+plu_nom: бра́тья
+plu_gen: бра́ть­ев
+plu_dat: бра́ть­ям
+plu_acc: бра́ть­ев
+plu_ins: бра́ть­ями
+plu_pre: бра́ть­ях
+partitive:
+locative:
+comment:
+usage:
+etymol:

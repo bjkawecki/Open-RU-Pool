@@ -1,0 +1,29 @@
+wordcls: substantive
+name: адрес
+name_ac: а́дрес
+publ_id:
+translation:
+   - Adresse
+genus: masculine
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: а́дрес
+sin_gen: а́д­ре­са
+sin_dat: а́д­ре­су
+sin_acc: а́д­рес
+sin_ins: а́д­ре­сом
+sin_pre: а́д­ре­се
+plu_nom: ад­ре­са́
+plu_gen: ад­ре­со́в
+plu_dat: ад­ре­са́м
+plu_acc: ад­ре­са́
+plu_ins: ад­ре­са́­ми
+plu_pre: ад­ре­са́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

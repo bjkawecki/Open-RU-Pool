@@ -1,0 +1,29 @@
+wordcls: substantive
+name: секунда
+name_ac: секу́нда
+publ_id:
+translation:
+   - Sekunde
+genus: masculine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: секу́нда
+sin_gen: се­ку́н­ды
+sin_dat: се­ку́н­де
+sin_acc: се­ку́н­ду
+sin_ins: се­ку́н­дой
+sin_pre: се­ку́н­де
+plu_nom: се­ку́н­ды
+plu_gen: се­ку́нд
+plu_dat: се­ку́н­дам
+plu_acc: се­ку́н­ды
+plu_ins: се­ку́н­да­ми
+plu_pre: се­ку́н­дах
+partitive:
+locative:
+comment:
+usage:
+etymol:

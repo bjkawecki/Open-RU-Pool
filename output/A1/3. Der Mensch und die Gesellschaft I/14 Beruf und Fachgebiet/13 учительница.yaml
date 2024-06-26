@@ -1,0 +1,29 @@
+wordcls: substantive
+name: учительница
+name_ac: учи́тельница
+publ_id:
+translation:
+   - Lehrerin
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: учи́тельница
+sin_gen: учи́­тель­ни­цы
+sin_dat: учи́­тель­ни­це
+sin_acc: учи́­тель­ни­цу
+sin_ins: учи́­тель­ни­цей
+sin_pre: учи́­тель­ни­це
+plu_nom: учи́­тель­ни­цы
+plu_gen: учи́­тель­ниц
+plu_dat: учи́­тель­ни­цам
+plu_acc: учи́­тель­ниц
+plu_ins: учи́­тель­ни­ца­ми
+plu_pre: учи́­тель­ни­цах
+partitive:
+locative:
+comment: in der Schule
+usage:
+etymol:

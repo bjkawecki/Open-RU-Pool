@@ -1,0 +1,29 @@
+wordcls: substantive
+name: виза
+name_ac: ви́за
+publ_id:
+translation:
+   - Visum
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ви́за
+sin_gen: ви́­зы
+sin_dat: ви́­зе
+sin_acc: ви́­зу
+sin_ins: ви́­зой
+sin_pre: ви́­зе
+plu_nom: ви́­зы
+plu_gen: виз
+plu_dat: ви́­зам
+plu_acc: ви́­зы
+plu_ins: ви́­за­ми
+plu_pre: ви́­зах
+partitive:
+locative:
+comment:
+usage:
+etymol:

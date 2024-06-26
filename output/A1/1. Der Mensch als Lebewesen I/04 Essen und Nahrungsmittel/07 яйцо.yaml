@@ -1,0 +1,29 @@
+wordcls: substantive
+name: яйцо
+name_ac: яйцо́
+publ_id:
+translation:
+   - Ei
+genus: neutral
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: яй­цо́
+sin_gen: яй­ца́
+sin_dat: яй­цу́
+sin_acc: яй­цо́
+sin_ins: яй­цо́м
+sin_pre: яй­це́
+plu_nom: я́й­ца
+plu_gen: яи́ц
+plu_dat: я́й­цам
+plu_acc: я́й­ца
+plu_ins: я́й­ца­ми
+plu_pre: я́й­цах
+partitive:
+locative:
+comment:
+usage:
+etymol:

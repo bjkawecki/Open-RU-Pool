@@ -1,0 +1,29 @@
+wordcls: substantive
+name: англичанка
+name_ac: англича́нка
+publ_id:
+translation:
+   - Engländerin
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: англича́нка
+sin_gen: анг­ли­ча́н­ки
+sin_dat: анг­ли­ча́н­ке
+sin_acc: анг­ли­ча́н­ку
+sin_ins: анг­ли­ча́н­кой
+sin_pre: анг­ли­ча́н­ке
+plu_nom: анг­ли­ча́н­ки
+plu_gen: анг­ли­ча́н­ок
+plu_dat: анг­ли­ча́н­кам
+plu_acc: анг­ли­ча́н­ок
+plu_ins: анг­ли­ча́н­ка­ми
+plu_pre: анг­ли­ча́н­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

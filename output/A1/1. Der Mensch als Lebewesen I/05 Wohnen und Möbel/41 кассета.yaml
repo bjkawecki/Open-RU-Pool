@@ -1,0 +1,29 @@
+wordcls: substantive
+name: кассета
+name_ac: кассе́та
+publ_id:
+translation:
+   - Kassette
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: кассе́та
+sin_gen: кас­се́­ты
+sin_dat: кас­се́­те
+sin_acc: кас­се́­ту
+sin_ins: кас­се́­той
+sin_pre: кас­се́­те
+plu_nom: кас­се́­ты
+plu_gen: кас­се́т
+plu_dat: кас­се́­там
+plu_acc: кас­се́­ты
+plu_ins: кас­се́­та­ми
+plu_pre: кас­се́­тах
+partitive:
+locative:
+comment:
+usage:
+etymol:

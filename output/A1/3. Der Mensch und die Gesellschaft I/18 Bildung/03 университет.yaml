@@ -1,0 +1,29 @@
+wordcls: substantive
+name: университет
+name_ac: университе́т
+publ_id:
+translation:
+   - Universität
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: университе́т
+sin_gen: уни­вер­си­те́­та
+sin_dat: уни­вер­си­те́­ту
+sin_acc: уни­вер­си­те́т
+sin_ins: уни­вер­си­те́т­ом
+sin_pre: уни­вер­си­те́­те
+plu_nom: уни­вер­си­те́­ты
+plu_gen: уни­вер­си­те́т­ов
+plu_dat: уни­вер­си­те́т­ам
+plu_acc: уни­вер­си­те́­ты
+plu_ins: уни­вер­си­те́­та­ми
+plu_pre: уни­вер­си­те́т­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

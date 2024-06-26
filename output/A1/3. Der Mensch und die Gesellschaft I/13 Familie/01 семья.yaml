@@ -1,0 +1,29 @@
+wordcls: substantive
+name: семья
+name_ac: семья́
+publ_id:
+translation:
+   - Familie
+genus: feminine
+dec_cls: '1'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: семья́
+sin_gen: семьи́
+sin_dat: семье́
+sin_acc: семью́
+sin_ins: семь­ёй
+sin_pre: семье́
+plu_nom: се́мьи
+plu_gen: се­ме́й
+plu_dat: се́мь­ям
+plu_acc: се́мьи
+plu_ins: се́мь­ями
+plu_pre: се́мь­ях
+partitive:
+locative:
+comment:
+usage:
+etymol:

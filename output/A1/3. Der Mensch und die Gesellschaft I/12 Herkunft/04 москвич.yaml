@@ -1,0 +1,29 @@
+wordcls: substantive
+name: москвич
+name_ac: москви́ч
+publ_id:
+translation:
+   - Moskauer
+genus: masculine
+dec_cls: '2'
+stress: suffix
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: москви́ч
+sin_gen: моск­ви­ча́
+sin_dat: моск­ви­чу́
+sin_acc: моск­ви­ча́
+sin_ins: моск­ви­чо́м
+sin_pre: моск­ви­че́
+plu_nom: моск­ви­чи́
+plu_gen: моск­ви­че́й
+plu_dat: моск­ви­ча́м
+plu_acc: моск­ви­че́й
+plu_ins: моск­ви­ча́­ми
+plu_pre: моск­ви­ча́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

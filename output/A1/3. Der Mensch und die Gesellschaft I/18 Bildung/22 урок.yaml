@@ -1,0 +1,31 @@
+wordcls: substantive
+name: урок
+name_ac: уро́к
+publ_id:
+translation:
+   - Unterricht
+   - Lektion
+   - Unterrichtsstunde
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: уро́к
+sin_gen: уро́­ка
+sin_dat: уро́­ку
+sin_acc: ур­о́к
+sin_ins: уро́­ком
+sin_pre: уро́­ке
+plu_nom: уро́­ки
+plu_gen: уро́­ков
+plu_dat: уро́­кам
+plu_acc: уро́­ки
+plu_ins: уро́­ка­ми
+plu_pre: уро́­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

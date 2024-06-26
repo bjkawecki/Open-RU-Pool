@@ -1,0 +1,29 @@
+wordcls: substantive
+name: страна
+name_ac: страна́
+publ_id:
+translation:
+   - Land
+genus: feminine
+dec_cls: '1'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: страна́
+sin_gen: стра­ны́
+sin_dat: стра­не́
+sin_acc: стра­ну́
+sin_ins: стра­но́й
+sin_pre: стра­не́
+plu_nom: стра́­ны
+plu_gen: стран
+plu_dat: стра́­нам
+plu_acc: стра́­ны
+plu_ins: стра́­на­ми
+plu_pre: стра́­нах
+partitive:
+locative:
+comment:
+usage:
+etymol:

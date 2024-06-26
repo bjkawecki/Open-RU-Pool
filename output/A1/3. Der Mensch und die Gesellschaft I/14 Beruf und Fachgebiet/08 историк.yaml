@@ -1,0 +1,29 @@
+wordcls: substantive
+name: историк
+name_ac: исто́рик
+publ_id:
+translation:
+   - Historiker
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: исто́рик
+sin_gen: ис­то́­ри­ка
+sin_dat: ис­то́­ри­ку
+sin_acc: ис­то́­ри­ка
+sin_ins: ис­то́­рик­ом
+sin_pre: ис­то́­ри­ке
+plu_nom: ис­то́­ри­ки
+plu_gen: ис­то́­рик­ов
+plu_dat: ис­то́­рик­ам
+plu_acc: ис­то́­рик­ов
+plu_ins: ис­то́­ри­ка­ми
+plu_pre: ис­то́­рик­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

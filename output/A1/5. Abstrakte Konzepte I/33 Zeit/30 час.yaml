@@ -1,0 +1,29 @@
+wordcls: substantive
+name: час
+name_ac: час
+publ_id:
+translation:
+   - Stunde
+genus: masculine
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: час
+sin_gen: ча́­са
+sin_dat: ча́­су
+sin_acc: час
+sin_ins: ча́­сом
+sin_pre: ча́­се
+plu_nom: ча­сы́
+plu_gen: ча­со́в
+plu_dat: ча­са́м
+plu_acc: ча­сы́
+plu_ins: ча­са́­ми
+plu_pre: ча­са́х
+partitive:
+locative:
+comment:
+usage:
+etymol:

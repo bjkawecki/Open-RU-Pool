@@ -1,0 +1,29 @@
+wordcls: substantive
+name: завтрак
+name_ac: за́втрак
+publ_id:
+translation:
+   - Frühstück
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: за́втрак
+sin_gen: за́вт­ра­ка
+sin_dat: за́вт­ра­ку
+sin_acc: за́вт­рак
+sin_ins: за́вт­ра­ком
+sin_pre: за́вт­ра­ке
+plu_nom: за́вт­ра­ки
+plu_gen: за́вт­ра­ков
+plu_dat: за́вт­ра­кам
+plu_acc: за́вт­ра­ки
+plu_ins: за́вт­ра­ка­ми
+plu_pre: за́вт­ра­ках
+partitive:
+locative:
+comment:
+usage:
+etymol:

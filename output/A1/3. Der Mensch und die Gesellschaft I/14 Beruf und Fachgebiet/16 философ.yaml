@@ -1,0 +1,29 @@
+wordcls: substantive
+name: философ
+name_ac: фило́соф
+publ_id:
+translation:
+   - Philosoph
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate: true
+is_sin_tan:
+is_plu_tan:
+sin_nom: фило́соф
+sin_gen: фи­ло́­со­фа
+sin_dat: фи­ло́­со­фу
+sin_acc: фи­ло́­со­фа
+sin_ins: фи­ло́­со­фом
+sin_pre: фи­ло́­со­фе
+plu_nom: фи­ло́­со­фы
+plu_gen: фи­ло́­со­фов
+plu_dat: фи­ло́­со­фам
+plu_acc: фи­ло́­со­фов
+plu_ins: фи­ло́­со­фа­ми
+plu_pre: фи­ло́­со­фах
+partitive:
+locative:
+comment:
+usage:
+etymol:

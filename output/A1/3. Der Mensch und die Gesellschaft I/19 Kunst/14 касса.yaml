@@ -1,0 +1,29 @@
+wordcls: substantive
+name: касса
+name_ac: ка́сса
+publ_id:
+translation:
+   - Kasse
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: ка́сса
+sin_gen: ка́с­сы
+sin_dat: ка́с­се
+sin_acc: ка́с­су
+sin_ins: ка́с­сой
+sin_pre: ка́с­се
+plu_nom: ка́с­сы
+plu_gen: кас­с
+plu_dat: ка́с­сам
+plu_acc: ка́с­сы
+plu_ins: ка́с­са­ми
+plu_pre: ка́с­сах
+partitive:
+locative:
+comment:
+usage:
+etymol:

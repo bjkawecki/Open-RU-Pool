@@ -1,0 +1,29 @@
+wordcls: substantive
+name: дом
+name_ac: дом
+publ_id:
+translation:
+   - Haus
+genus: masculine
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: дом
+sin_gen: до́­ма
+sin_dat: до́­му
+sin_acc: дом
+sin_ins: до́­мом
+sin_pre: до́­ме
+plu_nom: до­ма́
+plu_gen: до­мо́в
+plu_dat: до­ма́м
+plu_acc: до­ма́
+plu_ins: до­ма́­ми
+plu_pre: до­ма́х
+partitive:
+locative: в до­му́
+comment:
+usage:
+etymol:

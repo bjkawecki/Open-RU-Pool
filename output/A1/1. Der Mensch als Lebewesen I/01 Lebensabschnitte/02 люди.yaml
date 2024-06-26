@@ -1,0 +1,30 @@
+wordcls: substantive
+name: люди
+name_ac: лю́ди
+publ_id:
+translation:
+   - Menschen
+   - Leute
+genus: masculine
+dec_cls: '2'
+stress: shifting
+is_animate:
+is_sin_tan:
+is_plu_tan: true
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+plu_nom: лю́­ди
+plu_gen: лю­де́й
+plu_dat: лю́­дям
+plu_acc: лю­де́й
+plu_ins: людь­ми́
+plu_pre: лю́­дях
+partitive:
+locative:
+comment:
+usage:
+etymol:

@@ -1,0 +1,29 @@
+wordcls: substantive
+name: страница
+name_ac: страни́ца
+publ_id:
+translation:
+   - Seite
+genus: feminine
+dec_cls: '1'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: страни́ца
+sin_gen: стра­ни́­цы
+sin_dat: стра­ни́­це
+sin_acc: стра­ни́­цу
+sin_ins: стра­ни́­цей
+sin_pre: стра­ни́­це
+plu_nom: стра­ни́­цы
+plu_gen: стра­ни́ц
+plu_dat: стра­ни́ц­ам
+plu_acc: стра­ни́­цы
+plu_ins: стра­ни́­ца­ми
+plu_pre: стра­ни́ц­ах
+partitive:
+locative:
+comment:
+usage:
+etymol:

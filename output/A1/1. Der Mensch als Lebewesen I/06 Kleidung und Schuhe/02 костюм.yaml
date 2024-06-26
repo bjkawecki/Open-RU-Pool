@@ -1,0 +1,30 @@
+wordcls: substantive
+name: костюм
+name_ac: костю́м
+publ_id:
+translation:
+   - Anzug
+   - Kostüm
+genus: masculine
+dec_cls: '2'
+stress: root
+is_animate:
+is_sin_tan:
+is_plu_tan:
+sin_nom: костю́м
+sin_gen: кос­тю́­ма
+sin_dat: кос­тю́­му
+sin_acc: кос­тю́м
+sin_ins: кос­тю́­мом
+sin_pre: кос­тю́­ме
+plu_nom: кос­тю́­мы
+plu_gen: кос­тю́­мов
+plu_dat: кос­тю́­мам
+plu_acc: кос­тю́­мы
+plu_ins: кос­тю́­ма­ми
+plu_pre: кос­тю́­мах
+partitive:
+locative:
+comment:
+usage:
+etymol:

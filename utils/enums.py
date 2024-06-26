@@ -67,9 +67,9 @@ pro_type = {
 genus = {1: "feminine", 2: "masculine", 3: "neutral", 4: "none"}
 
 dec_cls = {
-    1: "class_1",
-    2: "class_2",
-    3: "class_3",
+    1: "1",
+    2: "2",
+    3: "3",
     4: "adjective",
     5: "irregular",
     6: "none",
