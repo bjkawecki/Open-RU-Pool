@@ -1,6 +1,6 @@
 name: дарить
 name_ac: дари́ть
-publ_id:
+publ_id: 110608
 wordcls: verb
 translation:
    - schenken
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: да­рю́
 pre_sin_2: да́­ришь

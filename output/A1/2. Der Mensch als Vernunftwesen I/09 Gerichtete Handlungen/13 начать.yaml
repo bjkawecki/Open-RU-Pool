@@ -1,6 +1,6 @@
 name: начать
 name_ac: нача́ть
-publ_id:
+publ_id: 120913
 wordcls: verb
 translation:
    - beginnen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1:
 pre_sin_2:

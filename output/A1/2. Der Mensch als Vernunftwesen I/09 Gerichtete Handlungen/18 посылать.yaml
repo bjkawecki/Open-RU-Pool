@@ -1,6 +1,6 @@
 name: посылать
 name_ac: посыла́ть
-publ_id:
+publ_id: 120918
 wordcls: verb
 translation:
    - schicken
@@ -13,7 +13,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: по­сы­ла́ю
 pre_sin_2: по­сы­ла́­ешь

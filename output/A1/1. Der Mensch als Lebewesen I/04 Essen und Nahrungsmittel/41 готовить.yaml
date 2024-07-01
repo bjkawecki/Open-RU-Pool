@@ -1,6 +1,6 @@
 name: готовить
 name_ac: гото́вить
-publ_id:
+publ_id: 110441
 wordcls: verb
 translation:
    - vorbereiten
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: го­то́в­лю
 pre_sin_2: го­то́в­ишь

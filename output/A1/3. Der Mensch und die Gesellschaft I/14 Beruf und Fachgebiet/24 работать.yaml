@@ -1,6 +1,6 @@
 name: работать
 name_ac: рабо́тать
-publ_id:
+publ_id: 131424
 wordcls: verb
 translation:
    - arbeiten
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: ра­бо́­таю
 pre_sin_2: ра­бо́­та­ешь

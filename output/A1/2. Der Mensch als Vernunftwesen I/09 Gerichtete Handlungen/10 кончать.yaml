@@ -1,6 +1,6 @@
 name: кончать
 name_ac: конча́ть
-publ_id:
+publ_id: 120910
 wordcls: verb
 translation:
    - beenden
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: кон­ча́ю
 pre_sin_2: кон­ча́­ешь

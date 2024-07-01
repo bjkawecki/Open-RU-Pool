@@ -1,6 +1,6 @@
 name: получать
 name_ac: получа́ть
-publ_id:
+publ_id: 131425
 wordcls: verb
 translation:
    - erhalten
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: по­лу­ча́ю
 pre_sin_2: по­лу­ча́­ешь

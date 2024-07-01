@@ -1,6 +1,6 @@
 name: вспоминать
 name_ac: вспомина́ть
-publ_id:
+publ_id: 120710
 wordcls: verb
 translation:
    - sich erinnern
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: вспо­ми­на́ю
 pre_sin_2: вспо­ми­на́­ешь

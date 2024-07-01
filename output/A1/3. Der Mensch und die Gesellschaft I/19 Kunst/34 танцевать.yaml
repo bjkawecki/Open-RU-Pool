@@ -1,6 +1,6 @@
 name: танцевать
 name_ac: танцева́ть
-publ_id:
+publ_id: 131934
 wordcls: verb
 translation:
    - tanzen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: тан­цу́ю
 pre_sin_2: тан­цу́­ешь

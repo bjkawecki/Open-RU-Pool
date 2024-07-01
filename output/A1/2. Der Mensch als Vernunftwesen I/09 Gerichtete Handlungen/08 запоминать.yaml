@@ -1,6 +1,6 @@
 name: запоминать
 name_ac: запомина́ть
-publ_id:
+publ_id: 120908
 wordcls: verb
 translation:
    - sich merken
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: за­по­ми­на́ю
 pre_sin_2: за­по­ми­на́­ешь

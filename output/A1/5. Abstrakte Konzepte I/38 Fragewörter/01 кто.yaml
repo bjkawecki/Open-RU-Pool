@@ -1,11 +1,11 @@
 name: кто
 name_ac: кто
-publ_id:
+publ_id: 153801
 wordcls: pronoun
 translation:
    - wer
-pro_type: interrogative
-dec_type: substantive
+pro_type:
+dec_type:
 mas_nom:
 mas_gen:
 mas_dat:

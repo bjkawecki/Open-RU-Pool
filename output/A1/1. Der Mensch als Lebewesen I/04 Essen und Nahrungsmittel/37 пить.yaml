@@ -1,6 +1,6 @@
 name: пить
 name_ac: пить
-publ_id:
+publ_id: 110437
 wordcls: verb
 translation:
    - trinken
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: пью
 pre_sin_2: пь­ёшь

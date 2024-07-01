@@ -1,6 +1,6 @@
 name: чувствовать себя
 name_ac: чу́вствовать себя́
-publ_id:
+publ_id: 110306
 wordcls: verb
 translation:
    - sich fühlen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: чу́вс­твую
 pre_sin_2: чу́вс­тву­ешь

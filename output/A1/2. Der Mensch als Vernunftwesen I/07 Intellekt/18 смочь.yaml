@@ -1,6 +1,6 @@
 name: смочь
 name_ac: смочь
-publ_id:
+publ_id: 120718
 wordcls: verb
 translation:
    - können
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1:
 pre_sin_2:

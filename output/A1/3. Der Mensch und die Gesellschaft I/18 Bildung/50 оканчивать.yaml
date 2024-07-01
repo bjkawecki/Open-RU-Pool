@@ -1,6 +1,6 @@
 name: оканчивать
 name_ac: ока́нчивать
-publ_id:
+publ_id: 131850
 wordcls: verb
 translation:
    - abschließen
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: ок­а́н­чи­ваю
 pre_sin_2: ок­а́н­чи­ва­ешь

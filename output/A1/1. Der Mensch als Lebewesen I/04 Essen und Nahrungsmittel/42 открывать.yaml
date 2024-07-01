@@ -1,6 +1,6 @@
 name: открывать
 name_ac: открыва́ть
-publ_id:
+publ_id: 110442
 wordcls: verb
 translation:
    - öffnen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: отк­ры­ва́ю
 pre_sin_2: отк­ры­ва́­ешь

@@ -1,6 +1,6 @@
 name: покупать
 name_ac: покупа́ть
-publ_id:
+publ_id: 110530
 wordcls: verb
 translation:
    - kaufen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: по­ку­па́ю
 pre_sin_2: по­ку­па́­ешь

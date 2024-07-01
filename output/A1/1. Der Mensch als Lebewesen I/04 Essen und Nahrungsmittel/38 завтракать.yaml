@@ -1,6 +1,6 @@
 name: завтракать
 name_ac: за́втракать
-publ_id:
+publ_id: 110438
 wordcls: verb
 translation:
    - frühstücken
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: за́вт­ра­каю
 pre_sin_2: за́вт­ра­ка­ешь

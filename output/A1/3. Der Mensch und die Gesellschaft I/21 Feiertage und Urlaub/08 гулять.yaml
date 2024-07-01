@@ -1,6 +1,6 @@
 name: гулять
 name_ac: гуля́ть
-publ_id:
+publ_id: 132108
 wordcls: verb
 translation:
    - spazieren
@@ -13,7 +13,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: гу­ля́ю
 pre_sin_2: гу­ля́­ешь

@@ -1,6 +1,6 @@
 name: сделать
 name_ac: сде́лать
-publ_id:
+publ_id: 120906
 wordcls: verb
 translation:
    - machen
@@ -13,7 +13,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1:
 pre_sin_2:

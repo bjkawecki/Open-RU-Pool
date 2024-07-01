@@ -1,6 +1,6 @@
 name: интересоваться
 name_ac: интересова́ться
-publ_id:
+publ_id: 120715
 wordcls: verb
 translation:
    - sich interessieren
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: instrumental
-preposition:
+verb_prepo:
 is_reflexive: true
 pre_sin_1: ин­те­ре­су́­юсь
 pre_sin_2: ин­те­ре­су́­ешь­ся

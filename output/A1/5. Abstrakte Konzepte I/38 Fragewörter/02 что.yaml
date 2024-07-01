@@ -1,11 +1,11 @@
 name: что
 name_ac: что
-publ_id:
+publ_id: 153802
 wordcls: pronoun
 translation:
    - was
-pro_type: interrogative
-dec_type: substantive
+pro_type:
+dec_type:
 mas_nom:
 mas_gen:
 mas_dat:

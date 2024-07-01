@@ -1,6 +1,6 @@
 name: забывать
 name_ac: забыва́ть
-publ_id:
+publ_id: 120712
 wordcls: verb
 translation:
    - vergessen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: за­бы­ва́ю
 pre_sin_2: за­бы­ва́­ешь

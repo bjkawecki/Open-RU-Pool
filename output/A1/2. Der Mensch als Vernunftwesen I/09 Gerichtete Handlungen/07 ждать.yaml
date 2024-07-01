@@ -1,6 +1,6 @@
 name: ждать
 name_ac: ждать
-publ_id:
+publ_id: 120907
 wordcls: verb
 translation:
    - warten
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: жду
 pre_sin_2: ждёшь

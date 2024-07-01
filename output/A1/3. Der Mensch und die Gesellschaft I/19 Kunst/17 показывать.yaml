@@ -1,6 +1,6 @@
 name: показывать
 name_ac: пока́зывать
-publ_id:
+publ_id: 131917
 wordcls: verb
 translation:
    - zeigen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: по­ка́­зы­ваю
 pre_sin_2: по­ка́­зы­ва­ешь

@@ -1,6 +1,6 @@
 name: звонить
 name_ac: звони́ть
-publ_id:
+publ_id: 110542
 wordcls: verb
 translation:
    - klingeln
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: dative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: зво­ню́
 pre_sin_2: зво­ни́шь

@@ -1,6 +1,6 @@
 name: изучать
 name_ac: изуча́ть
-publ_id:
+publ_id: 131704
 wordcls: verb
 translation:
    - studieren
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: изу­ча́ю
 pre_sin_2: изу­ча́­ешь

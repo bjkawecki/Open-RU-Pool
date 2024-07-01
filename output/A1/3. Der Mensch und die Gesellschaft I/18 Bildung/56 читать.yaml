@@ -1,6 +1,6 @@
 name: читать
 name_ac: чита́ть
-publ_id:
+publ_id: 131856
 wordcls: verb
 translation:
    - lesen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: чи­та́ю
 pre_sin_2: чи­та́­ешь

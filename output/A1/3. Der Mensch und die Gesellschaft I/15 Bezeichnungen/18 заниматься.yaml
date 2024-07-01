@@ -1,6 +1,6 @@
 name: заниматься
 name_ac: занима́ться
-publ_id:
+publ_id: 131518
 wordcls: verb
 translation:
    - sich mit etwas beschäftigen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: instrumental
-preposition:
+verb_prepo:
 is_reflexive: true
 pre_sin_1: за­ни­ма́­юсь
 pre_sin_2: за­ни­ма́­ешь­ся

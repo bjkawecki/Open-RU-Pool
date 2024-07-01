@@ -1,6 +1,6 @@
 name: поступить
 name_ac: поступи́ть
-publ_id:
+publ_id: 131853
 wordcls: verb
 translation:
    - machen
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1:
 pre_sin_2:

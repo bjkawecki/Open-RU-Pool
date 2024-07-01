@@ -1,6 +1,6 @@
 name: быть
 name_ac: быть
-publ_id:
+publ_id: 131423
 wordcls: verb
 translation:
    - sein
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1:
 pre_sin_2:

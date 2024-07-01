@@ -1,6 +1,6 @@
 name: продолжать
 name_ac: продолжа́ть
-publ_id:
+publ_id: 120914
 wordcls: verb
 translation:
    - fortsetzen
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: про­дол­жа́ю
 pre_sin_2: про­дол­жа́­ешь

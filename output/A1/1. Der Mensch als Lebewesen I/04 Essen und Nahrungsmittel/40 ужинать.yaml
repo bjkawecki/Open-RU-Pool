@@ -1,6 +1,6 @@
 name: ужинать
 name_ac: у́жинать
-publ_id:
+publ_id: 110440
 wordcls: verb
 translation:
    - zu Abend essen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: у́жи­наю
 pre_sin_2: у́жи­на­ешь

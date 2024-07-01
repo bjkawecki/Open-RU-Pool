@@ -1,6 +1,6 @@
 name: думать
 name_ac: ду́мать
-publ_id:
+publ_id: 120706
 wordcls: verb
 translation:
    - denken
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: ду́­маю
 pre_sin_2: ду́­ма­ешь

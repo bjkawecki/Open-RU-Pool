@@ -1,6 +1,6 @@
 name: хотеть
 name_ac: хоте́ть
-publ_id:
+publ_id: 120716
 wordcls: verb
 translation:
    - wollen
@@ -14,7 +14,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: хо­чу́
 pre_sin_2: хо́­чешь

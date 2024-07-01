@@ -1,6 +1,6 @@
 name: брать
 name_ac: брать
-publ_id:
+publ_id: 120901
 wordcls: verb
 translation:
    - nehmen
@@ -13,7 +13,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: бе­ру́
 pre_sin_2: бе­рёшь

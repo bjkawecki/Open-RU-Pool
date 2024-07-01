@@ -1,7 +1,7 @@
 wordcls: substantive
 name: врач
 name_ac: врач
-publ_id:
+publ_id: 110302
 translation:
    - Arzt
 genus: masculine

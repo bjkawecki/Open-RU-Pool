@@ -1,6 +1,6 @@
 name: задать
 name_ac: зада́ть
-publ_id:
+publ_id: 131848
 wordcls: verb
 translation:
    - aufgeben
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1:
 pre_sin_2:

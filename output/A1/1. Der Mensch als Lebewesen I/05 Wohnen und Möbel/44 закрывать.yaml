@@ -1,6 +1,6 @@
 name: закрывать
 name_ac: закрыва́ть
-publ_id:
+publ_id: 110544
 wordcls: verb
 translation:
    - schließen
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: accusative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: зак­ры­ва́ю
 pre_sin_2: зак­ры­ва́­ешь

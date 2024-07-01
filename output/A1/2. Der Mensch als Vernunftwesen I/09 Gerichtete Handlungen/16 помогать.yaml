@@ -1,6 +1,6 @@
 name: помогать
 name_ac: помога́ть
-publ_id:
+publ_id: 120916
 wordcls: verb
 translation:
    - helfen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: dative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: по­мо­га́ю
 pre_sin_2: по­мо­га́­ешь

@@ -1,6 +1,6 @@
 name: решить
 name_ac: реши́ть
-publ_id:
+publ_id: 131855
 wordcls: verb
 translation:
    - entscheiden
@@ -12,7 +12,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1:
 pre_sin_2:

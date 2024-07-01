@@ -1,6 +1,6 @@
 name: отдыхать
 name_ac: отдыха́ть
-publ_id:
+publ_id: 132107
 wordcls: verb
 translation:
    - sich rausruhen
@@ -13,7 +13,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case:
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: от­ды­ха́ю
 pre_sin_2: от­ды­ха́­ешь

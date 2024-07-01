@@ -1,6 +1,6 @@
 name: нравиться
 name_ac: нра́виться
-publ_id:
+publ_id: 120806
 wordcls: verb
 translation:
    - gefallen
@@ -11,7 +11,7 @@ is_motion_verb:
 motion_partner:
 direction:
 obj_case: dative
-preposition:
+verb_prepo:
 is_reflexive:
 pre_sin_1: нра́в­люсь
 pre_sin_2: нра́­вишь­ся
