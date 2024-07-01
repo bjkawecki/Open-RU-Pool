@@ -44,6 +44,7 @@ if __name__ == "__main__":
                 dataMap["name_ac"] = name_ac
                 dataMap["wordcls"] = wordclass
                 dataMap["translation"] = []
+                dataMap["publ_id"] = int(f"1{theme[:1]}{deck[:2]}{word_counter}")
 
                 parse_headers(headers, dataMap=dataMap, row=row)
                 parse_translations(translations, dataMap=dataMap, row=row)
