@@ -18,3 +18,5 @@ The language of the folders and translations currently is German. For the source
 
 Andrjuša, N. P., Kozlova, T. V. (2014). Leksičeskij minimum po russkomy jazyku kak inostrannomy. Ėlementarnyj uroven', Sank-Peterburg: Zlatoust. (ISBN 978-5-86547-858-4)
 
+Andrjuša, N. P., Kozlova, T. V. (2013). Leksičeskij minimum po russkomy jazyku kak inostrannomy. Basovyj uroven', Sank-Peterburg: Zlatoust. (ISBN 978-5-86547-601-6)
+
