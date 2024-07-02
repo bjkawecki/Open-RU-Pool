@@ -4,8 +4,9 @@ name_ac: лицо́
 publ_id: 110202
 translation:
    - Gesicht
+   - Person
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate:
 is_sin_tan:
