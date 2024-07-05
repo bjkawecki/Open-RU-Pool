@@ -1,15 +1,14 @@
 wordcls: substantive
 name: любовь
 name_ac: любо́вь
-publ_id: 120802
 translation:
-   - Liebe
+- Liebe
 genus: feminine
 dec_cls: '3'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: любо́вь
 sin_gen: люб­ви́
 sin_dat: люб­ви́
@@ -22,8 +21,8 @@ plu_dat: люб­вя́м
 plu_acc: люб­ви́
 plu_ins: люб­вя́­ми
 plu_pre: люб­вя́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

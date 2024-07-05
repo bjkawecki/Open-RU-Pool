@@ -1,15 +1,14 @@
 wordcls: substantive
 name: москвичка
 name_ac: москви́чка
-publ_id: 131205
 translation:
-   - Moskauerin
+- Moskauerin
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: москви́чка
 sin_gen: моск­ви́ч­ки
 sin_dat: моск­ви́ч­ке
@@ -22,8 +21,8 @@ plu_dat: моск­ви́ч­кам
 plu_acc: моск­ви́­чек
 plu_ins: моск­ви́ч­ка­ми
 plu_pre: моск­ви́ч­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

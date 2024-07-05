@@ -1,15 +1,14 @@
 wordcls: substantive
 name: сестра
 name_ac: сестра́
-publ_id: 131312
 translation:
-   - Schwester
+- Schwester
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: сестра́
 sin_gen: сест­ры́
 sin_dat: сест­ре́
@@ -22,8 +21,8 @@ plu_dat: сёст­рам
 plu_acc: сес­тёр
 plu_ins: сёст­ра­ми
 plu_pre: сёст­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

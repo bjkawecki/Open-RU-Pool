@@ -1,25 +1,24 @@
 name: позвонить
 name_ac: позвони́ть
-publ_id: 110543
 wordcls: verb
 translation:
-   - klingeln
-   - anrufen
+- klingeln
+- anrufen
 aspect: perfective
 partner: звони́ть
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: поз­во­ню́
 fut_sin_2: поз­во­ни́шь
 fut_sin_3: поз­во­ни́т
@@ -30,14 +29,14 @@ pas_mas: поз­во­ни́л
 pas_fem: поз­во­ни́­ла
 pas_neu: поз­во­ни́­ло
 pas_plu: поз­во­ни́­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: поз­во­ни́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: поз­во­ни́в­ши, поз­во­ни́в
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: поз­во­ни́
 imp_plu: поз­во­ни́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

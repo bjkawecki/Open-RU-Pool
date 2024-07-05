@@ -1,17 +1,16 @@
 wordcls: substantive
 name: удовольствие
 name_ac: удово́льствие
-publ_id: 120804
 translation:
-   - Vergnügen
-   - Spaß
-   - Genuss
+- Vergnügen
+- Spaß
+- Genuss
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: удово́льствие
 sin_gen: удо­во́ль­ствия
 sin_dat: удо­во́ль­ствию
@@ -24,8 +23,8 @@ plu_dat: удо­во́ль­стви­ям
 plu_acc: удо­во́ль­ствия
 plu_ins: удо­во́ль­стви­ями
 plu_pre: удо­во́ль­стви­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

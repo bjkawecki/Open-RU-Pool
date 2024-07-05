@@ -1,9 +1,8 @@
 name: жёлтый
 name_ac: жёлтый
-publ_id: 143105
 wordcls: adjective
 translation:
-   - gelb
+- gelb
 is_gradable: true
 mas_nom: жёлтый
 mas_gen: жёл­то­го
@@ -35,6 +34,6 @@ sho_neu: жёл­то
 sho_plu: жёл­ты
 compara: жел­те́е
 superla: самый жёлтый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

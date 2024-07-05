@@ -1,15 +1,14 @@
 wordcls: substantive
 name: город
 name_ac: го́род
-publ_id: 132402
 translation:
-   - Stadt
+- Stadt
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: го́род
 sin_gen: го́­ро­да
 sin_dat: го́­ро­ду
@@ -22,8 +21,8 @@ plu_dat: го­род­а́м
 plu_acc: го­ро­да́
 plu_ins: го­ро­да́­ми
 plu_pre: го­род­а́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

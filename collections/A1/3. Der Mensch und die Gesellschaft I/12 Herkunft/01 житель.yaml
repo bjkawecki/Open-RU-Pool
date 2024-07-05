@@ -1,16 +1,15 @@
 wordcls: substantive
 name: житель
 name_ac: жи́тель
-publ_id: 131201
 translation:
-   - Einwohner
-   - Bewohner
+- Einwohner
+- Bewohner
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: жи́тель
 sin_gen: жи́­те­ля
 sin_dat: жи́­те­лю
@@ -23,8 +22,8 @@ plu_dat: жи́­тел­ям
 plu_acc: жи́­те­лей
 plu_ins: жи́­те­ля­ми
 plu_pre: жи́­тел­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: рыба
 name_ac: ры́ба
-publ_id: 110406
 translation:
-   - Fisch
+- Fisch
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ры́ба
 sin_gen: ры́­бы
 sin_dat: ры́­бе
@@ -22,8 +21,8 @@ plu_dat: ры́­бам
 plu_acc: рыб
 plu_ins: ры́­ба­ми
 plu_pre: ры́­бах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

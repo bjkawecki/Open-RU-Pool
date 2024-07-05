@@ -1,15 +1,14 @@
 wordcls: substantive
 name: выставка
 name_ac: вы́ставка
-publ_id: 131906
 translation:
-   - Ausstellung
+- Ausstellung
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: вы́ставка
 sin_gen: вы́с­та­вки
 sin_dat: вы́с­та­вке
@@ -22,8 +21,8 @@ plu_dat: вы́с­та­вкам
 plu_acc: вы́с­та­вки
 plu_ins: вы́с­та­вка­ми
 plu_pre: вы́с­та­вках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

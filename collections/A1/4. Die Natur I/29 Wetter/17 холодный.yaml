@@ -1,9 +1,8 @@
 name: холодный
 name_ac: холо́дный
-publ_id: 142917
 wordcls: adjective
 translation:
-   - kalt
+- kalt
 is_gradable: true
 mas_nom: холо́дный
 mas_gen: хо­ло́д­но­го
@@ -35,6 +34,6 @@ sho_neu: хо́­лод­но
 sho_plu: хо̀­лод­ны́
 compara: хо­лод­не́е
 superla: самый хо́лодный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: понедельник
 name_ac: понеде́льник
-publ_id: 153314
 translation:
-   - Montag
+- Montag
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: понеде́льник
 sin_gen: по­нед­е́ль­ни­ка
 sin_dat: по­нед­е́ль­ни­ку
@@ -22,8 +21,8 @@ plu_dat: по­нед­е́ль­ни­кам
 plu_acc: по­нед­е́ль­ни­ки
 plu_ins: по­нед­е́ль­ни­ка­ми
 plu_pre: по­нед­е́ль­ни­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

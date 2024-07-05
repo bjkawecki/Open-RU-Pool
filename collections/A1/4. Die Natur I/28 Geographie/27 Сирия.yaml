@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Сирия
 name_ac: Си́рия
-publ_id: 142827
 translation:
-   - Syrien
+- Syrien
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Си́рия
 sin_gen: Си́рии
 sin_dat: Си́рии
@@ -22,8 +21,8 @@ plu_dat: Си́риям
 plu_acc: Си́рии
 plu_ins: Си́риями
 plu_pre: Си́риях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

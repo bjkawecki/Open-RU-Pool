@@ -1,9 +1,8 @@
 name: чей
 name_ac: чей
-publ_id: 153811
 wordcls: pronoun
 translation:
-   - wessen
+- wessen
 pro_type: interrogative
 dec_type: adjective
 mas_nom: чей
@@ -24,18 +23,18 @@ neu_dat: чь­ему́
 neu_acc: чьё
 neu_ins: чь­им
 neu_pre: чь­ём
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: чьи
 plu_gen: чь­их
 plu_dat: чь­им
 plu_acc: чьи
 plu_ins: чь­и́ми
 plu_pre: чь­их
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,32 +1,31 @@
 name: брать
 name_ac: брать
-publ_id: 120901
 wordcls: verb
 translation:
-   - nehmen
-   - greifen
-   - fassen
+- nehmen
+- greifen
+- fassen
 aspect: imperfective
 partner: взять
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: accusative
-verb_prepo:
-is_reflexive:
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: бе­ру́
 pre_sin_2: бе­рёшь
 pre_sin_3: бе­рёт
 pre_plu_1: бе­рём
 pre_plu_2: бе­рё­те
 pre_plu_3: бе­ру́т
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: брал
 pas_fem: бра­ла́
 pas_neu: бра́­ло
@@ -35,10 +34,10 @@ par_pre_act: бе­ру́­щий
 par_pas_act: бра́в­ший
 par_pre_pas: бе­ря́
 par_pas_pas: бра́в­ши, бра́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: бра́н­ный
 imp_sin: бе­ри́
 imp_plu: бе­ри́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

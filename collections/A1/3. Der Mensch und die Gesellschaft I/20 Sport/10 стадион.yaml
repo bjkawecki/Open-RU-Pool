@@ -1,15 +1,14 @@
 wordcls: substantive
 name: стадион
 name_ac: стадио́н
-publ_id: 132010
 translation:
-   - Stadion
+- Stadion
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: стадио́н
 sin_gen: ста­ди­о́на
 sin_dat: ста­ди­о́ну
@@ -22,8 +21,8 @@ plu_dat: ста­ди­о́н­ам
 plu_acc: ста­ди­о́ны
 plu_ins: ста­ди­о́на­ми
 plu_pre: ста­ди­о́н­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

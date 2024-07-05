@@ -1,16 +1,15 @@
 wordcls: substantive
 name: нога
 name_ac: нога́
-publ_id: 110205
 translation:
-   - Bein
-   - Fuß
+- Bein
+- Fuß
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: нога́
 sin_gen: но­ги́
 sin_dat: но­ге́
@@ -23,8 +22,8 @@ plu_dat: но­га́м
 plu_acc: но́­ги
 plu_ins: но­га́­ми
 plu_pre: но­га́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

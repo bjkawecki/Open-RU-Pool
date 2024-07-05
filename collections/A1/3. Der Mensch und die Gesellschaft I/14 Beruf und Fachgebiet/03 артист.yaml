@@ -1,15 +1,14 @@
 wordcls: substantive
 name: артист
 name_ac: арти́ст
-publ_id: 131403
 translation:
-   - Künstler
+- Künstler
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: арти́ст
 sin_gen: ар­ти́­ста
 sin_dat: ар­ти́­сту
@@ -22,8 +21,8 @@ plu_dat: ар­ти́­стам
 plu_acc: ар­ти́­стов
 plu_ins: ар­ти́­ста­ми
 plu_pre: ар­ти́­стах
-partitive:
-locative:
+partitive: null
+locative: null
 comment: Künstler, der vor Publikum auftritt
-usage:
-etymol:
+usage: null
+etymol: null

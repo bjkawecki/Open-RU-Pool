@@ -1,31 +1,30 @@
 name: закрывать
 name_ac: закрыва́ть
-publ_id: 110544
 wordcls: verb
 translation:
-   - schließen
-   - verdecken
+- schließen
+- verdecken
 aspect: imperfective
 partner: закры́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: accusative
-verb_prepo:
-is_reflexive:
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: зак­ры­ва́ю
 pre_sin_2: зак­ры­ва́­ешь
 pre_sin_3: зак­ры­ва́­ет
 pre_plu_1: зак­ры­ва́­ем
 pre_plu_2: зак­ры­ва́­ете
 pre_plu_3: зак­ры­ва́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: зак­ры­ва́л
 pas_fem: зак­ры­ва́­ла
 pas_neu: зак­ры­ва́­ло
@@ -38,6 +37,6 @@ par_adv_pre: зак­ры­ва́­емый
 par_adv_pas: зак­ры­ва́й
 imp_sin: зак­ры­ва́й
 imp_plu: зак­ры­ва́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

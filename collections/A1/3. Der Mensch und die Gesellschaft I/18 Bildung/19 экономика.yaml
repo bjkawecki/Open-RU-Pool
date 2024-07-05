@@ -1,15 +1,14 @@
 wordcls: substantive
 name: экономика
 name_ac: эконо́мика
-publ_id: 131819
 translation:
-   - Ökonomie
+- Ökonomie
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: эконо́мика
 sin_gen: эко­но́­ми­ки
 sin_dat: эко­но́­ми­ке
@@ -22,8 +21,8 @@ plu_dat: эко­но́­ми­кам
 plu_acc: эко­но́­ми­ки
 plu_ins: эко­но́­ми­ка­ми
 plu_pre: эко­но́­ми­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

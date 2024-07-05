@@ -1,10 +1,9 @@
 name: доброе утро
 name_ac: до́брое у́тро
-publ_id: 132601
 wordcls: phrase
 translation:
-   - Guten Morgen
-metaphrase:
-comment:
-usage:
-etymol:
+- Guten Morgen
+metaphrase: null
+comment: null
+usage: null
+etymol: null

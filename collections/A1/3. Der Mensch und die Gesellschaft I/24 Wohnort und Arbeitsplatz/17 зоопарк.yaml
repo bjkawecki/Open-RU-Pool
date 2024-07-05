@@ -1,15 +1,14 @@
 wordcls: substantive
 name: зоопарк
 name_ac: зоопа́рк
-publ_id: 132417
 translation:
-   - Zoo
+- Zoo
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: зоопа́рк
 sin_gen: зо­оп­а́р­ка
 sin_dat: зо­оп­а́р­ку
@@ -22,8 +21,8 @@ plu_dat: зо­оп­а́р­кам
 plu_acc: зо­оп­а́р­ки
 plu_ins: зо­оп­а́р­ка­ми
 plu_pre: зо­оп­а́р­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,9 +1,8 @@
 name: новый
 name_ac: но́вый
-publ_id: 131902
 wordcls: adjective
 translation:
-   - neu
+- neu
 is_gradable: true
 mas_nom: но́вый
 mas_gen: но́­во­го
@@ -35,6 +34,6 @@ sho_neu: но́­во
 sho_plu: но́­вы
 compara: но­ве́е
 superla: самый но́вый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

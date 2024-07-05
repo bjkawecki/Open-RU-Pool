@@ -1,24 +1,23 @@
 name: пообедать
 name_ac: пообе́дать
-publ_id: 110446
 wordcls: verb
 translation:
-   - zu Mittag essen
+- zu Mittag essen
 aspect: perfective
 partner: обе́дать
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: по­обе́­даю
 fut_sin_2: по­обе́­да­ешь
 fut_sin_3: по­обе́­да­ет
@@ -29,14 +28,14 @@ pas_mas: по­обе́­дал
 pas_fem: по­обе́­да­ла
 pas_neu: по­обе́­да­ло
 pas_plu: по­обе́­да­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: по­обе́­дав­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: по­обе́­дав­ши, по­обе́­дав
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: по­обе́­дай
 imp_plu: по­обе́­дай­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

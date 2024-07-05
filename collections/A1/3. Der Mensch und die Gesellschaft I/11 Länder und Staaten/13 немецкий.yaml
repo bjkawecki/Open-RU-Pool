@@ -1,10 +1,9 @@
 name: немецкий
 name_ac: неме́цкий
-publ_id: 131113
 wordcls: adjective
 translation:
-   - deutsch
-is_gradable:
+- deutsch
+is_gradable: null
 mas_nom: неме́цкий
 mas_gen: не­ме́ц­ко­го
 mas_dat: не­ме́ц­ко­му
@@ -29,12 +28,12 @@ plu_dat: не­ме́ц­ким
 plu_acc: не­ме́ц­кие
 plu_ins: не­ме́ц­ки­ми
 plu_pre: не­ме́ц­ких
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

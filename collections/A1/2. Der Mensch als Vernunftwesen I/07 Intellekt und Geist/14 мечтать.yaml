@@ -1,30 +1,29 @@
 name: мечтать
 name_ac: мечта́ть
-publ_id: 120714
 wordcls: verb
 translation:
-   - träumen
+- träumen
 aspect: imperfective
-partner:
+partner: null
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: меч­та́ю
 pre_sin_2: меч­та́­ешь
 pre_sin_3: меч­та́­ет
 pre_plu_1: меч­та́­ем
 pre_plu_2: меч­та́­ете
 pre_plu_3: меч­та́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: меч­та́л
 pas_fem: меч­та́­ла
 pas_neu: меч­та́­ло
@@ -33,10 +32,10 @@ par_pre_act: меч­та́­ющий
 par_pas_act: меч­та́­вший
 par_pre_pas: меч­та́я
 par_pas_pas: меч­та́­вши, меч­та́в
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: меч­та́й
 imp_plu: меч­та́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

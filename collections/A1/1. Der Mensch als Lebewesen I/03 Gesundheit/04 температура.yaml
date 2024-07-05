@@ -1,15 +1,14 @@
 wordcls: substantive
 name: температура
 name_ac: температу́ра
-publ_id: 110304
 translation:
-   - Temperatur
+- Temperatur
 genus: feminine
-dec_cls: "1"
+dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: температу́ра
 sin_gen: тем­пе­ра­ту́­ры
 sin_dat: тем­пе­ра­ту́­ре
@@ -22,8 +21,8 @@ plu_dat: тем­пе­ра­ту́­рам
 plu_acc: тем­пе­ра­ту́­ры
 plu_ins: тем­пе­ра­ту́­ра­ми
 plu_pre: тем­пе­ра­ту́­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

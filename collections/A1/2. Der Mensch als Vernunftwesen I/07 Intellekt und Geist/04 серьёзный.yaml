@@ -1,10 +1,9 @@
 name: серьёзный
 name_ac: серьёзный
-publ_id: 120704
 wordcls: adjective
 translation:
-   - ernst
-   - seriös
+- ernst
+- seriös
 is_gradable: true
 mas_nom: серьёзный
 mas_gen: серь­ёз­но­го
@@ -36,6 +35,6 @@ sho_neu: серь­ёз­но
 sho_plu: серь­ёз­ны
 compara: серь­ёз­нее
 superla: самый серьёзный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,11 +1,10 @@
 name: пожалуйста
 name_ac: пожа́луйста
-publ_id: 132626
 wordcls: phrase
 translation:
-   - bitte
-   - bittesehr
-metaphrase:
-comment:
-usage:
-etymol:
+- bitte
+- bittesehr
+metaphrase: null
+comment: null
+usage: null
+etymol: null

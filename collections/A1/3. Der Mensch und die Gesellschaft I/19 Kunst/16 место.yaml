@@ -1,17 +1,16 @@
 wordcls: substantive
 name: место
 name_ac: ме́сто
-publ_id: 131916
 translation:
-   - Ort
-   - Platz
-   - Stelle
+- Ort
+- Platz
+- Stelle
 genus: neutral
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ме́сто
 sin_gen: ме́с­та
 sin_dat: ме́с­ту
@@ -24,8 +23,8 @@ plu_dat: мес­та́м
 plu_acc: мес­та́
 plu_ins: мес­та́­ми
 plu_pre: мес­та́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

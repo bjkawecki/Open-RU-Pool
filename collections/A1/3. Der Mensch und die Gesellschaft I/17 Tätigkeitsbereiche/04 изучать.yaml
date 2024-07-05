@@ -1,31 +1,30 @@
 name: изучать
 name_ac: изуча́ть
-publ_id: 131704
 wordcls: verb
 translation:
-   - studieren
-   - erforschen
+- studieren
+- erforschen
 aspect: imperfective
 partner: изучи́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: accusative
-verb_prepo:
-is_reflexive:
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: изу­ча́ю
 pre_sin_2: изу­ча́­ешь
 pre_sin_3: изу­ча́­ет
 pre_plu_1: изу­ча́­ем
 pre_plu_2: изу­ча́­ете
 pre_plu_3: изу­ча́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: изу­ча́л
 pas_fem: изу­ча́­ла
 pas_neu: изу­ча́­ло
@@ -35,9 +34,9 @@ par_pas_act: изу­ча́в­ший
 par_pre_pas: изу­ча́я
 par_pas_pas: изу­ча́в­ши, изу­ча́в
 par_adv_pre: изу­ча́­емый
-par_adv_pas:
+par_adv_pas: null
 imp_sin: изу­ча́й
 imp_plu: изу­ча́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

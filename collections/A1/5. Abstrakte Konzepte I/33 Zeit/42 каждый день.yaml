@@ -1,10 +1,9 @@
 name: каждый день
 name_ac: ка́ждый день
-publ_id: 153342
 wordcls: phrase
 translation:
-   - jeden Tag
-metaphrase:
-comment:
-usage:
-etymol:
+- jeden Tag
+metaphrase: null
+comment: null
+usage: null
+etymol: null

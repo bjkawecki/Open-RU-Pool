@@ -1,25 +1,24 @@
 name: решить
 name_ac: реши́ть
-publ_id: 131855
 wordcls: verb
 translation:
-   - entscheiden
-   - lösen
+- entscheiden
+- lösen
 aspect: perfective
 partner: реша́ть
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: ре­шу́
 fut_sin_2: ре­ши́шь
 fut_sin_3: ре­ши́т
@@ -30,14 +29,14 @@ pas_mas: ре­ши́л
 pas_fem: ре­ши́­ла
 pas_neu: ре­ши́­ло
 pas_plu: ре­ши́­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: ре­ши́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: ре­ши́в­ши, ре­ши́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: ре­шён­ный
 imp_sin: ре­ши́
 imp_plu: ре­ши́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

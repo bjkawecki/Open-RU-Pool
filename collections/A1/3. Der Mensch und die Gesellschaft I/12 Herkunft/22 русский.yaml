@@ -1,15 +1,14 @@
 wordcls: substantive
 name: русский
 name_ac: ру́сский
-publ_id: 131222
 translation:
-   - Russe
+- Russe
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ру́сский
 sin_gen: ру́с­ско­го
 sin_dat: ру́с­ско­му
@@ -22,8 +21,8 @@ plu_dat: ру́с­ским
 plu_acc: ру́с­ских
 plu_ins: ру́с­ски­ми
 plu_pre: ру́с­ских
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

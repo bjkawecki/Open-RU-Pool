@@ -1,15 +1,14 @@
 wordcls: substantive
 name: открытка
 name_ac: откры́тка
-publ_id: 132503
 translation:
-   - Ansichtskarte
+- Ansichtskarte
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: откры́тка
 sin_gen: отк­ры́т­ки
 sin_dat: отк­ры́т­ке
@@ -22,8 +21,8 @@ plu_dat: отк­ры́т­кам
 plu_acc: отк­ры́т­ки
 plu_ins: отк­ры́т­ка­ми
 plu_pre: отк­ры́т­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

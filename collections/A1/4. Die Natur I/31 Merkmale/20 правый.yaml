@@ -1,9 +1,8 @@
 name: правый
 name_ac: пра́вый
-publ_id: 143120
 wordcls: adjective
 translation:
-   - rechter
+- rechter
 is_gradable: true
 mas_nom: пра́вый
 mas_gen: пра́­во­го
@@ -35,6 +34,6 @@ sho_neu: пра́­во
 sho_plu: пра́­вы
 compara: пра­ве́е
 superla: самый пра́вый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

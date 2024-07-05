@@ -1,15 +1,14 @@
 wordcls: substantive
 name: тётя
 name_ac: тётя
-publ_id: 131317
 translation:
-   - Tante
+- Tante
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: тётя
 sin_gen: тё­ти
 sin_dat: тё­те
@@ -22,8 +21,8 @@ plu_dat: тё­тям
 plu_acc: тёть
 plu_ins: тё­тя­ми
 plu_pre: тё­тях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

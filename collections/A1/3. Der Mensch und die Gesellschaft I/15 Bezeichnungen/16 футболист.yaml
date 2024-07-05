@@ -1,15 +1,14 @@
 wordcls: substantive
 name: футболист
 name_ac: футболи́ст
-publ_id: 131516
 translation:
-   - Fußballer
+- Fußballer
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: футболи́ст
 sin_gen: фут­бо­ли́с­та
 sin_dat: фут­бо­ли́с­ту
@@ -22,8 +21,8 @@ plu_dat: фут­бо­ли́с­там
 plu_acc: фут­бо­ли́с­тов
 plu_ins: фут­бо­ли́с­та­ми
 plu_pre: фут­бо­ли́с­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

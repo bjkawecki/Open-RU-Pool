@@ -1,15 +1,14 @@
 wordcls: substantive
 name: хоккей
 name_ac: хокке́й
-publ_id: 132005
 translation:
-   - Hockey
+- Hockey
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: хокке́й
 sin_gen: хок­ке́я
 sin_dat: хок­ке́ю
@@ -22,8 +21,8 @@ plu_dat: хок­ке́­ям
 plu_acc: хок­ке́и
 plu_ins: хок­ке́­ями
 plu_pre: хок­ке́­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

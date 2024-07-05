@@ -1,15 +1,14 @@
 wordcls: substantive
 name: вода
 name_ac: вода́
-publ_id: 110433
 translation:
-   - Wasser
+- Wasser
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: вода́
 sin_gen: во­ды́
 sin_dat: во­де́
@@ -22,8 +21,8 @@ plu_dat: во́­дам
 plu_acc: во́­ды
 plu_ins: во́­да­ми
 plu_pre: во́­дах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

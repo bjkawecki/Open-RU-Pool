@@ -4,3 +4,4 @@ __pycache__
 output.csv
 .vscode
 courses.json
+rm_publ_id.py

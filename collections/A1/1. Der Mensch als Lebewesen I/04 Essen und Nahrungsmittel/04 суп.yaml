@@ -1,15 +1,14 @@
 wordcls: substantive
 name: суп
 name_ac: суп
-publ_id: 110404
 translation:
-   - Suppe
+- Suppe
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: суп
 sin_gen: су́­па
 sin_dat: су́­пу
@@ -24,6 +23,6 @@ plu_ins: су­па́­ми
 plu_pre: су­па́х
 partitive: су́­пу
 locative: в супу
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

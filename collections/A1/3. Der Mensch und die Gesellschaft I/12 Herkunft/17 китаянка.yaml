@@ -1,15 +1,14 @@
 wordcls: substantive
 name: китаянка
 name_ac: китая́нка
-publ_id: 131217
 translation:
-   - Chinesin
+- Chinesin
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: китая́нка
 sin_gen: ки­та­я́н­ки
 sin_dat: ки­та­я́н­ке
@@ -22,8 +21,8 @@ plu_dat: ки­та­я́н­кам
 plu_acc: ки­та­я́н­ок
 plu_ins: ки­та­я́н­ка­ми
 plu_pre: ки­та­я́н­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

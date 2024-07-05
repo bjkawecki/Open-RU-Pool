@@ -1,15 +1,14 @@
 wordcls: substantive
 name: май
 name_ac: май
-publ_id: 153305
 translation:
-   - Mai
+- Mai
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: май
 sin_gen: ма́я
 sin_dat: ма́ю
@@ -22,8 +21,8 @@ plu_dat: ма́­ям
 plu_acc: ма́и
 plu_ins: ма́­ями
 plu_pre: ма́­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

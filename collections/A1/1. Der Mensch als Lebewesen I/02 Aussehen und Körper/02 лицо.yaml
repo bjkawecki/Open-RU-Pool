@@ -1,16 +1,15 @@
 wordcls: substantive
 name: лицо
 name_ac: лицо́
-publ_id: 110202
 translation:
-   - Gesicht
-   - Person
+- Gesicht
+- Person
 genus: neutral
-dec_cls: "2"
+dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: лицо́
 sin_gen: ли­ца́
 sin_dat: ли­цу́
@@ -23,8 +22,8 @@ plu_dat: ли́­цам
 plu_acc: ли́­ца
 plu_ins: ли́­ца­ми
 plu_pre: ли́­цах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

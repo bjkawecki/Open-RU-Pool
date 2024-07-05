@@ -1,15 +1,14 @@
 wordcls: substantive
 name: балет
 name_ac: бале́т
-publ_id: 131933
 translation:
-   - Balett
+- Balett
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: бале́т
 sin_gen: ба­ле́­та
 sin_dat: ба­ле́­ту
@@ -22,8 +21,8 @@ plu_dat: ба­ле́т­ам
 plu_acc: ба­ле́­ты
 plu_ins: ба­ле́­та­ми
 plu_pre: ба­ле́т­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

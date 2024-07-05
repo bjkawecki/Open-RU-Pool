@@ -1,15 +1,14 @@
 wordcls: substantive
 name: учитель
 name_ac: учи́тель
-publ_id: 131412
 translation:
-   - Lehrer
+- Lehrer
 genus: masculine
 dec_cls: '2'
 stress: shifting
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: учи́тель
 sin_gen: учи́­те­ля
 sin_dat: учи́­те­лю
@@ -22,8 +21,8 @@ plu_dat: учи­тел­я́м
 plu_acc: учи­те­ле́й
 plu_ins: учи­те­ля́­ми
 plu_pre: учи­тел­я́х
-partitive:
-locative:
+partitive: null
+locative: null
 comment: in der Schule
-usage:
-etymol:
+usage: null
+etymol: null

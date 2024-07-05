@@ -1,29 +1,28 @@
 wordcls: substantive
 name: молоко
 name_ac: молоко́
-publ_id: 110430
 translation:
-   - Milch
+- Milch
 genus: neutral
 dec_cls: '2'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: молоко́
 sin_gen: мо­ло­ка́
 sin_dat: мо­ло­ку́
 sin_acc: мо­ло­ко́
 sin_ins: мо­лок­о́м
 sin_pre: мо­ло­ке́
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
-partitive:
-locative:
-comment:
-usage:
-etymol:
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

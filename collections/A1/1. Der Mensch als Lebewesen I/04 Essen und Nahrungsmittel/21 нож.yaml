@@ -1,15 +1,14 @@
 wordcls: substantive
 name: нож
 name_ac: нож
-publ_id: 110421
 translation:
-   - Messer
+- Messer
 genus: masculine
 dec_cls: '2'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: нож
 sin_gen: но­жа́
 sin_dat: но­жу́
@@ -22,8 +21,8 @@ plu_dat: но­жа́м
 plu_acc: но­жи́
 plu_ins: но­жа́­ми
 plu_pre: но­жа́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

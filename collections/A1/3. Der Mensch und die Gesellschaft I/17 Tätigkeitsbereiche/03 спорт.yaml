@@ -1,15 +1,14 @@
 wordcls: substantive
 name: спорт
 name_ac: спорт
-publ_id: 131703
 translation:
-   - Sport
+- Sport
 genus: masculine
 dec_cls: '2'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: спорт
 sin_gen: спо́р­та
 sin_dat: спо́р­ту
@@ -22,8 +21,8 @@ plu_dat: спо́р­там
 plu_acc: спо́р­ты
 plu_ins: спо́р­та­ми
 plu_pre: спо́р­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

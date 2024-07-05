@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Норвегия
 name_ac: Норве́гия
-publ_id: 142825
 translation:
-   - Norwegen
+- Norwegen
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Норве́гия
 sin_gen: Норве́гии
 sin_dat: Норве́гии
@@ -22,8 +21,8 @@ plu_dat: Норве́гиям
 plu_acc: Норве́гии
 plu_ins: Норве́гиями
 plu_pre: Норве́гиях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

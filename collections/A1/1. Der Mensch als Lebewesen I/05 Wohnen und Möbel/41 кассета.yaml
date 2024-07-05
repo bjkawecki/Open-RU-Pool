@@ -1,15 +1,14 @@
 wordcls: substantive
 name: кассета
 name_ac: кассе́та
-publ_id: 110541
 translation:
-   - Kassette
+- Kassette
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: кассе́та
 sin_gen: кас­се́­ты
 sin_dat: кас­се́­те
@@ -22,8 +21,8 @@ plu_dat: кас­се́­там
 plu_acc: кас­се́­ты
 plu_ins: кас­се́­та­ми
 plu_pre: кас­се́­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,16 +1,15 @@
 wordcls: substantive
 name: комната
 name_ac: ко́мната
-publ_id: 110509
 translation:
-   - Zimmer
-   - Raum
+- Zimmer
+- Raum
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ко́мната
 sin_gen: ко́м­на­ты
 sin_dat: ко́м­на­те
@@ -23,8 +22,8 @@ plu_dat: ко́м­на­там
 plu_acc: ко́м­на­ты
 plu_ins: ко́м­на­та­ми
 plu_pre: ко́м­на­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

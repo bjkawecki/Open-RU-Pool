@@ -1,24 +1,23 @@
 name: построить
 name_ac: постро́ить
-publ_id: 120923
 wordcls: verb
 translation:
-   - bauen
+- bauen
 aspect: perfective
 partner: стро́ить
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: пост­ро́ю
 fut_sin_2: пост­ро́­ишь
 fut_sin_3: пост­ро́­ит
@@ -29,14 +28,14 @@ pas_mas: пост­ро́­ил
 pas_fem: пост­ро́­ила
 pas_neu: пост­ро́­ило
 pas_plu: пост­ро́­или
-par_pre_act:
+par_pre_act: null
 par_pas_act: пост­ро́­ив­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: пост­ро́­ив­ши, пост­ро́­ив
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: пост­ро́­ен­ный
 imp_sin: пост­ро́й
 imp_plu: пост­ро́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

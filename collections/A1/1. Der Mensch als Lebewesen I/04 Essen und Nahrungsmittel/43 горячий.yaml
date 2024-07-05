@@ -1,9 +1,8 @@
 name: горячий
 name_ac: горя́чий
-publ_id: 110443
 wordcls: adjective
 translation:
-   - heiß
+- heiß
 is_gradable: true
 mas_nom: горя́чий
 mas_gen: го­ря́­че­го
@@ -35,6 +34,6 @@ sho_neu: го­ря­чо́
 sho_plu: го­ря­чи́
 compara: го­ря́­чее
 superla: самый горя́чий
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

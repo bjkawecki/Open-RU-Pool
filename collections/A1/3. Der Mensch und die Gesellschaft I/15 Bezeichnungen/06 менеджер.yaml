@@ -1,15 +1,14 @@
 wordcls: substantive
 name: менеджер
 name_ac: ме́неджер
-publ_id: 131506
 translation:
-   - Manager
+- Manager
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ме́неджер
 sin_gen: ме́­нед­же­ра
 sin_dat: ме́­нед­же­ру
@@ -22,8 +21,8 @@ plu_dat: ме́­нед­же­рам
 plu_acc: ме́­нед­же­ров
 plu_ins: ме́­нед­же­ра­ми
 plu_pre: ме́­нед­же­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

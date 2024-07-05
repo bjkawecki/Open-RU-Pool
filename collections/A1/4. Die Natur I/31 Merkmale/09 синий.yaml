@@ -1,9 +1,8 @@
 name: синий
 name_ac: си́ний
-publ_id: 143109
 wordcls: adjective
 translation:
-   - dunkelblau
+- dunkelblau
 is_gradable: true
 mas_nom: си́ний
 mas_gen: си́­не­го
@@ -35,6 +34,6 @@ sho_neu: си́­не
 sho_plu: си́­ни
 compara: си­не́е
 superla: самый си́ний
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: кресло
 name_ac: кре́сло
-publ_id: 110515
 translation:
-   - Sessel
+- Sessel
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: кре́сло
 sin_gen: кре́с­ла
 sin_dat: кре́с­лу
@@ -22,8 +21,8 @@ plu_dat: кре́с­лам
 plu_acc: кре́с­ла
 plu_ins: кре́с­ла­ми
 plu_pre: кре́с­лах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

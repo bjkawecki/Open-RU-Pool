@@ -1,15 +1,14 @@
 wordcls: substantive
 name: вопрос
 name_ac: вопро́с
-publ_id: 131826
 translation:
-   - Frage
+- Frage
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: вопро́с
 sin_gen: воп­ро́­са
 sin_dat: воп­ро́­су
@@ -22,8 +21,8 @@ plu_dat: воп­ро́­сам
 plu_acc: воп­ро́­сы
 plu_ins: воп­ро́­са­ми
 plu_pre: воп­ро́­сах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

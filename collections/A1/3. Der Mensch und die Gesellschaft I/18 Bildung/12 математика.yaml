@@ -1,15 +1,14 @@
 wordcls: substantive
 name: математика
 name_ac: матема́тика
-publ_id: 131812
 translation:
-   - Mathematik
+- Mathematik
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: матема́тика
 sin_gen: ма­те­ма́­ти­ки
 sin_dat: ма­те­ма́­ти­ке
@@ -22,8 +21,8 @@ plu_dat: ма­те­ма́­тик­ам
 plu_acc: ма­те­ма́­ти­ки
 plu_ins: ма­те­ма́­ти­ка­ми
 plu_pre: ма­те­ма́­тик­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

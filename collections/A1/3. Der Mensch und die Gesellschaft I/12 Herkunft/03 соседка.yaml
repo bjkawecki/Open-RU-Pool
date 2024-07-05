@@ -1,15 +1,14 @@
 wordcls: substantive
 name: соседка
 name_ac: сосе́дка
-publ_id: 131203
 translation:
-   - Nachbarin
+- Nachbarin
 genus: feminine
 dec_cls: '1'
 stress: suffix
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: сосе́дка
 sin_gen: со­се́д­ки
 sin_dat: со­се́д­ке
@@ -22,8 +21,8 @@ plu_dat: со­се́д­кам
 plu_acc: со­се́д­ок
 plu_ins: со­се́д­ка­ми
 plu_pre: со­се́д­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

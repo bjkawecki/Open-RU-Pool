@@ -1,15 +1,14 @@
 wordcls: substantive
 name: самолёт
 name_ac: самолёт
-publ_id: 132307
 translation:
-   - Flugzeug
+- Flugzeug
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: самолёт
 sin_gen: са­мо­лё­та
 sin_dat: са­мо­лё­ту
@@ -22,8 +21,8 @@ plu_dat: са­мо­лё­там
 plu_acc: са­мо­лё­ты
 plu_ins: са­мо­лё­та­ми
 plu_pre: са­мо­лё­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

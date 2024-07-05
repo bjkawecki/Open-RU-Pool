@@ -1,10 +1,9 @@
 name: меня зовут
 name_ac: меня́ зову́т
-publ_id: 132605
 wordcls: phrase
 translation:
-   - Ich heiße
-metaphrase:
-comment:
-usage:
-etymol:
+- Ich heiße
+metaphrase: null
+comment: null
+usage: null
+etymol: null

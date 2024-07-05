@@ -1,15 +1,14 @@
 wordcls: substantive
 name: километр
 name_ac: киломе́тр
-publ_id: 153701
 translation:
-   - Kilometer
+- Kilometer
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: киломе́тр
 sin_gen: ки­лом­е́т­ра
 sin_dat: ки­лом­е́т­ру
@@ -22,8 +21,8 @@ plu_dat: ки­лом­е́т­рам
 plu_acc: ки­лом­е́т­ры
 plu_ins: ки­лом­е́т­ра­ми
 plu_pre: ки­лом­е́т­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

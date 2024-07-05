@@ -1,9 +1,8 @@
 name: белый
 name_ac: бе́лый
-publ_id: 143102
 wordcls: adjective
 translation:
-   - weiß
+- weiß
 is_gradable: true
 mas_nom: бе́лый
 mas_gen: бе́­ло­го
@@ -35,6 +34,6 @@ sho_neu: бе́­ло
 sho_plu: бе́­лы
 compara: бе­ле́е
 superla: самый бе́лый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

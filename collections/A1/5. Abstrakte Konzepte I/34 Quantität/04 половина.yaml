@@ -1,15 +1,14 @@
 wordcls: substantive
 name: половина
 name_ac: полови́на
-publ_id: 153504
 translation:
-   - Hälfte
+- Hälfte
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: полови́на
 sin_gen: по­ло­ви́­ны
 sin_dat: по­ло­ви́­не
@@ -22,8 +21,8 @@ plu_dat: по­ло­ви́­нам
 plu_acc: по­ло­ви́­ны
 plu_ins: по­ло­ви́­на­ми
 plu_pre: по­ло­ви́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

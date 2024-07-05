@@ -1,15 +1,14 @@
 wordcls: substantive
 name: брат
 name_ac: брат
-publ_id: 131311
 translation:
-   - Bruder
+- Bruder
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: брат
 sin_gen: бра́­та
 sin_dat: бра́­ту
@@ -22,8 +21,8 @@ plu_dat: бра́ть­ям
 plu_acc: бра́ть­ев
 plu_ins: бра́ть­ями
 plu_pre: бра́ть­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

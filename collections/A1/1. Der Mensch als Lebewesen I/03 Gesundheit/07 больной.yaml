@@ -1,9 +1,8 @@
 name: больной
 name_ac: больной
-publ_id: 110307
 wordcls: adjective
 translation:
-   - krank
+- krank
 is_gradable: true
 mas_nom: боль­но́й
 mas_gen: боль­но́­го
@@ -35,6 +34,6 @@ sho_neu: боль­но́
 sho_plu: боль­ны́
 compara: боль­не́е
 superla: самый бо́лный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

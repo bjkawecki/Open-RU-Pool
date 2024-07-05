@@ -1,10 +1,9 @@
 name: будущий
 name_ac: бу́дущий
-publ_id: 153451
 wordcls: adjective
 translation:
-   - künftig
-   - angehend
+- künftig
+- angehend
 is_gradable: true
 mas_nom: бу́дущий
 mas_gen: бу́­ду­ще­го
@@ -36,6 +35,6 @@ sho_neu: бу́­ду­ще
 sho_plu: бу́­ду­щи
 compara: бу́­ду­щее
 superla: самый бу́дущий
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

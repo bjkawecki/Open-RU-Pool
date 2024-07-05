@@ -1,15 +1,14 @@
 wordcls: substantive
 name: институт
 name_ac: институ́т
-publ_id: 131802
 translation:
-   - Institut
+- Institut
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: институ́т
 sin_gen: инс­ти­ту́­та
 sin_dat: инс­ти­ту́­ту
@@ -22,8 +21,8 @@ plu_dat: инс­ти­ту́т­ам
 plu_acc: инс­ти­ту́­ты
 plu_ins: инс­ти­ту́­та­ми
 plu_pre: инс­ти­ту́т­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

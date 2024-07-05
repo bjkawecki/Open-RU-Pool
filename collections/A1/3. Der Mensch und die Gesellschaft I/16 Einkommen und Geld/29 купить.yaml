@@ -1,24 +1,23 @@
 name: купить
 name_ac: купи́ть
-publ_id: 110529
 wordcls: verb
 translation:
-   - kaufen
+- kaufen
 aspect: perfective
 partner: покупа́ть
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: куп­лю́
 fut_sin_2: ку́­пишь
 fut_sin_3: ку́­пит
@@ -29,14 +28,14 @@ pas_mas: ку­пи́л
 pas_fem: ку­пи́­ла
 pas_neu: ку­пи́­ло
 pas_plu: ку­пи́­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: ку­пи́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: ку­пи́в­ши, ку­пи́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: ку́п­лен­ный
 imp_sin: ку­пи́
 imp_plu: ку­пи́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: яблоко
 name_ac: я́блоко
-publ_id: 110414
 translation:
-   - Apfel
+- Apfel
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: я́блоко
 sin_gen: я́б­ло­ка
 sin_dat: я́б­ло­ку
@@ -22,8 +21,8 @@ plu_dat: я́б­ло­кам
 plu_acc: я́б­ло­ки
 plu_ins: я́б­ло­ка­ми
 plu_pre: я́б­ло­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

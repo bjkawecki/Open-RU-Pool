@@ -1,15 +1,14 @@
 wordcls: substantive
 name: турист
 name_ac: тури́ст
-publ_id: 131515
 translation:
-   - Tourist
+- Tourist
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: тури́ст
 sin_gen: ту­ри́с­та
 sin_dat: ту­ри́с­ту
@@ -22,8 +21,8 @@ plu_dat: ту­ри́с­там
 plu_acc: ту­ри́с­тов
 plu_ins: ту­ри́с­та­ми
 plu_pre: ту­ри́с­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

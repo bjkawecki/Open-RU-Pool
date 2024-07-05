@@ -1,15 +1,14 @@
 wordcls: substantive
 name: язык
 name_ac: язы́к
-publ_id: 131815
 translation:
-   - Sprache
+- Sprache
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: язы́к
 sin_gen: язы­ка́
 sin_dat: язы­ку́
@@ -22,8 +21,8 @@ plu_dat: язы­ка́м
 plu_acc: язы­ки́
 plu_ins: язы­ка́­ми
 plu_pre: язы­ка́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

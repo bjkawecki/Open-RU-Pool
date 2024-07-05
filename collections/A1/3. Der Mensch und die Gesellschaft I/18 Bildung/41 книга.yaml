@@ -1,15 +1,14 @@
 wordcls: substantive
 name: книга
 name_ac: кни́га
-publ_id: 131841
 translation:
-   - Buch
+- Buch
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: кни́га
 sin_gen: кни́­ги
 sin_dat: кни́­ге
@@ -22,8 +21,8 @@ plu_dat: кни́­гам
 plu_acc: кни́­ги
 plu_ins: кни́­га­ми
 plu_pre: кни́­гах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

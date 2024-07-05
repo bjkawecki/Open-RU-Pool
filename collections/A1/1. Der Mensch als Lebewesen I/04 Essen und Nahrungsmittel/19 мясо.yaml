@@ -1,15 +1,14 @@
 wordcls: substantive
 name: мясо
 name_ac: мя́со
-publ_id: 110419
 translation:
-   - Fleisch
+- Fleisch
 genus: neutral
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: мя́со
 sin_gen: мя́­са
 sin_dat: мя́­су
@@ -22,8 +21,8 @@ plu_dat: мя­са́м
 plu_acc: мя­са́
 plu_ins: мя­са́­ми
 plu_pre: мя­са́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

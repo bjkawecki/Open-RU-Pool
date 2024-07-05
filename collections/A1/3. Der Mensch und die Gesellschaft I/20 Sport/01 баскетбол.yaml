@@ -1,15 +1,14 @@
 wordcls: substantive
 name: баскетбол
 name_ac: баскетбо́л
-publ_id: 132001
 translation:
-   - Basketball
+- Basketball
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: баскетбо́л
 sin_gen: бас­ке­тбо́­ла
 sin_dat: бас­ке­тбо́­лу
@@ -22,8 +21,8 @@ plu_dat: бас­ке­тбо́­лам
 plu_acc: бас­ке­тбо́­лы
 plu_ins: бас­ке­тбо́­ла­ми
 plu_pre: бас­ке­тбо́­лах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

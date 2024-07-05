@@ -1,15 +1,14 @@
 wordcls: substantive
 name: бизнесмен
 name_ac: бизнесме́н
-publ_id: 131505
 translation:
-   - Geschäftsmann
+- Geschäftsmann
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: бизнесме́н
 sin_gen: биз­не­сме́­на
 sin_dat: биз­не­сме́­ну
@@ -22,8 +21,8 @@ plu_dat: биз­не­сме́­нам
 plu_acc: биз­не­сме́­нов
 plu_ins: биз­не­сме́­на­ми
 plu_pre: биз­не­сме́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

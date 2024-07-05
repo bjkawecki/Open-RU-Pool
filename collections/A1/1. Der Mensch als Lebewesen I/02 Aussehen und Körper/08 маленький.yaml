@@ -1,9 +1,8 @@
 name: маленький
 name_ac: ма́ленький
-publ_id: 110208
 wordcls: adjective
 translation:
-   - klein
+- klein
 is_gradable: true
 mas_nom: ма́ленький
 mas_gen: ма́­лень­ко­го
@@ -35,6 +34,6 @@ sho_neu: ма­ло́
 sho_plu: ма­лы́
 compara: ме́нь­ше
 superla: самый ма́ленький
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

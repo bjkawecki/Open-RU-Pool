@@ -1,15 +1,14 @@
 wordcls: substantive
 name: ручка
 name_ac: ру́чка
-publ_id: 131840
 translation:
-   - Füller
+- Füller
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ру́чка
 sin_gen: ру́ч­ки
 sin_dat: ру́ч­ке
@@ -22,8 +21,8 @@ plu_dat: ру́ч­кам
 plu_acc: ру́ч­ки
 plu_ins: ру́ч­ка­ми
 plu_pre: ру́ч­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

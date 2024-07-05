@@ -1,16 +1,15 @@
 wordcls: substantive
 name: номер
 name_ac: но́мер
-publ_id: 131834
 translation:
-   - Nummer
-   - Hotelzimmer
+- Nummer
+- Hotelzimmer
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: но́мер
 sin_gen: но́­ме­ра
 sin_dat: но́­ме­ру
@@ -23,8 +22,8 @@ plu_dat: но­мер­а́м
 plu_acc: но­ме­ра́
 plu_ins: но­ме­ра́­ми
 plu_pre: но­мер­а́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

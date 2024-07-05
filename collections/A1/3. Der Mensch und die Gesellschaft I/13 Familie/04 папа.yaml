@@ -1,15 +1,14 @@
 wordcls: substantive
 name: папа
 name_ac: па́па
-publ_id: 131304
 translation:
-   - Papa
+- Papa
 genus: masculine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: па́па
 sin_gen: па́­пы
 sin_dat: па́­пе
@@ -22,8 +21,8 @@ plu_dat: па́­пам
 plu_acc: пап
 plu_ins: па́­па­ми
 plu_pre: па́­пах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

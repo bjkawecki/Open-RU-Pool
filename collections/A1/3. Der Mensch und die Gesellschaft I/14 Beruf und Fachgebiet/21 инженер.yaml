@@ -1,15 +1,14 @@
 wordcls: substantive
 name: инженер
 name_ac: инжене́р
-publ_id: 131421
 translation:
-   - Ingenieur
+- Ingenieur
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: инжене́р
 sin_gen: ин­же­не́­ра
 sin_dat: ин­же­не́­ру
@@ -22,8 +21,8 @@ plu_dat: ин­же­не́р­ам
 plu_acc: ин­же­не́р­ов
 plu_ins: ин­же­не́­ра­ми
 plu_pre: ин­же­не́р­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

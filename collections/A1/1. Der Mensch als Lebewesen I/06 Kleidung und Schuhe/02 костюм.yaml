@@ -1,16 +1,15 @@
 wordcls: substantive
 name: костюм
 name_ac: костю́м
-publ_id: 110602
 translation:
-   - Anzug
-   - Kostüm
+- Anzug
+- Kostüm
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: костю́м
 sin_gen: кос­тю́­ма
 sin_dat: кос­тю́­му
@@ -23,8 +22,8 @@ plu_dat: кос­тю́­мам
 plu_acc: кос­тю́­мы
 plu_ins: кос­тю́­ма­ми
 plu_pre: кос­тю́­мах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

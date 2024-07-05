@@ -1,15 +1,14 @@
 wordcls: substantive
 name: страна
 name_ac: страна́
-publ_id: 131102
 translation:
-   - Land
+- Land
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: страна́
 sin_gen: стра­ны́
 sin_dat: стра­не́
@@ -22,8 +21,8 @@ plu_dat: стра́­нам
 plu_acc: стра́­ны
 plu_ins: стра́­на­ми
 plu_pre: стра́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

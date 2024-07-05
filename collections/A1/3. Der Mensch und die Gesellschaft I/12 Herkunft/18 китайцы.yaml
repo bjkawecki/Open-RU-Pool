@@ -1,29 +1,28 @@
 wordcls: substantive
 name: китайцы
 name_ac: кита́йцы
-publ_id: 131218
 translation:
-   - Chinesen
+- Chinesen
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
-partitive:
-locative:
-comment:
-usage:
-etymol:
+is_sin_tan: null
+is_plu_tan: null
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,24 +1,23 @@
 name: родиться
 name_ac: роди́ться
-publ_id: 110116
 wordcls: verb
 translation:
-   - geboren werden
+- geboren werden
 aspect: perfective
 partner: рожда́ться
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
 is_reflexive: true
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: ро­жу́сь
 fut_sin_2: ро­ди́шь­ся
 fut_sin_3: ро­ди́т­ся
@@ -33,10 +32,10 @@ par_pre_act: ро­дя́­щий­ся
 par_pas_act: ро­ди́в­ший­ся
 par_pre_pas: ро­дя́сь
 par_pas_pas: ро­ди́в­шись
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: ро­ди́сь
 imp_plu: ро­ди́т­есь
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

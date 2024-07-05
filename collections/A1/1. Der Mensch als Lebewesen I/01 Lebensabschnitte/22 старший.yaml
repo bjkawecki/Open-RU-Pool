@@ -1,10 +1,9 @@
 name: старший
 name_ac: ста́рший
-publ_id: 110122
 wordcls: adjective
 translation:
-   - älterer
-is_gradable:
+- älterer
+is_gradable: null
 mas_nom: ста́рший
 mas_gen: ста́р­ше­го
 mas_dat: ста́р­ше­му
@@ -29,12 +28,12 @@ plu_dat: ста́р­шим
 plu_acc: ста́р­шие
 plu_ins: ста́р­ши­ми
 plu_pre: ста́р­ших
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

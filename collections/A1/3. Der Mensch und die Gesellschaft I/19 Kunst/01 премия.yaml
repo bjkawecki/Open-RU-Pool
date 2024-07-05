@@ -1,17 +1,16 @@
 wordcls: substantive
 name: премия
 name_ac: пре́мия
-publ_id: 131901
 translation:
-   - Preis
-   - Prämie
-   - Bonus
+- Preis
+- Prämie
+- Bonus
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: пре́мия
 sin_gen: пре́­мии
 sin_dat: пре́­мии
@@ -24,8 +23,8 @@ plu_dat: пре́­ми­ям
 plu_acc: пре́­мии
 plu_ins: пре́­ми­ями
 plu_pre: пре́­ми­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

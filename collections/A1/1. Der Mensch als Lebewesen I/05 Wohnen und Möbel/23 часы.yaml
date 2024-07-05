@@ -1,29 +1,28 @@
 wordcls: substantive
 name: часы
 name_ac: часы́
-publ_id: 110523
 translation:
-   - Uhr
+- Uhr
 genus: none
 dec_cls: irregular
 stress: shifting
-is_animate:
-is_sin_tan:
+is_animate: null
+is_sin_tan: null
 is_plu_tan: true
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: часы́
 plu_gen: ча­со́в
 plu_dat: ча­са́м
 plu_acc: ча­сы́
 plu_ins: ча­са́­ми
 plu_pre: ча­са́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

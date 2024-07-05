@@ -1,24 +1,23 @@
 name: начать
 name_ac: нача́ть
-publ_id: 120913
 wordcls: verb
 translation:
-   - beginnen
+- beginnen
 aspect: perfective
 partner: начина́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: нач­ну́
 fut_sin_2: нач­нёшь
 fut_sin_3: нач­нёт
@@ -29,14 +28,14 @@ pas_mas: на́­чал
 pas_fem: на­ча­ла́
 pas_neu: на́­ча­ло
 pas_plu: на́­ча­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: на­ча́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: на­ча́в­ши, на­ча́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: на́­ча­тый
 imp_sin: нач­ни́
 imp_plu: нач­ни́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

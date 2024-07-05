@@ -1,24 +1,23 @@
 name: прочитать
 name_ac: прочита́ть
-publ_id: 131857
 wordcls: verb
 translation:
-   - durchlesen
+- durchlesen
 aspect: perfective
 partner: чита́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: про­чи­та́ю
 fut_sin_2: про­чи­та́­ешь
 fut_sin_3: про­чи­та́­ет
@@ -29,14 +28,14 @@ pas_mas: про­чит­а́л
 pas_fem: про­чи­та́­ла
 pas_neu: про­чи­та́­ло
 pas_plu: про­чи­та́­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: про­чит­а́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: прочитавши, прочитав
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: про­чи́т­ан­ный
 imp_sin: про­чи­та́й
 imp_plu: про­чи­та́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

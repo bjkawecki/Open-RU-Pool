@@ -1,15 +1,14 @@
 wordcls: substantive
 name: жена
 name_ac: жена́
-publ_id: 131307
 translation:
-   - Ehefrau
+- Ehefrau
 genus: feminine
 dec_cls: '1'
 stress: shifting
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: жена́
 sin_gen: же­ны́
 sin_dat: же­не́
@@ -22,8 +21,8 @@ plu_dat: жё­нам
 plu_acc: жён
 plu_ins: жё­на­ми
 plu_pre: жё­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

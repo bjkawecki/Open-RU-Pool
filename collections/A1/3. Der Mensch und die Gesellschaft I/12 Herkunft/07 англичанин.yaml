@@ -1,15 +1,14 @@
 wordcls: substantive
 name: англичанин
 name_ac: англича́нин
-publ_id: 131207
 translation:
-   - Engländer
+- Engländer
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: англича́нин
 sin_gen: англича́нина
 sin_dat: англича́нину
@@ -22,8 +21,8 @@ plu_dat: англича́нам
 plu_acc: англича́н
 plu_ins: англича́нами
 plu_pre: англича́нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

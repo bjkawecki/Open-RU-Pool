@@ -1,9 +1,8 @@
 name: активный
 name_ac: акти́вный
-publ_id: 120808
 wordcls: adjective
 translation:
-   - aktiv
+- aktiv
 is_gradable: true
 mas_nom: акти́вный
 mas_gen: ак­ти́­вно­го
@@ -35,6 +34,6 @@ sho_neu: ак­ти́­вно
 sho_plu: ак­ти́­вны
 compara: ак­ти́­внее
 superla: самый акти́вный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

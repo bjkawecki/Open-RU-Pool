@@ -1,16 +1,15 @@
 wordcls: substantive
 name: транспорт
 name_ac: тра́нспорт
-publ_id: 132301
 translation:
-   - Verkehrsmittel
-   - Transport
+- Verkehrsmittel
+- Transport
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: тра́нспорт
 sin_gen: тра́нс­пор­та
 sin_dat: тра́нс­пор­ту
@@ -23,8 +22,8 @@ plu_dat: тра́нс­пор­там
 plu_acc: тра́нс­пор­ты
 plu_ins: тра́нс­пор­та­ми
 plu_pre: тра́нс­пор­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

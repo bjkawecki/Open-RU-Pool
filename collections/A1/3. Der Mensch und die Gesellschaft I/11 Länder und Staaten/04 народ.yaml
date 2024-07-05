@@ -1,15 +1,14 @@
 wordcls: substantive
 name: народ
 name_ac: наро́д
-publ_id: 131104
 translation:
-   - Volk
+- Volk
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: наро́д
 sin_gen: на­ро́­да
 sin_dat: на­ро́­ду
@@ -23,7 +22,7 @@ plu_acc: на­ро́­ды
 plu_ins: на­ро́­да­ми
 plu_pre: на­ро́д­ах
 partitive: на­ро́­ду
-locative:
-comment:
-usage:
-etymol:
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,24 +1,23 @@
 name: подарить
 name_ac: подари́ть
-publ_id: 110609
 wordcls: verb
 translation:
-   - schenken
+- schenken
 aspect: perfective
 partner: да́рить
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: по­да­рю́
 fut_sin_2: по­да́р­ишь
 fut_sin_3: по­да́р­ит
@@ -29,14 +28,14 @@ pas_mas: по­дар­и́л
 pas_fem: по­да­ри́­ла
 pas_neu: по­да­ри́­ло
 pas_plu: по­да­ри́­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: по­дар­и́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: по­дар­и́в­ши, по­дар­и́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: по­да́р­ен­ный
 imp_sin: по­да­ри́
 imp_plu: по­да­ри́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

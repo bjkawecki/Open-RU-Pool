@@ -1,26 +1,25 @@
 name: послать
 name_ac: посла́ть
-publ_id: 120919
 wordcls: verb
 translation:
-   - schicken
-   - verschicken
-   - senden
+- schicken
+- verschicken
+- senden
 aspect: perfective
 partner: посыла́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: пош­лю́
 fut_sin_2: пош­лёшь
 fut_sin_3: пош­лёт
@@ -31,14 +30,14 @@ pas_mas: пос­ла́л
 pas_fem: пос­ла́­ла
 pas_neu: пос­ла́­ло
 pas_plu: пос­ла́­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: пос­ла́­вший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: пос­ла́­вши, пос­ла́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: по́с­лан­ный
 imp_sin: пош­ли́
 imp_plu: пош­ли́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: музыка
 name_ac: му́зыка
-publ_id: 131924
 translation:
-   - Musik
+- Musik
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: му́зыка
 sin_gen: му́­зы­ки
 sin_dat: му́­зы­ке
@@ -22,8 +21,8 @@ plu_dat: му́­зык­ам
 plu_acc: му́­зы­ки
 plu_ins: му́­зы­ка­ми
 plu_pre: му́­зык­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

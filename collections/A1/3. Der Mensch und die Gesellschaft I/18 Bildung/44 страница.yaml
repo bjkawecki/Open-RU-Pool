@@ -1,15 +1,14 @@
 wordcls: substantive
 name: страница
 name_ac: страни́ца
-publ_id: 131844
 translation:
-   - Seite
+- Seite
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: страни́ца
 sin_gen: стра­ни́­цы
 sin_dat: стра­ни́­це
@@ -22,8 +21,8 @@ plu_dat: стра­ни́ц­ам
 plu_acc: стра­ни́­цы
 plu_ins: стра­ни́­ца­ми
 plu_pre: стра­ни́ц­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

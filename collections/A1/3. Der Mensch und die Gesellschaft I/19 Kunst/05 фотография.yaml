@@ -1,15 +1,14 @@
 wordcls: substantive
 name: фотография
 name_ac: фотогра́фия
-publ_id: 131905
 translation:
-   - Photographie
+- Photographie
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: фотогра́фия
 sin_gen: фо­тог­ра́­фии
 sin_dat: фо­тог­ра́­фии
@@ -22,8 +21,8 @@ plu_dat: фо­тог­ра́­фи­ям
 plu_acc: фо­тог­ра́­фии
 plu_ins: фо­тог­ра́­фи­ями
 plu_pre: фо­тог­ра́­фи­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

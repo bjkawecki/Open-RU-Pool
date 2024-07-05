@@ -1,11 +1,10 @@
 name: экономический
 name_ac: экономи́ческий
-publ_id: 131429
 wordcls: adjective
 translation:
-   - wirtschaftlich
-   - Wirtschafts-
-is_gradable:
+- wirtschaftlich
+- Wirtschafts-
+is_gradable: null
 mas_nom: экономи́ческий
 mas_gen: эко­но­ми́­чес­ко­го
 mas_dat: эко­но­ми́­чес­ко­му
@@ -30,12 +29,12 @@ plu_dat: эко­но­ми́­чес­ким
 plu_acc: эко­но­ми́­чес­кие
 plu_ins: эко­но­ми́­чес­ки­ми
 plu_pre: эко­но­ми́­чес­ких
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

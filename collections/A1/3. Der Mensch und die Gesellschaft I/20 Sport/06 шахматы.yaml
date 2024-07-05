@@ -1,29 +1,28 @@
 wordcls: substantive
 name: шахматы
 name_ac: ша́хматы
-publ_id: 132006
 translation:
-   - Schach
+- Schach
 genus: none
 dec_cls: irregular
 stress: root
-is_animate:
-is_sin_tan:
+is_animate: null
+is_sin_tan: null
 is_plu_tan: true
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: ша́хматы
 plu_gen: ша́х­мат
 plu_dat: ша́х­ма­там
 plu_acc: ша́х­ма­ты
 plu_ins: ша́х­ма­та­ми
 plu_pre: ша́х­ма­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

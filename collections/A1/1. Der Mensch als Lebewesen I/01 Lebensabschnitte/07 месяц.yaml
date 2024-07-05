@@ -1,15 +1,14 @@
 wordcls: substantive
 name: месяц
 name_ac: ме́сяц
-publ_id: 110107
 translation:
-   - Monat
+- Monat
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ме́сяц
 sin_gen: ме́­ся­ца
 sin_dat: ме́­ся­цу
@@ -22,8 +21,8 @@ plu_dat: ме́­сяц­ам
 plu_acc: ме́­ся­цы
 plu_ins: ме́­ся­ца­ми
 plu_pre: ме́­сяц­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

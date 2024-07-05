@@ -1,15 +1,14 @@
 wordcls: substantive
 name: лето
 name_ac: ле́то
-publ_id: 142906
 translation:
-   - Sommer
+- Sommer
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ле́то
 sin_gen: ле́­та
 sin_dat: ле́­ту
@@ -22,8 +21,8 @@ plu_dat: ле́­там
 plu_acc: ле́­та
 plu_ins: ле́­та­ми
 plu_pre: ле́­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

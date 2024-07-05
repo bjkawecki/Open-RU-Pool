@@ -1,15 +1,14 @@
 wordcls: substantive
 name: животное
 name_ac: живо́тное
-publ_id: 143001
 translation:
-   - Tier
+- Tier
 genus: neutral
 dec_cls: adjective
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: жи­во́т­ное
 sin_gen: жи­во́т­но­го
 sin_dat: жи­во́т­но­му
@@ -22,8 +21,8 @@ plu_dat: жи­во́т­ным
 plu_acc: жи­во́т­ных
 plu_ins: жи­во́т­ны­ми
 plu_pre: жи­во́т­ных
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

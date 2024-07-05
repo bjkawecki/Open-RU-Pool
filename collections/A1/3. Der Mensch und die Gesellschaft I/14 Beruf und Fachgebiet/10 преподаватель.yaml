@@ -1,15 +1,14 @@
 wordcls: substantive
 name: преподаватель
 name_ac: преподава́тель
-publ_id: 131410
 translation:
-   - Lehrer
+- Lehrer
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: преподава́тель
 sin_gen: пре­по­да­ва́­те­ля
 sin_dat: пре­по­да­ва́­те­лю
@@ -22,8 +21,8 @@ plu_dat: пре­по­да­ва́­те­лям
 plu_acc: пре­по­да­ва́­те­лей
 plu_ins: пре­по­да­ва́­те­ля­ми
 plu_pre: пре­по­да­ва́­те­лях
-partitive:
-locative:
+partitive: null
+locative: null
 comment: allgemein
-usage:
-etymol:
+usage: null
+etymol: null

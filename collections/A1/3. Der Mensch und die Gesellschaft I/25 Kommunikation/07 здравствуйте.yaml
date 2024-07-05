@@ -1,12 +1,11 @@
 name: здравствуйте
 name_ac: здра́вствуйте
-publ_id: 132507
 wordcls: phrase
 translation:
-   - Ich grüße Sie
-   - Ich grüße euch
-   - Seid gegrüßt
-metaphrase:
-comment:
-usage:
-etymol:
+- Ich grüße Sie
+- Ich grüße euch
+- Seid gegrüßt
+metaphrase: null
+comment: null
+usage: null
+etymol: null

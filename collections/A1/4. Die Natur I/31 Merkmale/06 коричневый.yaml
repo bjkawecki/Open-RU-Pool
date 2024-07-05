@@ -1,9 +1,8 @@
 name: коричневый
 name_ac: кори́чневый
-publ_id: 143106
 wordcls: adjective
 translation:
-   - braun
+- braun
 is_gradable: true
 mas_nom: кори́чневый
 mas_gen: ко­ри́ч­не­во­го
@@ -35,6 +34,6 @@ sho_neu: ко­ри́ч­не­во
 sho_plu: ко­ри́ч­не­вы
 compara: ко­ри́ч­не­вее
 superla: самый кори́чневый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

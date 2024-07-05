@@ -1,10 +1,9 @@
 name: младший
 name_ac: мла́дший
-publ_id: 110121
 wordcls: adjective
 translation:
-   - jüngerer
-is_gradable:
+- jüngerer
+is_gradable: null
 mas_nom: мла́дший
 mas_gen: мла́д­ше­го
 mas_dat: мла́д­шему
@@ -29,12 +28,12 @@ plu_dat: мла́д­шим
 plu_acc: мла́д­шие
 plu_ins: мла́д­ши­ми
 plu_pre: мла́д­ших
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

@@ -1,31 +1,30 @@
 name: рисовать
 name_ac: рисова́ть
-publ_id: 131908
 wordcls: verb
 translation:
-   - zeichnen
-   - malen
+- zeichnen
+- malen
 aspect: imperfective
 partner: нарисова́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: ри­су́ю
 pre_sin_2: ри­су́­ешь
 pre_sin_3: ри­су́­ет
 pre_plu_1: ри­су́­ем
 pre_plu_2: ри­су́­ете
 pre_plu_3: ри­су́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: ри­сов­а́л
 pas_fem: ри­со­ва́­ла
 pas_neu: ри­со­ва́­ло
@@ -38,6 +37,6 @@ par_adv_pre: ри­су́­емый
 par_adv_pas: ри­со́в­ан­ный
 imp_sin: ри­су́й
 imp_plu: ри­су́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

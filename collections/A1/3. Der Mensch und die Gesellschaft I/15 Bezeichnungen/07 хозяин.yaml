@@ -1,16 +1,15 @@
 wordcls: substantive
 name: хозяин
 name_ac: хозя́ин
-publ_id: 131507
 translation:
-   - Gastgeber
-   - Wirt
+- Gastgeber
+- Wirt
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: хозя́ин
 sin_gen: хо­зя́­ина
 sin_dat: хо­зя́­ину
@@ -23,8 +22,8 @@ plu_dat: хо­зя́­ев­ам
 plu_acc: хо­зя́­ев
 plu_ins: хо­зя́­ева­ми
 plu_pre: хо­зя́­ев­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,11 +1,10 @@
 name: исторический
 name_ac: истори́ческий
-publ_id: 131428
 wordcls: adjective
 translation:
-   - geschichtlich
-   - Geschichts-
-is_gradable:
+- geschichtlich
+- Geschichts-
+is_gradable: null
 mas_nom: истори́ческий
 mas_gen: ис­то­ри́ч­ес­ко­го
 mas_dat: ис­то­ри́ч­ес­ко­му
@@ -30,12 +29,12 @@ plu_dat: ис­то­ри́ч­ес­ким
 plu_acc: ис­то­ри́ч­ес­кие
 plu_ins: ис­то­ри́ч­ес­ки­ми
 plu_pre: ис­то­ри́ч­ес­ких
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

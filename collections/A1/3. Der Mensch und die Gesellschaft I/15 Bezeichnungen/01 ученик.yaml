@@ -1,16 +1,15 @@
 wordcls: substantive
 name: ученик
 name_ac: учени́к
-publ_id: 131501
 translation:
-   - Schüler
-   - Lehrling
+- Schüler
+- Lehrling
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: учени́к
 sin_gen: уче­ни­ка́
 sin_dat: уче­ни­ку́
@@ -23,8 +22,8 @@ plu_dat: уче­ник­а́м
 plu_acc: уче­ник­о́в
 plu_ins: уче­ни­ка́­ми
 plu_pre: уче­ник­а́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

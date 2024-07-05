@@ -1,31 +1,30 @@
 name: готовить
 name_ac: гото́вить
-publ_id: 110441
 wordcls: verb
 translation:
-   - vorbereiten
-   - kochen
+- vorbereiten
+- kochen
 aspect: imperfective
 partner: пригото́вить
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: accusative
-verb_prepo:
-is_reflexive:
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: го­то́в­лю
 pre_sin_2: го­то́в­ишь
 pre_sin_3: го­то́в­ит
 pre_plu_1: го­то́в­им
 pre_plu_2: го­то́­ви­те
 pre_plu_3: го­то́в­ят
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: го­то́в­ил
 pas_fem: го­то́­ви­ла
 pas_neu: го­то́­ви­ло
@@ -38,6 +37,6 @@ par_adv_pre: го­то́­ви­мый
 par_adv_pas: го­то́в­лен­ный
 imp_sin: го­то́вь
 imp_plu: го­то́вь­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: осень
 name_ac: о́сень
-publ_id: 142907
 translation:
-   - Herbst
+- Herbst
 genus: feminine
 dec_cls: '3'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: о́сень
 sin_gen: о́се­ни
 sin_dat: о́се­ни
@@ -22,8 +21,8 @@ plu_dat: о́се­ням
 plu_acc: о́се­ни
 plu_ins: о́се­ня­ми
 plu_pre: о́се­нях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

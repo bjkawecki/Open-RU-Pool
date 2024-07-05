@@ -1,10 +1,9 @@
 name: голубой
 name_ac: голубо́й
-publ_id: 143104
 wordcls: adjective
 translation:
-   - hellblau
-is_gradable:
+- hellblau
+is_gradable: null
 mas_nom: голубо́й
 mas_gen: го­лу­бо́­го
 mas_dat: го­лу­бо́­му
@@ -29,12 +28,12 @@ plu_dat: го­луб­ы́м
 plu_acc: го­лу­бы́е
 plu_ins: го­лу­бы́­ми
 plu_pre: го­луб­ы́х
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

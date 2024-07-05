@@ -1,15 +1,14 @@
 wordcls: substantive
 name: композитор
 name_ac: компози́тор
-publ_id: 131406
 translation:
-   - Komponist
+- Komponist
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: компози́тор
 sin_gen: ком­по­зи́­то­ра
 sin_dat: ком­по­зи́­то­ру
@@ -22,8 +21,8 @@ plu_dat: ком­по­зи́­то­рам
 plu_acc: ком­по­зи́­то­ров
 plu_ins: ком­по­зи́­то­ра­ми
 plu_pre: ком­по­зи́­то­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

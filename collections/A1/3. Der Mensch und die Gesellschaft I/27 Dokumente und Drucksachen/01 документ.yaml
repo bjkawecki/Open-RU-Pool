@@ -1,15 +1,14 @@
 wordcls: substantive
 name: документ
 name_ac: докуме́нт
-publ_id: 132701
 translation:
-   - Dokument
+- Dokument
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: докуме́нт
 sin_gen: до­кум­е́н­та
 sin_dat: до­кум­е́н­ту
@@ -22,8 +21,8 @@ plu_dat: до­кум­е́н­там
 plu_acc: до­кум­е́н­ты
 plu_ins: до­кум­е́н­та­ми
 plu_pre: до­кум­е́н­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

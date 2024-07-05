@@ -1,16 +1,15 @@
 wordcls: substantive
 name: жилище
 name_ac: жили́ще
-publ_id: 110501
 translation:
-   - Unterkunft
-   - Behausung
+- Unterkunft
+- Behausung
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: жили́ще
 sin_gen: жи­ли́­ща
 sin_dat: жи­ли́­щу
@@ -23,8 +22,8 @@ plu_dat: жи­ли́щ­ам
 plu_acc: жи­ли́­ща
 plu_ins: жи­ли́­ща­ми
 plu_pre: жи­ли́щ­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

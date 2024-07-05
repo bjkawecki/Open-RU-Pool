@@ -1,15 +1,14 @@
 wordcls: substantive
 name: дом
 name_ac: дом
-publ_id: 110502
 translation:
-   - Haus
+- Haus
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: дом
 sin_gen: до́­ма
 sin_dat: до́­му
@@ -22,8 +21,8 @@ plu_dat: до­ма́м
 plu_acc: до­ма́
 plu_ins: до­ма́­ми
 plu_pre: до­ма́х
-partitive:
+partitive: null
 locative: в до­му́
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

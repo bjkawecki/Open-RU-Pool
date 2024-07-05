@@ -1,11 +1,10 @@
 name: сначала
 name_ac: снача́ла
-publ_id: 153345
 wordcls: adverb
 translation:
-   - zuerst
-   - zuvor
-   - als Erstes
-comment:
-usage:
-etymol:
+- zuerst
+- zuvor
+- als Erstes
+comment: null
+usage: null
+etymol: null

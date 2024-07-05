@@ -1,15 +1,14 @@
 wordcls: substantive
 name: зима
 name_ac: зима́
-publ_id: 142908
 translation:
-   - Winter
+- Winter
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: зима́
 sin_gen: зи­мы́
 sin_dat: зи­ме́
@@ -22,8 +21,8 @@ plu_dat: зи́­мам
 plu_acc: зи́­мы
 plu_ins: зи́­ма­ми
 plu_pre: зи́­мах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

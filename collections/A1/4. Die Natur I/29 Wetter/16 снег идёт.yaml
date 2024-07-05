@@ -1,10 +1,9 @@
 name: снег идёт
 name_ac: снег идёт
-publ_id: 142916
 wordcls: phrase
 translation:
-   - es schneit
-metaphrase:
-comment:
-usage:
-etymol:
+- es schneit
+metaphrase: null
+comment: null
+usage: null
+etymol: null

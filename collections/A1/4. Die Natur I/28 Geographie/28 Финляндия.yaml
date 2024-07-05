@@ -1,29 +1,28 @@
 wordcls: substantive
 name: Финляндия
 name_ac: Финля́ндия
-publ_id: 142828
 translation:
-   - Finnland
+- Finnland
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
+is_animate: null
 is_sin_tan: true
-is_plu_tan:
+is_plu_tan: null
 sin_nom: Финля́ндия
 sin_gen: Финля́ндии
 sin_dat: Финля́ндии
 sin_acc: Финля́ндию
 sin_ins: Финля́ндией
 sin_pre: Финля́ндии
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
-partitive:
-locative:
-comment:
-usage:
-etymol:
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

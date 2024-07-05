@@ -1,15 +1,14 @@
 wordcls: substantive
 name: журналист
 name_ac: журнали́ст
-publ_id: 131407
 translation:
-   - Journalist
+- Journalist
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: журнали́ст
 sin_gen: жур­на­ли́с­та
 sin_dat: жур­на­ли́с­ту
@@ -22,8 +21,8 @@ plu_dat: жур­на­ли́с­там
 plu_acc: жур­на­ли́с­тов
 plu_ins: жур­на­ли́с­та­ми
 plu_pre: жур­на­ли́с­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

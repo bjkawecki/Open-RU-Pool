@@ -1,15 +1,14 @@
 wordcls: substantive
 name: снег
 name_ac: снег
-publ_id: 142915
 translation:
-   - Schnee
+- Schnee
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: снег
 sin_gen: сне́­га
 sin_dat: сне́­гу
@@ -24,6 +23,6 @@ plu_ins: сне­га́­ми
 plu_pre: сне­га́х
 partitive: сне́­гу
 locative: в/на сне­гу́
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

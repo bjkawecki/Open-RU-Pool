@@ -1,15 +1,14 @@
 wordcls: substantive
 name: стул
 name_ac: стул
-publ_id: 110516
 translation:
-   - Stuhl
+- Stuhl
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: стул
 sin_gen: сту́­ла
 sin_dat: сту́­лу
@@ -22,8 +21,8 @@ plu_dat: сту́ль­ям
 plu_acc: сту́лья
 plu_ins: сту́ль­ями
 plu_pre: сту́ль­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

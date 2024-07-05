@@ -1,15 +1,14 @@
 wordcls: substantive
 name: физик
 name_ac: фи́зик
-publ_id: 131414
 translation:
-   - Physiker
+- Physiker
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: фи́зик
 sin_gen: фи́­зи­ка
 sin_dat: фи́­зи­ку
@@ -22,8 +21,8 @@ plu_dat: фи́­зик­ам
 plu_acc: фи́­зик­ов
 plu_ins: фи́­зи­ка­ми
 plu_pre: фи́­зик­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

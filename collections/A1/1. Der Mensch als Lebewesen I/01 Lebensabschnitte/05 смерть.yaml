@@ -1,15 +1,14 @@
 wordcls: substantive
 name: смерть
 name_ac: смерть
-publ_id: 110105
 translation:
-   - Tod
+- Tod
 genus: feminine
 dec_cls: '3'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: смерть
 sin_gen: сме́р­ти
 sin_dat: сме́р­ти
@@ -22,8 +21,8 @@ plu_dat: смер­тя́м
 plu_acc: сме́р­ти
 plu_ins: смер­тя́­ми
 plu_pre: смер­тя́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

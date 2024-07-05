@@ -1,15 +1,14 @@
 wordcls: substantive
 name: газета
 name_ac: газе́та
-publ_id: 132704
 translation:
-   - Zeitung
+- Zeitung
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: газе́та
 sin_gen: га­зе́­ты
 sin_dat: га­зе́­те
@@ -22,8 +21,8 @@ plu_dat: га­зе́т­ам
 plu_acc: га­зе́­ты
 plu_ins: га­зе́­та­ми
 plu_pre: га­зе́т­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

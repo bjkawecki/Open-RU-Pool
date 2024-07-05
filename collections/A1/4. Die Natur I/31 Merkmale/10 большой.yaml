@@ -1,9 +1,8 @@
 name: большой
 name_ac: большо́й
-publ_id: 143110
 wordcls: adjective
 translation:
-   - groß
+- groß
 is_gradable: true
 mas_nom: большо́й
 mas_gen: боль­шо́­го
@@ -35,6 +34,6 @@ sho_neu: ве­ли­ко́
 sho_plu: ве­ли­ки́
 compara: бо́ль­ше
 superla: самый большой
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

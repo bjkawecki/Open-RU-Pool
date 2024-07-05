@@ -1,9 +1,8 @@
 name: каждый
 name_ac: ка́ждый
-publ_id: 153341
 wordcls: pronoun
 translation:
-   - jeder
+- jeder
 pro_type: indefinite
 dec_type: adjective
 mas_nom: ка́ждый
@@ -24,18 +23,18 @@ neu_dat: ка́ж­до­му
 neu_acc: ка́ж­дое
 neu_ins: ка́ж­дым
 neu_pre: ка́ж­дом
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: ка́ж­дые
 plu_gen: ка́ж­дых
 plu_dat: ка́ж­дым
 plu_acc: ка́ж­дые
 plu_ins: ка́ж­ды­ми
 plu_pre: ка́ж­дых
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

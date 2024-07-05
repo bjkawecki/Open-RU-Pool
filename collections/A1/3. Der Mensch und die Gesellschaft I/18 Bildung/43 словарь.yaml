@@ -1,15 +1,14 @@
 wordcls: substantive
 name: словарь
 name_ac: слова́рь
-publ_id: 131843
 translation:
-   - Wörterbuch
+- Wörterbuch
 genus: masculine
 dec_cls: '2'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: слова́рь
 sin_gen: сло­ва­ря́
 sin_dat: сло­ва­рю́
@@ -22,8 +21,8 @@ plu_dat: сло­вар­я́м
 plu_acc: сло­ва­ри́
 plu_ins: сло­ва­ря́­ми
 plu_pre: сло­вар­я́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

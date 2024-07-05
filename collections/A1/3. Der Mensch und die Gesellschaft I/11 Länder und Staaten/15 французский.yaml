@@ -1,10 +1,9 @@
 name: французский
 name_ac: францу́зский
-publ_id: 131115
 wordcls: adjective
 translation:
-   - französisch
-is_gradable:
+- französisch
+is_gradable: null
 mas_nom: францу́зский
 mas_gen: фран­цу́зс­ко­го
 mas_dat: фран­цу́зс­ко­му
@@ -29,12 +28,12 @@ plu_dat: фран­цу́зс­ким
 plu_acc: фран­цу́зс­кие
 plu_ins: фран­цу́зс­ки­ми
 plu_pre: фран­цу́зс­ких
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

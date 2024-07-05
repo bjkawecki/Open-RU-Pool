@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Франция
 name_ac: Фра́нция
-publ_id: 142829
 translation:
-   - Frankreich
+- Frankreich
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Фра́нция
 sin_gen: Фра́нции
 sin_dat: Фра́нции
@@ -22,8 +21,8 @@ plu_dat: Фра́нциям
 plu_acc: Фра́нции
 plu_ins: Фра́нциями
 plu_pre: Фра́нциях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

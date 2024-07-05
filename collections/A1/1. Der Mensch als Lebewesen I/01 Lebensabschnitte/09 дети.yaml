@@ -1,29 +1,28 @@
 wordcls: substantive
 name: дети
 name_ac: де́ти
-publ_id: 110109
 translation:
-   - Kinder
+- Kinder
 genus: none
 dec_cls: irregular
 stress: shifting
 is_animate: true
-is_sin_tan:
+is_sin_tan: null
 is_plu_tan: true
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: де́ти
 plu_gen: дете́й
 plu_dat: де́тям
 plu_acc: дете́й
 plu_ins: детьми́
 plu_pre: де́тях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

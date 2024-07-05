@@ -1,15 +1,14 @@
 wordcls: substantive
 name: год
 name_ac: год
-publ_id: 110108
 translation:
-   - Jahr
+- Jahr
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: год
 sin_gen: го́­да
 sin_dat: го́­ду
@@ -22,8 +21,8 @@ plu_dat: го­да́м
 plu_acc: го́­ды
 plu_ins: го­да́­ми
 plu_pre: го­да́х
-partitive:
+partitive: null
 locative: в го­ду́
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

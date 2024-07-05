@@ -1,9 +1,8 @@
 name: красивый
 name_ac: краси́вый
-publ_id: 110206
 wordcls: adjective
 translation:
-   - schön
+- schön
 is_gradable: true
 mas_nom: краси́вый
 mas_gen: кра­си́­во­го
@@ -35,6 +34,6 @@ sho_neu: кра­си́­во
 sho_plu: кра­си́­вы
 compara: кра­си́­вее
 superla: самый краси́вый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

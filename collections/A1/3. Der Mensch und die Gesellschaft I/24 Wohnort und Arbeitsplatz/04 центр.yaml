@@ -1,15 +1,14 @@
 wordcls: substantive
 name: центр
 name_ac: центр
-publ_id: 132404
 translation:
-   - Zentrum
+- Zentrum
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: центр
 sin_gen: це́нт­ра
 sin_dat: це́нт­ру
@@ -22,8 +21,8 @@ plu_dat: це́нт­рам
 plu_acc: це́нт­ры
 plu_ins: це́нт­ра­ми
 plu_pre: це́нт­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,42 +1,41 @@
 name: задать
 name_ac: зада́ть
-publ_id: 131848
 wordcls: verb
 translation:
-   - aufgeben
+- aufgeben
 aspect: perfective
 partner: задава́ть
-con_cls:
-is_motion_verb:
-motion_partner:
-direction:
+con_cls: null
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: accusative
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: за­да́л
 pas_fem: за­да­ла́
 pas_neu: за­да́­ло
 pas_plu: за­да́­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: за­да́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: за­да́в­ши, за­да́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: за́­дан­ный
 imp_sin: за­да́й
 imp_plu: за­да́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

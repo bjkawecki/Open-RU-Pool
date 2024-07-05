@@ -1,16 +1,15 @@
 wordcls: substantive
 name: квартира
 name_ac: кварти́ра
-publ_id: 110508
 translation:
-   - Wohnung
-   - Quartier
+- Wohnung
+- Quartier
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: кварти́ра
 sin_gen: квар­ти́­ры
 sin_dat: квар­ти́­ре
@@ -23,8 +22,8 @@ plu_dat: квар­ти́­рам
 plu_acc: квар­ти́­ры
 plu_ins: квар­ти́­ра­ми
 plu_pre: квар­ти́­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

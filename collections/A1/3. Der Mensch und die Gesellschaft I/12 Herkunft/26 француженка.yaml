@@ -1,15 +1,14 @@
 wordcls: substantive
 name: француженка
 name_ac: францу́женка
-publ_id: 131226
 translation:
-   - Französin
+- Französin
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: францу́женка
 sin_gen: фран­цу́­жен­ки
 sin_dat: фран­цу́­жен­ке
@@ -22,8 +21,8 @@ plu_dat: фран­цу́­жен­кам
 plu_acc: фран­цу́­жен­ок
 plu_ins: фран­цу́­жен­ка­ми
 plu_pre: фран­цу́­жен­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

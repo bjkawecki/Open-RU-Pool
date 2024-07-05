@@ -1,30 +1,29 @@
 name: понимать
 name_ac: понима́ть
-publ_id: 120708
 wordcls: verb
 translation:
-   - verstehen
+- verstehen
 aspect: imperfective
 partner: поня́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: по­ни­ма́ю
 pre_sin_2: по­ни­ма́­ешь
 pre_sin_3: по­ни­ма́­ет
 pre_plu_1: по­ни­ма́­ем
 pre_plu_2: по­ни­ма́­ете
 pre_plu_3: по­ни­ма́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: по­ним­а́л
 pas_fem: по­ни­ма́­ла
 pas_neu: по­ни­ма́­ло
@@ -34,9 +33,9 @@ par_pas_act: по­ним­а́в­ший
 par_pre_pas: по­ни­ма́я
 par_pas_pas: по­ним­а́в­ши, по­ним­а́в
 par_adv_pre: по­ни­ма́­емый
-par_adv_pas:
+par_adv_pas: null
 imp_sin: по­ни­ма́й
 imp_plu: по­ни­ма́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

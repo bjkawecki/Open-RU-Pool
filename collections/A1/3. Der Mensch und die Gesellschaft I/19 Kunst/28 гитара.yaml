@@ -1,15 +1,14 @@
 wordcls: substantive
 name: гитара
 name_ac: гита́ра
-publ_id: 131928
 translation:
-   - Gitarre
+- Gitarre
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: гита́ра
 sin_gen: ги­та́­ры
 sin_dat: ги­та́­ре
@@ -22,8 +21,8 @@ plu_dat: ги­та́р­ам
 plu_acc: ги­та́­ры
 plu_ins: ги­та́­ра­ми
 plu_pre: ги­та́р­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

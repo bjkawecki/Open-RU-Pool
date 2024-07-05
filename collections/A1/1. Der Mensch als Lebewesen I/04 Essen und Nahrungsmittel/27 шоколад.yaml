@@ -1,15 +1,14 @@
 wordcls: substantive
 name: шоколад
 name_ac: шокола́д
-publ_id: 110427
 translation:
-   - Schokolade
+- Schokolade
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: шокола́д
 sin_gen: шо­ко­ла́­да
 sin_dat: шо­ко­ла́­ду
@@ -23,7 +22,7 @@ plu_acc: шо­ко­ла́­ды
 plu_ins: шо­ко­ла́­да­ми
 plu_pre: шо­ко­ла́­дах
 partitive: шо­ко­ла́­ду
-locative:
-comment:
-usage:
-etymol:
+locative: null
+comment: null
+usage: null
+etymol: null

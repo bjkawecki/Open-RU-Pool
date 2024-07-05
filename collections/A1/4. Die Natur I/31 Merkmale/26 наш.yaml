@@ -1,9 +1,8 @@
 name: наш
 name_ac: наш
-publ_id: 143126
 wordcls: pronoun
 translation:
-   - unser
+- unser
 pro_type: possessive
 dec_type: adjective
 mas_nom: наш
@@ -24,18 +23,18 @@ neu_dat: на́­ше­му
 neu_acc: на́­ше
 neu_ins: на́­шим
 neu_pre: на́­шем
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: на́­ши
 plu_gen: на́­ших
 plu_dat: на́­шим
 plu_acc: на́­ши
 plu_ins: на́­ши­ми
 plu_pre: на́­ших
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

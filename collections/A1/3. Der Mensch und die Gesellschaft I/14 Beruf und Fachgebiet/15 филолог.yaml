@@ -1,15 +1,14 @@
 wordcls: substantive
 name: филолог
 name_ac: фило́лог
-publ_id: 131415
 translation:
-   - Philologe
+- Philologe
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: фило́лог
 sin_gen: фи­ло́­ло­га
 sin_dat: фи­ло́­ло­гу
@@ -22,8 +21,8 @@ plu_dat: фи­ло́­ло­гам
 plu_acc: фи­ло́­ло­гов
 plu_ins: фи­ло́­ло­га­ми
 plu_pre: фи­ло́­ло­гах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: лампа
 name_ac: ла́мпа
-publ_id: 110522
 translation:
-   - Lampe
+- Lampe
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ла́мпа
 sin_gen: ла́м­пы
 sin_dat: ла́м­пе
@@ -22,8 +21,8 @@ plu_dat: ла́м­пам
 plu_acc: ла́м­пы
 plu_ins: ла́м­па­ми
 plu_pre: ла́м­пах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

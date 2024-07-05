@@ -1,24 +1,23 @@
 name: запомнить
 name_ac: запо́мнить
-publ_id: 120909
 wordcls: verb
 translation:
-   - sich merken
+- sich merken
 aspect: perfective
 partner: запомина́ть
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: accusative
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: за­по́м­ню
 fut_sin_2: за­по́м­нишь
 fut_sin_3: за­по́м­нит
@@ -29,14 +28,14 @@ pas_mas: за­по́м­нил
 pas_fem: за­по́м­ни­ла
 pas_neu: за­по́м­ни­ло
 pas_plu: за­по́м­ни­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: за­по́м­ни­вший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: за­по́м­ни­вши, за­по́м­нив
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: за­по́м­нен­ный
 imp_sin: за­по́м­ни
 imp_plu: за­по́м­ни­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

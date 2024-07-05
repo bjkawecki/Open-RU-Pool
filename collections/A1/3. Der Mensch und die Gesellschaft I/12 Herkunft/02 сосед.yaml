@@ -1,15 +1,14 @@
 wordcls: substantive
 name: сосед
 name_ac: сосе́д
-publ_id: 131202
 translation:
-   - Nachbar
+- Nachbar
 genus: masculine
 dec_cls: '2'
 stress: suffix
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: сосе́д
 sin_gen: со­се́­да
 sin_dat: со­се́­ду
@@ -22,8 +21,8 @@ plu_dat: со­се́д­ям
 plu_acc: со­се́­дей
 plu_ins: со­се́­дя­ми
 plu_pre: со­се́д­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

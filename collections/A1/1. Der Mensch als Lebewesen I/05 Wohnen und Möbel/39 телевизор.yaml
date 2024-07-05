@@ -1,15 +1,14 @@
 wordcls: substantive
 name: телевизор
 name_ac: телеви́зор
-publ_id: 110539
 translation:
-   - Fernseher
+- Fernseher
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: телеви́зор
 sin_gen: те­ле­ви́­зо­ра
 sin_dat: те­ле­ви́­зо­ру
@@ -22,8 +21,8 @@ plu_dat: те­ле­ви́­зор­ам
 plu_acc: те­ле­ви́­зо­ры
 plu_ins: те­ле­ви́­зо­ра­ми
 plu_pre: те­ле­ви́­зор­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

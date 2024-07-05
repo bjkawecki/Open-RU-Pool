@@ -1,15 +1,14 @@
 wordcls: substantive
 name: география
 name_ac: геогра́фия
-publ_id: 131809
 translation:
-   - Geographie
+- Geographie
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: геогра́фия
 sin_gen: ге­ог­ра́­фии
 sin_dat: ге­ог­ра́­фии
@@ -22,8 +21,8 @@ plu_dat: ге­ог­ра́­фи­ям
 plu_acc: ге­ог­ра́­фии
 plu_ins: ге­ог­ра́­фи­ями
 plu_pre: ге­ог­ра́­фи­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

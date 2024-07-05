@@ -1,15 +1,14 @@
 wordcls: substantive
 name: апрель
 name_ac: апре́ль
-publ_id: 153304
 translation:
-   - April
+- April
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: апре́ль
 sin_gen: ап­ре́­ля
 sin_dat: ап­ре́­лю
@@ -22,8 +21,8 @@ plu_dat: ап­ре́­лям
 plu_acc: ап­ре́­ли
 plu_ins: ап­ре́­ля­ми
 plu_pre: ап­ре́­лях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

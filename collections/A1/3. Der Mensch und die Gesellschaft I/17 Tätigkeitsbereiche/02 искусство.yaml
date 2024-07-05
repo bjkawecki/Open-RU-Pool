@@ -1,15 +1,14 @@
 wordcls: substantive
 name: искусство
 name_ac: иску́сство
-publ_id: 131702
 translation:
-   - Kunst
+- Kunst
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: иску́сство
 sin_gen: ис­ку́с­ства
 sin_dat: ис­ку́с­ству
@@ -22,8 +21,8 @@ plu_dat: ис­ку́с­ствам
 plu_acc: ис­ку́с­ства
 plu_ins: ис­ку́с­ства­ми
 plu_pre: ис­ку́с­ствах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

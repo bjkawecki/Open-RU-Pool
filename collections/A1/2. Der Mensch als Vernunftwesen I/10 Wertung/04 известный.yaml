@@ -1,11 +1,10 @@
 name: известный
 name_ac: изве́стный
-publ_id: 121004
 wordcls: adjective
 translation:
-   - bekannt
-   - berühmt
-   - bedeutend
+- bekannt
+- berühmt
+- bedeutend
 is_gradable: true
 mas_nom: изве́стный
 mas_gen: из­ве́ст­но­го
@@ -37,6 +36,6 @@ sho_neu: из­ве́ст­но
 sho_plu: из­ве́ст­ны
 compara: из­ве́ст­нее
 superla: самый изве́стный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

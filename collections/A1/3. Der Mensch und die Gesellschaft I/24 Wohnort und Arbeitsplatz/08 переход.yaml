@@ -1,15 +1,14 @@
 wordcls: substantive
 name: переход
 name_ac: перехо́д
-publ_id: 132408
 translation:
-   - Übergang
+- Übergang
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: перехо́д
 sin_gen: пе­ре­хо́­да
 sin_dat: пе­ре­хо́­ду
@@ -22,8 +21,8 @@ plu_dat: пе­ре­хо́­дам
 plu_acc: пе­ре­хо́­ды
 plu_ins: пе­ре­хо́­да­ми
 plu_pre: пе­ре­хо́­дах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

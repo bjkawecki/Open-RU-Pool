@@ -1,15 +1,14 @@
 wordcls: substantive
 name: друг
 name_ac: друг
-publ_id: 131228
 translation:
-   - Freund
+- Freund
 genus: masculine
 dec_cls: '2'
 stress: shifting
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: друг
 sin_gen: дру́­га
 sin_dat: дру́­гу
@@ -22,8 +21,8 @@ plu_dat: друзь­я́м
 plu_acc: дру­зе́й
 plu_ins: друзь­я́ми
 plu_pre: друзь­я́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

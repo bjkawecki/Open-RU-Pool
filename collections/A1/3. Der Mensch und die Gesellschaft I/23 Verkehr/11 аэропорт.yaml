@@ -1,15 +1,14 @@
 wordcls: substantive
 name: аэропорт
 name_ac: аэропо́рт
-publ_id: 132311
 translation:
-   - Flughafen
+- Flughafen
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: аэропо́рт
 sin_gen: аэро­по́р­та
 sin_dat: аэро­по́р­ту
@@ -22,8 +21,8 @@ plu_dat: аэро­по́р­там
 plu_acc: аэро­по́р­ты
 plu_ins: аэро­по́р­та­ми
 plu_pre: аэро­по́р­тах
-partitive:
+partitive: null
 locative: в аэро­пор­ту́
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

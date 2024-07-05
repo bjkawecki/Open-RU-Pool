@@ -1,17 +1,16 @@
 wordcls: substantive
 name: троллейбус
 name_ac: тролле́йбус
-publ_id: 132306
 translation:
-   - O-Bus
-   - Oberleitungsbus
-   - Trolleybus
+- O-Bus
+- Oberleitungsbus
+- Trolleybus
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: тролле́йбус
 sin_gen: трол­ле́й­бу­са
 sin_dat: трол­ле́й­бу­су
@@ -24,8 +23,8 @@ plu_dat: трол­ле́й­бу­сам
 plu_acc: трол­ле́й­бу­сы
 plu_ins: трол­ле́й­бу­са­ми
 plu_pre: трол­ле́й­бу­сах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,11 +1,10 @@
 name: из
 name_ac: из
-publ_id: 153212
 wordcls: preposition
 translation:
-   - aus
+- aus
 prep_type: directional
 prep_case: genitive
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

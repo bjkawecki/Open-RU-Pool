@@ -1,16 +1,15 @@
 wordcls: substantive
 name: станция
 name_ac: ста́нция
-publ_id: 132202
 translation:
-   - Haltestelle
-   - Station
+- Haltestelle
+- Station
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ста́нция
 sin_gen: ста́н­ции
 sin_dat: ста́н­ции
@@ -23,8 +22,8 @@ plu_dat: ста́н­ци­ям
 plu_acc: ста́н­ции
 plu_ins: ста́н­ци­ями
 plu_pre: ста́н­ци­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

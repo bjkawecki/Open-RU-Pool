@@ -1,15 +1,14 @@
 wordcls: substantive
 name: ответ
 name_ac: отве́т
-publ_id: 131827
 translation:
-   - Antwort
+- Antwort
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: отве́т
 sin_gen: от­ве́­та
 sin_dat: от­ве́­ту
@@ -22,8 +21,8 @@ plu_dat: от­ве́­там
 plu_acc: от­ве́­ты
 plu_ins: от­ве́­та­ми
 plu_pre: от­ве́­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: столица
 name_ac: столи́ца
-publ_id: 132401
 translation:
-   - Hauptstadt
+- Hauptstadt
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: столи́ца
 sin_gen: сто­ли́­цы
 sin_dat: сто­ли́­це
@@ -22,8 +21,8 @@ plu_dat: сто­ли́ц­ам
 plu_acc: сто­ли́­цы
 plu_ins: сто­ли́­ца­ми
 plu_pre: сто­ли́ц­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

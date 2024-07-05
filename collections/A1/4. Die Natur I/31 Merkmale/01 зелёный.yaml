@@ -1,9 +1,8 @@
 name: зелёный
 name_ac: зелёный
-publ_id: 143101
 wordcls: adjective
 translation:
-   - grün
+- grün
 is_gradable: true
 mas_nom: зелёный
 mas_gen: зе­лё­но­го
@@ -35,6 +34,6 @@ sho_neu: зе́­ле­но
 sho_plu: зе́­ле­ны
 compara: зе­ле­не́е
 superla: самый зелёный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

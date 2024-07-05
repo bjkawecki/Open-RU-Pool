@@ -1,15 +1,14 @@
 wordcls: substantive
 name: врач
 name_ac: врач
-publ_id: 110302
 translation:
-   - Arzt
+- Arzt
 genus: masculine
 dec_cls: '2'
 stress: suffix
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: врач
 sin_gen: вра­ча́
 sin_dat: вра­чу́
@@ -22,8 +21,8 @@ plu_dat: вра­ча́м
 plu_acc: вра­че́й
 plu_ins: вра­ча́­ми
 plu_pre: вра­ча́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

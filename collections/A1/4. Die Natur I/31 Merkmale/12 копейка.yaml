@@ -1,15 +1,14 @@
 wordcls: substantive
 name: копейка
 name_ac: копе́йка
-publ_id: 143112
 translation:
-   - Kopeke
+- Kopeke
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: копе́йка
 sin_gen: ко­пе́й­ки
 sin_dat: ко­пе́й­ке
@@ -22,8 +21,8 @@ plu_dat: ко­пе́й­кам
 plu_acc: ко­пе́й­ки
 plu_ins: ко­пе́й­ка­ми
 plu_pre: ко­пе́й­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

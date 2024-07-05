@@ -1,11 +1,10 @@
 name: как дела
 name_ac: как дела́
-publ_id: 132614
 wordcls: phrase
 translation:
-   - Wie geht es
-   - Wie stehen die Dinge
-metaphrase:
-comment:
-usage:
-etymol:
+- Wie geht es
+- Wie stehen die Dinge
+metaphrase: null
+comment: null
+usage: null
+etymol: null

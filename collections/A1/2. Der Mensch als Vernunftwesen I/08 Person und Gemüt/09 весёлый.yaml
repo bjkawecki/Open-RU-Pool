@@ -1,9 +1,8 @@
 name: весёлый
 name_ac: весёлый
-publ_id: 120809
 wordcls: adjective
 translation:
-   - fröhlich
+- fröhlich
 is_gradable: true
 mas_nom: весёлый
 mas_gen: ве­сё­ло­го
@@ -35,6 +34,6 @@ sho_neu: ве́­се­ло
 sho_plu: ве́­се­лы
 compara: ве­се­ле́е
 superla: самый весёлый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

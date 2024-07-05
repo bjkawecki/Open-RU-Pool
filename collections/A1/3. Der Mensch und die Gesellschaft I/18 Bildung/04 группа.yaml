@@ -1,15 +1,14 @@
 wordcls: substantive
 name: группа
 name_ac: гру́ппа
-publ_id: 131804
 translation:
-   - Gruppe
+- Gruppe
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: гру́ппа
 sin_gen: гру́п­пы
 sin_dat: гру́п­пе
@@ -22,8 +21,8 @@ plu_dat: гру́п­пам
 plu_acc: гру́п­пы
 plu_ins: гру́п­па­ми
 plu_pre: гру́п­пах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

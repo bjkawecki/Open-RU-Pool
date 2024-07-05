@@ -1,9 +1,8 @@
 name: интересный
 name_ac: интере́сный
-publ_id: 120705
 wordcls: adjective
 translation:
-   - interessant
+- interessant
 is_gradable: true
 mas_nom: интере́сный
 mas_gen: ин­те­ре́с­но­го
@@ -35,6 +34,6 @@ sho_neu: ин­те­ре́с­но
 sho_plu: ин­те­ре́с­ны
 compara: ин­те­ре́с­нее
 superla: самый интере́сный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

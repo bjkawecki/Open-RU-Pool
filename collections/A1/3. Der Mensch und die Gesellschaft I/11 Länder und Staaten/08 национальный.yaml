@@ -1,10 +1,9 @@
 name: национальный
 name_ac: национа́льный
-publ_id: 131108
 wordcls: adjective
 translation:
-   - national
-   - Länder-
+- national
+- Länder-
 is_gradable: true
 mas_nom: национа́льный
 mas_gen: на­ци­он­а́ль­но­го
@@ -36,6 +35,6 @@ sho_neu: на­ци­он­а́ль­но
 sho_plu: на­ци­он­а́ль­ны
 compara: на­ци­он­а́ль­нее
 superla: самый национа́льный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

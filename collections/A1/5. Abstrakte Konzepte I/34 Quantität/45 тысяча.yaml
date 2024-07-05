@@ -1,29 +1,28 @@
 name: тысяча
 name_ac: ты́сяча
-publ_id: 153545
 wordcls: numeral
 translation:
-   - tausend
+- tausend
 num_type: cardinal
 dec_type: adjective
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+mas_nom: null
+mas_gen: null
+mas_dat: null
+mas_acc: null
+mas_ins: null
+mas_pre: null
+fem_nom: null
+fem_gen: null
+fem_dat: null
+fem_acc: null
+fem_ins: null
+fem_pre: null
+neu_nom: null
+neu_gen: null
+neu_dat: null
+neu_acc: null
+neu_ins: null
+neu_pre: null
 sin_nom: ты́­ся­ча
 sin_gen: ты́­ся­чи
 sin_dat: ты́­ся­че
@@ -36,6 +35,6 @@ plu_dat: ты́­сяч­ам
 plu_acc: ты́­ся­чи
 plu_ins: ты́­ся­ча­ми
 plu_pre: ты́­сяч­ах
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

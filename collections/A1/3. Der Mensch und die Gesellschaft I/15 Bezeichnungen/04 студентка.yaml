@@ -1,15 +1,14 @@
 wordcls: substantive
 name: студентка
 name_ac: студе́нтка
-publ_id: 131504
 translation:
-   - Studentin
+- Studentin
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: студе́нтка
 sin_gen: сту­де́нт­ки
 sin_dat: сту­де́нт­ке
@@ -22,8 +21,8 @@ plu_dat: сту­де́нт­кам
 plu_acc: сту­де́н­ток
 plu_ins: сту­де́нт­ка­ми
 plu_pre: сту­де́нт­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

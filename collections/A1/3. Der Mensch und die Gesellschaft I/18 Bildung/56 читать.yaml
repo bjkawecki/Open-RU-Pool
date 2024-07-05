@@ -1,30 +1,29 @@
 name: читать
 name_ac: чита́ть
-publ_id: 131856
 wordcls: verb
 translation:
-   - lesen
+- lesen
 aspect: imperfective
 partner: прочита́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: чи­та́ю
 pre_sin_2: чи­та́­ешь
 pre_sin_3: чи­та́­ет
 pre_plu_1: чи­та́­ем
 pre_plu_2: чи­та́­ете
 pre_plu_3: чи­та́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: чи­та́л
 pas_fem: чи­та́­ла
 pas_neu: чи­та́­ло
@@ -37,6 +36,6 @@ par_adv_pre: чи­та́­емый
 par_adv_pas: чи́­тан­ный
 imp_sin: чи­та́й
 imp_plu: чи­та́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,9 +1,8 @@
 name: предметы быта
 name_ac: предме́ты бы́та
-publ_id: 110519
 wordcls: compound
 translation:
-   - Alltagsgegenstände
-comment:
-usage:
-etymol:
+- Alltagsgegenstände
+comment: null
+usage: null
+etymol: null

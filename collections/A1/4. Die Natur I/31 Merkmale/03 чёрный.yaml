@@ -1,9 +1,8 @@
 name: чёрный
 name_ac: чёрный
-publ_id: 143103
 wordcls: adjective
 translation:
-   - schwarz
+- schwarz
 is_gradable: true
 mas_nom: чёрный
 mas_gen: чёр­но­го
@@ -35,6 +34,6 @@ sho_neu: чер­но́
 sho_plu: чер­ны́
 compara: чер­не́е
 superla: самый чёрный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

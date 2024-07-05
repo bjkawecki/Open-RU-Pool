@@ -1,15 +1,14 @@
 wordcls: substantive
 name: здание
 name_ac: зда́ние
-publ_id: 110503
 translation:
-   - Gebäude
+- Gebäude
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: зда́ние
 sin_gen: зда́­ния
 sin_dat: зда́­нию
@@ -22,8 +21,8 @@ plu_dat: зда́­ни­ям
 plu_acc: зда́­ния
 plu_ins: зда́­ни­ями
 plu_pre: зда́­ни­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

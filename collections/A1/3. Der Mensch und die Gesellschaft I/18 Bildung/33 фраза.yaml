@@ -1,15 +1,14 @@
 wordcls: substantive
 name: фраза
 name_ac: фра́за
-publ_id: 131833
 translation:
-   - Phrase
+- Phrase
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: фра́за
 sin_gen: фра́­зы
 sin_dat: фра́­зе
@@ -22,8 +21,8 @@ plu_dat: фра́­зам
 plu_acc: фра́­зы
 plu_ins: фра́­за­ми
 plu_pre: фра́­зах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

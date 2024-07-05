@@ -1,15 +1,14 @@
 wordcls: substantive
 name: наука
 name_ac: нау́ка
-publ_id: 131701
 translation:
-   - Wissenschaft
+- Wissenschaft
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: нау́ка
 sin_gen: на­у́ки
 sin_dat: на­у́ке
@@ -22,8 +21,8 @@ plu_dat: на­у́к­ам
 plu_acc: на­у́ки
 plu_ins: на­у́ка­ми
 plu_pre: на­у́к­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: физика
 name_ac: фи́зика
-publ_id: 131814
 translation:
-   - Physik
+- Physik
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: фи́зика
 sin_gen: фи́­зи­ки
 sin_dat: фи́­зи­ке
@@ -22,8 +21,8 @@ plu_dat: фи́­зик­ам
 plu_acc: фи́­зи­ки
 plu_ins: фи́­зи­ка­ми
 plu_pre: фи́­зик­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,29 +1,28 @@
 wordcls: substantive
 name: пиво
 name_ac: пи́во
-publ_id: 110434
 translation:
-   - Bier
+- Bier
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
+is_animate: null
 is_sin_tan: true
-is_plu_tan:
+is_plu_tan: null
 sin_nom: пи́во
 sin_gen: пи́­ва
 sin_dat: пи́­ву
 sin_acc: пи́­во
 sin_ins: пи́­вом
 sin_pre: пи́­ве
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
-partitive:
-locative:
-comment:
-usage:
-etymol:
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

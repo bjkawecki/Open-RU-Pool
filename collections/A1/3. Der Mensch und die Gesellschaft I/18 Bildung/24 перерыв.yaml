@@ -1,16 +1,15 @@
 wordcls: substantive
 name: перерыв
 name_ac: переры́в
-publ_id: 131824
 translation:
-   - Pause
-   - Unterbrechung
+- Pause
+- Unterbrechung
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: переры́в
 sin_gen: пе­ре­ры́­ва
 sin_dat: пе­ре­ры́­ву
@@ -23,8 +22,8 @@ plu_dat: пе­ре­ры́­вам
 plu_acc: пе­ре­ры́­вы
 plu_ins: пе­ре­ры́­ва­ми
 plu_pre: пе­ре­ры́­вах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

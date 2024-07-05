@@ -1,30 +1,29 @@
 name: нравиться
 name_ac: нра́виться
-publ_id: 120806
 wordcls: verb
 translation:
-   - gefallen
+- gefallen
 aspect: imperfective
 partner: понра́виться
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: dative
-verb_prepo:
-is_reflexive:
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: нра́в­люсь
 pre_sin_2: нра́­вишь­ся
 pre_sin_3: нра́­вит­ся
 pre_plu_1: нра́­вим­ся
 pre_plu_2: нра́­вит­есь
 pre_plu_3: нра́­вят­ся
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: нра́­вил­ся
 pas_fem: нра́­вил­ась
 pas_neu: нра́­вил­ось
@@ -33,10 +32,10 @@ par_pre_act: нра́­вя­щий­ся
 par_pas_act: нра́­вив­ший­ся
 par_pre_pas: нра́­вясь
 par_pas_pas: нра́­вив­шись
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: нра́вь­ся
 imp_plu: нра́вь­тесь
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

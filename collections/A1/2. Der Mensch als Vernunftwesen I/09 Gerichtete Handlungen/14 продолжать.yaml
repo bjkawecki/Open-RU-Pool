@@ -1,31 +1,30 @@
 name: продолжать
 name_ac: продолжа́ть
-publ_id: 120914
 wordcls: verb
 translation:
-   - fortsetzen
-   - weitermachen
+- fortsetzen
+- weitermachen
 aspect: imperfective
 partner: продо́лжить
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: про­дол­жа́ю
 pre_sin_2: про­дол­жа́­ешь
 pre_sin_3: про­дол­жа́­ет
 pre_plu_1: про­дол­жа́­ем
 pre_plu_2: про­дол­жа́­ете
 pre_plu_3: про­дол­жа́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: про­дол­жа́л
 pas_fem: про­дол­жа́­ла
 pas_neu: про­дол­жа́­ло
@@ -35,9 +34,9 @@ par_pas_act: про­дол­жа́­вший
 par_pre_pas: про­дол­жа́я
 par_pas_pas: про­дол­жа́­вши, про­дол­жа́в
 par_adv_pre: про­дол­жа́­емый
-par_adv_pas:
+par_adv_pas: null
 imp_sin: про­дол­жа́й
 imp_plu: про­дол­жа́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: январь
 name_ac: янва́рь
-publ_id: 153301
 translation:
-   - Januar
+- Januar
 genus: masculine
 dec_cls: '2'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: янва́рь
 sin_gen: ян­ва­ря́
 sin_dat: ян­ва­рю́
@@ -22,8 +21,8 @@ plu_dat: ян­ва­ря́м
 plu_acc: ян­ва­ри́
 plu_ins: ян­ва­ря́­ми
 plu_pre: ян­ва­ря́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

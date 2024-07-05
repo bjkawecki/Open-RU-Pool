@@ -1,10 +1,9 @@
 name: алло
 name_ac: алло́
-publ_id: 132629
 wordcls: phrase
 translation:
-   - Hallo
-metaphrase:
+- Hallo
+metaphrase: null
 comment: Begrüßung am Telefon
-usage:
-etymol:
+usage: null
+etymol: null

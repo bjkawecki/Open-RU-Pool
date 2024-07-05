@@ -1,15 +1,14 @@
 wordcls: substantive
 name: сумка
 name_ac: су́мка
-publ_id: 110525
 translation:
-   - Tasche
+- Tasche
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: су́мка
 sin_gen: су́м­ки
 sin_dat: су́м­ке
@@ -22,8 +21,8 @@ plu_dat: су́м­кам
 plu_acc: су́м­ки
 plu_ins: су́м­ка­ми
 plu_pre: су́м­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

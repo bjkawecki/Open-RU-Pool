@@ -1,10 +1,9 @@
 name: первый
 name_ac: пе́рвый
-publ_id: 153546
 wordcls: adjective
 translation:
-   - erster
-is_gradable:
+- erster
+is_gradable: null
 mas_nom: пе́рвый
 mas_gen: пе́р­во­го
 mas_dat: пе́р­во­му
@@ -29,12 +28,12 @@ plu_dat: пе́р­вым
 plu_acc: пе́р­вые
 plu_ins: пе́р­вы­ми
 plu_pre: пе́р­вых
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

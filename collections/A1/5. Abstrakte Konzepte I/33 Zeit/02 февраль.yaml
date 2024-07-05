@@ -1,15 +1,14 @@
 wordcls: substantive
 name: февраль
 name_ac: февра́ль
-publ_id: 153302
 translation:
-   - Februar
+- Februar
 genus: masculine
 dec_cls: '2'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: февра́ль
 sin_gen: фев­ра­ля́
 sin_dat: фев­ра­лю́
@@ -22,8 +21,8 @@ plu_dat: фев­ра­ля́м
 plu_acc: фев­ра­ли́
 plu_ins: фев­ра­ля́­ми
 plu_pre: фев­ра­ля́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

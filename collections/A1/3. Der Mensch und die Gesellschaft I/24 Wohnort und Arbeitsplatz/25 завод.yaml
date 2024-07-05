@@ -1,17 +1,16 @@
 wordcls: substantive
 name: завод
 name_ac: заво́д
-publ_id: 132425
 translation:
-   - Betrieb
-   - Werk
-   - Fabrik
+- Betrieb
+- Werk
+- Fabrik
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: заво́д
 sin_gen: за­во́­да
 sin_dat: за­во́­ду
@@ -24,8 +23,8 @@ plu_dat: за­во́д­ам
 plu_acc: за­во́­ды
 plu_ins: за­во́­да­ми
 plu_pre: за­во́д­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

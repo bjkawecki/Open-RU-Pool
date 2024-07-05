@@ -1,15 +1,14 @@
 wordcls: substantive
 name: неделя
 name_ac: неде́ля
-publ_id: 153329
 translation:
-   - Woche
+- Woche
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: неде́ля
 sin_gen: не­де́­ли
 sin_dat: не­де́­ле
@@ -22,8 +21,8 @@ plu_dat: не­де́л­ям
 plu_acc: не­де́­ли
 plu_ins: не­де́­ля­ми
 plu_pre: не­де́л­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

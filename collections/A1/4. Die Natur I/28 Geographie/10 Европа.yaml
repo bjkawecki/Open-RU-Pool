@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Европа
 name_ac: Евро́па
-publ_id: 142810
 translation:
-   - Europa
+- Europa
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Евро́па
 sin_gen: Евро́пы
 sin_dat: Евро́пе
@@ -22,8 +21,8 @@ plu_dat: Евро́пам
 plu_acc: Евро́п
 plu_ins: Евро́пами
 plu_pre: Евро́пах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

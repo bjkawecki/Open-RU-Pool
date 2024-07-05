@@ -1,15 +1,14 @@
 wordcls: substantive
 name: поезд
 name_ac: по́езд
-publ_id: 132308
 translation:
-   - Zug
+- Zug
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: по́езд
 sin_gen: по́­ез­да
 sin_dat: по́­ез­ду
@@ -22,8 +21,8 @@ plu_dat: по­ез­да́м
 plu_acc: по­ез­да́
 plu_ins: по­ез­да́­ми
 plu_pre: по­ез­да́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

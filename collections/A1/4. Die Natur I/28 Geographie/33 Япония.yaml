@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Япония
 name_ac: Япо́ния
-publ_id: 142833
 translation:
-   - Japan
+- Japan
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Япо́ния
 sin_gen: Япо́нии
 sin_dat: Япо́нии
@@ -22,8 +21,8 @@ plu_dat: Япо́ниям
 plu_acc: Япо́нии
 plu_ins: Япо́ниями
 plu_pre: Япо́ниях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,16 +1,15 @@
 wordcls: substantive
 name: дерево
 name_ac: де́рево
-publ_id: 143004
 translation:
-   - Baum
-   - Holz
+- Baum
+- Holz
 genus: neutral
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: де́рево
 sin_gen: де́­ре­ва
 sin_dat: де́­ре­ву
@@ -23,8 +22,8 @@ plu_dat: де­ре́вь­ям
 plu_acc: де­ре́вья
 plu_ins: де­ре́вь­ями
 plu_pre: де­ре́вь­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

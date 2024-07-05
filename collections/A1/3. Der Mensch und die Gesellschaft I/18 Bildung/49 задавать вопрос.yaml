@@ -1,10 +1,9 @@
 name: задавать вопрос
 name_ac: задава́ть вопро́с
-publ_id: 131849
 wordcls: phrase
 translation:
-   - eine Frage stellen
-metaphrase:
-comment:
-usage:
-etymol:
+- eine Frage stellen
+metaphrase: null
+comment: null
+usage: null
+etymol: null

@@ -1,9 +1,8 @@
 name: счастливый
 name_ac: счастли́вый
-publ_id: 120811
 wordcls: adjective
 translation:
-   - glücklich
+  - glücklich
 is_gradable: true
 mas_nom: счастли́вый
 mas_gen: счаст­ли́­во­го
@@ -35,6 +34,6 @@ sho_neu: сча̀ст­ли́­во
 sho_plu: сча̀ст­ли́­вы
 compara: счаст­ли́­вее
 superla: самый сча́стливый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

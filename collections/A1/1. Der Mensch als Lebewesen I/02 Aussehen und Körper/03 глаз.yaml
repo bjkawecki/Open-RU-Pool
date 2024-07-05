@@ -1,15 +1,14 @@
 wordcls: substantive
 name: глаз
 name_ac: глаз
-publ_id: 110203
 translation:
-   - Auge
+- Auge
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: глаз
 sin_gen: гла́­за
 sin_dat: гла́­зу
@@ -22,8 +21,8 @@ plu_dat: гла­за́м
 plu_acc: гла­за́
 plu_ins: гла­за́­ми
 plu_pre: гла­за́х
-partitive:
+partitive: null
 locative: в/на гла­зу́
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

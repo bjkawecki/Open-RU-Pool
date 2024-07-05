@@ -1,15 +1,14 @@
 wordcls: substantive
 name: китаец
 name_ac: кита́ец
-publ_id: 131216
 translation:
-   - Chinese
+- Chinese
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: кита́ец
 sin_gen: ки­та́й­ца
 sin_dat: ки­та́й­цу
@@ -22,8 +21,8 @@ plu_dat: ки­та́й­цам
 plu_acc: ки­та́й­цев
 plu_ins: ки­та́й­ца­ми
 plu_pre: ки­та́й­цах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

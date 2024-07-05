@@ -1,15 +1,14 @@
 wordcls: substantive
 name: чемпион
 name_ac: чемпио́н
-publ_id: 131514
 translation:
-   - Champion
+- Champion
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: чемпио́н
 sin_gen: чем­пи­о́на
 sin_dat: чем­пи­о́ну
@@ -22,8 +21,8 @@ plu_dat: чем­пи­о́н­ам
 plu_acc: чем­пи­о́н­ов
 plu_ins: чем­пи­о́на­ми
 plu_pre: чем­пи­о́н­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

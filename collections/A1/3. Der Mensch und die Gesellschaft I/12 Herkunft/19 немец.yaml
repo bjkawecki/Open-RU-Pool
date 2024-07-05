@@ -1,15 +1,14 @@
 wordcls: substantive
 name: немец
 name_ac: не́мец
-publ_id: 131219
 translation:
-   - Deutscher
+- Deutscher
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: не́мец
 sin_gen: не́м­ца
 sin_dat: не́м­цу
@@ -22,8 +21,8 @@ plu_dat: не́м­цам
 plu_acc: не́м­цев
 plu_ins: не́м­ца­ми
 plu_pre: не́м­цах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: гора
 name_ac: гора́
-publ_id: 142805
 translation:
-   - Berg
+- Berg
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: гора́
 sin_gen: го­ры́
 sin_dat: го­ре́
@@ -22,8 +21,8 @@ plu_dat: го­ра́м
 plu_acc: го́­ры
 plu_ins: го­ра́­ми
 plu_pre: го­ра́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

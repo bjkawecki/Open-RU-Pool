@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Индия
 name_ac: И́ндия
-publ_id: 142818
 translation:
-   - Indien
+- Indien
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: И́ндия
 sin_gen: И́ндии
 sin_dat: И́ндии
@@ -22,8 +21,8 @@ plu_dat: И́ндиям
 plu_acc: И́ндии
 plu_ins: И́ндиями
 plu_pre: И́ндиях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

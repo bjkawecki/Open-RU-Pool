@@ -1,15 +1,14 @@
 wordcls: substantive
 name: вторник
 name_ac: вто́рник
-publ_id: 153315
 translation:
-   - Dienstag
+- Dienstag
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: вто́рник
 sin_gen: вто́р­ни­ка
 sin_dat: вто́р­ни­ку
@@ -22,8 +21,8 @@ plu_dat: вто́р­ни­кам
 plu_acc: вто́р­ни­ки
 plu_ins: вто́р­ни­ка­ми
 plu_pre: вто́р­ни­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

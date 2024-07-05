@@ -1,10 +1,9 @@
 name: поезд пришёл
 name_ac: по́езд пришёл
-publ_id: 132312
 wordcls: phrase
 translation:
-   - der Zug ist angekommen
-metaphrase:
-comment:
-usage:
-etymol:
+- der Zug ist angekommen
+metaphrase: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: ночь
 name_ac: ночь
-publ_id: 153325
 translation:
-   - Nacht
+- Nacht
 genus: feminine
 dec_cls: '3'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ночь
 sin_gen: но́­чи
 sin_dat: но́­чи
@@ -22,8 +21,8 @@ plu_dat: но­ча́м
 plu_acc: но́­чи
 plu_ins: но­ча́­ми
 plu_pre: но­ча́х
-partitive:
+partitive: null
 locative: в но­чи́
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

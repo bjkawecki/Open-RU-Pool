@@ -1,15 +1,14 @@
 wordcls: substantive
 name: день
 name_ac: день
-publ_id: 110106
 translation:
-   - Tag
+- Tag
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: день
 sin_gen: дня
 sin_dat: дню
@@ -22,8 +21,8 @@ plu_dat: дням
 plu_acc: дни
 plu_ins: дня́­ми
 plu_pre: днях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,42 +1,41 @@
 name: городской
 name_ac: городской
-publ_id: 132313
 wordcls: adjective
 translation:
-   - Stadt-
-   - städtisch
-is_gradable:
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+- Stadt-
+- städtisch
+is_gradable: null
+mas_nom: null
+mas_gen: null
+mas_dat: null
+mas_acc: null
+mas_ins: null
+mas_pre: null
+fem_nom: null
+fem_gen: null
+fem_dat: null
+fem_acc: null
+fem_ins: null
+fem_pre: null
+neu_nom: null
+neu_gen: null
+neu_dat: null
+neu_acc: null
+neu_ins: null
+neu_pre: null
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null
 sin_nom: городской

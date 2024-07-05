@@ -1,15 +1,14 @@
 wordcls: substantive
 name: юмор
 name_ac: ю́мор
-publ_id: 120701
 translation:
-   - Humor
+- Humor
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ю́мор
 sin_gen: ю́мо­ра
 sin_dat: ю́мо­ру
@@ -23,7 +22,7 @@ plu_acc: ю́мо­ры
 plu_ins: ю́мо­ра­ми
 plu_pre: ю́мо­рах
 partitive: ю́мо­ру
-locative:
-comment:
-usage:
-etymol:
+locative: null
+comment: null
+usage: null
+etymol: null

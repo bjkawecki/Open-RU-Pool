@@ -1,15 +1,14 @@
 wordcls: substantive
 name: музей
 name_ac: музей
-publ_id: 131907
 translation:
-   - Museum
+- Museum
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: музей
 sin_gen: му­зе́я
 sin_dat: му­зе́ю
@@ -22,8 +21,8 @@ plu_dat: му­зе́­ям
 plu_acc: му­зе́и
 plu_ins: му­зе́­ями
 plu_pre: му­зе́­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

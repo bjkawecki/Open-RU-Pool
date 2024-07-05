@@ -1,9 +1,8 @@
 name: один
 name_ac: оди́н
-publ_id: 153506
 wordcls: numeral
 translation:
-   - ein
+- ein
 num_type: cardinal
 dec_type: substantive
 mas_nom: од­и́н
@@ -24,12 +23,12 @@ neu_dat: од­но­му́
 neu_acc: од­но́
 neu_ins: од­ни́м
 neu_pre: од­но́м
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: од­ни́
 plu_gen: од­ни́х
 plu_dat: од­ни́м
@@ -37,5 +36,5 @@ plu_acc: од­ни́
 plu_ins: од­ни́­ми
 plu_pre: од­ни́х
 comment: männlich
-usage:
-etymol:
+usage: null
+etymol: null

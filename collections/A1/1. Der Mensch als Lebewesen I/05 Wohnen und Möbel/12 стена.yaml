@@ -1,15 +1,14 @@
 wordcls: substantive
 name: стена
 name_ac: стена́
-publ_id: 110512
 translation:
-   - Wand
+- Wand
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: стена́
 sin_gen: сте­ны́
 sin_dat: сте­не́
@@ -22,8 +21,8 @@ plu_dat: сте́­нам
 plu_acc: сте́­ны
 plu_ins: сте́­на­ми
 plu_pre: сте́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

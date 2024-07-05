@@ -1,16 +1,15 @@
 wordcls: substantive
 name: земля
 name_ac: земля́
-publ_id: 142802
 translation:
-   - Boden
-   - Erde
+- Boden
+- Erde
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: земля́
 sin_gen: зем­ли́
 sin_dat: зем­ле́
@@ -23,8 +22,8 @@ plu_dat: зе́м­лям
 plu_acc: зе́м­ли
 plu_ins: зе́м­ля­ми
 plu_pre: зе́м­лях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

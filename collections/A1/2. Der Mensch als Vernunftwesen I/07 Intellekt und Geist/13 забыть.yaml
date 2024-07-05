@@ -1,24 +1,23 @@
 name: забыть
 name_ac: забы́ть
-publ_id: 120713
 wordcls: verb
 translation:
-   - vergessen
+- vergessen
 aspect: perfective
 partner: забыва́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: accusative
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: забуду
 fut_sin_2: забудешь
 fut_sin_3: забудет
@@ -29,14 +28,14 @@ pas_mas: забыл
 pas_fem: забыла
 pas_neu: забыло
 pas_plu: забыли
-par_pre_act:
+par_pre_act: null
 par_pas_act: забывший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: забывши, забыв
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: забытый
 imp_sin: забудь
 imp_plu: забудьте
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

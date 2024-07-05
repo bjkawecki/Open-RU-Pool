@@ -1,15 +1,14 @@
 wordcls: substantive
 name: театр
 name_ac: теа́тр
-publ_id: 131931
 translation:
-   - Theater
+- Theater
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: теа́тр
 sin_gen: те­а́т­ра
 sin_dat: те­а́т­ру
@@ -22,8 +21,8 @@ plu_dat: те­а́т­рам
 plu_acc: те­а́т­ры
 plu_ins: те­а́т­ра­ми
 plu_pre: те­а́т­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

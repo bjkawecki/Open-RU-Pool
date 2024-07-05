@@ -1,15 +1,14 @@
 wordcls: substantive
 name: артистка
 name_ac: арти́стка
-publ_id: 131404
 translation:
-   - Künstlerin
+- Künstlerin
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: арти́стка
 sin_gen: ар­ти́ст­ки
 sin_dat: ар­ти́ст­ке
@@ -22,8 +21,8 @@ plu_dat: ар­ти́ст­кам
 plu_acc: ар­ти́­сток
 plu_ins: ар­ти́ст­ка­ми
 plu_pre: ар­ти́ст­ках
-partitive:
-locative:
+partitive: null
+locative: null
 comment: Künstlerin, die vor Publikum auftritt
-usage:
-etymol:
+usage: null
+etymol: null

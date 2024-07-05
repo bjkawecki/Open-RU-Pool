@@ -1,15 +1,14 @@
 wordcls: substantive
 name: счастье
 name_ac: сча́стье
-publ_id: 120803
 translation:
-   - Glück
+- Glück
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: сча́стье
 sin_gen: сча́стья
 sin_dat: сча́стью
@@ -22,8 +21,8 @@ plu_dat: сча́сть­ям
 plu_acc: сча́стья
 plu_ins: сча́сть­ями
 plu_pre: сча́сть­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

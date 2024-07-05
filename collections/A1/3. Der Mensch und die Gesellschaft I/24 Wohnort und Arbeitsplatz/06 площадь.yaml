@@ -1,16 +1,15 @@
 wordcls: substantive
 name: площадь
 name_ac: пло́щадь
-publ_id: 132406
 translation:
-   - Platz
-   - Fläche
+- Platz
+- Fläche
 genus: feminine
 dec_cls: '3'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: пло́щадь
 sin_gen: пло́­ща­ди
 sin_dat: пло́­ща­ди
@@ -23,8 +22,8 @@ plu_dat: пло­щад­я́м
 plu_acc: пло́­ща­ди
 plu_ins: пло­ща­дя́­ми
 plu_pre: пло­щад­я́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: немка
 name_ac: не́мка
-publ_id: 131220
 translation:
-   - Deutsche
+- Deutsche
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: не́мка
 sin_gen: не́м­ки
 sin_dat: не́м­ке
@@ -22,8 +21,8 @@ plu_dat: не́м­кам
 plu_acc: не́­мок
 plu_ins: не́м­ка­ми
 plu_pre: не́м­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

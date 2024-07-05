@@ -1,16 +1,15 @@
 wordcls: substantive
 name: рассказ
 name_ac: расска́з
-publ_id: 131921
 translation:
-   - Erzählung
-   - Geschichte
+- Erzählung
+- Geschichte
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: расска́з
 sin_gen: рас­ска́­за
 sin_dat: рас­ска́­зу
@@ -23,8 +22,8 @@ plu_dat: рас­ска́­зам
 plu_acc: рас­ска́­зы
 plu_ins: рас­ска́­за­ми
 plu_pre: рас­ска́­зах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

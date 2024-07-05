@@ -1,31 +1,30 @@
 wordcls: substantive
 name: сутки
 name_ac: су́тки
-publ_id: 153704
 translation:
-   - Tag
-   - 24 Stunden
-   - Tag und Nacht
+- Tag
+- 24 Stunden
+- Tag und Nacht
 genus: none
 dec_cls: irregular
 stress: root
-is_animate:
-is_sin_tan:
+is_animate: null
+is_sin_tan: null
 is_plu_tan: true
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: су́тки
 plu_gen: су́­ток
 plu_dat: су́т­кам
 plu_acc: су́т­ки
 plu_ins: су́т­ка­ми
 plu_pre: су́т­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

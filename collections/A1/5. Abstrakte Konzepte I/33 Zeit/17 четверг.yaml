@@ -1,15 +1,14 @@
 wordcls: substantive
 name: четверг
 name_ac: четве́рг
-publ_id: 153317
 translation:
-   - Donnerstag
+- Donnerstag
 genus: masculine
 dec_cls: '2'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: четве́рг
 sin_gen: чет­ве­рга́
 sin_dat: чет­ве­ргу́
@@ -22,8 +21,8 @@ plu_dat: чет­ве­рга́м
 plu_acc: чет­ве­рги́
 plu_ins: чет­ве­рга́­ми
 plu_pre: чет­ве­рга́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

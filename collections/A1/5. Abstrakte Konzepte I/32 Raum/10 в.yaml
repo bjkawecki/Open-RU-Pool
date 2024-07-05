@@ -1,11 +1,10 @@
 name: в
 name_ac: в
-publ_id: 153210
 wordcls: preposition
 translation:
-   - in
+- in
 prep_type: directional
 prep_case: accusative
 comment: во
-usage:
-etymol:
+usage: null
+etymol: null

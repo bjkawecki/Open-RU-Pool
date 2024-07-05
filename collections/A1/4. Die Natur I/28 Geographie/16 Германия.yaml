@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Германия
 name_ac: Герма́ния
-publ_id: 142816
 translation:
-   - Deutschland
+- Deutschland
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Герма́ния
 sin_gen: Герма́нии
 sin_dat: Герма́нии
@@ -22,8 +21,8 @@ plu_dat: Герма́ниям
 plu_acc: Герма́нии
 plu_ins: Герма́ниями
 plu_pre: Герма́ниях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

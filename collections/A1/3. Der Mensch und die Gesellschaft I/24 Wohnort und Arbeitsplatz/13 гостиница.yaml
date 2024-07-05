@@ -1,16 +1,15 @@
 wordcls: substantive
 name: гостиница
 name_ac: гости́ница
-publ_id: 132413
 translation:
-   - Hotel
-   - Gasthof
+- Hotel
+- Gasthof
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: гости́ница
 sin_gen: гос­ти́­ни­цы
 sin_dat: гос­ти́­ни­це
@@ -23,8 +22,8 @@ plu_dat: гос­ти́­ниц­ам
 plu_acc: гос­ти́­ни­цы
 plu_ins: гос­ти́­ни­ца­ми
 plu_pre: гос­ти́­ниц­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

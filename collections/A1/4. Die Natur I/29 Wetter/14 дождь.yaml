@@ -1,15 +1,14 @@
 wordcls: substantive
 name: дождь
 name_ac: дождь
-publ_id: 142914
 translation:
-   - Regen
+- Regen
 genus: masculine
 dec_cls: '2'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: дождь
 sin_gen: дож­дя́
 sin_dat: дож­дю́
@@ -22,8 +21,8 @@ plu_dat: дож­дя́м
 plu_acc: дож­ди́
 plu_ins: дож­дя́­ми
 plu_pre: дож­дя́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

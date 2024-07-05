@@ -1,16 +1,15 @@
 wordcls: substantive
 name: музыкант
 name_ac: музыка́нт
-publ_id: 131405
 translation:
-   - Musiker
-   - Musikant
+- Musiker
+- Musikant
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: музыка́нт
 sin_gen: му­зык­а́н­та
 sin_dat: му­зык­а́н­ту
@@ -23,8 +22,8 @@ plu_dat: му­зык­а́н­там
 plu_acc: му­зык­а́н­тов
 plu_ins: му­зык­а́н­та­ми
 plu_pre: му­зык­а́н­тах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

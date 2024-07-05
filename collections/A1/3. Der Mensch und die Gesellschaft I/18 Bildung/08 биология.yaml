@@ -1,15 +1,14 @@
 wordcls: substantive
 name: биология
 name_ac: биоло́гия
-publ_id: 131808
 translation:
-   - Biologie
+- Biologie
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: биоло́гия
 sin_gen: би­оло́­гии
 sin_dat: би­оло́­гии
@@ -22,8 +21,8 @@ plu_dat: би­оло́­ги­ям
 plu_acc: би­оло́­гии
 plu_ins: би­оло́­ги­ями
 plu_pre: би­оло́­ги­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

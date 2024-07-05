@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Америка
 name_ac: Аме́рика
-publ_id: 142808
 translation:
-   - Amerika
+- Amerika
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Аме́рика
 sin_gen: Аме́рики
 sin_dat: Аме́рике
@@ -22,8 +21,8 @@ plu_dat: Аме́рикам
 plu_acc: Аме́рики
 plu_ins: Аме́риками
 plu_pre: Аме́риках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,9 +1,8 @@
 name: твой
 name_ac: твой
-publ_id: 143128
 wordcls: pronoun
 translation:
-   - dein
+- dein
 pro_type: possessive
 dec_type: adjective
 mas_nom: твой
@@ -24,18 +23,18 @@ neu_dat: тво­ему́
 neu_acc: твоё
 neu_ins: тво­и́м
 neu_pre: тво­ём
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: твои́
 plu_gen: тво­и́х
 plu_dat: тво­и́м
 plu_acc: твои́
 plu_ins: тво­и́ми
 plu_pre: тво­и́х
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

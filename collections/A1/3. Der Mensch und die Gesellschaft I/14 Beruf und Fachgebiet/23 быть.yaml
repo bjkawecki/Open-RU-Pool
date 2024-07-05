@@ -1,24 +1,23 @@
 name: быть
 name_ac: быть
-publ_id: 131423
 wordcls: verb
 translation:
-   - sein
+- sein
 aspect: imperfective
-partner:
-con_cls:
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
+partner: null
+con_cls: null
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
 pre_sin_3: есть
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: бу́­ду
 fut_sin_2: бу́­дешь
 fut_sin_3: бу́­дет
@@ -31,12 +30,12 @@ pas_neu: бы́­ло
 pas_plu: бы́­ли
 par_pre_act: бу́­ду­щий
 par_pas_act: бы́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: бу́­ду­чи
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: будь
 imp_plu: бу́дь­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

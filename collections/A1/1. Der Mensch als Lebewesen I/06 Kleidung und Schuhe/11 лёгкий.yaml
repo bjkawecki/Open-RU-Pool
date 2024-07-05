@@ -1,9 +1,8 @@
 name: лёгкий
 name_ac: лёгкий
-publ_id: 110611
 wordcls: adjective
 translation:
-   - leicht
+- leicht
 is_gradable: true
 mas_nom: лёгкий
 mas_gen: лёгкого
@@ -35,6 +34,6 @@ sho_neu: легко
 sho_plu: легки
 compara: легче
 superla: самый лёгкий
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

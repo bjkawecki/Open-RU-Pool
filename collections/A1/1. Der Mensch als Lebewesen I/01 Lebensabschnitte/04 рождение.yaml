@@ -1,15 +1,14 @@
 wordcls: substantive
 name: рождение
 name_ac: рожде́ние
-publ_id: 110104
 translation:
-   - Geburt
+- Geburt
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: рожде́ние
 sin_gen: рож­де́­ния
 sin_dat: рож­де́­нию
@@ -22,8 +21,8 @@ plu_dat: рож­де́­ни­ям
 plu_acc: рож­де́­ния
 plu_ins: рож­де́­ни­ями
 plu_pre: рож­де́­ни­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

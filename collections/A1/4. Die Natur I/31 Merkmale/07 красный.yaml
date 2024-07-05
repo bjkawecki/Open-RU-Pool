@@ -1,9 +1,8 @@
 name: красный
 name_ac: кра́сный
-publ_id: 143107
 wordcls: adjective
 translation:
-   - rot
+- rot
 is_gradable: true
 mas_nom: кра́сный
 mas_gen: кра́с­но­го
@@ -35,6 +34,6 @@ sho_neu: кра́с­но
 sho_plu: кра́с­ны
 compara: крас­не́е
 superla: самый кра́сный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: рис
 name_ac: рис
-publ_id: 110408
 translation:
-   - Reis
+- Reis
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: рис
 sin_gen: ри́­са
 sin_dat: ри́­су
@@ -23,7 +22,7 @@ plu_acc: ри́­сы
 plu_ins: ри́­са­ми
 plu_pre: ри́­сах
 partitive: ри́­су
-locative:
-comment:
-usage:
-etymol:
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,9 +1,8 @@
 name: бедный
 name_ac: бе́дный
-publ_id: 131602
 wordcls: adjective
 translation:
-   - arm
+- arm
 is_gradable: true
 mas_nom: бе́дный
 mas_gen: бе́д­но­го
@@ -35,6 +34,6 @@ sho_neu: бе́д­но
 sho_plu: бе́д­ны
 compara: бед­не́е
 superla: самый бе́дный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

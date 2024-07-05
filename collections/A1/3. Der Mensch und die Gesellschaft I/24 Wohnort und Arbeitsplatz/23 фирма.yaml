@@ -1,15 +1,14 @@
 wordcls: substantive
 name: фирма
 name_ac: фи́рма
-publ_id: 132423
 translation:
-   - Firma
+- Firma
 genus: feminine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: фи́рма
 sin_gen: фи́р­мы
 sin_dat: фи́р­ме
@@ -22,8 +21,8 @@ plu_dat: фи́р­мам
 plu_acc: фи́р­мы
 plu_ins: фи́р­ма­ми
 plu_pre: фи́р­мах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

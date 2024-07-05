@@ -1,15 +1,14 @@
 wordcls: substantive
 name: шапка
 name_ac: ша́пка
-publ_id: 110605
 translation:
-   - Mütze
+- Mütze
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ша́пка
 sin_gen: ша́п­ки
 sin_dat: ша́п­ке
@@ -22,8 +21,8 @@ plu_dat: ша́п­кам
 plu_acc: ша́п­ки
 plu_ins: ша́п­ка­ми
 plu_pre: ша́п­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

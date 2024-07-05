@@ -1,15 +1,14 @@
 wordcls: substantive
 name: женщина
 name_ac: же́нщина
-publ_id: 110114
 translation:
-   - Frau
+- Frau
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: же́нщина
 sin_gen: же́н­щи­ны
 sin_dat: же́н­щи­не
@@ -22,8 +21,8 @@ plu_dat: же́н­щи­нам
 plu_acc: же́н­щин
 plu_ins: же́н­щи­на­ми
 plu_pre: же́н­щи­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

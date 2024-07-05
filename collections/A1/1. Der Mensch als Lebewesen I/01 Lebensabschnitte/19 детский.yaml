@@ -1,11 +1,10 @@
 name: детский
 name_ac: де́тский
-publ_id: 110119
 wordcls: adjective
 translation:
-   - Kinder-
-   - kindlich
-is_gradable:
+- Kinder-
+- kindlich
+is_gradable: null
 mas_nom: де́тский
 mas_gen: де́тс­ко­го
 mas_dat: де́тс­ко­му
@@ -30,12 +29,12 @@ plu_dat: де́тс­ким
 plu_acc: де́тс­кие
 plu_ins: де́тс­ки­ми
 plu_pre: де́тс­ких
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

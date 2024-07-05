@@ -1,15 +1,14 @@
 wordcls: substantive
 name: буква
 name_ac: бу́ква
-publ_id: 131831
 translation:
-   - Buchstabe
+- Buchstabe
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: бу́ква
 sin_gen: бу́к­вы
 sin_dat: бу́к­ве
@@ -22,8 +21,8 @@ plu_dat: бу́к­вам
 plu_acc: бу́к­вы
 plu_ins: бу́к­ва­ми
 plu_pre: бу́к­вах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

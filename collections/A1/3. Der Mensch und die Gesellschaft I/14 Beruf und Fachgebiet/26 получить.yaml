@@ -1,25 +1,24 @@
 name: получить
 name_ac: получи́ть
-publ_id: 131426
 wordcls: verb
 translation:
-   - erhalten
-   - bekommen
+- erhalten
+- bekommen
 aspect: perfective
 partner: получа́ть
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: по­лу­чу́
 fut_sin_2: по­лу́ч­ишь
 fut_sin_3: по­лу́ч­ит
@@ -30,14 +29,14 @@ pas_mas: по­луч­и́л
 pas_fem: по­лу­чи́­ла
 pas_neu: по­лу­чи́­ло
 pas_plu: по­лу­чи́­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: по­луч­и́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: по­луч­и́в­ши, по­луч­и́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: по­лу́ч­ен­ный
 imp_sin: по­лу­чи́
 imp_plu: по­лу­чи́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

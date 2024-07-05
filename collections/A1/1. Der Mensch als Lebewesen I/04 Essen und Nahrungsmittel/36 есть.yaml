@@ -1,30 +1,29 @@
 name: есть
 name_ac: есть
-publ_id: 110436
 wordcls: verb
 translation:
-   - essen
+- essen
 aspect: imperfective
-partner:
-con_cls:
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+partner: null
+con_cls: null
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: ем
 pre_sin_2: ешь
 pre_sin_3: ест
 pre_plu_1: ед­и́м
 pre_plu_2: еди́­те
 pre_plu_3: ед­я́т
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: ел
 pas_fem: е́ла
 pas_neu: е́ло
@@ -33,10 +32,10 @@ par_pre_act: едя́­щий
 par_pas_act: е́в­ший
 par_pre_pas: едя́
 par_pas_pas: е́в­ши, е́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: е́д­ен­ный
 imp_sin: ешь
 imp_plu: е́шь­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: роман
 name_ac: рома́н
-publ_id: 131922
 translation:
-   - Roman
+- Roman
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: рома́н
 sin_gen: ро­ма́­на
 sin_dat: ро­ма́­ну
@@ -22,8 +21,8 @@ plu_dat: ро­ма́н­ам
 plu_acc: ро­ма́­ны
 plu_ins: ро­ма́­на­ми
 plu_pre: ро­ма́н­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Испания
 name_ac: Испа́ния
-publ_id: 142819
 translation:
-   - Spanien
+- Spanien
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Испа́ния
 sin_gen: Испа́нии
 sin_dat: Испа́нии
@@ -22,8 +21,8 @@ plu_dat: Испа́ниям
 plu_acc: Испа́нии
 plu_ins: Испа́ниями
 plu_pre: Испа́ниях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

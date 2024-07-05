@@ -1,15 +1,14 @@
 wordcls: substantive
 name: курица
 name_ac: ку́рица
-publ_id: 110418
 translation:
-   - Huhn
+- Huhn
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ку́рица
 sin_gen: ку́­ри­цы
 sin_dat: ку́­ри­це
@@ -22,8 +21,8 @@ plu_dat: ку́­риц­ам
 plu_acc: ку́­риц
 plu_ins: ку́­ри­ца­ми
 plu_pre: ку́­риц­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

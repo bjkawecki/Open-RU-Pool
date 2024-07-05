@@ -1,15 +1,14 @@
 wordcls: substantive
 name: архитектура
 name_ac: архитекту́ра
-publ_id: 131903
 translation:
-   - Architektur
+- Architektur
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: архитекту́ра
 sin_gen: ар­хи­тек­ту́­ры
 sin_dat: ар­хи­тек­ту́­ре
@@ -22,8 +21,8 @@ plu_dat: ар­хи­тек­ту́­рам
 plu_acc: ар­хи­тек­ту́­ры
 plu_ins: ар­хи­тек­ту́­ра­ми
 plu_pre: ар­хи­тек­ту́­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

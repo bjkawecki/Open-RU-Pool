@@ -1,10 +1,9 @@
 name: научный
 name_ac: нау́чный
-publ_id: 131860
 wordcls: adjective
 translation:
-   - wissenschaftlich
-   - Forschungs-
+- wissenschaftlich
+- Forschungs-
 is_gradable: true
 mas_nom: нау́чный
 mas_gen: на­у́ч­но­го
@@ -36,6 +35,6 @@ sho_neu: на­у́ч­но
 sho_plu: на­у́ч­ны
 compara: на­у́ч­нее
 superla: самый нау́чный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

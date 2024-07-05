@@ -1,15 +1,14 @@
 wordcls: substantive
 name: вечер
 name_ac: ве́чер
-publ_id: 153324
 translation:
-   - Abend
+- Abend
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ве́чер
 sin_gen: ве́­че­ра
 sin_dat: ве́­че­ру
@@ -22,8 +21,8 @@ plu_dat: ве­чер­а́м
 plu_acc: ве­че­ра́
 plu_ins: ве­че­ра́­ми
 plu_pre: ве­чер­а́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

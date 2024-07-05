@@ -1,15 +1,14 @@
 wordcls: substantive
 name: салат
 name_ac: сала́т
-publ_id: 110409
 translation:
-   - Salat
+- Salat
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: сала́т
 sin_gen: са­ла́­та
 sin_dat: са­ла́­ту
@@ -23,7 +22,7 @@ plu_acc: са­ла́­ты
 plu_ins: са­ла́­та­ми
 plu_pre: са­ла́т­ах
 partitive: са­ла́­ту
-locative:
-comment:
-usage:
-etymol:
+locative: null
+comment: null
+usage: null
+etymol: null

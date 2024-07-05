@@ -1,15 +1,14 @@
 wordcls: substantive
 name: яйцо
 name_ac: яйцо́
-publ_id: 110407
 translation:
-   - Ei
+- Ei
 genus: neutral
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: яй­цо́
 sin_gen: яй­ца́
 sin_dat: яй­цу́
@@ -22,8 +21,8 @@ plu_dat: я́й­цам
 plu_acc: я́й­ца
 plu_ins: я́й­ца­ми
 plu_pre: я́й­цах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

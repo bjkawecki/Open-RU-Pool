@@ -1,16 +1,15 @@
 wordcls: substantive
 name: задача
 name_ac: зада́ча
-publ_id: 131828
 translation:
-   - Aufgabe
-   - Zielsetzung
+- Aufgabe
+- Zielsetzung
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: зада́ча
 sin_gen: за­да́­чи
 sin_dat: за­да́­че
@@ -23,8 +22,8 @@ plu_dat: за­да́ч­ам
 plu_acc: за­да́­чи
 plu_ins: за­да́­ча­ми
 plu_pre: за­да́ч­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: киоск
 name_ac: кио́ск
-publ_id: 132420
 translation:
-   - Kiosk
+- Kiosk
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: кио́ск
 sin_gen: ки­о́с­ка
 sin_dat: ки­о́с­ку
@@ -22,8 +21,8 @@ plu_dat: ки­о́с­кам
 plu_acc: ки­о́с­ки
 plu_ins: ки­о́с­ка­ми
 plu_pre: ки­о́с­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

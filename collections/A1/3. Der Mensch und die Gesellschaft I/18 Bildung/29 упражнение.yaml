@@ -1,16 +1,15 @@
 wordcls: substantive
 name: упражнение
 name_ac: упражне́ние
-publ_id: 131829
 translation:
-   - Übung
-   - Übungsaufgabe
+- Übung
+- Übungsaufgabe
 genus: neutral
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: упражне́ние
 sin_gen: уп­ра­жне́­ния
 sin_dat: уп­ра­жне́­нию
@@ -23,8 +22,8 @@ plu_dat: уп­ра­жне́­ни­ям
 plu_acc: уп­ра­жне́­ния
 plu_ins: уп­ра­жне́­ни­ями
 plu_pre: уп­ра­жне́­ни­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

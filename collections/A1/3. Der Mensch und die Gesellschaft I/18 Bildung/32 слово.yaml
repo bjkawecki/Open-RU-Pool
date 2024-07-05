@@ -1,15 +1,14 @@
 wordcls: substantive
 name: слово
 name_ac: сло́во
-publ_id: 131832
 translation:
-   - Wort
+- Wort
 genus: neutral
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: сло́во
 sin_gen: сло́­ва
 sin_dat: сло́­ву
@@ -22,8 +21,8 @@ plu_dat: сло­ва́м
 plu_acc: сло­ва́
 plu_ins: сло­ва́­ми
 plu_pre: сло­ва́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

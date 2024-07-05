@@ -1,29 +1,28 @@
 wordcls: substantive
 name: деньги
 name_ac: де́ньги
-publ_id: 131601
 translation:
-   - Geld
+- Geld
 genus: none
 dec_cls: irregular
 stress: shifting
-is_animate:
-is_sin_tan:
+is_animate: null
+is_sin_tan: null
 is_plu_tan: true
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: де́ньги
 plu_gen: де́­нег
 plu_dat: день­га́м
 plu_acc: де́нь­ги
 plu_ins: день­га́­ми
 plu_pre: день­га́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

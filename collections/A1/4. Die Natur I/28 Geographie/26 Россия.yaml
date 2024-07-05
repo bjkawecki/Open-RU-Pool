@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Россия
 name_ac: Росси́я
-publ_id: 142826
 translation:
-   - Russland
+- Russland
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Росси́я
 sin_gen: Росси́и
 sin_dat: Росси́и
@@ -22,8 +21,8 @@ plu_dat: Росси́ям
 plu_acc: Росси́и
 plu_ins: Росси́ями
 plu_pre: Росси́ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

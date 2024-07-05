@@ -1,15 +1,14 @@
 wordcls: substantive
 name: пятница
 name_ac: пя́тница
-publ_id: 153318
 translation:
-   - Freitag
+- Freitag
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: пя́тница
 sin_gen: пя́т­ни­цы
 sin_dat: пя́т­ни­це
@@ -22,8 +21,8 @@ plu_dat: пя́т­ни­цам
 plu_acc: пя́т­ни­цы
 plu_ins: пя́т­ни­ца­ми
 plu_pre: пя́т­ни­цах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

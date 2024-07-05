@@ -1,15 +1,14 @@
 wordcls: substantive
 name: уж­ин
 name_ac: у́ж­ин
-publ_id: 110403
 translation:
-   - Abendessen
+- Abendessen
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: у́ж­ин
 sin_gen: у́жи­на
 sin_dat: у́жи­ну
@@ -22,8 +21,8 @@ plu_dat: у́жи­нам
 plu_acc: у́жи­ны
 plu_ins: у́жи­на­ми
 plu_pre: у́жи­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

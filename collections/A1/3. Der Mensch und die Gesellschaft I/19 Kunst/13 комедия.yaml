@@ -1,15 +1,14 @@
 wordcls: substantive
 name: комедия
 name_ac: коме́дия
-publ_id: 131913
 translation:
-   - Komödie
+- Komödie
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: коме́дия
 sin_gen: ко­ме́­дии
 sin_dat: ко­ме́­дии
@@ -22,8 +21,8 @@ plu_dat: ко­ме́­ди­ям
 plu_acc: ко­ме́­дии
 plu_ins: ко­ме́­ди­ями
 plu_pre: ко­ме́­ди­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

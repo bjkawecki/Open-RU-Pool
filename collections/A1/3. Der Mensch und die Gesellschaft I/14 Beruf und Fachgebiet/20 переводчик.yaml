@@ -1,15 +1,14 @@
 wordcls: substantive
 name: переводчик
 name_ac: перево́дчик
-publ_id: 131420
 translation:
-   - Übersetzer
+- Übersetzer
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: перево́дчик
 sin_gen: пе­рев­о́д­чи­ка
 sin_dat: пе­рев­о́д­чи­ку
@@ -22,8 +21,8 @@ plu_dat: пе­рев­о́д­чи­кам
 plu_acc: пе­рев­о́д­чи­ков
 plu_ins: пе­рев­о́д­чи­ка­ми
 plu_pre: пе­рев­о́д­чи­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

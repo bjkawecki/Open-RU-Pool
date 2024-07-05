@@ -1,10 +1,9 @@
 name: народный
 name_ac: наро́дный
-publ_id: 131107
 wordcls: adjective
 translation:
-   - volkstümlich
-   - Volks-
+- volkstümlich
+- Volks-
 is_gradable: true
 mas_nom: наро́дный
 mas_gen: на­ро́д­но­го
@@ -36,6 +35,6 @@ sho_neu: на­ро́д­но
 sho_plu: на­ро́д­ны
 compara: на­ро́д­нее
 superla: самый наро́дный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

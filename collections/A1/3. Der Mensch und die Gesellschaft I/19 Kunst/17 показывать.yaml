@@ -1,30 +1,29 @@
 name: показывать
 name_ac: пока́зывать
-publ_id: 131917
 wordcls: verb
 translation:
-   - zeigen
+- zeigen
 aspect: imperfective
 partner: показа́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: по­ка́­зы­ваю
 pre_sin_2: по­ка́­зы­ва­ешь
 pre_sin_3: по­ка́­зы­ва­ет
 pre_plu_1: по­ка́­зы­ва­ем
 pre_plu_2: по­ка́­зы­ва­ете
 pre_plu_3: по­ка́­зы­ва­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: по­ка́­зы­вал
 pas_fem: по­ка́­зы­ва­ла
 pas_neu: по­ка́­зы­ва­ло
@@ -34,9 +33,9 @@ par_pas_act: по­ка́­зы­вав­ший
 par_pre_pas: по­ка́­зы­вая
 par_pas_pas: по­ка́­зы­вав­ши, по­ка́­зы­вав
 par_adv_pre: по­ка́­зы­ва­емый
-par_adv_pas:
+par_adv_pas: null
 imp_sin: по­ка́­зы­вай
 imp_plu: по­ка́­зы­вай­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

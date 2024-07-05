@@ -1,15 +1,14 @@
 wordcls: substantive
 name: француз
 name_ac: францу́з
-publ_id: 131225
 translation:
-   - Franzose
+- Franzose
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: францу́з
 sin_gen: фран­цу́­за
 sin_dat: фран­цу́­зу
@@ -22,8 +21,8 @@ plu_dat: фран­цу́­зам
 plu_acc: фран­цу́­зов
 plu_ins: фран­цу́­за­ми
 plu_pre: фран­цу́­зах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

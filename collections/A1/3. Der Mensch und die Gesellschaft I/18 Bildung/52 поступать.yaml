@@ -1,31 +1,30 @@
 name: поступать
 name_ac: поступа́ть
-publ_id: 131852
 wordcls: verb
 translation:
-   - machen
-   - handeln
+- machen
+- handeln
 aspect: imperfective
 partner: поступи́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: пос­ту­па́ю
 pre_sin_2: пос­ту­па́­ешь
 pre_sin_3: пос­ту­па́­ет
 pre_plu_1: пос­ту­па́­ем
 pre_plu_2: пос­ту­па́­ете
 pre_plu_3: пос­ту­па́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: пос­ту­па́л
 pas_fem: пос­ту­па́­ла
 pas_neu: пос­ту­па́­ло
@@ -34,10 +33,10 @@ par_pre_act: пос­ту­па́­ющий
 par_pas_act: пос­ту­па́в­ший
 par_pre_pas: пос­ту­па́я
 par_pas_pas: пос­ту­па́в­ши, пос­ту­па́в
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: пос­ту­па́й
 imp_plu: пос­ту­па́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

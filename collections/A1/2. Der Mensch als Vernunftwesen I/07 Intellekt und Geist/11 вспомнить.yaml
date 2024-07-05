@@ -1,24 +1,23 @@
 name: вспомнить
 name_ac: вспо́мнить
-publ_id: 120711
 wordcls: verb
 translation:
-   - sich erinnern
+- sich erinnern
 aspect: perfective
 partner: вспомина́ть
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: accusative
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: вспо́м­ню
 fut_sin_2: вспо́м­нишь
 fut_sin_3: вспо́м­нит
@@ -29,14 +28,16 @@ pas_mas: вспо́м­нил
 pas_fem: вспо́м­ни­ла
 pas_neu: вспо́м­ни­ло
 pas_plu: вспо́м­ни­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: вспо́м­ни­вший
-par_pre_pas:
-par_pas_pas: "вспо́м­ни­вши,\nвспо́м­нив"
-par_adv_pre:
+par_pre_pas: null
+par_pas_pas: 'вспо́м­ни­вши,
+
+  вспо́м­нив'
+par_adv_pre: null
 par_adv_pas: вспо́м­нен­ный
 imp_sin: вспо́м­ни
 imp_plu: вспо́м­ни­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

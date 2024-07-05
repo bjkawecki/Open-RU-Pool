@@ -1,15 +1,14 @@
 wordcls: substantive
 name: окно
 name_ac: окно́
-publ_id: 110513
 translation:
-   - Fenster
+- Fenster
 genus: neutral
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: окно́
 sin_gen: ок­на́
 sin_dat: ок­ну́
@@ -22,8 +21,8 @@ plu_dat: о́к­нам
 plu_acc: о́к­на
 plu_ins: о́к­на­ми
 plu_pre: о́к­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

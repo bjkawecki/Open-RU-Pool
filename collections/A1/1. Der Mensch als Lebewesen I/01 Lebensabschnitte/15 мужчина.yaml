@@ -1,15 +1,14 @@
 wordcls: substantive
 name: мужчина
 name_ac: мужчи́на
-publ_id: 110115
 translation:
-   - Mann
+- Mann
 genus: masculine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: мужчи́на
 sin_gen: муж­чи́­ны
 sin_dat: муж­чи́­не
@@ -22,8 +21,8 @@ plu_dat: муж­чи́­нам
 plu_acc: муж­чи́н
 plu_ins: муж­чи́­на­ми
 plu_pre: муж­чи́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

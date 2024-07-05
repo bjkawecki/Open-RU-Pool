@@ -1,10 +1,9 @@
 name: испанский
 name_ac: испа́нский
-publ_id: 131111
 wordcls: adjective
 translation:
-   - spanisch
-is_gradable:
+- spanisch
+is_gradable: null
 mas_nom: испа́нский
 mas_gen: ис­па́нс­ко­го
 mas_dat: ис­па́нс­ко­му
@@ -29,12 +28,12 @@ plu_dat: ис­па́нс­ким
 plu_acc: ис­па́нс­кие
 plu_ins: ис­па́нс­ки­ми
 plu_pre: ис­па́нс­ких
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

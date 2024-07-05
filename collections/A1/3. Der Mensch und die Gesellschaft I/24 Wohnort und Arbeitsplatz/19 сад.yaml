@@ -1,15 +1,14 @@
 wordcls: substantive
 name: сад
 name_ac: сад
-publ_id: 132419
 translation:
-   - Garten
+- Garten
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: сад
 sin_gen: са́­да
 sin_dat: са́­ду
@@ -22,8 +21,8 @@ plu_dat: са­да́м
 plu_acc: са­ды́
 plu_ins: са­да́­ми
 plu_pre: са­да́х
-partitive:
+partitive: null
 locative: в са­ду́
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

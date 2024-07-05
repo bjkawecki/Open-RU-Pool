@@ -1,15 +1,14 @@
 wordcls: substantive
 name: соль
 name_ac: соль
-publ_id: 110412
 translation:
-   - Salz
+- Salz
 genus: feminine
 dec_cls: '3'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: соль
 sin_gen: со́ли
 sin_dat: со́ли
@@ -22,8 +21,8 @@ plu_dat: соля́м
 plu_acc: со́ли
 plu_ins: соля́ми
 plu_pre: соля́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

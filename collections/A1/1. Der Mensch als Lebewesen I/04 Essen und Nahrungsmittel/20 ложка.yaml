@@ -1,15 +1,14 @@
 wordcls: substantive
 name: ложка
 name_ac: ло́жка
-publ_id: 110420
 translation:
-   - Löffel
+- Löffel
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ло́жка
 sin_gen: ло́ж­ки
 sin_dat: ло́ж­ке
@@ -22,8 +21,8 @@ plu_dat: ло́ж­кам
 plu_acc: ло́ж­ки
 plu_ins: ло́ж­ка­ми
 plu_pre: ло́ж­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,10 +1,9 @@
 name: российский
 name_ac: росси́йский
-publ_id: 131114
 wordcls: adjective
 translation:
-   - russländisch
-is_gradable:
+- russländisch
+is_gradable: null
 mas_nom: российский
 mas_gen: рос­си́й­ско­го
 mas_dat: рос­си́й­ско­му
@@ -29,12 +28,12 @@ plu_dat: рос­си́й­ским
 plu_acc: рос­си́й­ские
 plu_ins: рос­си́й­ски­ми
 plu_pre: рос­си́й­ских
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
-compara:
-superla:
-comment:
-usage:
-etymol:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+compara: null
+superla: null
+comment: null
+usage: null
+etymol: null

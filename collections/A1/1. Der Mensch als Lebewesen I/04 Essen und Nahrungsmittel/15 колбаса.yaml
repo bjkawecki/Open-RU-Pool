@@ -1,15 +1,14 @@
 wordcls: substantive
 name: колбаса
 name_ac: колбаса́
-publ_id: 110415
 translation:
-   - Wurst
+- Wurst
 genus: feminine
 dec_cls: '1'
 stress: suffix
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: колбаса́
 sin_gen: кол­ба­сы́
 sin_dat: кол­ба­се́
@@ -22,8 +21,8 @@ plu_dat: кол­ба́­сам
 plu_acc: кол­ба́­сы
 plu_ins: кол­ба́­са­ми
 plu_pre: кол­ба́­сах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

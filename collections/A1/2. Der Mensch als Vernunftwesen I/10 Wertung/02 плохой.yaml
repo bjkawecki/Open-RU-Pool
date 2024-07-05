@@ -1,9 +1,8 @@
 name: плохой
 name_ac: плохой
-publ_id: 121002
 wordcls: adjective
 translation:
-   - schlecht
+- schlecht
 is_gradable: true
 mas_nom: плохой
 mas_gen: пло­хо́­го
@@ -35,6 +34,6 @@ sho_neu: пло́­хо
 sho_plu: пло́­хи
 compara: ху́­же
 superla: самый плохой
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: шкаф
 name_ac: шкаф
-publ_id: 110518
 translation:
-   - Schrank
+- Schrank
 genus: masculine
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: шкаф
 sin_gen: шка́­фа
 sin_dat: шка́­фу
@@ -22,8 +21,8 @@ plu_dat: шка­фа́м
 plu_acc: шка­фы́
 plu_ins: шка­фа́­ми
 plu_pre: шка­фа́х
-partitive:
+partitive: null
 locative: в/на шка­фу́
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

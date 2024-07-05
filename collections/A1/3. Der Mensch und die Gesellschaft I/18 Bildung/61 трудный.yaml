@@ -1,10 +1,9 @@
 name: трудный
 name_ac: тру́дный
-publ_id: 131861
 wordcls: adjective
 translation:
-   - schwierig
-   - anstrengend
+- schwierig
+- anstrengend
 is_gradable: true
 mas_nom: тру́дный
 mas_gen: тру́д­но­го
@@ -36,6 +35,6 @@ sho_neu: тру́д­но
 sho_plu: тру́д­ны
 compara: труд­не́е
 superla: самый тру́дный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: автор
 name_ac: а́втор
-publ_id: 131510
 translation:
-   - Autor
+- Autor
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: а́втор
 sin_gen: а́в­то­ра
 sin_dat: а́в­то­ру
@@ -22,8 +21,8 @@ plu_dat: а́в­то­рам
 plu_acc: а́в­то­ров
 plu_ins: а́в­то­ра­ми
 plu_pre: а́в­то­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

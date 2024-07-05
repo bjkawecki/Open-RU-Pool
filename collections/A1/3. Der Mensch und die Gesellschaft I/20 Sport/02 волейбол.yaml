@@ -1,15 +1,14 @@
 wordcls: substantive
 name: волейбол
 name_ac: волейбо́л
-publ_id: 132002
 translation:
-   - Volleyball
+- Volleyball
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: волейбо́л
 sin_gen: во­лей­бо́­ла
 sin_dat: во­лей­бо́­лу
@@ -22,8 +21,8 @@ plu_dat: во­лей­бо́­лам
 plu_acc: во­лей­бо́­лы
 plu_ins: во­лей­бо́­ла­ми
 plu_pre: во­лей­бо́­лах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

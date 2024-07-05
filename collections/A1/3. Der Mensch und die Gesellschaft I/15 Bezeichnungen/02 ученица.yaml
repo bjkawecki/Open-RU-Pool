@@ -1,15 +1,14 @@
 wordcls: substantive
 name: ученица
 name_ac: учени́ца
-publ_id: 131502
 translation:
-   - Schülerin
+- Schülerin
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: учени́ца
 sin_gen: уче­ни́­цы
 sin_dat: уче­ни́­це
@@ -22,8 +21,8 @@ plu_dat: уче­ни́ц­ам
 plu_acc: уче­ни́ц
 plu_ins: уче­ни́­ца­ми
 plu_pre: уче­ни́ц­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

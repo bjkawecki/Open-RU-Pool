@@ -1,16 +1,15 @@
 wordcls: substantive
 name: картина
 name_ac: карти́на
-publ_id: 110521
 translation:
-   - Bild
-   - Gemälde
+- Bild
+- Gemälde
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: карти́на
 sin_gen: кар­ти́­ны
 sin_dat: кар­ти́­не
@@ -23,8 +22,8 @@ plu_dat: кар­ти́­нам
 plu_acc: кар­ти́­ны
 plu_ins: кар­ти́­на­ми
 plu_pre: кар­ти́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,16 +1,15 @@
 wordcls: substantive
 name: магазин
 name_ac: магази́н
-publ_id: 132421
 translation:
-   - Geschäft
-   - Laden
+- Geschäft
+- Laden
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: магази́н
 sin_gen: ма­га­зи́­на
 sin_dat: ма­га­зи́­ну
@@ -23,8 +22,8 @@ plu_dat: ма­га­зи́­нам
 plu_acc: ма­га­зи́­ны
 plu_ins: ма­га­зи́­на­ми
 plu_pre: ма­га­зи́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

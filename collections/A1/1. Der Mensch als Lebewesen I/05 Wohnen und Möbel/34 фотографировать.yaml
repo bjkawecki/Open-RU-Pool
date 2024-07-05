@@ -1,30 +1,29 @@
 name: фотографировать
 name_ac: фотографи́ровать
-publ_id: 110534
 wordcls: verb
 translation:
-   - photographieren
+- photographieren
 aspect: imperfective
 partner: сфотографи́ровать
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: фо­тог­ра­фи́­рую
 pre_sin_2: фо­тог­ра­фи́­ру­ешь
 pre_sin_3: фо­тог­ра­фи́­ру­ет
 pre_plu_1: фо­тог­ра­фи́­ру­ем
 pre_plu_2: фо­тог­ра­фи́­ру­ете
 pre_plu_3: фо­тог­ра­фи́­ру­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: фо­тог­ра­фи́­ро­вал
 pas_fem: фо­тог­ра­фи́­ро­ва­ла
 pas_neu: фо­тог­ра­фи́­ро­ва­ло
@@ -37,6 +36,6 @@ par_adv_pre: фо­тог­ра­фи́­ру­емый
 par_adv_pas: фо­тог­ра­фи́­ро­ван­ный
 imp_sin: фо­тог­ра­фи́­руй
 imp_plu: фо­тог­ра­фи́­руй­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

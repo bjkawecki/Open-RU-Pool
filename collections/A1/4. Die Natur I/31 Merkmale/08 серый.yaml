@@ -1,9 +1,8 @@
 name: серый
 name_ac: се́рый
-publ_id: 143108
 wordcls: adjective
 translation:
-   - grau
+- grau
 is_gradable: true
 mas_nom: се́рый
 mas_gen: се́­ро­го
@@ -35,6 +34,6 @@ sho_neu: се́­ро
 sho_plu: се́­ры
 compara: се­ре́е
 superla: самый се́рый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

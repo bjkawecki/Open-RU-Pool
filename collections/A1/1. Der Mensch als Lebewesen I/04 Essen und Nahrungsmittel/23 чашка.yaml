@@ -1,15 +1,14 @@
 wordcls: substantive
 name: чашка
 name_ac: ча́шка
-publ_id: 110423
 translation:
-   - Tasse
+- Tasse
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: ча́шка
 sin_gen: ча́ш­ки
 sin_dat: ча́ш­ке
@@ -22,8 +21,8 @@ plu_dat: ча́ш­кам
 plu_acc: ча́ш­ки
 plu_ins: ча́ш­ка­ми
 plu_pre: ча́ш­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

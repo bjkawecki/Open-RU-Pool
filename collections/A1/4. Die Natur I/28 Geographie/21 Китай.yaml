@@ -1,15 +1,14 @@
 wordcls: substantive
 name: Китай
 name_ac: Кита́й
-publ_id: 142821
 translation:
-   - China
+- China
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: Кита́й
 sin_gen: Кита́я
 sin_dat: Кита́ю
@@ -22,8 +21,8 @@ plu_dat: Кита́ям
 plu_acc: Кита́и
 plu_ins: Кита́ями
 plu_pre: Кита́ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

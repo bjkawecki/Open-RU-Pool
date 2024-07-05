@@ -1,25 +1,24 @@
 name: подумать
 name_ac: поду́мать
-publ_id: 120707
 wordcls: verb
 translation:
-   - denken
-   - nachdenken
+- denken
+- nachdenken
 aspect: perfective
 partner: ду́мать
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: по­ду́­маю
 fut_sin_2: по­ду́­ма­ешь
 fut_sin_3: по­ду́­ма­ет
@@ -30,14 +29,14 @@ pas_mas: по­ду́м­ал
 pas_fem: по­ду́­ма­ла
 pas_neu: по­ду́­ма­ло
 pas_plu: по­ду́­ма­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: по­ду́м­ав­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: по­ду́м­ав­ши, по­ду́м­ав
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: по­ду́­май
 imp_plu: по­ду́­май­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,11 +1,10 @@
 name: с
 name_ac: с
-publ_id: 153213
 wordcls: preposition
 translation:
-   - mit
+- mit
 prep_type: modal
 prep_case: instrumental
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

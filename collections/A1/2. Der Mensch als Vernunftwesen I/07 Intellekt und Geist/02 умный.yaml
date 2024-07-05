@@ -1,11 +1,10 @@
 name: умный
 name_ac: у́мный
-publ_id: 120702
 wordcls: adjective
 translation:
-   - schlau
-   - intelligent
-   - geistreich
+- schlau
+- intelligent
+- geistreich
 is_gradable: true
 mas_nom: у́мный
 mas_gen: у́м­но­го
@@ -37,6 +36,6 @@ sho_neu: ум­но́
 sho_plu: ум­ны́
 compara: ум­не́е
 superla: самый у́мный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

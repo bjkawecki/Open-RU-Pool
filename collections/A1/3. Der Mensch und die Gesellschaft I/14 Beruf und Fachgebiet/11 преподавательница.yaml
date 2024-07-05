@@ -1,15 +1,14 @@
 wordcls: substantive
 name: преподавательница
 name_ac: преподава́тельница
-publ_id: 131411
 translation:
-   - Lehrerin
+- Lehrerin
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: преподава́тельница
 sin_gen: пре­по­да­ва́т­ель­ни­цы
 sin_dat: пре­по­да­ва́т­ель­ни­це
@@ -22,8 +21,8 @@ plu_dat: пре­по­да­ва́т­ель­ни­цам
 plu_acc: пре­по­да­ва́т­ель­ниц
 plu_ins: пре­по­да­ва́т­ель­ни­ца­ми
 plu_pre: пре­по­да­ва́т­ель­ни­цах
-partitive:
-locative:
+partitive: null
+locative: null
 comment: allgemein
-usage:
-etymol:
+usage: null
+etymol: null

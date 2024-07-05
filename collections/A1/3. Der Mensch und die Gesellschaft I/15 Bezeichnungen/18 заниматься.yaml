@@ -1,17 +1,16 @@
 name: заниматься
 name_ac: занима́ться
-publ_id: 131518
 wordcls: verb
 translation:
-   - sich mit etwas beschäftigen
+- sich mit etwas beschäftigen
 aspect: imperfective
 partner: заня́ться
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: instrumental
-verb_prepo:
+verb_prepo: null
 is_reflexive: true
 pre_sin_1: за­ни­ма́­юсь
 pre_sin_2: за­ни­ма́­ешь­ся
@@ -19,12 +18,12 @@ pre_sin_3: за­ни­ма́­ет­ся
 pre_plu_1: за­ни­ма́­ем­ся
 pre_plu_2: за­ни­ма́­ет­есь
 pre_plu_3: за­ни­ма́­ют­ся
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: за­ним­а́л­ся
 pas_fem: за­ни­ма́­лась
 pas_neu: за­ни­ма́­лось
@@ -33,10 +32,10 @@ par_pre_act: за­ни­ма́­ющий­ся
 par_pas_act: за­ним­а́в­ший­ся
 par_pre_pas: за­ни­ма́­ясь
 par_pas_pas: за­ним­а́в­шись
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: за­ни­ма́й­ся
 imp_plu: за­ни­ма́й­тесь
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

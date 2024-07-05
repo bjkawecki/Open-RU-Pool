@@ -1,15 +1,14 @@
 wordcls: substantive
 name: журнал
 name_ac: журна́л
-publ_id: 132705
 translation:
-   - Zeitschrift
+- Zeitschrift
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: журна́л
 sin_gen: жур­на́­ла
 sin_dat: жур­на́­лу
@@ -22,8 +21,8 @@ plu_dat: жур­на́­лам
 plu_acc: жур­на́­лы
 plu_ins: жур­на́­ла­ми
 plu_pre: жур­на́­лах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

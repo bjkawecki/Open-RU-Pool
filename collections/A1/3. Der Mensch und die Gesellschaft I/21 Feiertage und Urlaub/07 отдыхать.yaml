@@ -1,32 +1,31 @@
 name: отдыхать
 name_ac: отдыха́ть
-publ_id: 132107
 wordcls: verb
 translation:
-   - sich rausruhen
-   - sich entspannen
-   - chillen
+- sich rausruhen
+- sich entspannen
+- chillen
 aspect: imperfective
 partner: отдохну́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: от­ды­ха́ю
 pre_sin_2: от­ды­ха́­ешь
 pre_sin_3: от­ды­ха́­ет
 pre_plu_1: от­ды­ха́­ем
 pre_plu_2: от­ды­ха́­ете
 pre_plu_3: от­ды­ха́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: от­ды­ха́л
 pas_fem: от­ды­ха́­ла
 pas_neu: от­ды­ха́­ло
@@ -35,10 +34,10 @@ par_pre_act: от­ды­ха́­ющий
 par_pas_act: от­ды­ха́в­ший
 par_pre_pas: от­ды­ха́я
 par_pas_pas: от­ды­ха́в­ши, от­ды­ха́в
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: null
+par_adv_pas: null
 imp_sin: от­ды­ха́й
 imp_plu: от­ды­ха́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

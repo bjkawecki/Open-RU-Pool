@@ -1,9 +1,8 @@
 name: здоровый
 name_ac: здоро́вый
-publ_id: 110308
 wordcls: adjective
 translation:
-   - gesund
+- gesund
 is_gradable: true
 mas_nom: здоро́вый
 mas_gen: здорового
@@ -35,6 +34,6 @@ sho_neu: здо­ро́­во
 sho_plu: здо­ро́­вы
 compara: здо­ро­ве́е
 superla: самый здоро́вый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

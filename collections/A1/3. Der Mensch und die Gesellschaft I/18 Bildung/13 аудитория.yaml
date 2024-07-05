@@ -1,16 +1,15 @@
 wordcls: substantive
 name: аудитория
 name_ac: аудито́рия
-publ_id: 131813
 translation:
-   - Hörsaal
-   - Auditorium
+- Hörsaal
+- Auditorium
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: аудито́рия
 sin_gen: ауди­то́­рии
 sin_dat: ауди­то́­рии
@@ -23,8 +22,8 @@ plu_dat: ауди­то́­ри­ям
 plu_acc: ауди­то́­рии
 plu_ins: ауди­то́­ри­ями
 plu_pre: ауди­то́­ри­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

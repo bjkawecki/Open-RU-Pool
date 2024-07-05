@@ -1,15 +1,14 @@
 wordcls: substantive
 name: дверь
 name_ac: дверь
-publ_id: 110507
 translation:
-   - Tür
+- Tür
 genus: feminine
 dec_cls: '3'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: дверь
 sin_gen: две́­ри
 sin_dat: две́­ри
@@ -22,8 +21,8 @@ plu_dat: две­ря́м
 plu_acc: две́­ри
 plu_ins: две­ря́­ми, дверь­ми́
 plu_pre: две­ря́х
-partitive:
+partitive: null
 locative: в/на две­ри́
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

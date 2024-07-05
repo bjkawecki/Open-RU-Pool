@@ -1,15 +1,14 @@
 wordcls: substantive
 name: магнитофон
 name_ac: магнитофо́н
-publ_id: 110540
 translation:
-   - Kassettenrekorder
+- Kassettenrekorder
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: магнитофо́н
 sin_gen: маг­ни­то­фо́­на
 sin_dat: маг­ни­то­фо́­ну
@@ -22,8 +21,8 @@ plu_dat: маг­ни­то­фо́­нам
 plu_acc: маг­ни­то­фо́­ны
 plu_ins: маг­ни­то­фо́­на­ми
 plu_pre: маг­ни­то­фо́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

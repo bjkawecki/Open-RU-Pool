@@ -1,9 +1,8 @@
 name: время суток
 name_ac: вре́мя су́ток
-publ_id: 153321
 wordcls: compound
 translation:
-   - Tageszeit
-comment:
-usage:
-etymol:
+- Tageszeit
+comment: null
+usage: null
+etymol: null

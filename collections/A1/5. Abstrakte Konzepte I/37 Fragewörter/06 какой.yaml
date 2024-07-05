@@ -1,9 +1,8 @@
 name: какой
 name_ac: како́й
-publ_id: 153806
 wordcls: pronoun
 translation:
-   - welcher
+- welcher
 pro_type: interrogative
 dec_type: adjective
 mas_nom: ка­ко́й
@@ -24,18 +23,18 @@ neu_dat: ка­ко́­му
 neu_acc: ка­ко́е
 neu_ins: ка­ки́м
 neu_pre: ка­ко́м
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: ка­ки́е
 plu_gen: ка­ки́х
 plu_dat: ка­ки́м
 plu_acc: ка­ки́е
 plu_ins: ка­ки́­ми
 plu_pre: ка­ки́х
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

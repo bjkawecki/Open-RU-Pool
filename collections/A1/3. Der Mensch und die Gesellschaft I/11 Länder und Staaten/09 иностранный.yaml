@@ -1,11 +1,10 @@
 name: иностранный
 name_ac: иностра́нный
-publ_id: 131109
 wordcls: adjective
 translation:
-   - ausländisch
-   - fremd
-   - Fremd-
+- ausländisch
+- fremd
+- Fremd-
 is_gradable: true
 mas_nom: иностра́нный
 mas_gen: ин­ост­ра́н­но­го
@@ -37,6 +36,6 @@ sho_neu: ин­ост­ра́н­но
 sho_plu: ин­ост­ра́н­ны
 compara: ин­ост­ра́н­нее
 superla: самый иностра́нный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

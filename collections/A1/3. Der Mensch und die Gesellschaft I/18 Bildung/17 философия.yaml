@@ -1,15 +1,14 @@
 wordcls: substantive
 name: философия
 name_ac: филосо́фия
-publ_id: 131817
 translation:
-   - Philosophie
+- Philosophie
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: филосо́фия
 sin_gen: фи­ло­со́­фии
 sin_dat: фи­ло­со́­фии
@@ -22,8 +21,8 @@ plu_dat: фи­ло­со́­фи­ям
 plu_acc: фи­ло­со́­фии
 plu_ins: фи­ло­со́­фи­ями
 plu_pre: фи­ло­со́­фи­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

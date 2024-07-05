@@ -1,16 +1,15 @@
 wordcls: substantive
 name: одежда
 name_ac: оде́жда
-publ_id: 110601
 translation:
-   - Kleidung
-   - Kleider
+- Kleidung
+- Kleider
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: оде́жда
 sin_gen: од­е́ж­ды
 sin_dat: од­е́ж­де
@@ -23,8 +22,8 @@ plu_dat: од­е́ж­дам
 plu_acc: од­е́ж­ды
 plu_ins: од­е́ж­да­ми
 plu_pre: од­е́ж­дах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

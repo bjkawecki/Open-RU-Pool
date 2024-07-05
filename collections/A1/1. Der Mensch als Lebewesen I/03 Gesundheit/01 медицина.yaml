@@ -1,15 +1,14 @@
 wordcls: substantive
 name: медицина
 name_ac: медици́на
-publ_id: 110301
 translation:
-   - Medizin
+- Medizin
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: медици́на
 sin_gen: ме­ди­ци́­ны
 sin_dat: ме­ди­ци́­не
@@ -22,8 +21,8 @@ plu_dat: ме­ди­ци́­нам
 plu_acc: ме­ди­ци́­ны
 plu_ins: ме­ди­ци́­на­ми
 plu_pre: ме­ди­ци́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: фильм
 name_ac: фильм
-publ_id: 131912
 translation:
-   - Film
+- Film
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: фильм
 sin_gen: фи́ль­ма
 sin_dat: фи́ль­му
@@ -22,8 +21,8 @@ plu_dat: фи́ль­мам
 plu_acc: фи́ль­мы
 plu_ins: фи́ль­ма­ми
 plu_pre: фи́ль­мах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

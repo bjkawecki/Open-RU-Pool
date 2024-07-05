@@ -1,15 +1,14 @@
 wordcls: substantive
 name: время
 name_ac: вре́мя
-publ_id: 132103
 translation:
-   - Zeit
+- Zeit
 genus: neutral
 dec_cls: none
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: вре́мя
 sin_gen: вре́­ме­ни
 sin_dat: вре́­ме­ни
@@ -22,8 +21,8 @@ plu_dat: вре­мен­а́м
 plu_acc: вре­ме­на́
 plu_ins: вре­ме­на́­ми
 plu_pre: вре­мен­а́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

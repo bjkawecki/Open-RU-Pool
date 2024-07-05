@@ -1,29 +1,28 @@
 wordcls: substantive
 name: Аргентина
 name_ac: Аргенти́на
-publ_id: 142814
 translation:
-   - Argentinien
+- Argentinien
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
+is_animate: null
 is_sin_tan: true
-is_plu_tan:
+is_plu_tan: null
 sin_nom: Аргенти́на
 sin_gen: Аргенти́ны
 sin_dat: Аргенти́не
 sin_acc: Аргенти́ну
 sin_ins: Аргенти́ной
 sin_pre: Аргенти́не
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
-partitive:
-locative:
-comment:
-usage:
-etymol:
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

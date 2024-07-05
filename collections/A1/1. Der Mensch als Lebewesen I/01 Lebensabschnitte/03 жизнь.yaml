@@ -1,15 +1,14 @@
 wordcls: substantive
 name: жизнь
 name_ac: жизнь
-publ_id: 110103
 translation:
-   - Leben
+- Leben
 genus: feminine
 dec_cls: '3'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: жизнь
 sin_gen: жи́з­ни
 sin_dat: жи́з­ни
@@ -22,8 +21,8 @@ plu_dat: жи́з­ням
 plu_acc: жи́з­ни
 plu_ins: жи́з­ня­ми
 plu_pre: жи́з­нях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

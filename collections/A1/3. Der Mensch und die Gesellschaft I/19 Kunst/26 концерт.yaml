@@ -1,15 +1,14 @@
 wordcls: substantive
 name: концерт
 name_ac: конце́рт
-publ_id: 131926
 translation:
-   - Konzert
+- Konzert
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: конце́рт
 sin_gen: кон­це́­рта
 sin_dat: кон­це́­рту
@@ -22,8 +21,8 @@ plu_dat: кон­це́­ртам
 plu_acc: кон­це́­рты
 plu_ins: кон­це́­рта­ми
 plu_pre: кон­це́­ртах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

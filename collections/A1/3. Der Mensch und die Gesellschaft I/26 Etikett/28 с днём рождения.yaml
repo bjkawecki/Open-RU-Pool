@@ -1,10 +1,9 @@
 name: с днём рождения
 name_ac: с днём рожде́ния
-publ_id: 132628
 wordcls: phrase
 translation:
-   - Glückwunsch zum Geburtstag!
-metaphrase:
-comment:
-usage:
-etymol:
+- Glückwunsch zum Geburtstag!
+metaphrase: null
+comment: null
+usage: null
+etymol: null

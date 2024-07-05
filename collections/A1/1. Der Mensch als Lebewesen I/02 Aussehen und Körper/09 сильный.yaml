@@ -1,9 +1,8 @@
 name: сильный
 name_ac: си́льный
-publ_id: 110209
 wordcls: adjective
 translation:
-   - stark
+- stark
 is_gradable: true
 mas_nom: си́льный
 mas_gen: си́ль­но­го
@@ -35,6 +34,6 @@ sho_neu: си́ль­но
 sho_plu: силь­ны́
 compara: силь­не́е
 superla: самый си́льный
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

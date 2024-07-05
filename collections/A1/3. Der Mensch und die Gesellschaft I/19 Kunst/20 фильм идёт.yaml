@@ -1,10 +1,9 @@
 name: фильм идёт
 name_ac: фильм идёт
-publ_id: 131920
 wordcls: phrase
 translation:
-   - der Film läuft
-metaphrase:
-comment:
-usage:
-etymol:
+- der Film läuft
+metaphrase: null
+comment: null
+usage: null
+etymol: null

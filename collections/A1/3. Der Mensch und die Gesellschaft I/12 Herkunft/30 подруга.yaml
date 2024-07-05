@@ -1,15 +1,14 @@
 wordcls: substantive
 name: подруга
 name_ac: подру́га
-publ_id: 131230
 translation:
-   - Freundin
+- Freundin
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: подру́га
 sin_gen: под­ру́­ги
 sin_dat: под­ру́­ге
@@ -22,8 +21,8 @@ plu_dat: под­ру́­гам
 plu_acc: под­ру́г
 plu_ins: под­ру́­га­ми
 plu_pre: под­ру́­гах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,15 +1,14 @@
 wordcls: substantive
 name: спортсмен
 name_ac: спортсме́н
-publ_id: 131513
 translation:
-   - Sportler
+- Sportler
 genus: masculine
 dec_cls: '2'
 stress: suffix
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: спортсме́н
 sin_gen: спорт­сме́­на
 sin_dat: спорт­сме́­ну
@@ -22,8 +21,8 @@ plu_dat: спорт­сме́­нам
 plu_acc: спорт­сме́­нов
 plu_ins: спорт­сме́­на­ми
 plu_pre: спорт­сме́­нах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

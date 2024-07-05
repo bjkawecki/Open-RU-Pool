@@ -1,24 +1,23 @@
 name: написать
 name_ac: написа́ть
-publ_id: 131859
 wordcls: verb
 translation:
-   - schreiben
+- schreiben
 aspect: perfective
 partner: писа́ть
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: на­пи­шу́
 fut_sin_2: на­пи́ш­ешь
 fut_sin_3: на­пи́ш­ет
@@ -29,14 +28,14 @@ pas_mas: на­пис­а́л
 pas_fem: на­пи­са́­ла
 pas_neu: на­пи­са́­ло
 pas_plu: на­пи­са́­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: на­пис­а́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: на­пис­а́в­ши, на­пис­а́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: на­пи́с­ан­ный
 imp_sin: на­пи­ши́
 imp_plu: на­пи­ши́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,42 +1,41 @@
 name: пить
 name_ac: пить
-publ_id: 110437
 wordcls: verb
 translation:
-   - trinken
+- trinken
 aspect: imperfective
 partner: вы́пить
 con_cls: e
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: пью
 pre_sin_2: пь­ёшь
 pre_sin_3: пь­ёт
 pre_plu_1: пь­ём
 pre_plu_2: пь­ёте
 pre_plu_3: пь­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: пил
 pas_fem: пи­ла́
 pas_neu: пи́­ло
 pas_plu: пи́­ли
 par_pre_act: пь­ю́щий
 par_pas_act: пи́в­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: пи́в­ши, пи́в
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: пи́­тый
 imp_sin: пей
 imp_plu: пе́й­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

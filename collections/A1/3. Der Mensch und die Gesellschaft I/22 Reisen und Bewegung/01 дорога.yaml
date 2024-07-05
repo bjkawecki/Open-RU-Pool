@@ -1,16 +1,15 @@
 wordcls: substantive
 name: дорога
 name_ac: доро́га
-publ_id: 132201
 translation:
-   - Fahrbahn
-   - Straße
+- Fahrbahn
+- Straße
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: доро́га
 sin_gen: до­ро́­ги
 sin_dat: до­ро́­ге
@@ -23,8 +22,8 @@ plu_dat: до­ро́г­ам
 plu_acc: до­ро́­ги
 plu_ins: до­ро́­га­ми
 plu_pre: до­ро́г­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

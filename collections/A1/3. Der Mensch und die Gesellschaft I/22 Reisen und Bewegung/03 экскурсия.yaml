@@ -1,16 +1,15 @@
 wordcls: substantive
 name: экскурсия
 name_ac: экску́рсия
-publ_id: 132203
 translation:
-   - Ausflug
-   - Exkursion
+- Ausflug
+- Exkursion
 genus: feminine
 dec_cls: '1'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: экску́рсия
 sin_gen: экс­ку́р­сии
 sin_dat: экс­ку́р­сии
@@ -23,8 +22,8 @@ plu_dat: экс­ку́р­си­ям
 plu_acc: экс­ку́р­сии
 plu_ins: экс­ку́р­си­ями
 plu_pre: экс­ку́р­си­ях
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

@@ -1,10 +1,9 @@
 name: добрый вечер
 name_ac: до́брый ве́чер
-publ_id: 132602
 wordcls: phrase
 translation:
-   - Guten Abend
-metaphrase:
-comment:
-usage:
-etymol:
+- Guten Abend
+metaphrase: null
+comment: null
+usage: null
+etymol: null

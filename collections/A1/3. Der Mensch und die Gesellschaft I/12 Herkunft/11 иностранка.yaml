@@ -1,15 +1,14 @@
 wordcls: substantive
 name: иностранка
 name_ac: иностра́нка
-publ_id: 131211
 translation:
-   - Ausländerin
+- Ausländerin
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: иностра́нка
 sin_gen: ин­ост­ра́н­ки
 sin_dat: ин­ост­ра́н­ке
@@ -22,8 +21,8 @@ plu_dat: ин­ост­ра́н­кам
 plu_acc: ин­ост­ра́­нок
 plu_ins: ин­ост­ра́н­ка­ми
 plu_pre: ин­ост­ра́н­ках
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

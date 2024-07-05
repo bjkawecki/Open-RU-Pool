@@ -1,25 +1,24 @@
 name: встретить
 name_ac: встре́тить
-publ_id: 120904
 wordcls: verb
 translation:
-   - treffen
-   - begegnen
+- treffen
+- begegnen
 aspect: perfective
 partner: встре́чать
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: null
+motion_partner: null
+direction: null
 obj_case: accusative
-verb_prepo:
-is_reflexive:
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+verb_prepo: null
+is_reflexive: null
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 fut_sin_1: встре́­чу
 fut_sin_2: встре́­тишь
 fut_sin_3: встре́­тит
@@ -30,14 +29,14 @@ pas_mas: встре́­тил
 pas_fem: встре́­ти­ла
 pas_neu: встре́­ти­ло
 pas_plu: встре́­ти­ли
-par_pre_act:
+par_pre_act: null
 par_pas_act: встре́­тив­ший
-par_pre_pas:
+par_pre_pas: null
 par_pas_pas: встре́­тив­ши, встре́­тив
-par_adv_pre:
+par_adv_pre: null
 par_adv_pas: встре́­чен­ный
 imp_sin: встреть
 imp_plu: встре́ть­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

@@ -1,41 +1,40 @@
 name: её
 name_ac: её
-publ_id: 143122
 wordcls: pronoun
 translation:
-   - sie
+- sie
 pro_type: personal
 dec_type: substantive
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+mas_nom: null
+mas_gen: null
+mas_dat: null
+mas_acc: null
+mas_ins: null
+mas_pre: null
+fem_nom: null
+fem_gen: null
+fem_dat: null
+fem_acc: null
+fem_ins: null
+fem_pre: null
+neu_nom: null
+neu_gen: null
+neu_dat: null
+neu_acc: null
+neu_ins: null
+neu_pre: null
 sin_nom: она́
 sin_gen: (н)её
 sin_dat: (н)ей
 sin_acc: (н)её
 sin_ins: (н)ей
 sin_pre: о не́й
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
 comment: Akkusativ Singular weiblich
-usage:
-etymol:
+usage: null
+etymol: null

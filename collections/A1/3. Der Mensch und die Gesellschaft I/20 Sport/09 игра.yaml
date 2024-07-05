@@ -1,15 +1,14 @@
 wordcls: substantive
 name: игра
 name_ac: игра
-publ_id: 132009
 translation:
-   - Spiel
+- Spiel
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: игра
 sin_gen: иг­ры́
 sin_dat: иг­ре́
@@ -22,8 +21,8 @@ plu_dat: и́г­рам
 plu_acc: и́г­ры
 plu_ins: и́г­ра­ми
 plu_pre: и́г­рах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

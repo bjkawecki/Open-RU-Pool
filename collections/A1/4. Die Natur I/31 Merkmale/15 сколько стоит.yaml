@@ -1,10 +1,9 @@
 name: сколько стоит
 name_ac: ско́лько сто́ит
-publ_id: 143115
 wordcls: phrase
 translation:
-   - Wie viel kostet es?
-metaphrase:
-comment:
-usage:
-etymol:
+- Wie viel kostet es?
+metaphrase: null
+comment: null
+usage: null
+etymol: null

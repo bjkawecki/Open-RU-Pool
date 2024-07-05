@@ -1,9 +1,8 @@
 name: левый
 name_ac: ле́вый
-publ_id: 143119
 wordcls: adjective
 translation:
-   - linker
+- linker
 is_gradable: true
 mas_nom: ле́вый
 mas_gen: ле́­во­го
@@ -35,6 +34,6 @@ sho_neu: ле́­во
 sho_plu: ле́­вы
 compara: ле­ве́е
 superla: самый ле́вый
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

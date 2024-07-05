@@ -1,9 +1,8 @@
 name: мой
 name_ac: мой
-publ_id: 143124
 wordcls: pronoun
 translation:
-   - mein
+- mein
 pro_type: possessive
 dec_type: adjective
 mas_nom: мой
@@ -24,18 +23,18 @@ neu_dat: мо­ему́
 neu_acc: моё
 neu_ins: мо­и́м
 neu_pre: мо­ём
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: мои́
 plu_gen: мо­и́х
 plu_dat: мо­и́м
 plu_acc: мои́
 plu_ins: мо­и́ми
 plu_pre: мо­и́х
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

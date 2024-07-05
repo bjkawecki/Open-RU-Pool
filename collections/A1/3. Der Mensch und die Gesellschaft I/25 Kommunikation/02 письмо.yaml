@@ -1,15 +1,14 @@
 wordcls: substantive
 name: письмо
 name_ac: письмо́
-publ_id: 132502
 translation:
-   - Brief
+- Brief
 genus: neutral
 dec_cls: '2'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: письмо́
 sin_gen: пись­ма́
 sin_dat: пись­му́
@@ -22,8 +21,8 @@ plu_dat: пи́сь­мам
 plu_acc: пи́сь­ма
 plu_ins: пи́сь­ма­ми
 plu_pre: пи́сь­мах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

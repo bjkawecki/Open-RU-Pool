@@ -1,29 +1,28 @@
 wordcls: substantive
 name: испанцы
 name_ac: испа́нцы
-publ_id: 131215
 translation:
-   - Spanier
+- Spanier
 genus: masculine
 dec_cls: '2'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
-partitive:
-locative:
+is_sin_tan: null
+is_plu_tan: null
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
+partitive: null
+locative: null
 comment: Plural
-usage:
-etymol:
+usage: null
+etymol: null

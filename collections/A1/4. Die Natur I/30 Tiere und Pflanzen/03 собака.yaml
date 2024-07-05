@@ -1,15 +1,14 @@
 wordcls: substantive
 name: собака
 name_ac: соба́ка
-publ_id: 143003
 translation:
-   - Hund
+- Hund
 genus: feminine
 dec_cls: '1'
 stress: root
 is_animate: true
-is_sin_tan:
-is_plu_tan:
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: соба́ка
 sin_gen: со­ба́­ки
 sin_dat: со­ба́­ке
@@ -22,8 +21,8 @@ plu_dat: со­ба́к­ам
 plu_acc: со­ба́к
 plu_ins: со­ба́­ка­ми
 plu_pre: со­ба́к­ах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

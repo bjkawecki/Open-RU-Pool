@@ -1,16 +1,15 @@
 wordcls: substantive
 name: рука
 name_ac: рука́
-publ_id: 110204
 translation:
-   - Hand
-   - Arm
+- Hand
+- Arm
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: рука́
 sin_gen: ру­ки́
 sin_dat: ру­ке́
@@ -23,8 +22,8 @@ plu_dat: ру­ка́м
 plu_acc: ру́­ки
 plu_ins: ру­ка́­ми
 plu_pre: ру­ка́х
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

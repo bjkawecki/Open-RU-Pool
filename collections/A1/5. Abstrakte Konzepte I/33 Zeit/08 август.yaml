@@ -1,15 +1,14 @@
 wordcls: substantive
 name: август
 name_ac: а́вгуст
-publ_id: 153308
 translation:
-   - August
+- August
 genus: masculine
 dec_cls: '2'
 stress: root
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: а́вгуст
 sin_gen: а́в­гу­ста
 sin_dat: а́в­гу­сту
@@ -22,8 +21,8 @@ plu_dat: а́в­гу­стам
 plu_acc: а́в­гу­сты
 plu_ins: а́в­гу­ста­ми
 plu_pre: а́в­гу­стах
-partitive:
-locative:
-comment:
-usage:
-etymol:
+partitive: null
+locative: null
+comment: null
+usage: null
+etymol: null

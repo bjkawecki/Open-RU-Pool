@@ -1,10 +1,9 @@
 name: идти в гости
 name_ac: идти́ в го́сти
-publ_id: 132109
 wordcls: phrase
 translation:
-   - besuchen
-metaphrase:
-comment:
-usage:
-etymol:
+- besuchen
+metaphrase: null
+comment: null
+usage: null
+etymol: null

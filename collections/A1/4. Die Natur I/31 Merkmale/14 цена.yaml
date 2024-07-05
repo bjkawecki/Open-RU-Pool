@@ -1,15 +1,14 @@
 wordcls: substantive
 name: цена
 name_ac: цена́
-publ_id: 143114
 translation:
-   - Preis
+- Preis
 genus: feminine
 dec_cls: '1'
 stress: shifting
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: null
+is_sin_tan: null
+is_plu_tan: null
 sin_nom: цена́
 sin_gen: це­ны́
 sin_dat: це­не́
@@ -22,8 +21,8 @@ plu_dat: це́­нам
 plu_acc: це́­ны
 plu_ins: це́­на­ми
 plu_pre: це́­нах
-partitive:
-locative:
+partitive: null
+locative: null
 comment: Einer Ware
-usage:
-etymol:
+usage: null
+etymol: null

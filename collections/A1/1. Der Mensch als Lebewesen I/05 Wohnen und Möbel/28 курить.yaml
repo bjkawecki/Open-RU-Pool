@@ -1,30 +1,29 @@
 name: курить
 name_ac: кури́ть
-publ_id: 110528
 wordcls: verb
 translation:
-   - rauchen
+- rauchen
 aspect: imperfective
 partner: покури́ть
 con_cls: i
-is_motion_verb:
-motion_partner:
-direction:
-obj_case:
-verb_prepo:
-is_reflexive:
+is_motion_verb: null
+motion_partner: null
+direction: null
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 pre_sin_1: ку­рю́
 pre_sin_2: ку́­ришь
 pre_sin_3: ку́­рит
 pre_plu_1: ку́­рим
 pre_plu_2: ку́­ри­те
 pre_plu_3: ку́­рят
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: null
+fut_sin_2: null
+fut_sin_3: null
+fut_plu_1: null
+fut_plu_2: null
+fut_plu_3: null
 pas_mas: ку­ри́л
 pas_fem: ку­ри́­ла
 pas_neu: ку­ри́­ло
@@ -37,6 +36,6 @@ par_adv_pre: ку­ри́­мый
 par_adv_pas: ку́­рен­ный
 imp_sin: ку­ри́
 imp_plu: ку­ри́­те
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null
