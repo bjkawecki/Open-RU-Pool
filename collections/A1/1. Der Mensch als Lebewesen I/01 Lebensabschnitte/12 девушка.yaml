@@ -2,11 +2,11 @@ wordcls: substantive
 name: девушка
 name_ac: де́вушка
 translation:
-- junge Frau
-- Fräulein
-- Freundin
+  - junge Frau
+  - Fräulein
+  - Freundin
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: true
 is_sin_tan: null

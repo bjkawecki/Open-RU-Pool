@@ -2,7 +2,7 @@ wordcls: substantive
 name: дети
 name_ac: де́ти
 translation:
-- Kinder
+  - Kinder
 genus: none
 dec_cls: irregular
 stress: shifting

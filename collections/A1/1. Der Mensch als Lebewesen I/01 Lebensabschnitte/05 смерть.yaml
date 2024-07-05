@@ -2,9 +2,9 @@ wordcls: substantive
 name: смерть
 name_ac: смерть
 translation:
-- Tod
+  - Tod
 genus: feminine
-dec_cls: '3'
+dec_cls: "3"
 stress: shifting
 is_animate: null
 is_sin_tan: null

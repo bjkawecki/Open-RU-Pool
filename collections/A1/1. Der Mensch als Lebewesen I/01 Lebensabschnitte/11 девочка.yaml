@@ -2,9 +2,9 @@ wordcls: substantive
 name: девочка
 name_ac: де́вочка
 translation:
-- Mädchen
+  - Mädchen
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: true
 is_sin_tan: null

@@ -2,9 +2,9 @@ wordcls: substantive
 name: мужчина
 name_ac: мужчи́на
 translation:
-- Mann
+  - Mann
 genus: masculine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: true
 is_sin_tan: null

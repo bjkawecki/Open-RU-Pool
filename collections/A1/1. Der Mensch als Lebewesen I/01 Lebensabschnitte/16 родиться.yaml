@@ -2,7 +2,7 @@ name: родиться
 name_ac: роди́ться
 wordcls: verb
 translation:
-- geboren werden
+  - geboren werden
 aspect: perfective
 partner: рожда́ться
 con_cls: i

@@ -2,12 +2,12 @@ wordcls: substantive
 name: люди
 name_ac: лю́ди
 translation:
-- Menschen
-- Leute
+  - Menschen
+  - Leute
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
-is_animate: null
+is_animate: true
 is_sin_tan: null
 is_plu_tan: true
 sin_nom: null

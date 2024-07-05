@@ -2,9 +2,9 @@ wordcls: substantive
 name: семья
 name_ac: семья́
 translation:
-- Familie
+  - Familie
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: null
 is_sin_tan: null

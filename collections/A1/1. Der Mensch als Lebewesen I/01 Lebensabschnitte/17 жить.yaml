@@ -2,7 +2,7 @@ name: жить
 name_ac: жить
 wordcls: verb
 translation:
-- leben
+  - leben
 aspect: imperfective
 partner: прожи́ть
 con_cls: e

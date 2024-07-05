@@ -2,7 +2,7 @@ name: старый
 name_ac: ста́рый
 wordcls: adjective
 translation:
-- alt
+  - alt
 is_gradable: true
 mas_nom: ста́рый
 mas_gen: ста́­ро­го
