@@ -2,9 +2,9 @@ wordcls: substantive
 name: правительство
 name_ac: прави́тельство
 translation:
-- Regierung
+  - Regierung
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

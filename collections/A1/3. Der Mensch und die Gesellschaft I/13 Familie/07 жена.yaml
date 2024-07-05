@@ -2,9 +2,9 @@ wordcls: substantive
 name: жена
 name_ac: жена́
 translation:
-- Ehefrau
+  - Ehefrau
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: true
 is_sin_tan: null

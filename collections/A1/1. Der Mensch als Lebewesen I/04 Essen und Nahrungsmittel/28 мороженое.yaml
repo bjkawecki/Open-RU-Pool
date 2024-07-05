@@ -2,8 +2,8 @@ wordcls: substantive
 name: мороженое
 name_ac: моро́женое
 translation:
-- Speiseeis
-- Eis
+  - Speiseeis
+  - Eis
 genus: neutral
 dec_cls: adjective
 stress: root

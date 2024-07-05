@@ -2,7 +2,7 @@ wordcls: substantive
 name: часы
 name_ac: часы́
 translation:
-- Uhr
+  - Uhr
 genus: none
 dec_cls: irregular
 stress: shifting

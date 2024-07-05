@@ -2,14 +2,15 @@ name: построить
 name_ac: постро́ить
 wordcls: verb
 translation:
-- bauen
+  - bauen
+  - basteln
 aspect: perfective
 partner: стро́ить
 con_cls: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

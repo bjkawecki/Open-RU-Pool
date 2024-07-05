@@ -2,8 +2,8 @@ name: встретить
 name_ac: встре́тить
 wordcls: verb
 translation:
-- treffen
-- begegnen
+  - treffen
+  - begegnen
 aspect: perfective
 partner: встре́чать
 con_cls: i

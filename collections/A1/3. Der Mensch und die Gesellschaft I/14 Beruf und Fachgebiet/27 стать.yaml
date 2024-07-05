@@ -2,14 +2,14 @@ name: стать
 name_ac: стать
 wordcls: verb
 translation:
-- werden
+  - werden
 aspect: perfective
 partner: станови́ться
 con_cls: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: instrumental
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

@@ -1,1 +1,53 @@
 name: спать
+name_ac: спать
+wordcls: verb
+translation:
+  - schlafen
+aspect: imperfective
+partner: проспать
+con_cls: i
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+obj_case: null
+verb_prepo: null
+is_reflexive: false
+
+pre_sin_1: сплю
+pre_sin_2: спишь
+pre_sin_3: спит
+pre_plu_1: спим
+pre_plu_2: спи́­те
+pre_plu_3: спят
+
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+
+pas_mas: спал
+pas_fem: спа­ла́
+pas_neu: спа́­ло
+pas_plu: спа́­ли
+
+par_pre_act: спя́­щий
+par_pas_act: спа́в­ший
+
+par_pre_pas:
+par_pas_pas:
+
+par_adv_pre: спя
+par_adv_pas: спа́в­ши, спа́в
+
+imp_sin: спи
+imp_plu: спи́­те
+
+comment:
+
+usage:
+
+etymol:

@@ -2,9 +2,9 @@ wordcls: substantive
 name: дом
 name_ac: дом
 translation:
-- Haus
+  - Haus
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
 is_animate: null
 is_sin_tan: null

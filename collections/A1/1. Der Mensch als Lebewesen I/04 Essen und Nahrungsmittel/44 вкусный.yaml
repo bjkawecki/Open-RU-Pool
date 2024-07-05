@@ -2,7 +2,7 @@ name: вкусный
 name_ac: вку́сный
 wordcls: adjective
 translation:
-- lecker
+  - lecker
 is_gradable: true
 mas_nom: вку́сный
 mas_gen: вку́с­но­го

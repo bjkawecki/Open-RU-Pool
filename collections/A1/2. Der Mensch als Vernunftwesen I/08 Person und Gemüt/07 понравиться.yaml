@@ -2,7 +2,7 @@ name: понравиться
 name_ac: понра́виться
 wordcls: verb
 translation:
-- gefallen
+  - gefallen
 aspect: perfective
 partner: нра́виться
 con_cls: i

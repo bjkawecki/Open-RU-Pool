@@ -2,9 +2,9 @@ wordcls: substantive
 name: страна
 name_ac: страна́
 translation:
-- Land
+  - Land
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: null
 is_sin_tan: null

@@ -2,9 +2,9 @@ wordcls: substantive
 name: композитор
 name_ac: компози́тор
 translation:
-- Komponist
+  - Komponist
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: true
 is_sin_tan: null

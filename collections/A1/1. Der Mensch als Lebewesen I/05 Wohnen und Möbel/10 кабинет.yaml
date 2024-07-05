@@ -2,10 +2,10 @@ wordcls: substantive
 name: кабинет
 name_ac: кабине́т
 translation:
-- Arbeitszimmer
-- Kabinett
+  - Arbeitszimmer
+  - Kabinett
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

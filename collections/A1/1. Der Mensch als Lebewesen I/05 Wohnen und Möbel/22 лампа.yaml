@@ -2,9 +2,9 @@ wordcls: substantive
 name: лампа
 name_ac: ла́мпа
 translation:
-- Lampe
+  - Lampe
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

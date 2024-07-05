@@ -2,16 +2,16 @@ name: послать
 name_ac: посла́ть
 wordcls: verb
 translation:
-- schicken
-- verschicken
-- senden
+  - schicken
+  - verschicken
+  - senden
 aspect: perfective
 partner: посыла́ть
 con_cls: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

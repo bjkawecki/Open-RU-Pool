@@ -2,8 +2,8 @@ name: готовить
 name_ac: гото́вить
 wordcls: verb
 translation:
-- vorbereiten
-- kochen
+  - vorbereiten
+  - kochen
 aspect: imperfective
 partner: пригото́вить
 con_cls: i

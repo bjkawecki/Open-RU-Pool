@@ -2,9 +2,9 @@ name: надо
 name_ac: на́до
 wordcls: adverb
 translation:
-- (man) muss
-- (man) soll
-- (man) braucht
+  - (man) muss
+  - (man) soll
+  - (man) braucht
 comment: null
 usage: colloquial
 etymol: null

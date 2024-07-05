@@ -2,9 +2,9 @@ wordcls: substantive
 name: государство
 name_ac: госуда́рство
 translation:
-- Staat
+  - Staat
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

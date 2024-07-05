@@ -1,1 +1,55 @@
 name: увидеть
+name_ac: уви́­деть
+wordcls: verb
+translation:
+  - sehen
+  - erblicken
+
+aspect: ви́­деть
+partner: perfective
+con_cls: i
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
+
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
+
+fut_sin_1: уви́­жу
+fut_sin_2: уви́­дишь
+fut_sin_3: уви́­дит
+fut_plu_1: уви́­дим
+fut_plu_2: уви́­ди­те
+fut_plu_3: уви́­дят
+
+pas_mas: уви́­дел
+pas_fem: уви́­де­ла
+pas_neu: уви́­де­ло
+pas_plu: уви́­де­ли
+
+par_pre_act: null
+par_pas_act: уви́­дев­ший
+
+par_pre_pas: null
+par_pas_pas: уви́­ден­ный
+
+par_adv_pre: null
+par_adv_pas: уви́­дев­ши, уви́­дев
+
+imp_sin: ув­и́дь
+imp_plu: ув­и́дь­те
+
+comment:
+
+usage:
+
+etymol:

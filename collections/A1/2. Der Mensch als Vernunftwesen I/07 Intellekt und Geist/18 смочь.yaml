@@ -2,8 +2,8 @@ name: смочь
 name_ac: смочь
 wordcls: verb
 translation:
-- können
-- dürfen
+  - können
+  - dürfen
 aspect: perfective
 partner: мочь
 con_cls: e

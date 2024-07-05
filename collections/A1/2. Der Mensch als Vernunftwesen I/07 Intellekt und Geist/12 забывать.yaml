@@ -2,7 +2,7 @@ name: забывать
 name_ac: забыва́ть
 wordcls: verb
 translation:
-- vergessen
+  - vergessen
 aspect: imperfective
 partner: забы́ть
 con_cls: e

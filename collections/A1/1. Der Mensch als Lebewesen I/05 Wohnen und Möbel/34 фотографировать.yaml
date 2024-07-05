@@ -2,14 +2,14 @@ name: фотографировать
 name_ac: фотографи́ровать
 wordcls: verb
 translation:
-- photographieren
+  - photographieren
 aspect: imperfective
 partner: сфотографи́ровать
 con_cls: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: фо­тог­ра­фи́­рую

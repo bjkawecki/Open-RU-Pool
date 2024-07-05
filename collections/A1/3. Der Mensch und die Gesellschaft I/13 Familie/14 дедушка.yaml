@@ -2,10 +2,10 @@ wordcls: substantive
 name: дедушка
 name_ac: де́душка
 translation:
-- Großvater
-- Opa
+  - Großvater
+  - Opa
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: true
 is_sin_tan: null

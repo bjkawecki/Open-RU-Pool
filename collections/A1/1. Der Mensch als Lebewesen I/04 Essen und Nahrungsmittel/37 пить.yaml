@@ -2,7 +2,7 @@ name: пить
 name_ac: пить
 wordcls: verb
 translation:
-- trinken
+  - trinken
 aspect: imperfective
 partner: вы́пить
 con_cls: e

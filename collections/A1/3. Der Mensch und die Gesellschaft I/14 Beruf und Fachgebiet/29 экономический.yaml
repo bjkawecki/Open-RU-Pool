@@ -2,9 +2,9 @@ name: экономический
 name_ac: экономи́ческий
 wordcls: adjective
 translation:
-- wirtschaftlich
-- Wirtschafts-
-is_gradable: null
+  - wirtschaftlich
+  - Wirtschafts-
+is_gradable: false
 mas_nom: экономи́ческий
 mas_gen: эко­но­ми́­чес­ко­го
 mas_dat: эко­но­ми́­чес­ко­му

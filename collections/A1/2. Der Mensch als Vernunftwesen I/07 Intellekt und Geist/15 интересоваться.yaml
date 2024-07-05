@@ -2,7 +2,7 @@ name: интересоваться
 name_ac: интересова́ться
 wordcls: verb
 translation:
-- sich interessieren
+  - sich interessieren
 aspect: imperfective
 partner: заинтере́соваться
 con_cls: e

@@ -2,7 +2,7 @@ name: мечтать
 name_ac: мечта́ть
 wordcls: verb
 translation:
-- träumen
+  - träumen
 aspect: imperfective
 partner: null
 con_cls: e
@@ -10,7 +10,7 @@ is_motion_verb: null
 motion_partner: null
 direction: null
 obj_case: null
-verb_prepo: null
+verb_prepo: о чём-либо
 is_reflexive: null
 pre_sin_1: меч­та́ю
 pre_sin_2: меч­та́­ешь

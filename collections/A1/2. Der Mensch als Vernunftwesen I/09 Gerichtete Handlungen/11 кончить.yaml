@@ -2,14 +2,16 @@ name: кончить
 name_ac: ко́нчить
 wordcls: verb
 translation:
-- beenden
+  - beenden
+  - bewältigen
+  - schaffen
 aspect: perfective
 partner: конча́ть
 con_cls: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

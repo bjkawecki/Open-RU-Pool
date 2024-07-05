@@ -2,9 +2,9 @@ wordcls: substantive
 name: чемпион
 name_ac: чемпио́н
 translation:
-- Champion
+  - Champion
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: true
 is_sin_tan: null

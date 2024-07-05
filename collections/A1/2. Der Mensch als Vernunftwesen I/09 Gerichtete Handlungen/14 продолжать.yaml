@@ -2,15 +2,15 @@ name: продолжать
 name_ac: продолжа́ть
 wordcls: verb
 translation:
-- fortsetzen
-- weitermachen
+  - fortsetzen
+  - weitermachen
 aspect: imperfective
 partner: продо́лжить
 con_cls: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: про­дол­жа́ю

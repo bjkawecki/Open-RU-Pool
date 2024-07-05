@@ -2,11 +2,11 @@ wordcls: substantive
 name: физик
 name_ac: фи́зик
 translation:
-- Physiker
+  - Physiker
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
-is_animate: null
+is_animate: true
 is_sin_tan: null
 is_plu_tan: null
 sin_nom: фи́зик

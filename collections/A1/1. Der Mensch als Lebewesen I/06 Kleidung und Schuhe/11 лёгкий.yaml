@@ -2,7 +2,7 @@ name: лёгкий
 name_ac: лёгкий
 wordcls: adjective
 translation:
-- leicht
+  - leicht
 is_gradable: true
 mas_nom: лёгкий
 mas_gen: лёгкого

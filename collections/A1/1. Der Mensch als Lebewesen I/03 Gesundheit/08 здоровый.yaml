@@ -2,7 +2,7 @@ name: здоровый
 name_ac: здоро́вый
 wordcls: adjective
 translation:
-- gesund
+  - gesund
 is_gradable: true
 mas_nom: здоро́вый
 mas_gen: здорового

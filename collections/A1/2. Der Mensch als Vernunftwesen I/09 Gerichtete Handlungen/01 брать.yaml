@@ -2,9 +2,9 @@ name: брать
 name_ac: брать
 wordcls: verb
 translation:
-- nehmen
-- greifen
-- fassen
+  - nehmen
+  - greifen
+  - fassen
 aspect: imperfective
 partner: взять
 con_cls: e

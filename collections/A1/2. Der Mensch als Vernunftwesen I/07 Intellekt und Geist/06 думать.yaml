@@ -2,7 +2,7 @@ name: думать
 name_ac: ду́мать
 wordcls: verb
 translation:
-- denken
+  - denken
 aspect: imperfective
 partner: поду́мать
 con_cls: e

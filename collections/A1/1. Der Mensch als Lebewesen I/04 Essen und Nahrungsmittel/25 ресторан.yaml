@@ -2,11 +2,11 @@ wordcls: substantive
 name: ресторан
 name_ac: рестора́н
 translation:
-- Restaurant
-- Gaststätte
-- Speiselokal
+  - Restaurant
+  - Gaststätte
+  - Speiselokal
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

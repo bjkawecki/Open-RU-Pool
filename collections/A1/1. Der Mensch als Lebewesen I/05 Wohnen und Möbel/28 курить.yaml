@@ -2,7 +2,7 @@ name: курить
 name_ac: кури́ть
 wordcls: verb
 translation:
-- rauchen
+  - rauchen
 aspect: imperfective
 partner: покури́ть
 con_cls: i

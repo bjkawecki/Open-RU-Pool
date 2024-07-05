@@ -2,10 +2,10 @@ wordcls: substantive
 name: одежда
 name_ac: оде́жда
 translation:
-- Kleidung
-- Kleider
+  - Kleidung
+  - Kleider
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

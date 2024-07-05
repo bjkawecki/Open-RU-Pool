@@ -2,10 +2,10 @@ wordcls: substantive
 name: профессия
 name_ac: профе́ссия
 translation:
-- Beruf
-- Metier
+  - Beruf
+  - Metier
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

@@ -2,9 +2,9 @@ name: умный
 name_ac: у́мный
 wordcls: adjective
 translation:
-- schlau
-- intelligent
-- geistreich
+  - schlau
+  - intelligent
+  - geistreich
 is_gradable: true
 mas_nom: у́мный
 mas_gen: у́м­но­го

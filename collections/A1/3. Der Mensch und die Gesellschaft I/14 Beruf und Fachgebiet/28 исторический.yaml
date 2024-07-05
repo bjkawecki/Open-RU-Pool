@@ -2,9 +2,9 @@ name: исторический
 name_ac: истори́ческий
 wordcls: adjective
 translation:
-- geschichtlich
-- Geschichts-
-is_gradable: null
+  - geschichtlich
+  - Geschichts-
+is_gradable: false
 mas_nom: истори́ческий
 mas_gen: ис­то­ри́ч­ес­ко­го
 mas_dat: ис­то­ри́ч­ес­ко­му

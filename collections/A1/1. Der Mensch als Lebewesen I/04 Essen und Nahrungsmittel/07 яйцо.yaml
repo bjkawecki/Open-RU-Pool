@@ -2,9 +2,9 @@ wordcls: substantive
 name: яйцо
 name_ac: яйцо́
 translation:
-- Ei
+  - Ei
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
 is_animate: null
 is_sin_tan: null

@@ -2,7 +2,7 @@ name: дарить
 name_ac: дари́ть
 wordcls: verb
 translation:
-- schenken
+  - schenken
 aspect: imperfective
 partner: подари́ть
 con_cls: i

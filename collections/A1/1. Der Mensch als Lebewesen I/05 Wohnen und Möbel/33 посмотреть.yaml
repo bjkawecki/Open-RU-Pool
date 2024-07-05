@@ -2,8 +2,8 @@ name: посмотреть
 name_ac: посмотре́ть
 wordcls: verb
 translation:
-- schauen
-- anschauen
+  - schauen
+  - anschauen
 aspect: perfective
 partner: смотре́ть
 con_cls: i

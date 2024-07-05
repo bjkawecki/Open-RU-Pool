@@ -2,15 +2,15 @@ name: позвонить
 name_ac: позвони́ть
 wordcls: verb
 translation:
-- klingeln
-- anrufen
+  - klingeln
+  - anrufen
 aspect: perfective
 partner: звони́ть
 con_cls: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: dative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

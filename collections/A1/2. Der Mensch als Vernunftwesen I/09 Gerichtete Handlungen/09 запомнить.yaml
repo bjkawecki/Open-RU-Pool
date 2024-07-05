@@ -2,7 +2,7 @@ name: запомнить
 name_ac: запо́мнить
 wordcls: verb
 translation:
-- sich merken
+  - sich merken
 aspect: perfective
 partner: запомина́ть
 con_cls: i

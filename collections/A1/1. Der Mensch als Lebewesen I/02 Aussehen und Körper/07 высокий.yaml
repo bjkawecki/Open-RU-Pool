@@ -2,9 +2,9 @@ name: высокий
 name_ac: высо́кий
 wordcls: adjective
 translation:
-- hoch
-- hochgewachsen
-- gehoben
+  - hoch
+  - hochgewachsen
+  - gehoben
 is_gradable: true
 mas_nom: высо́кий
 mas_gen: вы­со́­ко­го

@@ -2,9 +2,9 @@ wordcls: substantive
 name: любовь
 name_ac: любо́вь
 translation:
-- Liebe
+  - Liebe
 genus: feminine
-dec_cls: '3'
+dec_cls: "3"
 stress: suffix
 is_animate: null
 is_sin_tan: null

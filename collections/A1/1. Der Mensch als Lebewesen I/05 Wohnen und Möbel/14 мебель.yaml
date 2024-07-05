@@ -2,9 +2,9 @@ wordcls: substantive
 name: мебель
 name_ac: ме́бель
 translation:
-- Möbel
+  - Möbel
 genus: feminine
-dec_cls: '3'
+dec_cls: "3"
 stress: root
 is_animate: null
 is_sin_tan: null

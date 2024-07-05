@@ -2,10 +2,10 @@ wordcls: substantive
 name: поликлиника
 name_ac: поликли́ника
 translation:
-- Poliklinik
-- Stadtklinik
+  - Poliklinik
+  - Stadtklinik
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

@@ -2,10 +2,10 @@ wordcls: substantive
 name: нога
 name_ac: нога́
 translation:
-- Bein
-- Fuß
+  - Bein
+  - Fuß
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: null
 is_sin_tan: null

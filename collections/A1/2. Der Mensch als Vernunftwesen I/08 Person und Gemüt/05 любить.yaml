@@ -2,7 +2,7 @@ name: любить
 name_ac: люби́ть
 wordcls: verb
 translation:
-- lieben
+  - lieben
 aspect: imperfective
 partner: null
 con_cls: i

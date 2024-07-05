@@ -2,7 +2,7 @@ name: слушать
 name_ac: слу́шать
 wordcls: verb
 translation:
-- zuhören
+  - zuhören
 aspect: imperfective
 partner: null
 con_cls: e

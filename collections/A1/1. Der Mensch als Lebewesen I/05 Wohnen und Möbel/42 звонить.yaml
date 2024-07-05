@@ -2,8 +2,8 @@ name: звонить
 name_ac: звони́ть
 wordcls: verb
 translation:
-- klingeln
-- anrufen
+  - klingeln
+  - anrufen
 aspect: imperfective
 partner: позвони́ть
 con_cls: i

@@ -2,7 +2,7 @@ name: больной
 name_ac: больной
 wordcls: adjective
 translation:
-- krank
+  - krank
 is_gradable: true
 mas_nom: боль­но́й
 mas_gen: боль­но́­го

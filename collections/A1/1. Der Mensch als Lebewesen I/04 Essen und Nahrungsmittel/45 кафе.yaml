@@ -1,0 +1,40 @@
+name: кафе
+name_ac: ка­фе́
+wordcls: substantive
+translation:
+  - Café
+
+genus: neutral
+
+dec_cls: none
+
+stress: root
+
+is_animate: false
+
+is_sin_tan: false
+
+is_plu_tan: false
+
+sin_nom: ка­фе́
+sin_gen: ка­фе́
+sin_dat: ка­фе́
+sin_acc: ка­фе́
+sin_ins: ка­фе́
+sin_pre: ка­фе́
+
+plu_nom: ка­фе́
+plu_gen: ка­фе́
+plu_dat: ка­фе́
+plu_acc: ка­фе́
+plu_ins: ка­фе́
+plu_pre: ка­фе́
+
+partitive:
+locative:
+
+comment:
+
+usage:
+
+etymol: French

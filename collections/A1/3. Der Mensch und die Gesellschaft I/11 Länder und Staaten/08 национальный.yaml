@@ -2,8 +2,8 @@ name: национальный
 name_ac: национа́льный
 wordcls: adjective
 translation:
-- national
-- Länder-
+  - national
+  - Länder-
 is_gradable: true
 mas_nom: национа́льный
 mas_gen: на­ци­он­а́ль­но­го

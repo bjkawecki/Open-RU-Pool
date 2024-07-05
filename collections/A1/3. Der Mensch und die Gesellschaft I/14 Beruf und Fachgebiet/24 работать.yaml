@@ -2,7 +2,7 @@ name: работать
 name_ac: рабо́тать
 wordcls: verb
 translation:
-- arbeiten
+  - arbeiten
 aspect: imperfective
 partner: порабо́тать
 con_cls: e

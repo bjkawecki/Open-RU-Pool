@@ -1,28 +1,50 @@
 wordcls: substantive
 name: родной
-name_ac: родной
+name_ac: род­но́й
 translation:
-- Verwandter
-genus: masculine
-dec_cls: adjective
-stress: suffix
-is_animate: true
-is_sin_tan: null
-is_plu_tan: null
-sin_nom: родной
-sin_gen: null
-sin_dat: null
-sin_acc: null
-sin_ins: null
-sin_pre: null
-plu_nom: null
-plu_gen: null
-plu_dat: null
-plu_acc: null
-plu_ins: null
-plu_pre: null
-partitive: null
-locative: null
-comment: null
-usage: null
-etymol: null
+  - verwandt
+  - Verwandter
+
+is_gradable: false
+
+mas_nom: род­но́й
+mas_gen: род­но́­го
+mas_dat: род­но́­му
+mas_acc: род­но́й
+mas_ins: род­ны́м
+mas_pre: род­но́м
+
+fem_nom: род­на́я
+fem_gen: род­но́й
+fem_dat: род­но́й
+fem_acc: род­ну́ю
+fem_ins: род­но́й
+fem_pre: род­но́й
+
+neu_nom: род­но́е
+neu_gen: род­но́­го
+neu_dat: род­но́­му
+neu_acc: род­но́е
+neu_ins: род­ны́м
+neu_pre: род­но́м
+
+plu_nom: род­ны́е
+plu_gen: род­ны́х
+plu_dat: род­ны́м
+plu_acc: род­ны́е
+plu_ins: род­ны́­ми
+plu_pre: род­ны́х
+
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
+
+compara: null
+superla: null
+
+comment:
+
+usage:
+
+etymol:

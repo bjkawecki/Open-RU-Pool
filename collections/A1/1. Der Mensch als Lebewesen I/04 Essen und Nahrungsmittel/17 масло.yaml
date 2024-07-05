@@ -2,10 +2,10 @@ wordcls: substantive
 name: масло
 name_ac: ма́сло
 translation:
-- Fett
-- Öl
+  - Fett
+  - Öl
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
 is_animate: null
 is_sin_tan: null

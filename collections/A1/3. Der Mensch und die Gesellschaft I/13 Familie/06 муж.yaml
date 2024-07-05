@@ -2,9 +2,9 @@ wordcls: substantive
 name: муж
 name_ac: муж
 translation:
-- Ehemann
+  - Ehemann
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
 is_animate: true
 is_sin_tan: null

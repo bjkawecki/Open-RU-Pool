@@ -2,10 +2,10 @@ wordcls: substantive
 name: жилище
 name_ac: жили́ще
 translation:
-- Unterkunft
-- Behausung
+  - Unterkunft
+  - Behausung
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

@@ -2,7 +2,7 @@ name: маленький
 name_ac: ма́ленький
 wordcls: adjective
 translation:
-- klein
+  - klein
 is_gradable: true
 mas_nom: ма́ленький
 mas_gen: ма́­лень­ко­го

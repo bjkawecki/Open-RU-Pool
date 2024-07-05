@@ -3,6 +3,47 @@ name_ac: прия́тный
 wordcls: adjective
 translation:
   - angenehm
-comment: null
-usage: null
-etymol: null
+
+is_gradable: true
+
+mas_nom: при­я́т­ный
+mas_gen: при­я́т­но­го
+mas_dat: при­я́т­но­му
+mas_acc: при­я́т­ный
+mas_ins: при­я́т­ным
+mas_pre: при­я́т­ном
+
+fem_nom: при­я́т­ная
+fem_gen: при­я́т­ной
+fem_dat: при­я́т­ной
+fem_acc: при­я́т­ную
+fem_ins: при­я́т­ной
+fem_pre: при­я́т­ной
+
+neu_nom: при­я́т­ное
+neu_gen: при­я́т­но­го
+neu_dat: при­я́т­но­му
+neu_acc: при­я́т­ное
+neu_ins: при­я́т­ным
+neu_pre: при­я́т­ном
+
+plu_nom: при­я́т­ные
+plu_gen: при­я́т­ных
+plu_dat: при­я́т­ным
+plu_acc: при­я́т­ные
+plu_ins: при­я́т­ны­ми
+plu_pre: при­я́т­ных
+
+sho_mas: при­я́т­ен
+sho_fem: при­я́т­на
+sho_neu: при­я́т­но
+sho_plu: при­я́т­ны
+
+compara: при­я́т­нее
+superla: самый при­я́т­ный
+
+comment:
+
+usage:
+
+etymol:

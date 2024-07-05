@@ -2,11 +2,11 @@ wordcls: substantive
 name: этаж
 name_ac: эта́ж
 translation:
-- Stock
-- Etage
-- Geschoss
+  - Stock
+  - Etage
+  - Geschoss
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
 is_animate: null
 is_sin_tan: null

@@ -2,8 +2,8 @@ name: закрывать
 name_ac: закрыва́ть
 wordcls: verb
 translation:
-- schließen
-- verdecken
+  - schließen
+  - verdecken
 aspect: imperfective
 partner: закры́ть
 con_cls: e

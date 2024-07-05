@@ -2,9 +2,9 @@ wordcls: substantive
 name: ученица
 name_ac: учени́ца
 translation:
-- Schülerin
+  - Schülerin
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: true
 is_sin_tan: null

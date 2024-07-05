@@ -2,9 +2,9 @@ wordcls: substantive
 name: иностранец
 name_ac: иностра́нец
 translation:
-- Ausländer
+  - Ausländer
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: true
 is_sin_tan: null

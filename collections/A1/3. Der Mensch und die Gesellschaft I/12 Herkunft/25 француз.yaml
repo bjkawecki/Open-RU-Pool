@@ -2,9 +2,9 @@ wordcls: substantive
 name: француз
 name_ac: францу́з
 translation:
-- Franzose
+  - Franzose
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: true
 is_sin_tan: null

@@ -1,8 +1,50 @@
 name: понятный
-name_ac: поня́тый
+name_ac: поня́тный
 wordcls: adjective
 translation:
-  - verstanden
-comment: null
-usage: null
-etymol: null
+  - verständlich
+  - begreifbar
+
+is_gradable: true
+
+mas_nom: по­ня́т­ный
+mas_gen: по­ня́т­но­го
+mas_dat: по­ня́т­но­му
+mas_acc: по­ня́т­ный
+mas_ins: по­ня́т­ным
+mas_pre: по­ня́т­ном
+
+fem_nom: по­ня́т­ная
+fem_gen: по­ня́т­ной
+fem_dat: по­ня́т­ной
+fem_acc: по­ня́т­ную
+fem_ins: по­ня́т­ной
+fem_pre: по­ня́т­ной
+
+neu_nom: по­ня́т­ное
+neu_gen: по­ня́т­но­го
+neu_dat: по­ня́т­но­му
+neu_acc: по­ня́т­ное
+neu_ins: по­ня́т­ным
+neu_pre: по­ня́т­ном
+
+plu_nom: по­ня́т­ные
+plu_gen: по­ня́т­ных
+plu_dat: по­ня́т­ным
+plu_acc: по­ня́т­ные
+plu_ins: по­ня́т­ны­ми
+plu_pre: по­ня́т­ных
+
+sho_mas: по­ня́т­ен
+sho_fem: по­ня́т­на
+sho_neu: по­ня́т­но
+sho_plu: по­ня́т­ны
+
+compara: по­ня́т­нее
+superla: самый по­ня́т­ный
+
+comment:
+
+usage:
+
+etymol:

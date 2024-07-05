@@ -2,9 +2,9 @@ wordcls: substantive
 name: колбаса
 name_ac: колбаса́
 translation:
-- Wurst
+  - Wurst
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: suffix
 is_animate: null
 is_sin_tan: null

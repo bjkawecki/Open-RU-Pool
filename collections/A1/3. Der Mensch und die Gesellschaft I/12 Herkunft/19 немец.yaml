@@ -2,9 +2,9 @@ wordcls: substantive
 name: немец
 name_ac: не́мец
 translation:
-- Deutscher
+  - Deutscher
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: true
 is_sin_tan: null

@@ -2,7 +2,7 @@ name: помогать
 name_ac: помога́ть
 wordcls: verb
 translation:
-- helfen
+  - helfen
 aspect: imperfective
 partner: помо́чь
 con_cls: e

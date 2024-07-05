@@ -2,16 +2,16 @@ name: взять
 name_ac: взять
 wordcls: verb
 translation:
-- nehmen
-- greifen
-- fassen
+  - nehmen
+  - greifen
+  - fassen
 aspect: perfective
 partner: брать
 con_cls: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

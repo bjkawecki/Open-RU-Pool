@@ -2,9 +2,9 @@ name: есть
 name_ac: есть
 wordcls: verb
 translation:
-- essen
+  - essen
 aspect: imperfective
-partner: null
+partner: съесть
 con_cls: null
 is_motion_verb: null
 motion_partner: null

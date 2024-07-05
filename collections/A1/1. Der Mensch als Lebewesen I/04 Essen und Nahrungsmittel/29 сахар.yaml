@@ -2,9 +2,9 @@ wordcls: substantive
 name: сахар
 name_ac: са́хар
 translation:
-- Zucker
+  - Zucker
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: true
 is_sin_tan: null

@@ -2,7 +2,7 @@ name: ждать
 name_ac: ждать
 wordcls: verb
 translation:
-- warten
+  - warten
 aspect: imperfective
 partner: подожда́ть
 con_cls: e

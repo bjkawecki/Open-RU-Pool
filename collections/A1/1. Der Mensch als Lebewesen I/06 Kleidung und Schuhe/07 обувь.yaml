@@ -2,9 +2,9 @@ wordcls: substantive
 name: обувь
 name_ac: о́бувь
 translation:
-- Schuhe
+  - Schuhe
 genus: feminine
-dec_cls: '3'
+dec_cls: "3"
 stress: root
 is_animate: null
 is_sin_tan: null

@@ -2,9 +2,9 @@ wordcls: substantive
 name: спортсмен
 name_ac: спортсме́н
 translation:
-- Sportler
+  - Sportler
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
 is_animate: true
 is_sin_tan: null

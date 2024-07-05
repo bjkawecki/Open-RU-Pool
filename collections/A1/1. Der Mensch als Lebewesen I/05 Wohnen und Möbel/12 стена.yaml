@@ -2,9 +2,9 @@ wordcls: substantive
 name: стена
 name_ac: стена́
 translation:
-- Wand
+  - Wand
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: null
 is_sin_tan: null

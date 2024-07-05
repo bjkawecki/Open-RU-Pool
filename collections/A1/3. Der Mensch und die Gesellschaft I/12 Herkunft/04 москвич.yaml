@@ -2,9 +2,9 @@ wordcls: substantive
 name: москвич
 name_ac: москви́ч
 translation:
-- Moskauer
+  - Moskauer
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
 is_animate: true
 is_sin_tan: null

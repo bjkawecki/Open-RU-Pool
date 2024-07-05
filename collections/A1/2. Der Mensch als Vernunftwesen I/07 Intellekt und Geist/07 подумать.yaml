@@ -2,8 +2,8 @@ name: подумать
 name_ac: поду́мать
 wordcls: verb
 translation:
-- denken
-- nachdenken
+  - denken
+  - nachdenken
 aspect: perfective
 partner: ду́мать
 con_cls: e

@@ -2,9 +2,9 @@ name: современный
 name_ac: совреме́нный
 wordcls: adjective
 translation:
-- aktuell
-- gegenwärtig
-- zeitgenössisch
+  - aktuell
+  - gegenwärtig
+  - zeitgenössisch
 is_gradable: true
 mas_nom: совреме́нный
 mas_gen: сов­ре­ме́н­но­го

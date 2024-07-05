@@ -2,8 +2,8 @@ name: серьёзный
 name_ac: серьёзный
 wordcls: adjective
 translation:
-- ernst
-- seriös
+  - ernst
+  - seriös
 is_gradable: true
 mas_nom: серьёзный
 mas_gen: серь­ёз­но­го

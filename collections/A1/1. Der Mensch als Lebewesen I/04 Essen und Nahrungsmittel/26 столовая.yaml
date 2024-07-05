@@ -2,8 +2,8 @@ wordcls: substantive
 name: столовая
 name_ac: столо́вая
 translation:
-- Kantine
-- Esszimmer
+  - Kantine
+  - Esszimmer
 genus: feminine
 dec_cls: adjective
 stress: root

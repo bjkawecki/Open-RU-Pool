@@ -2,9 +2,9 @@ name: иностранный
 name_ac: иностра́нный
 wordcls: adjective
 translation:
-- ausländisch
-- fremd
-- Fremd-
+  - ausländisch
+  - fremd
+  - Fremd-
 is_gradable: true
 mas_nom: иностра́нный
 mas_gen: ин­ост­ра́н­но­го

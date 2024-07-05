@@ -2,9 +2,9 @@ wordcls: substantive
 name: соль
 name_ac: соль
 translation:
-- Salz
+  - Salz
 genus: feminine
-dec_cls: '3'
+dec_cls: "3"
 stress: shifting
 is_animate: null
 is_sin_tan: null

@@ -2,9 +2,9 @@ wordcls: substantive
 name: москвичка
 name_ac: москви́чка
 translation:
-- Moskauerin
+  - Moskauerin
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: true
 is_sin_tan: null

@@ -2,9 +2,9 @@ name: смелый
 name_ac: сме́лый
 wordcls: adjective
 translation:
-- kühn
-- beherzt
-- schneidig
+  - kühn
+  - beherzt
+  - schneidig
 is_gradable: true
 mas_nom: сме́лый
 mas_gen: смелого

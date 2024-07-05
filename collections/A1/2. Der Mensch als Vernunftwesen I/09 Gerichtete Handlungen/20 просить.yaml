@@ -2,14 +2,14 @@ name: просить
 name_ac: проси́ть
 wordcls: verb
 translation:
-- bitten
+  - bitten
 aspect: imperfective
 partner: попроси́ть
 con_cls: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: про­шу́

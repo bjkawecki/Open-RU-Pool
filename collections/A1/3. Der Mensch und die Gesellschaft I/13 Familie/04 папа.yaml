@@ -2,9 +2,9 @@ wordcls: substantive
 name: папа
 name_ac: па́па
 translation:
-- Papa
+  - Papa
 genus: masculine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: true
 is_sin_tan: null

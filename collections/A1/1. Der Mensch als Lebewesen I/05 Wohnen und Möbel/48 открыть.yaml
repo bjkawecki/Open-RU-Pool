@@ -2,14 +2,14 @@ name: открыть
 name_ac: откры́ть
 wordcls: verb
 translation:
-- öffnen
+  - öffnen
 aspect: perfective
 partner: открыва́ть
 con_cls: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

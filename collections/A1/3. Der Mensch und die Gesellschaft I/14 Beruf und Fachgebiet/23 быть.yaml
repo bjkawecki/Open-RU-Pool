@@ -2,7 +2,7 @@ name: быть
 name_ac: быть
 wordcls: verb
 translation:
-- sein
+  - sein
 aspect: imperfective
 partner: null
 con_cls: null

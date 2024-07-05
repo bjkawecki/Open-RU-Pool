@@ -2,7 +2,7 @@ name: вспоминать
 name_ac: вспомина́ть
 wordcls: verb
 translation:
-- sich erinnern
+  - sich erinnern
 aspect: imperfective
 partner: вспо́мнить
 con_cls: e

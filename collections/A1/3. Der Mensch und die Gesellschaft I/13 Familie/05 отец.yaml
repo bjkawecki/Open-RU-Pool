@@ -2,11 +2,11 @@ wordcls: substantive
 name: отец
 name_ac: оте́ц
 translation:
-- Vater
+  - Vater
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
-is_animate: null
+is_animate: true
 is_sin_tan: null
 is_plu_tan: null
 sin_nom: оте́ц

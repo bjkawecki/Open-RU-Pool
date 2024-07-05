@@ -2,12 +2,12 @@ wordcls: substantive
 name: власть
 name_ac: власть
 translation:
-- Macht
-- Gewalt
-- Herrschaft
-- Staatsmacht
+  - Macht
+  - Gewalt
+  - Herrschaft
+  - Staatsmacht
 genus: feminine
-dec_cls: '3'
+dec_cls: "3"
 stress: shifting
 is_animate: null
 is_sin_tan: null

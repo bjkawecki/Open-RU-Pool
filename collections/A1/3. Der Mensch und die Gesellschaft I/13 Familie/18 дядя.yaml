@@ -2,9 +2,9 @@ wordcls: substantive
 name: дядя
 name_ac: дя́дя
 translation:
-- Onkel
+  - Onkel
 genus: masculine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: true
 is_sin_tan: null

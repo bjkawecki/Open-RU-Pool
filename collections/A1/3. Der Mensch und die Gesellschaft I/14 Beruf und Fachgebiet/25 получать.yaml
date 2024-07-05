@@ -2,15 +2,15 @@ name: получать
 name_ac: получа́ть
 wordcls: verb
 translation:
-- erhalten
-- bekommen
+  - erhalten
+  - bekommen
 aspect: imperfective
 partner: получи́ть
 con_cls: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: по­лу­ча́ю

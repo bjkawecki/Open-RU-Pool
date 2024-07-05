@@ -2,10 +2,10 @@ wordcls: substantive
 name: рука
 name_ac: рука́
 translation:
-- Hand
-- Arm
+  - Hand
+  - Arm
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: null
 is_sin_tan: null

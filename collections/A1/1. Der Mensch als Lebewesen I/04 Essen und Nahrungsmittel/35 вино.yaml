@@ -2,9 +2,9 @@ wordcls: substantive
 name: вино
 name_ac: вино́
 translation:
-- Wein
+  - Wein
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
 is_animate: null
 is_sin_tan: null

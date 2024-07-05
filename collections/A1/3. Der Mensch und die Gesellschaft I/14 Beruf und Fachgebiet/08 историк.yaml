@@ -2,9 +2,9 @@ wordcls: substantive
 name: историк
 name_ac: исто́рик
 translation:
-- Historiker
+  - Historiker
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: true
 is_sin_tan: null
