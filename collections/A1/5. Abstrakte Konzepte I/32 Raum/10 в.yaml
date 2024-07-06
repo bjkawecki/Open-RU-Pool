@@ -2,9 +2,9 @@ name: в
 name_ac: в
 wordcls: preposition
 translation:
-- in
+  - in
 prep_type: directional
 prep_case: accusative
-comment: во
+comment: Aus 'в' wird 'во', um bestimmte Konsonantenhäufungen zu vermeiden.
 usage: null
 etymol: null

@@ -2,9 +2,9 @@ wordcls: substantive
 name: сентябрь
 name_ac: сентя́брь
 translation:
-- September
+  - September
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
 is_animate: null
 is_sin_tan: null

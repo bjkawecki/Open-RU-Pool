@@ -61,6 +61,7 @@ pro_type = {
     6: "definite",
     7: "indefinite",
     8: "negation",
+    9: "reflexive",
 }
 
 

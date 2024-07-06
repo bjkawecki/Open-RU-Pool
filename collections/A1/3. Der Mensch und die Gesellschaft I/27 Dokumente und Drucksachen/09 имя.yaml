@@ -1,1 +1,41 @@
 name: имя
+name_ac: и́мя
+wordcls: substantive
+translation:
+  - Name
+  - Vorname
+
+genus: neutral
+
+dec_cls: irregular
+
+stress: shifting
+
+is_animate: false
+
+is_sin_tan: null
+
+is_plu_tan: null
+
+sin_nom: и́мя
+sin_gen: и́ме­ни
+sin_dat: и́ме­ни
+sin_acc: и́мя
+sin_ins: и́ме­нем
+sin_pre: и́ме­ни
+
+plu_nom: име­на́
+plu_gen: им­ён
+plu_dat: име­на́м
+plu_acc: име­на́
+plu_ins: име­на́­ми
+plu_pre: име­на́х
+
+partitive: null
+locative: null
+
+comment: null
+
+usage: null
+
+etymol: null

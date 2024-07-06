@@ -2,7 +2,7 @@ name: левый
 name_ac: ле́вый
 wordcls: adjective
 translation:
-- linker
+  - linker
 is_gradable: true
 mas_nom: ле́вый
 mas_gen: ле́­во­го

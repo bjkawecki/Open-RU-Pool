@@ -2,12 +2,12 @@ wordcls: substantive
 name: Австралия
 name_ac: Австра́лия
 translation:
-- Australien
+  - Australien
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
-is_sin_tan: null
+is_sin_tan: true
 is_plu_tan: null
 sin_nom: Австра́лия
 sin_gen: Австра́лии
@@ -15,12 +15,12 @@ sin_dat: Австра́лии
 sin_acc: Австра́лию
 sin_ins: Австра́лией
 sin_pre: Австра́лии
-plu_nom: Австра́лии
-plu_gen: Австра́лий
-plu_dat: Австра́лиям
-plu_acc: Австра́лии
-plu_ins: Австра́лиями
-plu_pre: Австра́лиях
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
 partitive: null
 locative: null
 comment: null

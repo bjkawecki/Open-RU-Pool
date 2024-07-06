@@ -2,7 +2,7 @@ name: три
 name_ac: три
 wordcls: numeral
 translation:
-- drei
+  - drei
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

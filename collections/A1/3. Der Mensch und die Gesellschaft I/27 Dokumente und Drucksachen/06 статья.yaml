@@ -1,10 +1,12 @@
-wordcls: substantive
 name: статья
 name_ac: статья́
+wordcls: substantive
 translation:
-- Artikel
+  - Artikel
+  - Aufsatz
+  - Beitrag
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: null
 is_sin_tan: null

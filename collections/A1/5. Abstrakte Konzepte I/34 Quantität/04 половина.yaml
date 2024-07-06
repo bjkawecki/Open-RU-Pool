@@ -2,9 +2,9 @@ wordcls: substantive
 name: половина
 name_ac: полови́на
 translation:
-- Hälfte
+  - Hälfte
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

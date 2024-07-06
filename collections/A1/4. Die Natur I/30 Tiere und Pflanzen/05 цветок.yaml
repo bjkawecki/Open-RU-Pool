@@ -2,9 +2,9 @@ wordcls: substantive
 name: цветок
 name_ac: цвето́к
 translation:
-- Blume
+  - Blume
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
 is_animate: null
 is_sin_tan: null

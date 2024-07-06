@@ -2,7 +2,7 @@ name: наш
 name_ac: наш
 wordcls: pronoun
 translation:
-- unser
+  - unser
 pro_type: possessive
 dec_type: adjective
 mas_nom: наш

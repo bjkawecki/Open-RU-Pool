@@ -2,7 +2,7 @@ name: две
 name_ac: две
 wordcls: numeral
 translation:
-- zwei
+  - zwei
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

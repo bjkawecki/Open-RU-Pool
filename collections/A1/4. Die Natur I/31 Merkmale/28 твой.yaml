@@ -2,7 +2,7 @@ name: твой
 name_ac: твой
 wordcls: pronoun
 translation:
-- dein
+  - dein
 pro_type: possessive
 dec_type: adjective
 mas_nom: твой

@@ -2,7 +2,7 @@ name: тысяча
 name_ac: ты́сяча
 wordcls: numeral
 translation:
-- tausend
+  - tausend
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

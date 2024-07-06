@@ -2,7 +2,7 @@ name: белый
 name_ac: бе́лый
 wordcls: adjective
 translation:
-- weiß
+  - weiß
 is_gradable: true
 mas_nom: бе́лый
 mas_gen: бе́­ло­го

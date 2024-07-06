@@ -2,7 +2,7 @@ name: десять
 name_ac: де́сять
 wordcls: numeral
 translation:
-- zehn
+  - zehn
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

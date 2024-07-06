@@ -2,7 +2,7 @@ name: восемьсот
 name_ac: восемьсо́т
 wordcls: numeral
 translation:
-- achthundert
+  - achthundert
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

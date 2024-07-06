@@ -2,7 +2,7 @@ name: девяносто
 name_ac: девяно́сто
 wordcls: numeral
 translation:
-- neunzig
+  - neunzig
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

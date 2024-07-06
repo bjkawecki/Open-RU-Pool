@@ -2,7 +2,7 @@ name: одиннадцать
 name_ac: оди́ннадцать
 wordcls: numeral
 translation:
-- elf
+  - elf
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

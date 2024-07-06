@@ -2,7 +2,7 @@ name: пять
 name_ac: пять
 wordcls: numeral
 translation:
-- fünf
+  - fünf
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

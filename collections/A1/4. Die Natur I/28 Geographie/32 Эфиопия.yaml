@@ -2,9 +2,9 @@ wordcls: substantive
 name: Эфиопия
 name_ac: Эфио́пия
 translation:
-- Äthiopien
+  - Äthiopien
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: null
 is_animate: null
 is_sin_tan: null

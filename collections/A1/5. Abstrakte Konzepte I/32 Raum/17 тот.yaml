@@ -1,1 +1,50 @@
 name: тот
+name_ac: тот
+wordcls: pronoun
+translation:
+  - jener
+
+pro_type: demonstrative
+
+dec_type: adjective
+
+mas_nom: тот
+mas_gen: то­го́
+mas_dat: то­му́
+mas_acc: тот
+mas_ins: тем
+mas_pre: том
+
+fem_nom: та
+fem_gen: той
+fem_dat: той
+fem_acc: ту
+fem_ins: то́й
+fem_pre: той
+
+neu_nom: то
+neu_gen: то­го́
+neu_dat: то­му́
+neu_acc: то
+neu_ins: тем
+neu_pre: том
+
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+
+plu_nom: те
+plu_gen: тех
+plu_dat: тем
+plu_acc: те
+plu_ins: те́­ми
+plu_pre: тех
+
+comment:
+
+usage:
+
+etymol:

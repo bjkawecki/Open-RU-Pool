@@ -2,7 +2,7 @@ name: двести
 name_ac: две́сти
 wordcls: numeral
 translation:
-- zweihundert
+  - zweihundert
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

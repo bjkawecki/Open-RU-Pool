@@ -2,10 +2,10 @@ wordcls: substantive
 name: земля
 name_ac: земля́
 translation:
-- Boden
-- Erde
+  - Boden
+  - Erde
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: null
 is_sin_tan: null

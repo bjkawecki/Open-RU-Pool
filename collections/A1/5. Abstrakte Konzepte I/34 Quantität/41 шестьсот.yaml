@@ -2,7 +2,7 @@ name: шестьсот
 name_ac: шестьсо́т
 wordcls: numeral
 translation:
-- sechshundert
+  - sechshundert
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

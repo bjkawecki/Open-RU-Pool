@@ -2,7 +2,7 @@ name: красный
 name_ac: кра́сный
 wordcls: adjective
 translation:
-- rot
+  - rot
 is_gradable: true
 mas_nom: кра́сный
 mas_gen: кра́с­но­го

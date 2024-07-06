@@ -2,7 +2,7 @@ name: триста
 name_ac: три́ста
 wordcls: numeral
 translation:
-- dreihundert
+  - dreihundert
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

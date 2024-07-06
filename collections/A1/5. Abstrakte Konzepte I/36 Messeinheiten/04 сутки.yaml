@@ -2,9 +2,9 @@ wordcls: substantive
 name: сутки
 name_ac: су́тки
 translation:
-- Tag
-- 24 Stunden
-- Tag und Nacht
+  - Tag
+  - 24 Stunden
+  - Tag und Nacht
 genus: none
 dec_cls: irregular
 stress: root

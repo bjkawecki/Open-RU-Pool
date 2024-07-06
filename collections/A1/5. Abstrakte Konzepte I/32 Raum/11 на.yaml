@@ -2,7 +2,7 @@ name: на
 name_ac: на
 wordcls: preposition
 translation:
-- auf
+  - auf
 prep_type: local
 prep_case: prepositive
 comment: null

@@ -2,7 +2,7 @@ name: четыреста
 name_ac: четы́реста
 wordcls: numeral
 translation:
-- vierhundert
+  - vierhundert
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

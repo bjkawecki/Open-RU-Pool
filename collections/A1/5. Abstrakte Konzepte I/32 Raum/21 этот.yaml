@@ -1,1 +1,50 @@
 name: этот
+name_ac: э́тот
+wordcls: pronoun
+translation:
+  - dieser
+
+pro_type: demonstrative
+
+dec_type: adjective
+
+mas_nom: э́тот
+mas_gen: э́то­го
+mas_dat: э́то­му
+mas_acc: э́тот
+mas_ins: э́тем
+mas_pre: э́том
+
+fem_nom: э́та
+fem_gen: э́той
+fem_dat: э́той
+fem_acc: э́ту
+fem_ins: э́той
+fem_pre: э́той
+
+neu_nom: э́то
+neu_gen: э́то­го
+neu_dat: э́то­му
+neu_acc: э́то
+neu_ins: э́тем
+neu_pre: э́том
+
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+
+plu_nom: э́ти
+plu_gen: э́тих
+plu_dat: э́тим
+plu_acc: э́ти
+plu_ins: э́ти­ми
+plu_pre: э́тих
+
+comment:
+
+usage:
+
+etymol:

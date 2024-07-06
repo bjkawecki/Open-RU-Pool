@@ -2,7 +2,7 @@ name: жёлтый
 name_ac: жёлтый
 wordcls: adjective
 translation:
-- gelb
+  - gelb
 is_gradable: true
 mas_nom: жёлтый
 mas_gen: жёл­то­го

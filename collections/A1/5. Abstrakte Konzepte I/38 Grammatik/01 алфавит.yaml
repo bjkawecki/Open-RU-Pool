@@ -1,1 +1,40 @@
 name: алфавит
+name_ac: ал­фа­ви́т
+wordcls: substantive
+translation:
+  - Alphabet
+
+genus: masculine
+
+dec_cls: "2"
+
+stress: root
+
+is_animate: false
+
+is_sin_tan: null
+
+is_plu_tan: null
+
+sin_nom: ал­фа­ви́т
+sin_gen: ал­фа­ви́­та
+sin_dat: ал­фа­ви́­ту
+sin_acc: ал­фа­ви́т
+sin_ins: ал­фа­ви́т­ом
+sin_pre: ал­фа­ви́­те
+
+plu_nom: ал­фа­ви́­ты
+plu_gen: ал­фа­ви́т­ов
+plu_dat: ал­фа­ви́т­ам
+plu_acc: ал­фа­ви́­ты
+plu_ins: ал­фа­ви́­та­ми
+plu_pre: ал­фа­ви́т­ах
+
+partitive: null
+locative: null
+
+comment: null
+
+usage: null
+
+etymol: Greek

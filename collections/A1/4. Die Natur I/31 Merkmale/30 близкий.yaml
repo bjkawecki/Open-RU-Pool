@@ -3,6 +3,47 @@ name_ac: бли́зкий
 wordcls: adjective
 translation:
   - nah
+
+is_gradable: true
+
+mas_nom: бли́з­кий
+mas_gen: бли́з­ко­го
+mas_dat: бли́з­ко­му
+mas_acc: бли́з­кий
+mas_ins: бли́з­ким
+mas_pre: бли́з­ком
+
+fem_nom: бли́з­кая
+fem_gen: бли́з­кой
+fem_dat: бли́з­кой
+fem_acc: бли́з­кую
+fem_ins: бли́з­кой
+fem_pre: бли́з­кой
+
+neu_nom: бли́з­кое
+neu_gen: бли́з­ко­го
+neu_dat: бли́з­ко­му
+neu_acc: бли́з­кое
+neu_ins: бли́з­ким
+neu_pre: бли́з­ком
+
+plu_nom: бли́з­кие
+plu_gen: бли́з­ких
+plu_dat: бли́з­ким
+plu_acc: бли́з­кие
+plu_ins: бли́з­ки­ми
+plu_pre: бли́з­ких
+
+sho_mas: бли́­зок
+sho_fem: близ­ка́
+sho_neu: бли́з­ко
+sho_plu: бли́з­ки
+
+compara: бли́­же
+superla: самый бли́з­кий
+
 comment: null
+
 usage: null
+
 etymol: null

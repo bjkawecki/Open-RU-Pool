@@ -2,7 +2,7 @@ name: мой
 name_ac: мой
 wordcls: pronoun
 translation:
-- mein
+  - mein
 pro_type: possessive
 dec_type: adjective
 mas_nom: мой

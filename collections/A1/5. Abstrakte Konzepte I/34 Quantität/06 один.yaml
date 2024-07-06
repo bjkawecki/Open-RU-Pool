@@ -2,7 +2,7 @@ name: один
 name_ac: оди́н
 wordcls: numeral
 translation:
-- ein
+  - ein
 num_type: cardinal
 dec_type: substantive
 mas_nom: од­и́н
@@ -35,6 +35,6 @@ plu_dat: од­ни́м
 plu_acc: од­ни́
 plu_ins: од­ни́­ми
 plu_pre: од­ни́х
-comment: männlich
+comment: null
 usage: null
 etymol: null

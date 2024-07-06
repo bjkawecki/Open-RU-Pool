@@ -2,7 +2,8 @@ name: ваш
 name_ac: ваш
 wordcls: pronoun
 translation:
-- ihr
+  - ihr
+  - Ihr
 pro_type: possessive
 dec_type: adjective
 mas_nom: ваш

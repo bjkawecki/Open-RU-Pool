@@ -1,1 +1,41 @@
 name: анкета
+name_ac: ан­ке́­та
+wordcls: substantive
+translation:
+  - Fragebogen
+  - Umfrage
+
+genus: feminine
+
+dec_cls: "1"
+
+stress: root
+
+is_animate: false
+
+is_sin_tan: null
+
+is_plu_tan: null
+
+sin_nom: ан­ке́­та
+sin_gen: ан­ке́­ты
+sin_dat: ан­ке́­те
+sin_acc: ан­ке́­ту
+sin_ins: ан­ке́­той
+sin_pre: ан­ке́­те
+
+plu_nom: ан­ке́­ты
+plu_gen: ан­ке́т
+plu_dat: ан­ке́­там
+plu_acc: ан­ке́­ты
+plu_ins: ан­ке́­та­ми
+plu_pre: ан­ке́­тах
+
+partitive: null
+locative: null
+
+comment: null
+
+usage: null
+
+etymol: null

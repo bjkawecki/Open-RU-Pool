@@ -2,10 +2,10 @@ wordcls: substantive
 name: век
 name_ac: век
 translation:
-- Jahrhundert
-- Zeitalter
+  - Jahrhundert
+  - Zeitalter
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
 is_animate: null
 is_sin_tan: null

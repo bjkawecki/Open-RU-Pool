@@ -2,7 +2,7 @@ name: двенадцать
 name_ac: двена́дцать
 wordcls: numeral
 translation:
-- zwölf
+  - zwölf
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

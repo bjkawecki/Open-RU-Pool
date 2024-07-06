@@ -2,7 +2,7 @@ name: семьдесят
 name_ac: се́мьдесят
 wordcls: numeral
 translation:
-- siebzig
+  - siebzig
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

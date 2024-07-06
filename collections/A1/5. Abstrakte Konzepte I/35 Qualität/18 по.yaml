@@ -1,1 +1,17 @@
 name: по
+name_ac: по
+wordcls: preposition
+translation:
+  - durch
+  - bezüglich
+  - bis
+
+prep_type:
+
+prep_case: dative
+
+comment: Eine vielseitig einsetzbare Präposition, die sich nicht eindeutig ins Deutsche übersetzen lässt.
+
+usage: null
+
+etymol: null

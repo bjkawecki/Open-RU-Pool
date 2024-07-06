@@ -2,9 +2,9 @@ name: что
 name_ac: что
 wordcls: pronoun
 translation:
-- was
-pro_type: null
-dec_type: null
+  - was
+pro_type: interrogative
+dec_type: substantive
 mas_nom: null
 mas_gen: null
 mas_dat: null

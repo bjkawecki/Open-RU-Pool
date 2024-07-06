@@ -2,9 +2,9 @@ name: кто
 name_ac: кто
 wordcls: pronoun
 translation:
-- wer
-pro_type: null
-dec_type: null
+  - wer
+pro_type: interrogative
+dec_type: substantive
 mas_nom: null
 mas_gen: null
 mas_dat: null

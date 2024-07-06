@@ -2,9 +2,9 @@ wordcls: substantive
 name: Азия
 name_ac: А́зия
 translation:
-- Asien
+  - Asien
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: true

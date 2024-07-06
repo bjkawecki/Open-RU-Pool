@@ -2,7 +2,7 @@ name: семнадцать
 name_ac: семна́дцать
 wordcls: numeral
 translation:
-- siebzehn
+  - siebzehn
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

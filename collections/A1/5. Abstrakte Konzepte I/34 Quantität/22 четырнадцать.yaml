@@ -2,7 +2,7 @@ name: четырнадцать
 name_ac: четы́рнадцать
 wordcls: numeral
 translation:
-- vierzehn
+  - vierzehn
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

@@ -1,8 +1,49 @@
-name: жарко
-name_ac: жа́рко
-wordcls: adverb
+name: жаркий
+name_ac: жа́ркий
+wordcls: adjective
 translation:
-- heiß
-comment: null
-usage: null
-etymol: null
+  - heiß
+
+is_gradable: true
+
+mas_nom: жа́р­кий
+mas_gen: жа́р­ко­го
+mas_dat: жа́р­ко­му
+mas_acc: жа́р­кий
+mas_ins: жа́р­ким
+mas_pre: жа́р­ком
+
+fem_nom: жа́р­кая
+fem_gen: жа́р­кой
+fem_dat: жа́р­кой
+fem_acc: жа́р­кую
+fem_ins: жа́р­кой
+fem_pre: жа́р­кой
+
+neu_nom: жа́р­кое
+neu_gen: жа́р­ко­го
+neu_dat: жа́р­ко­му
+neu_acc: жа́р­кое
+neu_ins: жа́р­ким
+neu_pre: жа́р­ком
+
+plu_nom: жа́р­кие
+plu_gen: жа́р­ких
+plu_dat: жа́р­ким
+plu_acc: жа́р­кие
+plu_ins: жа́р­ки­ми
+plu_pre: жа́р­ких
+
+sho_mas: жа́­рок
+sho_fem: жар­ка́
+sho_neu: жа́р­ко
+sho_plu: жа́р­ки
+
+compara: жа́р­че
+superla: самый жаркий
+
+comment: In Bezug auf das Wetter und die Körpertemperatur.
+
+usage:
+
+etymol:

@@ -2,7 +2,7 @@ name: девятьсот
 name_ac: девятьсо́т
 wordcls: numeral
 translation:
-- neunhundert
+  - neunhundert
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

@@ -2,7 +2,7 @@ name: семь
 name_ac: семь
 wordcls: numeral
 translation:
-- sieben
+  - sieben
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

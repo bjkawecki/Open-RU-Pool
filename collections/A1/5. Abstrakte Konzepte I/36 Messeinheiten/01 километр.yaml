@@ -2,9 +2,9 @@ wordcls: substantive
 name: километр
 name_ac: киломе́тр
 translation:
-- Kilometer
+  - Kilometer
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

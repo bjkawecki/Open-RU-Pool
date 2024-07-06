@@ -2,9 +2,9 @@ wordcls: substantive
 name: Финляндия
 name_ac: Финля́ндия
 translation:
-- Finnland
+  - Finnland
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: true

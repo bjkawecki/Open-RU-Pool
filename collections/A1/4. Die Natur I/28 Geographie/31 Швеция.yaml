@@ -2,12 +2,12 @@ wordcls: substantive
 name: Швеция
 name_ac: Шве́ция
 translation:
-- Schweden
+  - Schweden
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
-is_sin_tan: true
+is_sin_tan: null
 is_plu_tan: null
 sin_nom: Шве́ция
 sin_gen: Шве́ции
@@ -15,12 +15,12 @@ sin_dat: Шве́ции
 sin_acc: Шве́цию
 sin_ins: Шве́цией
 sin_pre: Шве́ции
-plu_nom: null
-plu_gen: null
-plu_dat: null
-plu_acc: null
-plu_ins: null
-plu_pre: null
+plu_nom: Шве́ции
+plu_gen: Шве́ций
+plu_dat: Шве́цияи
+plu_acc: Шве́ции
+plu_ins: Шве́циями
+plu_pre: Шве́циях
 partitive: null
 locative: null
 comment: null

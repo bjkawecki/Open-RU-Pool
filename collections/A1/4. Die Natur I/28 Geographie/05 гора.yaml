@@ -2,9 +2,9 @@ wordcls: substantive
 name: гора
 name_ac: гора́
 translation:
-- Berg
+  - Berg
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: shifting
 is_animate: null
 is_sin_tan: null

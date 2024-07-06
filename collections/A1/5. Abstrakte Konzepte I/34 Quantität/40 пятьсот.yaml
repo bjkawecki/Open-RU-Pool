@@ -2,7 +2,7 @@ name: пятьсот
 name_ac: пятьсо́т
 wordcls: numeral
 translation:
-- fünfhundert
+  - fünfhundert
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

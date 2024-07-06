@@ -2,9 +2,9 @@ name: их
 name_ac: их
 wordcls: pronoun
 translation:
-- sie
-pro_type: personal
-dec_type: substantive
+  - ihr
+pro_type: possessive
+dec_type: none
 mas_nom: null
 mas_gen: null
 mas_dat: null
@@ -23,18 +23,18 @@ neu_dat: null
 neu_acc: null
 neu_ins: null
 neu_pre: null
-sin_nom: они́
-sin_gen: (н)и́х
-sin_dat: (н)им
-sin_acc: (н)и́х
-sin_ins: (н)и́­ми
-sin_pre: о ни́х
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: null
 plu_gen: null
 plu_dat: null
 plu_acc: null
 plu_ins: null
 plu_pre: null
-comment: Akkusativ Plural
+comment: 3. Person Plural
 usage: null
 etymol: null

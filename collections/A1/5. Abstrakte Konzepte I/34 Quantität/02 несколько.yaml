@@ -2,9 +2,9 @@ name: несколько
 name_ac: не́сколько
 wordcls: adverb
 translation:
-- einige
-- mehrere
-- ein paar
+  - einige
+  - mehrere
+  - ein paar
 comment: null
 usage: null
 etymol: null

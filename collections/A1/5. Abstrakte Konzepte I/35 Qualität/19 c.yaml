@@ -1,1 +1,15 @@
-name: c, со
+name: c
+name_ac: c
+wordcls: preposition
+translation:
+  - mit
+
+prep_type: modal
+
+prep_case: instrumental
+
+comment: Aus 'с' wird 'со', um bestimmte Konsonantenhäufungen zu vermeiden.
+
+usage:
+
+etymol:

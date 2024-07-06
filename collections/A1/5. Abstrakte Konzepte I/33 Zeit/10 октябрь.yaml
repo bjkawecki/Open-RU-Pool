@@ -2,9 +2,9 @@ wordcls: substantive
 name: октябрь
 name_ac: октя́брь
 translation:
-- Oktober
+  - Oktober
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
 is_animate: null
 is_sin_tan: null

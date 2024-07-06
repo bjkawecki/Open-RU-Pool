@@ -2,7 +2,7 @@ name: девять
 name_ac: де́вять
 wordcls: numeral
 translation:
-- neun
+  - neun
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

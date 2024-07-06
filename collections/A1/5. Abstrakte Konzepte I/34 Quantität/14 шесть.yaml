@@ -2,7 +2,7 @@ name: шесть
 name_ac: шесть
 wordcls: numeral
 translation:
-- sechs
+  - sechs
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

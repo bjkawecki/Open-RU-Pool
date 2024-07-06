@@ -2,7 +2,7 @@ name: восемь
 name_ac: во́семь
 wordcls: numeral
 translation:
-- acht
+  - acht
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

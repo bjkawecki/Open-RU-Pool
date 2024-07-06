@@ -2,7 +2,7 @@ name: тринадцать
 name_ac: трина́дцать
 wordcls: numeral
 translation:
-- dreizehn
+  - dreizehn
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

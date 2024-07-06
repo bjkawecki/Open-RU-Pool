@@ -1,1 +1,51 @@
 name: весь
+name_ac: весь
+wordcls: pronoun
+translation:
+  - alle
+  - ganzer
+
+pro_type: indefinite
+
+dec_type: adjective
+
+mas_nom: весь
+mas_gen: все­го́
+mas_dat: все­му́
+mas_acc: весь
+mas_ins: всем
+mas_pre: всём
+
+fem_nom: вся
+fem_gen: всей
+fem_dat: всей
+fem_acc: всю
+fem_ins: все́й
+fem_pre: всей
+
+neu_nom: всё
+neu_gen: все­го́
+neu_dat: все­му́
+neu_acc: всё
+neu_ins: всем
+neu_pre: всём
+
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
+
+plu_nom: все
+plu_gen: всех
+plu_dat: всем
+plu_acc: все
+plu_ins: все́­ми
+plu_pre: всех
+
+comment: null
+
+usage: null
+
+etymol: null

@@ -2,9 +2,9 @@ wordcls: substantive
 name: море
 name_ac: мо́ре
 translation:
-- Meer
+  - Meer
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
 is_animate: null
 is_sin_tan: null

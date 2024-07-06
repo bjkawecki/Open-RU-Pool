@@ -2,7 +2,7 @@ name: из
 name_ac: из
 wordcls: preposition
 translation:
-- aus
+  - aus
 prep_type: directional
 prep_case: genitive
 comment: null

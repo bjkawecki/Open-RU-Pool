@@ -2,7 +2,7 @@ name: большой
 name_ac: большо́й
 wordcls: adjective
 translation:
-- groß
+  - groß
 is_gradable: true
 mas_nom: большо́й
 mas_gen: боль­шо́­го

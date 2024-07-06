@@ -2,9 +2,10 @@ wordcls: substantive
 name: марка
 name_ac: ма́рка
 translation:
-- Marke
+  - Marke
+  - Mark
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

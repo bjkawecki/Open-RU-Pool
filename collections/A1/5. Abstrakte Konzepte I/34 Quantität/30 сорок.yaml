@@ -2,7 +2,7 @@ name: сорок
 name_ac: со́рок
 wordcls: numeral
 translation:
-- vierzig
+  - vierzig
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

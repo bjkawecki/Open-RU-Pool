@@ -2,7 +2,7 @@ name: семьсот
 name_ac: семьсо́т
 wordcls: numeral
 translation:
-- siebenhundert
+  - siebenhundert
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

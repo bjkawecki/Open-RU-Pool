@@ -1,1 +1,49 @@
 name: тёплый
+name_ac: тёп­лый
+wordcls: adjective
+translation:
+  - warm
+
+is_gradable: true
+
+mas_nom: тёп­лый
+mas_gen: тёп­ло­го
+mas_dat: тёп­ло­му
+mas_acc: тёп­лый
+mas_ins: тёп­лым
+mas_pre: тёп­лом
+
+fem_nom: тёп­лая
+fem_gen: тёп­лой
+fem_dat: тёп­лой
+fem_acc: тёп­лую
+fem_ins: тёп­лой
+fem_pre: тёп­лой
+
+neu_nom: тёп­лое
+neu_gen: тёп­ло­го
+neu_dat: тёп­ло­му
+neu_acc: тёп­лое
+neu_ins: тёп­лым
+neu_pre: тёп­лом
+
+plu_nom: тёп­лые
+plu_gen: тёп­лых
+plu_dat: тёп­лым
+plu_acc: тёп­лые
+plu_ins: тёп­лы­ми
+plu_pre: тёплых
+
+sho_mas: тё­пел
+sho_fem: теп­ла́
+sho_neu: теп­ло́
+sho_plu: теп­лы́
+
+compara: теп­ле́е
+superla: самый тёплый
+
+comment: null
+
+usage: null
+
+etymol: null

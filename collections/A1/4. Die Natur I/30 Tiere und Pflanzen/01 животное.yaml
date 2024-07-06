@@ -2,7 +2,7 @@ wordcls: substantive
 name: животное
 name_ac: живо́тное
 translation:
-- Tier
+  - Tier
 genus: neutral
 dec_cls: adjective
 stress: root

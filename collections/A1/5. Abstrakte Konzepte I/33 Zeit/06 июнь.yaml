@@ -1,15 +1,15 @@
-wordcls: substantive
 name: июнь
-name_ac: июнь
+name_ac: ию́нь
+wordcls: substantive
 translation:
-- Juni
+  - Juni
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null
 is_plu_tan: null
-sin_nom: июнь
+sin_nom: ию́нь
 sin_gen: ию́ня
 sin_dat: ию́ню
 sin_acc: ию́нь

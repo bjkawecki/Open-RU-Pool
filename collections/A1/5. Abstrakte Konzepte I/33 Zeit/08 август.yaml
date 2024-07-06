@@ -2,9 +2,9 @@ wordcls: substantive
 name: август
 name_ac: а́вгуст
 translation:
-- August
+  - August
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

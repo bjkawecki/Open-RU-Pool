@@ -2,7 +2,7 @@ name: чей
 name_ac: чей
 wordcls: pronoun
 translation:
-- wessen
+  - wessen
 pro_type: interrogative
 dec_type: adjective
 mas_nom: чей

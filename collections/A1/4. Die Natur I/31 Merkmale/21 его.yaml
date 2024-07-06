@@ -2,9 +2,9 @@ name: его
 name_ac: его́
 wordcls: pronoun
 translation:
-- ihn
-pro_type: personal
-dec_type: substantive
+  - sein
+pro_type: possessive
+dec_type: none
 mas_nom: null
 mas_gen: null
 mas_dat: null
@@ -23,12 +23,12 @@ neu_dat: null
 neu_acc: null
 neu_ins: null
 neu_pre: null
-sin_nom: он
-sin_gen: (н)е­го́
-sin_dat: (н)е­му́
-sin_acc: (н)е­го́
-sin_ins: (н)им
-sin_pre: о нём
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 plu_nom: null
 plu_gen: null
 plu_dat: null

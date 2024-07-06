@@ -2,7 +2,7 @@ name: свой
 name_ac: свой
 wordcls: pronoun
 translation:
-- eigener
+  - eigener
 pro_type: possessive
 dec_type: adjective
 mas_nom: свой

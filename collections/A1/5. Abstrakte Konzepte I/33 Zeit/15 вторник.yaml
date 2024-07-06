@@ -2,9 +2,9 @@ wordcls: substantive
 name: вторник
 name_ac: вто́рник
 translation:
-- Dienstag
+  - Dienstag
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

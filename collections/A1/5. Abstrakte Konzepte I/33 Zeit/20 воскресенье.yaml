@@ -2,9 +2,9 @@ wordcls: substantive
 name: воскресенье
 name_ac: воскресе́нье
 translation:
-- Sonntag
+  - Sonntag
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

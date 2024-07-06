@@ -2,7 +2,7 @@ name: четыре
 name_ac: четы́ре
 wordcls: numeral
 translation:
-- vier
+  - vier
 num_type: cardinal
 dec_type: adjective
 mas_nom: null

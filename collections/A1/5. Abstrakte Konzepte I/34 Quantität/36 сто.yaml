@@ -2,7 +2,7 @@ name: сто
 name_ac: сто
 wordcls: numeral
 translation:
-- hundert
+  - hundert
 num_type: cardinal
 dec_type: adjective
 mas_nom: null
