@@ -1,10 +1,11 @@
 name: творительный падёж
-name_ac:
+name_ac: твори́тельный падёж
 wordcls: compound
 translation:
+  - Instrumental
 
 comment:
 
-usage:
+usage: term
 
 etymol:

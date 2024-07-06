@@ -1,39 +1,41 @@
 name: грамматика
-name_ac:
+name_ac: грам­ма́­ти­ка
 wordcls: substantive
 translation:
+  - Grammatik
+  - Sprachlehre
 
-genus:
+genus: feminine
 
-dec_cls:
+dec_cls: "1"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: грам­ма́­ти­ка
+sin_gen: грам­ма́­ти­ки
+sin_dat: грам­ма́­ти­ке
+sin_acc: грам­ма́­ти­ку
+sin_ins: грам­ма́­ти­кой
+sin_pre: грам­ма́­ти­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: грам­ма́­ти­ки
+plu_gen: грам­ма́­тик
+plu_dat: грам­ма́­тик­ам
+plu_acc: грам­ма́­ти­ки
+plu_ins: грам­ма́­ти­ка­ми
+plu_pre: грам­ма́­тик­ах
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: null
 
-etymol:
+etymol: null

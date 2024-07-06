@@ -1,10 +1,11 @@
 name: предложный падёж
-name_ac:
+name_ac: предло́жный падёж
 wordcls: compound
 translation:
+  - Präpositiv
 
 comment:
 
-usage:
+usage: term
 
 etymol:

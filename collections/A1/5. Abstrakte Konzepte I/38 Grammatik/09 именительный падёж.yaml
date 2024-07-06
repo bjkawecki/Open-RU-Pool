@@ -1,10 +1,11 @@
 name: именительный падёж
-name_ac:
+name_ac: имени́тельный падёж
 wordcls: compound
 translation:
+  - Nominativ
 
 comment:
 
-usage:
+usage: term
 
 etymol:

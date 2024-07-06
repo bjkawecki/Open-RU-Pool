@@ -1,10 +1,11 @@
 name: возвратный глагол
-name_ac:
+name_ac: возвра́тный глаго́л
 wordcls: compound
 translation:
+  - reflexives Verb
 
 comment:
 
-usage:
+usage: term
 
 etymol:

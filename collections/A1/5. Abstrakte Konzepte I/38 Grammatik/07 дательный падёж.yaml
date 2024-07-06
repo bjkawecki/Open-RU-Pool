@@ -1,10 +1,11 @@
 name: дательный падёж
-name_ac:
+name_ac: да́тельный падёж
 wordcls: compound
 translation:
+  - Dativ
 
 comment:
 
-usage:
+usage: term
 
 etymol:

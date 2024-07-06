@@ -1,10 +1,11 @@
 name: родительный падёж
-name_ac:
+name_ac: роди́тельный падёж
 wordcls: compound
 translation:
+  - Genitiv
 
 comment:
 
-usage:
+usage: term
 
 etymol:

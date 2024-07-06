@@ -1,10 +1,12 @@
 name: множественное число
-name_ac:
+name_ac: мно́жественное число́
 wordcls: compound
 translation:
+  - Plural
+  - Mehrzahl
 
 comment:
 
-usage:
+usage: term
 
 etymol:

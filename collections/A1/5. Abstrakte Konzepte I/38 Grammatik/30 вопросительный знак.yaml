@@ -1,10 +1,11 @@
 name: вопросительный знак
-name_ac:
+name_ac: вопроси́тельный знак
 wordcls: compound
 translation:
+  - Fragezeichen
 
 comment:
 
-usage:
+usage: term
 
 etymol:

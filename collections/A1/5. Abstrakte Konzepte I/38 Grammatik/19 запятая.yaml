@@ -1,39 +1,40 @@
 name: запятая
-name_ac:
+name_ac: за­пя­та́я
 wordcls: substantive
 translation:
+  - Komma
 
-genus:
+genus: feminine
 
-dec_cls:
+dec_cls: "1"
 
-stress:
+stress: suffix
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: за­пя­та́я
+sin_gen: за­пя­то́й
+sin_dat: за­пя­то́й
+sin_acc: за­пя­ту́ю
+sin_ins: за­пя­то́й
+sin_pre: за­пя­то́й
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: за­пя­ты́е
+plu_gen: за­пят­ы́х
+plu_dat: за­пят­ы́м
+plu_acc: за­пя­ты́е
+plu_ins: за­пя­ты́­ми
+plu_pre: за­пят­ы́х
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: null
 
-etymol:
+etymol: null

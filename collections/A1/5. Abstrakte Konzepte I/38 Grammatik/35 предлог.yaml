@@ -1,39 +1,40 @@
 name: предлог
-name_ac:
+name_ac: пред­ло́г
 wordcls: substantive
 translation:
+  - Präposition
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: пред­ло́г
+sin_gen: пред­ло́­га
+sin_dat: пред­ло́­гу
+sin_acc: пред­ло́г
+sin_ins: пред­ло́­гом
+sin_pre: пред­ло́­ге
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: пред­ло́­га
+plu_gen: пред­ло́­ги
+plu_dat: пред­ло́­гов
+plu_acc: пред­ло́­га
+plu_ins: пред­ло́­га­ми
+plu_pre: пред­ло́­гах
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: term
 
-etymol:
+etymol: null

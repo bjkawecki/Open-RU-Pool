@@ -1,39 +1,40 @@
 name: наречие
-name_ac:
+name_ac: наре́чие
 wordcls: substantive
 translation:
+  - Adverb
 
-genus:
+genus: neutral
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: на­ре́­чие
+sin_gen: на­ре́­чия
+sin_dat: на­ре́­чию
+sin_acc: на­ре́­чие
+sin_ins: на­ре́­чи­ем
+sin_pre: на­ре́­чии
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: на­ре́­чия
+plu_gen: на­ре́­чий
+plu_dat: на­ре́­чи­ям
+plu_acc: на­ре́­чия
+plu_ins: на­ре́­чи­ями
+plu_pre: на­ре́­чи­ях
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: term
 
-etymol:
+etymol: null

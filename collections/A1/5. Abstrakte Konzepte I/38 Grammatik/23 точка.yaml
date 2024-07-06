@@ -1,39 +1,40 @@
 name: точка
-name_ac:
+name_ac: то́ч­ка
 wordcls: substantive
 translation:
+  - Punkt
 
-genus:
+genus: feminine
 
-dec_cls:
+dec_cls: "1"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: то́ч­ка
+sin_gen: то́ч­ки
+sin_dat: то́ч­ке
+sin_acc: то́ч­ку
+sin_ins: то́ч­кой
+sin_pre: то́ч­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: то́ч­ки
+plu_gen: то́­чек
+plu_dat: то́ч­кам
+plu_acc: то́ч­ки
+plu_ins: то́ч­ка­ми
+plu_pre: то́ч­ках
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: term
 
-etymol:
+etymol: null

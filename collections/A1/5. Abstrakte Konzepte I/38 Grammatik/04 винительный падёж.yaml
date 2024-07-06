@@ -1,10 +1,11 @@
 name: винительный падёж
-name_ac:
+name_ac: вини́тельный падёж
 wordcls: compound
 translation:
+  - Akkusativ
 
 comment:
 
-usage:
+usage: term
 
 etymol:

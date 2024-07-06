@@ -1,39 +1,40 @@
 name: местоимение
-name_ac:
+name_ac: мес­то­име́­ние
 wordcls: substantive
 translation:
+  - Pronomen
 
-genus:
+genus: neutral
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: мес­то­име́­ние
+sin_gen: мес­то­име́­ния
+sin_dat: мес­то­име́­нию
+sin_acc: мес­то­име́­ние
+sin_ins: мес­то­име́­ни­ем
+sin_pre: мес­то­име́­нии
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: мес­то­име́­ния
+plu_gen: мес­то­име́­ний
+plu_dat: мес­то­име́­ни­ям
+plu_acc: мес­то­име́­ния
+plu_ins: мес­то­име́­ни­ями
+plu_pre: мес­то­име́­ни­ях
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: null
 
-etymol:
+etymol: null

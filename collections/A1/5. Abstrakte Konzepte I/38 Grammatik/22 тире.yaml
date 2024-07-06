@@ -1,39 +1,40 @@
 name: тире
-name_ac:
+name_ac: тире́
 wordcls: substantive
 translation:
+  - Gedankenstrich
 
-genus:
+genus: neutral
 
-dec_cls:
+dec_cls: none
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: тире́
+sin_gen: тире́
+sin_dat: тире́
+sin_acc: тире́
+sin_ins: тире́
+sin_pre: тире́
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: тире́
+plu_gen: тире́
+plu_dat: тире́
+plu_acc: тире́
+plu_ins: тире́
+plu_pre: тире́
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: term
 
-etymol:
+etymol: null

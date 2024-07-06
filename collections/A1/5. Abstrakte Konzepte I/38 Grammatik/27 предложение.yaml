@@ -1,39 +1,42 @@
 name: предложение
-name_ac:
+name_ac: пред­ло­же́­ние
 wordcls: substantive
 translation:
+  - Satz
+  - Vorschlag
+  - Heiratsantrag
 
-genus:
+genus: neutral
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: пред­ло­же́­ние
+sin_gen: пред­ло­же́­ния
+sin_dat: пред­ло­же́­нию
+sin_acc: пред­ло­же́­ние
+sin_ins: пред­ло­же́­ни­ем
+sin_pre: пред­ло­же́­нии
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: пред­ло­же́­ния
+plu_gen: пред­ло­же́­ний
+plu_dat: пред­ло­же́­ни­ям
+plu_acc: пред­ло­же́­ния
+plu_ins: пред­ло­же́­ни­ями
+plu_pre: пред­ло­же́­ни­ях
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: null
 
-etymol:
+etymol: null

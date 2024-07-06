@@ -1,10 +1,12 @@
 name: средний род
-name_ac:
+name_ac: сре́дний род
 wordcls: compound
 translation:
+  - Neutrum
+  - sächliches Geschlecht
 
 comment:
 
-usage:
+usage: term
 
 etymol:

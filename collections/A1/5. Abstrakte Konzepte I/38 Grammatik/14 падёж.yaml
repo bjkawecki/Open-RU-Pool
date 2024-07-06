@@ -1,39 +1,41 @@
 name: падёж
-name_ac:
+name_ac: падёж
 wordcls: substantive
 translation:
+  - Kasus
+  - Fall
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: падёж
+sin_gen: па­де­жа́
+sin_dat: па­де­жу́
+sin_acc: па­дёж
+sin_ins: па­деж­о́м
+sin_pre: па­де­же́
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: па­де­жи́
+plu_gen: па­де­же́й
+plu_dat: па­деж­а́м
+plu_acc: па­де­жи́
+plu_ins: па­де­жа́­ми
+plu_pre: па­деж­а́х
 
 partitive:
 locative:
 
 comment:
 
-usage:
+usage: term
 
 etymol:

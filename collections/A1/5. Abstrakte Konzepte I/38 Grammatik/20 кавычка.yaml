@@ -1,39 +1,40 @@
 name: кавычка
-name_ac:
+name_ac: ка­вы́ч­ка
 wordcls: substantive
 translation:
+  - Anführungszeichen
 
-genus:
+genus: feminine
 
-dec_cls:
+dec_cls: "1"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ка­вы́ч­ка
+sin_gen: ка­вы́ч­ки
+sin_dat: ка­вы́ч­ке
+sin_acc: ка­вы́ч­ку
+sin_ins: ка­вы́ч­кой
+sin_pre: ка­вы́ч­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ка­вы́ч­ки
+plu_gen: ка­вы́ч­ек
+plu_dat: ка­вы́ч­кам
+plu_acc: ка­вы́ч­ки
+plu_ins: ка­вы́ч­ка­ми
+plu_pre: ка­вы́ч­ках
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: term
 
-etymol:
+etymol: null

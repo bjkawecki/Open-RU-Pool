@@ -1,39 +1,42 @@
 name: термин
-name_ac:
+name_ac: те́р­мин
 wordcls: substantive
 translation:
+  - Fachwort
+  - Bezeichnung
+  - Begriff
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: те́р­мин
+sin_gen: те́р­ми­на
+sin_dat: те́р­ми­ну
+sin_acc: те́р­мин
+sin_ins: те́р­ми­ном
+sin_pre: те́р­ми­не
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: те́р­ми­ны
+plu_gen: те́р­ми­нов
+plu_dat: те́р­ми­нам
+plu_acc: те́р­ми­ны
+plu_ins: те́р­ми­на­ми
+plu_pre: те́р­ми­нах
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: null
 
-etymol:
+etymol: null

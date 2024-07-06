@@ -1,10 +1,12 @@
 name: единственное число
-name_ac:
+name_ac: еди́нственное число́
 wordcls: compound
 translation:
+  - Singular
+  - Einzahl
 
 comment:
 
-usage:
+usage: term
 
 etymol:

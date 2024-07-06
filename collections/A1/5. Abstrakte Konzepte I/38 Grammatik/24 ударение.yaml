@@ -1,39 +1,41 @@
 name: ударение
-name_ac:
+name_ac: уда­ре́­ние
 wordcls: substantive
 translation:
+  - Betonung
+  - Akzent
 
-genus:
+genus: neutral
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: уда­ре́­ние
+sin_gen: уда­ре́­ния
+sin_dat: уда­ре́­нию
+sin_acc: уда­ре́­ние
+sin_ins: уда­ре́­ни­ем
+sin_pre: уда­ре́­нии
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: уда­ре́­ния
+plu_gen: уда­ре́­ний
+plu_dat: уда­ре́­ни­ям
+plu_acc: уда­ре́­ния
+plu_ins: уда­ре́­ни­ями
+plu_pre: уда­ре́­ни­ях
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: term
 
-etymol:
+etymol: null

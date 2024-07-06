@@ -1,7 +1,9 @@
 name: мужской род
-name_ac:
+name_ac: мужско́й род
 wordcls: compound
 translation:
+  - Maskulinum
+  - männliches Geschlecht
 
 comment:
 

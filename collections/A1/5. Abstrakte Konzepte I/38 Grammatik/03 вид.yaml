@@ -2,38 +2,40 @@ name: вид
 name_ac:
 wordcls: substantive
 translation:
+  - Aspekt
+  - Aktionsart
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: вид
+sin_gen: ви́­да
+sin_dat: ви́­ду
+sin_acc: вид
+sin_ins: ви́­дом
+sin_pre: ви́­де
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ви́­ды
+plu_gen: ви́­дов
+plu_dat: ви́­дам
+plu_acc: ви́­ды
+plu_ins: ви́­да­ми
+plu_pre: ви́­дах
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
+comment: null
 
-usage:
+usage: term
 
-etymol:
+etymol: null
