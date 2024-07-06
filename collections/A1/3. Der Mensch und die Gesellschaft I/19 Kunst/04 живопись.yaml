@@ -2,9 +2,9 @@ wordcls: substantive
 name: живопись
 name_ac: жи́вопись
 translation:
-- Malerei
+  - Malerei
 genus: feminine
-dec_cls: '3'
+dec_cls: "3"
 stress: root
 is_animate: null
 is_sin_tan: null

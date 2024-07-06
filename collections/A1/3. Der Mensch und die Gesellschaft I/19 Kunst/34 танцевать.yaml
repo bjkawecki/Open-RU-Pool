@@ -2,7 +2,7 @@ name: танцевать
 name_ac: танцева́ть
 wordcls: verb
 translation:
-- tanzen
+  - tanzen
 aspect: imperfective
 partner: станцева́ть
 con_cls: e

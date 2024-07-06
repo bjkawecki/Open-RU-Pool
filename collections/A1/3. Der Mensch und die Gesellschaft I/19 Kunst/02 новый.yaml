@@ -2,7 +2,7 @@ name: новый
 name_ac: но́вый
 wordcls: adjective
 translation:
-- neu
+  - neu
 is_gradable: true
 mas_nom: но́вый
 mas_gen: но́­во­го

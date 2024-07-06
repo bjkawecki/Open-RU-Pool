@@ -2,15 +2,15 @@ name: оканчивать
 name_ac: ока́нчивать
 wordcls: verb
 translation:
-- abschließen
-- absolvieren
+  - abschließen
+  - absolvieren
 aspect: imperfective
 partner: око́нчить
 con_cls: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: ок­а́н­чи­ваю
@@ -32,9 +32,9 @@ pas_plu: ок­а́н­чи­ва­ли
 par_pre_act: ок­а́н­чи­ва­ющий
 par_pas_act: ок­а́н­чи­вав­ший
 par_pre_pas: ок­а́н­чи­вая
-par_pas_pas: 'ок­а́н­чи­вав­ши, ок­а́н­чи­вав
+par_pas_pas: "ок­а́н­чи­вав­ши, ок­а́н­чи­вав
 
-  '
+  "
 par_adv_pre: ок­а́н­чи­ва­емый
 par_adv_pas: null
 imp_sin: ок­а́н­чи­вай

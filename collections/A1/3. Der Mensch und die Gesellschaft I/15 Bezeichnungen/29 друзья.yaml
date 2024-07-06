@@ -2,7 +2,7 @@ wordcls: substantive
 name: друзья
 name_ac: друзья́
 translation:
-- Freunde
+  - Freunde
 genus: feminine
 dec_cls: irregular
 stress: shifting

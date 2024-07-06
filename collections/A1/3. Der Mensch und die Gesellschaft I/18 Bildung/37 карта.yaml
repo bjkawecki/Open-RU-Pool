@@ -2,9 +2,9 @@ wordcls: substantive
 name: карта
 name_ac: ка́рта
 translation:
-- Karte
+  - Karte
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

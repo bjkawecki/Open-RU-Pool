@@ -2,10 +2,10 @@ wordcls: substantive
 name: памятник
 name_ac: па́мятник
 translation:
-- Denkmal
-- Ehrenmal
+  - Denkmal
+  - Ehrenmal
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

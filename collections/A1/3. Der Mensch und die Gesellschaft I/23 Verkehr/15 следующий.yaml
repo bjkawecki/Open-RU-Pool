@@ -2,9 +2,9 @@ name: следующий
 name_ac: сле́дующий
 wordcls: adjective
 translation:
-- nächster
-- Nach-
-- Folge-
+  - nächster
+  - Nach-
+  - Folge-
 is_gradable: true
 mas_nom: сле́дующий
 mas_gen: сле́­ду­юще­го

@@ -1,0 +1,40 @@
+name: администрация
+name_ac: ад­ми­нист­ра́­ция
+wordcls: substantive
+translation:
+  - Verwaltung
+
+genus: feminine
+
+dec_cls: "1"
+
+stress: root
+
+is_animate: false
+
+is_sin_tan: false
+
+is_plu_tan: false
+
+sin_nom: ад­ми­нист­ра́­ция
+sin_gen: ад­ми­нист­ра́­ции
+sin_dat: ад­ми­нист­ра́­ции
+sin_acc: ад­ми­нист­ра́­цию
+sin_ins: ад­ми­нист­ра́­ци­ей
+sin_pre: ад­ми­нист­ра́­ции
+
+plu_nom: ад­ми­нист­ра́­ции
+plu_gen: ад­ми­нист­ра́­ций
+plu_dat: ад­ми­нист­ра́­ци­ям
+plu_acc: ад­ми­нист­ра́­ции
+plu_ins: ад­ми­нист­ра́­ци­ями
+plu_pre: ад­ми­нист­ра́­ци­ях
+
+partitive: null
+locative: null
+
+comment: null
+
+usage: null
+
+etymol: null

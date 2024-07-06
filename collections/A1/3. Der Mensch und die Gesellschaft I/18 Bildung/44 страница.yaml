@@ -2,9 +2,9 @@ wordcls: substantive
 name: страница
 name_ac: страни́ца
 translation:
-- Seite
+  - Seite
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

@@ -2,8 +2,8 @@ name: пожалуйста
 name_ac: пожа́луйста
 wordcls: phrase
 translation:
-- bitte
-- bittesehr
+  - bitte
+  - bittesehr
 metaphrase: null
 comment: null
 usage: null

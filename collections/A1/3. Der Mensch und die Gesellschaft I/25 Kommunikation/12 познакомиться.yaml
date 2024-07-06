@@ -1,1 +1,55 @@
 name: познакомиться
+name_ac: позна­ко́м­ить­ся
+wordcls: verb
+translation:
+  - sich kennenlernen
+  - eine Bekanntschaft machen
+
+aspect: imperfective
+partner: позна­ко́м­ить­ся
+con_cls: i
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+obj_case: instrumental
+verb_prepo: с
+is_reflexive: true
+
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
+
+fut_sin_1: поз­на­ко́м­люсь
+fut_sin_2: поз­на­ко́м­ишь­ся
+fut_sin_3: поз­на­ко́м­ит­ся
+fut_plu_1: поз­на­ко́м­им­ся
+fut_plu_2: поз­на­ко́­ми­тесь
+fut_plu_3: поз­на­ко́м­ят­ся
+
+pas_mas: позна­ко́м­ил­ся
+pas_fem: позна­ко́­ми­лась
+pas_neu: позна­ко́­ми­лось
+pas_plu: позна­ко́­ми­лись
+
+par_pre_act: null
+par_pas_act: поз­на­ко́м­ив­ший­ся
+
+par_pre_pas: null
+par_pas_pas: null
+
+par_adv_pre: зна­ко́м­ясь
+par_adv_pas: поз­на­ко́м­ив­шись
+
+imp_sin: поз­на­ко́мь­ся
+imp_plu: поз­на­ко́мь­тесь
+
+comment:
+
+usage:
+
+etymol:

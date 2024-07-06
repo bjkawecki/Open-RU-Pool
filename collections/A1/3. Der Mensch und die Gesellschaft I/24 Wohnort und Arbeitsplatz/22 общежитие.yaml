@@ -1,10 +1,10 @@
-wordcls: substantive
 name: общежитие
 name_ac: общежи́тие
+wordcls: substantive
 translation:
-- Wohnheim
+  - Wohnheim
 genus: neutral
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

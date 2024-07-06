@@ -2,8 +2,8 @@ name: здравствуй
 name_ac: здра́вствуй
 wordcls: phrase
 translation:
-- Ich grüße dich
-- Sei gegrüßt
+  - Ich grüße dich
+  - Sei gegrüßt
 metaphrase: null
 comment: null
 usage: null

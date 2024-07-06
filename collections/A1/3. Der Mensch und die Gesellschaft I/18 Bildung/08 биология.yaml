@@ -2,9 +2,9 @@ wordcls: substantive
 name: биология
 name_ac: биоло́гия
 translation:
-- Biologie
+  - Biologie
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

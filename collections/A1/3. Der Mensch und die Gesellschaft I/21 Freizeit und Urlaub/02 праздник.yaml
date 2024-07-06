@@ -2,10 +2,10 @@ wordcls: substantive
 name: праздник
 name_ac: пра́здник
 translation:
-- Feiertag
-- Feier
+  - Feiertag
+  - Feier
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

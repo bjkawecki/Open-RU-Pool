@@ -2,7 +2,7 @@ name: богатый
 name_ac: бога́тый
 wordcls: adjective
 translation:
-- reich
+  - reich
 is_gradable: true
 mas_nom: бога́тый
 mas_gen: бо­га́­то­го

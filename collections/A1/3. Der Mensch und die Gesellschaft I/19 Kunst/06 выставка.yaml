@@ -2,9 +2,9 @@ wordcls: substantive
 name: выставка
 name_ac: вы́ставка
 translation:
-- Ausstellung
+  - Ausstellung
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

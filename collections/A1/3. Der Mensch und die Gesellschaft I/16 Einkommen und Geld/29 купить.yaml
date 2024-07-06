@@ -2,7 +2,7 @@ name: купить
 name_ac: купи́ть
 wordcls: verb
 translation:
-- kaufen
+  - kaufen
 aspect: perfective
 partner: покупа́ть
 con_cls: i

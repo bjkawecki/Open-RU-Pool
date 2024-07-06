@@ -1,11 +1,11 @@
-wordcls: substantive
 name: машина
 name_ac: маши́на
+wordcls: substantive
 translation:
-- Auto
-- Maschine
+  - Auto
+  - Maschine
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

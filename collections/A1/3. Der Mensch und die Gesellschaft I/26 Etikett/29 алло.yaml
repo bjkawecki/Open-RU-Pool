@@ -2,7 +2,7 @@ name: алло
 name_ac: алло́
 wordcls: phrase
 translation:
-- Hallo
+  - Hallo
 metaphrase: null
 comment: Begrüßung am Telefon
 usage: null

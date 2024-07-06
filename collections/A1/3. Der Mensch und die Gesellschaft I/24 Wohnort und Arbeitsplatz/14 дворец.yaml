@@ -1,11 +1,11 @@
-wordcls: substantive
 name: дворец
 name_ac: дворе́ц
+wordcls: substantive
 translation:
-- Palast
-- Schloss
+  - Palast
+  - Schloss
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
 is_animate: null
 is_sin_tan: null

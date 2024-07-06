@@ -2,7 +2,7 @@ wordcls: substantive
 name: шахматы
 name_ac: ша́хматы
 translation:
-- Schach
+  - Schach
 genus: none
 dec_cls: irregular
 stress: root

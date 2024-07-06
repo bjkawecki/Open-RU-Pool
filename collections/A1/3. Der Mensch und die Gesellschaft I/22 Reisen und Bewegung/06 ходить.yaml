@@ -1,0 +1,53 @@
+name: ходить
+name_ac: хо­ди́ть
+wordcls: verb
+translation:
+  - gehen
+aspect: imperfective
+partner: схо­ди́ть
+con_cls: i
+
+is_motion_verb: true
+motion_partner: идти
+direction: multi
+
+obj_case: null
+verb_prepo: null
+is_reflexive: null
+
+pre_sin_1: хо­жу́
+pre_sin_2: хо́­дишь
+pre_sin_3: хо́­дит
+pre_plu_1: хо́­дим
+pre_plu_2: хо́­ди­те
+pre_plu_3: хо́­дят
+
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+
+pas_mas: хо­ди́л
+pas_fem: хо­ди́­ла
+pas_neu: хо­ди́­ло
+pas_plu: хо­ди́­ли
+
+par_pre_act: хо­дя́­щий
+par_pas_act: хо­ди́в­ший
+
+par_pre_pas:
+par_pas_pas:
+
+par_adv_pre: хо­дя́
+par_adv_pas: хо­ди́в­ши, хо­ди́в
+
+imp_sin: хо­ди́
+imp_plu: хо­ди́­те
+
+comment:
+
+usage:
+
+etymol:

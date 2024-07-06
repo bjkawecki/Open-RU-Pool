@@ -2,10 +2,10 @@ wordcls: substantive
 name: перерыв
 name_ac: переры́в
 translation:
-- Pause
-- Unterbrechung
+  - Pause
+  - Unterbrechung
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

@@ -2,9 +2,9 @@ name: дорогой
 name_ac: дорого́й
 wordcls: adjective
 translation:
-- teuer
-- lieb
-- wert
+  - teuer
+  - lieb
+  - wert
 is_gradable: true
 mas_nom: дорого́й
 mas_gen: до­ро­го́­го

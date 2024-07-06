@@ -2,9 +2,9 @@ wordcls: substantive
 name: тетрадь
 name_ac: тетра́дь
 translation:
-- Heft
+  - Heft
 genus: feminine
-dec_cls: '3'
+dec_cls: "3"
 stress: root
 is_animate: null
 is_sin_tan: null

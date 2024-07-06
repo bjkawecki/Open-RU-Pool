@@ -2,10 +2,10 @@ wordcls: substantive
 name: транспорт
 name_ac: тра́нспорт
 translation:
-- Verkehrsmittel
-- Transport
+  - Verkehrsmittel
+  - Transport
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

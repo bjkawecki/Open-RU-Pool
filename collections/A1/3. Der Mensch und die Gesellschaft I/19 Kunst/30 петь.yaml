@@ -2,7 +2,7 @@ name: петь
 name_ac: петь
 wordcls: verb
 translation:
-- singen
+  - singen
 aspect: imperfective
 partner: спеть
 con_cls: e

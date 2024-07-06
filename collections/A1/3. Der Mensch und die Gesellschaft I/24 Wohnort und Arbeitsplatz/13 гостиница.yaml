@@ -1,11 +1,11 @@
-wordcls: substantive
 name: гостиница
 name_ac: гости́ница
+wordcls: substantive
 translation:
-- Hotel
-- Gasthof
+  - Hotel
+  - Gasthof
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

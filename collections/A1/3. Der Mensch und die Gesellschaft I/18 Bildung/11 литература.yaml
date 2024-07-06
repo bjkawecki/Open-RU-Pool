@@ -2,9 +2,9 @@ wordcls: substantive
 name: литература
 name_ac: литерату́ра
 translation:
-- Literatur
+  - Literatur
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

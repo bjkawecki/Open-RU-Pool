@@ -2,7 +2,7 @@ name: показать
 name_ac: показа́ть
 wordcls: verb
 translation:
-- zeigen
+  - zeigen
 aspect: perfective
 partner: пока́зывать
 con_cls: e
@@ -31,9 +31,9 @@ pas_plu: по­ка­за́­ли
 par_pre_act: null
 par_pas_act: по­каз­а́в­ший
 par_pre_pas: null
-par_pas_pas: 'по­каз­а́в­ши, по­каз­а́в
+par_pas_pas: "по­каз­а́в­ши, по­каз­а́в
 
-  '
+  "
 par_adv_pre: null
 par_adv_pas: по­ка́з­ан­ный
 imp_sin: по­ка­жи́

@@ -2,9 +2,9 @@ name: здравствуйте
 name_ac: здра́вствуйте
 wordcls: phrase
 translation:
-- Ich grüße Sie
-- Ich grüße euch
-- Seid gegrüßt
+  - Ich grüße Sie
+  - Ich grüße euch
+  - Seid gegrüßt
 metaphrase: null
 comment: null
 usage: null

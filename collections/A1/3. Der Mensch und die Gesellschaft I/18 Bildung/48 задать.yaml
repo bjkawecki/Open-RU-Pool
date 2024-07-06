@@ -2,7 +2,7 @@ name: задать
 name_ac: зада́ть
 wordcls: verb
 translation:
-- aufgeben
+  - aufgeben
 aspect: perfective
 partner: задава́ть
 con_cls: null

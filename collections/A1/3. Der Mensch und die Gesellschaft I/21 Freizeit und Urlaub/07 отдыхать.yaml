@@ -2,9 +2,9 @@ name: отдыхать
 name_ac: отдыха́ть
 wordcls: verb
 translation:
-- sich rausruhen
-- sich entspannen
-- chillen
+  - sich rausruhen
+  - sich entspannen
+  - chillen
 aspect: imperfective
 partner: отдохну́ть
 con_cls: e

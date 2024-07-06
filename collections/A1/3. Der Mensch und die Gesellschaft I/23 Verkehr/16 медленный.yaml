@@ -1,8 +1,49 @@
 name: медленный
 name_ac: ме́дленный
-wordcls: adverb
+wordcls: adjective
 translation:
   - langsam
-comment: null
-usage: null
-etymol: null
+
+is_gradable: true
+
+mas_nom: ме́дленный
+mas_gen: ме́д­лен­но­го
+mas_dat: ме́д­лен­но­му
+mas_acc: ме́д­лен­ный
+mas_ins: ме́д­лен­ным
+mas_pre: ме́д­лен­ном
+
+fem_nom: ме́д­лен­ная
+fem_gen: ме́д­лен­ной
+fem_dat: ме́д­лен­ной
+fem_acc: ме́д­лен­ную
+fem_ins: ме́д­лен­ной
+fem_pre: ме́д­лен­ной
+
+neu_nom: ме́д­лен­ное
+neu_gen: ме́д­лен­но­го
+neu_dat: ме́д­лен­но­му
+neu_acc: ме́д­лен­ное
+neu_ins: ме́д­лен­ным
+neu_pre: ме́д­лен­ном
+
+plu_nom: ме́д­лен­ные
+plu_gen: ме́д­лен­ных
+plu_dat: ме́д­лен­ным
+plu_acc: ме́д­лен­ные
+plu_ins: ме́д­лен­ны­ми
+plu_pre: ме́д­лен­ных
+
+sho_mas: ме́д­ле­нен, ме́д­лен
+sho_fem: ме́д­лен­на
+sho_neu: ме́д­лен­но
+sho_plu: ме́д­лен­ны
+
+compara: ме́дленнее
+superla: самый ме́дленный
+
+comment:
+
+usage:
+
+etymol:

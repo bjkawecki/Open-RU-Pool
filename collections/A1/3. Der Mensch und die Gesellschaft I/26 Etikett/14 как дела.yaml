@@ -2,8 +2,8 @@ name: как дела
 name_ac: как дела́
 wordcls: phrase
 translation:
-- Wie geht es
-- Wie stehen die Dinge
+  - Wie geht es
+  - Wie stehen die Dinge
 metaphrase: null
 comment: null
 usage: null

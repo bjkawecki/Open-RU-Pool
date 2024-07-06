@@ -2,10 +2,10 @@ wordcls: substantive
 name: район
 name_ac: райо́н
 translation:
-- Ortsteil
-- Landkreis
+  - Ortsteil
+  - Landkreis
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

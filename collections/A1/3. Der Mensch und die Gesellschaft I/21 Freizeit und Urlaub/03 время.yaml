@@ -2,9 +2,9 @@ wordcls: substantive
 name: время
 name_ac: вре́мя
 translation:
-- Zeit
+  - Zeit
 genus: neutral
-dec_cls: none
+dec_cls: irregular
 stress: shifting
 is_animate: null
 is_sin_tan: null

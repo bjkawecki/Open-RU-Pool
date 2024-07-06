@@ -2,9 +2,9 @@ wordcls: substantive
 name: театр
 name_ac: теа́тр
 translation:
-- Theater
+  - Theater
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

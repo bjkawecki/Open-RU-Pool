@@ -2,9 +2,9 @@ wordcls: substantive
 name: химия
 name_ac: хи́мия
 translation:
-- Chemie
+  - Chemie
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

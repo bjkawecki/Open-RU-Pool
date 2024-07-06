@@ -2,9 +2,9 @@ wordcls: substantive
 name: философия
 name_ac: филосо́фия
 translation:
-- Philosophie
+  - Philosophie
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

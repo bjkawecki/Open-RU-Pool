@@ -2,10 +2,10 @@ wordcls: substantive
 name: аудитория
 name_ac: аудито́рия
 translation:
-- Hörsaal
-- Auditorium
+  - Hörsaal
+  - Auditorium
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

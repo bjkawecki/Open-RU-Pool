@@ -2,9 +2,9 @@ wordcls: substantive
 name: фильм
 name_ac: фильм
 translation:
-- Film
+  - Film
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

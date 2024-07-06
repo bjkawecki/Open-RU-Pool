@@ -1,9 +1,8 @@
 name: Новый год
 name_ac: Но́вый год
-wordcls: phrase
+wordcls: compound
 translation:
-- Neujahr
-metaphrase: null
+  - Neujahr
 comment: null
 usage: null
 etymol: null

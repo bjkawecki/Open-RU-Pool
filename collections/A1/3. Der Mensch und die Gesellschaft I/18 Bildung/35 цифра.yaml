@@ -2,11 +2,11 @@ wordcls: substantive
 name: цифра
 name_ac: ци́фра
 translation:
-- Zahl
-- Ziffer
-- Betrag
+  - Zahl
+  - Ziffer
+  - Betrag
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

@@ -2,10 +2,10 @@ wordcls: substantive
 name: задача
 name_ac: зада́ча
 translation:
-- Aufgabe
-- Zielsetzung
+  - Aufgabe
+  - Zielsetzung
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

@@ -2,9 +2,9 @@ wordcls: substantive
 name: учебник
 name_ac: уче́бник
 translation:
-- Lehrbuch
+  - Lehrbuch
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

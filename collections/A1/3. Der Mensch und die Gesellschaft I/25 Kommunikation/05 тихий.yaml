@@ -1,0 +1,49 @@
+name: тихий
+name_ac: ти́хий
+wordcls: adverb
+translation:
+  - leise
+
+is_gradable: true
+
+mas_nom: ти́­хий
+mas_gen: ти́­хо­го
+mas_dat: ти́­хо­му
+mas_acc: ти́­хий
+mas_ins: ти́­хим
+mas_pre: ти́­хом
+
+fem_nom: ти́­хая
+fem_gen: ти́­хой
+fem_dat: ти́­хой
+fem_acc: ти́­хую
+fem_ins: ти́­хой
+fem_pre: ти́­хой
+
+neu_nom: ти́­хое
+neu_gen: ти́­хо­го
+neu_dat: ти́­хо­му
+neu_acc: ти́­хое
+neu_ins: ти́­хим
+neu_pre: ти́­хом
+
+plu_nom: ти́­хие
+plu_gen: ти́­хих
+plu_dat: ти́­хим
+plu_acc: ти́­хие
+plu_ins: ти́­хи­ми
+plu_pre: ти́­хих
+
+sho_mas: тих
+sho_fem: ти­ха́
+sho_neu: ти́­хо
+sho_plu: ти́­хи
+
+compara: ти́­ше
+superla: самый ти́­хий
+
+comment:
+
+usage:
+
+etymol:

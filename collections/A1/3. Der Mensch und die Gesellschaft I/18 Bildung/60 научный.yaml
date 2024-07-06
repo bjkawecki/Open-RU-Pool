@@ -2,8 +2,8 @@ name: научный
 name_ac: нау́чный
 wordcls: adjective
 translation:
-- wissenschaftlich
-- Forschungs-
+  - wissenschaftlich
+  - Forschungs-
 is_gradable: true
 mas_nom: нау́чный
 mas_gen: на­у́ч­но­го

@@ -2,15 +2,15 @@ name: решить
 name_ac: реши́ть
 wordcls: verb
 translation:
-- entscheiden
-- lösen
+  - entscheiden
+  - lösen
 aspect: perfective
 partner: реша́ть
 con_cls: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

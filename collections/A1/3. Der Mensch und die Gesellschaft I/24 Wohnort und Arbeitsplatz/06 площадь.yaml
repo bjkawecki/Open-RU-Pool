@@ -2,10 +2,10 @@ wordcls: substantive
 name: площадь
 name_ac: пло́щадь
 translation:
-- Platz
-- Fläche
+  - Platz
+  - Fläche
 genus: feminine
-dec_cls: '3'
+dec_cls: "3"
 stress: shifting
 is_animate: null
 is_sin_tan: null

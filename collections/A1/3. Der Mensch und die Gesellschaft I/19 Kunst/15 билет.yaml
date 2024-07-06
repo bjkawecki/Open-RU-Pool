@@ -2,11 +2,11 @@ wordcls: substantive
 name: билет
 name_ac: биле́т
 translation:
-- Ticket
-- Fahrkarte
-- Fahrschein
+  - Ticket
+  - Fahrkarte
+  - Fahrschein
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

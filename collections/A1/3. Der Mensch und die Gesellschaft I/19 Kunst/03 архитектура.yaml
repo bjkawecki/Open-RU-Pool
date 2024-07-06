@@ -2,9 +2,9 @@ wordcls: substantive
 name: архитектура
 name_ac: архитекту́ра
 translation:
-- Architektur
+  - Architektur
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

@@ -1,40 +1,40 @@
 name: городской
-name_ac: городской
+name_ac: го­родс­ко́й
 wordcls: adjective
 translation:
-- Stadt-
-- städtisch
-is_gradable: null
-mas_nom: null
-mas_gen: null
-mas_dat: null
-mas_acc: null
-mas_ins: null
-mas_pre: null
-fem_nom: null
-fem_gen: null
-fem_dat: null
-fem_acc: null
-fem_ins: null
-fem_pre: null
-neu_nom: null
-neu_gen: null
-neu_dat: null
-neu_acc: null
-neu_ins: null
-neu_pre: null
-plu_nom: null
-plu_gen: null
-plu_dat: null
-plu_acc: null
-plu_ins: null
-plu_pre: null
-sho_mas: null
-sho_fem: null
-sho_neu: null
-sho_plu: null
-compara: null
-superla: null
+  - Stadt-
+  - städtisch
+is_gradable: false
+mas_nom: го­родс­ко́й
+mas_gen: го­родс­ко́­го
+mas_dat: го­родс­ко́­му
+mas_acc: го­родс­ко́й
+mas_ins: го­родс­ки́м
+mas_pre: го­родс­ко́м
+fem_nom: го­родс­ка́я
+fem_gen: го­родс­ко́й
+fem_dat: го­родс­ко́й
+fem_acc: го­родс­ку́ю
+fem_ins: го­родс­ко́й
+fem_pre: го­родс­ко́й
+neu_nom: го­родс­ко́е
+neu_gen: го­родс­ко́­го
+neu_dat: го­родс­ко́­му
+neu_acc: го­родс­ко́е
+neu_ins: го­родс­ки́м
+neu_pre: го­родс­ко́м
+plu_nom: го­родс­ки́е
+plu_gen: го­родс­ки́х
+plu_dat: го­родс­ки́м
+plu_acc: го­родс­ки́е
+plu_ins: го­родс­ки́­ми
+plu_pre: го­родс­ки́х
+sho_mas:
+sho_fem:
+sho_neu:
+sho_plu:
+compara:
+superla:
 comment: null
 usage: null
 etymol: null

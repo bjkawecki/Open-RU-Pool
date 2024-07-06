@@ -1,0 +1,49 @@
+name: громкий
+name_ac: гро́мкий
+wordcls: adjective
+translation:
+  - laut
+
+is_gradable: true
+
+mas_nom: гро́мкий
+mas_gen: гро́м­ко­го
+mas_dat: гро́м­ко­му
+mas_acc: гро́м­кий
+mas_ins: гро́м­ким
+mas_pre: гро́м­ком
+
+fem_nom: гро́м­кая
+fem_gen: гро́м­кой
+fem_dat: гро́м­кой
+fem_acc: гро́м­кую
+fem_ins: гро́м­кой
+fem_pre: гро́м­кой
+
+neu_nom: гро́м­кое
+neu_gen: гро́м­ко­го
+neu_dat: гро́м­ко­му
+neu_acc: гро́м­кое
+neu_ins: гро́м­ким
+neu_pre: гро́м­ком
+
+plu_nom: гро́м­кие
+plu_gen: гро́м­ких
+plu_dat: гро́м­ким
+plu_acc: гро́м­кие
+plu_ins: гро́м­ки­ми
+plu_pre: гро́м­ких
+
+sho_mas: гро́­мок
+sho_fem: гром­ка́
+sho_neu: гро́м­ко
+sho_plu: гро́м­ки
+
+compara: гро́м­че
+superla: самый гро́мкий
+
+comment:
+
+usage:
+
+etymol:

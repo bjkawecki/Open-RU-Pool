@@ -2,7 +2,7 @@ name: бедный
 name_ac: бе́дный
 wordcls: adjective
 translation:
-- arm
+  - arm
 is_gradable: true
 mas_nom: бе́дный
 mas_gen: бе́д­но­го

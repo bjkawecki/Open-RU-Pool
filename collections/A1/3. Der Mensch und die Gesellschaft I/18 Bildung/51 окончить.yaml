@@ -2,15 +2,15 @@ name: окончить
 name_ac: око́нчить
 wordcls: verb
 translation:
-- abschließen
-- absolvieren
+  - abschließen
+  - absolvieren
 aspect: perfective
 partner: ока́нчивать
 con_cls: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

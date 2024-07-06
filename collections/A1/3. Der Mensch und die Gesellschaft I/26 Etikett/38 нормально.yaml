@@ -4,6 +4,7 @@ wordcls: adverb
 translation:
   - in Ordnung
   - normal
-comment: null
+  - okay
+comment: Gängige Antwort auf die Frage nach dem eigenen Befinden.
 usage: null
 etymol: null

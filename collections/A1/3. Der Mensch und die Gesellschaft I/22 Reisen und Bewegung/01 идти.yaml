@@ -2,7 +2,7 @@ name: идти
 name_ac: идти́
 wordcls: verb
 translation:
-- gehen
+  - gehen
 aspect: imperfective
 partner: пойти́
 con_cls: e

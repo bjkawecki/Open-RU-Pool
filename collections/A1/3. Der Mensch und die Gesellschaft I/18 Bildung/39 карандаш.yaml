@@ -2,10 +2,10 @@ wordcls: substantive
 name: карандаш
 name_ac: каранда́ш
 translation:
-- Bleistift
-- Stift
+  - Bleistift
+  - Stift
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
 is_animate: null
 is_sin_tan: null

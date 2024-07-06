@@ -2,14 +2,14 @@ name: написать
 name_ac: написа́ть
 wordcls: verb
 translation:
-- schreiben
+  - schreiben
 aspect: perfective
 partner: писа́ть
 con_cls: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: null
 pre_sin_1: null

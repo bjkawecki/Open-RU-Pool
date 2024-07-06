@@ -2,9 +2,9 @@ name: гулять
 name_ac: гуля́ть
 wordcls: verb
 translation:
-- spazieren
-- spazieren gehen
-- ausgehen
+  - spazieren
+  - spazieren gehen
+  - ausgehen
 aspect: imperfective
 partner: погуля́ть
 con_cls: e

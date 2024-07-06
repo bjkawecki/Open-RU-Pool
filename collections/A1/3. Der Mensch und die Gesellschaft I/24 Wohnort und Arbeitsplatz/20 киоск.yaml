@@ -1,10 +1,10 @@
-wordcls: substantive
 name: киоск
 name_ac: кио́ск
+wordcls: substantive
 translation:
-- Kiosk
+  - Kiosk
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

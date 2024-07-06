@@ -2,7 +2,7 @@ wordcls: substantive
 name: стихи
 name_ac: стихи́
 translation:
-- Verse
+  - Verse
 genus: none
 dec_cls: irregular
 stress: shifting

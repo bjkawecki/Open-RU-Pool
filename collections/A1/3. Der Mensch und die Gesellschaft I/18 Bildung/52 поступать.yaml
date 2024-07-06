@@ -2,8 +2,8 @@ name: поступать
 name_ac: поступа́ть
 wordcls: verb
 translation:
-- machen
-- handeln
+  - machen
+  - handeln
 aspect: imperfective
 partner: поступи́ть
 con_cls: e

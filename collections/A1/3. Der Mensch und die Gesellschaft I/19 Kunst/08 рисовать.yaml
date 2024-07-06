@@ -2,8 +2,8 @@ name: рисовать
 name_ac: рисова́ть
 wordcls: verb
 translation:
-- zeichnen
-- malen
+  - zeichnen
+  - malen
 aspect: imperfective
 partner: нарисова́ть
 con_cls: e

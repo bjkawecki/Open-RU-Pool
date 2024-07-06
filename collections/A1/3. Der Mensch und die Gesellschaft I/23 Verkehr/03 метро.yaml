@@ -2,26 +2,26 @@ wordcls: substantive
 name: метро
 name_ac: метро́
 translation:
-- U-Bahn
-- Metro
+  - U-Bahn
+  - Metro
 genus: neutral
-dec_cls: '2'
+dec_cls: none
 stress: root
 is_animate: null
-is_sin_tan: true
+is_sin_tan: null
 is_plu_tan: null
 sin_nom: метро́
-sin_gen: null
-sin_dat: null
-sin_acc: null
-sin_ins: null
-sin_pre: null
-plu_nom: null
-plu_gen: null
-plu_dat: null
-plu_acc: null
-plu_ins: null
-plu_pre: null
+sin_gen: метро́
+sin_dat: метро́
+sin_acc: метро́
+sin_ins: метро́
+sin_pre: метро́
+plu_nom: метро́
+plu_gen: метро́
+plu_dat: метро́
+plu_acc: метро́
+plu_ins: метро́
+plu_pre: метро́
 partitive: null
 locative: null
 comment: null

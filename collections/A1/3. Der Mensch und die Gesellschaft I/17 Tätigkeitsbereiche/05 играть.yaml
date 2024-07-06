@@ -2,7 +2,7 @@ name: играть
 name_ac: игра́ть
 wordcls: verb
 translation:
-- spielen
+  - spielen
 aspect: imperfective
 partner: поигра́ть
 con_cls: e

@@ -2,9 +2,9 @@ wordcls: substantive
 name: словарь
 name_ac: слова́рь
 translation:
-- Wörterbuch
+  - Wörterbuch
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: suffix
 is_animate: null
 is_sin_tan: null

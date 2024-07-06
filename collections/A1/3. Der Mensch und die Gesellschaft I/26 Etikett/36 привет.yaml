@@ -1,1 +1,13 @@
-name: Привет
+name: привет
+name_ac: приве́т
+wordcls: interjection
+translation:
+  - hallo
+  - moin
+  - servus
+
+comment: Begrüßung unter guten Bekannten oder jungen Leuten.
+
+usage: colloquial
+
+etymol:

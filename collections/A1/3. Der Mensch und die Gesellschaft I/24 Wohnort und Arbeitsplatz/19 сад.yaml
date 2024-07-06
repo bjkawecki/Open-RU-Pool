@@ -1,10 +1,10 @@
-wordcls: substantive
 name: сад
 name_ac: сад
+wordcls: substantive
 translation:
-- Garten
+  - Garten
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
 is_animate: null
 is_sin_tan: null

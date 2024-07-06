@@ -2,8 +2,8 @@ wordcls: substantive
 name: учёный
 name_ac: учёный
 translation:
-- Wissenschaftler
-- Gelehrter
+  - Wissenschaftler
+  - Gelehrter
 genus: masculine
 dec_cls: adjective
 stress: root

@@ -1,1 +1,51 @@
 name: вы
+name_ac: вы
+wordcls: pronoun
+translation:
+  - ihr
+  - Sie
+
+pro_type: personal
+
+dec_type: substantive
+
+mas_nom:
+mas_gen:
+mas_dat:
+mas_acc:
+mas_ins:
+mas_pre:
+
+fem_nom:
+fem_gen:
+fem_dat:
+fem_acc:
+fem_ins:
+fem_pre:
+
+neu_nom:
+neu_gen:
+neu_dat:
+neu_acc:
+neu_ins:
+neu_pre:
+
+sin_nom:
+sin_gen:
+sin_dat:
+sin_acc:
+sin_ins:
+sin_pre:
+
+plu_nom: вы
+plu_gen: вас
+plu_dat: вам
+plu_acc: вас
+plu_ins: ва́­ми
+plu_pre: вас
+
+comment:
+
+usage:
+
+etymol:

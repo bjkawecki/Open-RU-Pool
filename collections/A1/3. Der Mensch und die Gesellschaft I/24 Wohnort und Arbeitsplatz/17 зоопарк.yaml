@@ -1,10 +1,10 @@
-wordcls: substantive
 name: зоопарк
 name_ac: зоопа́рк
+wordcls: substantive
 translation:
-- Zoo
+  - Zoo
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null

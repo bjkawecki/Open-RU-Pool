@@ -2,11 +2,11 @@ wordcls: substantive
 name: премия
 name_ac: пре́мия
 translation:
-- Preis
-- Prämie
-- Bonus
+  - Preis
+  - Prämie
+  - Bonus
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null

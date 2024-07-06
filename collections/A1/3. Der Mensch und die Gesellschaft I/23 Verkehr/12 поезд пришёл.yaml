@@ -2,7 +2,7 @@ name: поезд пришёл
 name_ac: по́езд пришёл
 wordcls: phrase
 translation:
-- der Zug ist angekommen
+  - der Zug ist angekommen
 metaphrase: null
 comment: null
 usage: null

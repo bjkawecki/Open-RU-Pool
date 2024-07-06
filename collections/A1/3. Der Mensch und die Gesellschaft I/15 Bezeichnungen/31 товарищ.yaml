@@ -2,11 +2,11 @@ wordcls: substantive
 name: товарищ
 name_ac: това́рищ
 translation:
-- Genosse
-- Kamerad
-- Freund
+  - Genosse
+  - Kamerad
+  - Freund
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: true
 is_sin_tan: null

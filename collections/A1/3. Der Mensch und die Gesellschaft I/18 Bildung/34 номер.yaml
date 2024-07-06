@@ -2,10 +2,10 @@ wordcls: substantive
 name: номер
 name_ac: но́мер
 translation:
-- Nummer
-- Hotelzimmer
+  - Nummer
+  - Hotelzimmer
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: shifting
 is_animate: null
 is_sin_tan: null

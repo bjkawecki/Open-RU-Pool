@@ -2,7 +2,7 @@ name: называться
 name_ac: называ́ться
 wordcls: verb
 translation:
-- heißen
+  - heißen
 aspect: imperfective
 partner: назва́ться
 con_cls: e

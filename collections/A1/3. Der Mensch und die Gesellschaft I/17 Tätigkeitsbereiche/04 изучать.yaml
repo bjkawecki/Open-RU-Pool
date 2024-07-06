@@ -2,8 +2,8 @@ name: изучать
 name_ac: изуча́ть
 wordcls: verb
 translation:
-- studieren
-- erforschen
+  - studieren
+  - erforschen
 aspect: imperfective
 partner: изучи́ть
 con_cls: e

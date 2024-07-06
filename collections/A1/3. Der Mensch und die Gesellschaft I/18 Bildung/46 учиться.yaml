@@ -2,15 +2,15 @@ name: учиться
 name_ac: учи́ться
 wordcls: verb
 translation:
-- lernen
-- studieren
+  - lernen
+  - studieren
 aspect: imperfective
 partner: выучи́ться
 con_cls: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
+obj_case: accusative
 verb_prepo: null
 is_reflexive: true
 pre_sin_1: уч­у́сь
