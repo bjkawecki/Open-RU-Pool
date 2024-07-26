@@ -1,45 +1,46 @@
 name: длинный
-name_ac:
+name_ac: дли́н­ный
 wordcls: adjective
 translation:
+  - lang
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: дли́н­ный
+mas_gen: дли́н­но­го
+mas_dat: дли́н­но­му
+mas_acc: дли́н­ный
+mas_ins: дли́н­ным
+mas_pre: дли́н­ном
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: дли́н­ная
+fem_gen: дли́н­ной
+fem_dat: дли́н­ной
+fem_acc: дли́н­ную
+fem_ins: дли́н­ной
+fem_pre: дли́н­ной
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: дли́н­ное
+neu_gen: дли́н­но­го
+neu_dat: дли́н­но­му
+neu_acc: дли́н­ное
+neu_ins: дли́н­ным
+neu_pre: дли́н­ном
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: дли́н­ные
+plu_gen: дли́н­ных
+plu_dat: дли́н­ным
+plu_acc: дли́н­ные
+plu_ins: дли́н­ны­ми
+plu_pre: дли́н­ных
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: дли́­нен
+sho_fem: длин­на́
+sho_neu: дли́н­но
+sho_plu: дли́н­ны
 
-compara:
-superla:
+compara: длин­не́е
+superla: са́мый дли́н­ный
 
 comment:
 

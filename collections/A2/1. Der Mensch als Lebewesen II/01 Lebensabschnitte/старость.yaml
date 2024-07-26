@@ -2,32 +2,34 @@ name: старость
 name_ac:
 wordcls: substantive
 translation:
+  - Alter
+  - Altersruhe
 
-genus:
+genus: feminine
 
-dec_cls:
+dec_cls: "3"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ста́­рость
+sin_gen: ста́­рос­ти
+sin_dat: ста́­рос­ти
+sin_acc: ста́­рость
+sin_ins: ста́­ростью
+sin_pre: ста́­рос­ти
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ста́­рос­ти
+plu_gen: ста́­рос­тей
+plu_dat: ста́­рос­тям
+plu_acc: ста́­рос­ти
+plu_ins: ста́­рос­тя­ми
+plu_pre: ста́­рос­тях
 
 partitive:
 locative:

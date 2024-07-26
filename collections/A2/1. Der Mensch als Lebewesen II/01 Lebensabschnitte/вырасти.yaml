@@ -1,50 +1,51 @@
 name: вырасти
-name_ac:
+name_ac: вы́­рас­ти
 wordcls: verb
 translation:
+  - aufwachsen
+  - groß werden
+aspect: perfective
+partner: расти́
+con_cls: e
 
-aspect:
-partner:
-con_cls:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-is_motion_verb:
-motion_partner:
-direction:
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+pre_sin_1: null
+pre_sin_2: null
+pre_sin_3: null
+pre_plu_1: null
+pre_plu_2: null
+pre_plu_3: null
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+fut_sin_1: вы́­рас­ту
+fut_sin_2: вы́­рас­тешь
+fut_sin_3: вы́­рас­тет
+fut_plu_1: вы́­рас­тем
+fut_plu_2: вы́­рас­те­те
+fut_plu_3: вы́­рас­тут
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+pas_mas: вы́­рос
+pas_fem: вы́­рос­ла
+pas_neu: вы́­рос­ло
+pas_plu: вы́­рос­ли
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+par_pre_act: null
+par_pas_act: вы́­рос­ший
 
-par_pre_act:
-par_pas_act:
+par_pre_pas: null
+par_pas_pas: null
 
-par_pre_pas:
-par_pas_pas:
+par_adv_pre: null
+par_adv_pas: вы́­рос­ши
 
-par_adv_pre:
-par_adv_pas:
-
-imp_sin:
-imp_plu:
+imp_sin: вы́­рас­ти
+imp_plu: вы́­рас­ти­те
 
 comment:
 

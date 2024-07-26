@@ -1,45 +1,48 @@
 name: низкий
-name_ac:
+name_ac: ни́з­кий
 wordcls: adjective
 translation:
+  - niedrig
+  - nieder
+  - tief
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: ни́з­кий
+mas_gen: ни́з­ко­го
+mas_dat: ни́з­ко­му
+mas_acc: ни́з­кий
+mas_ins: ни́з­ким
+mas_pre: ни́з­ком
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: ни́з­кая
+fem_gen: ни́з­кой
+fem_dat: ни́з­кой
+fem_acc: ни́з­кую
+fem_ins: ни́з­кой
+fem_pre: ни́з­кой
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: ни́з­кое
+neu_gen: ни́з­ко­го
+neu_dat: ни́з­ко­му
+neu_acc: ни́з­кое
+neu_ins: ни́з­ким
+neu_pre: ни́з­ком
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ни́з­кие
+plu_gen: ни́з­ких
+plu_dat: ни́з­ким
+plu_acc: ни́з­кие
+plu_ins: ни́з­ки­ми
+plu_pre: ни́з­ких
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: ни́­зок
+sho_fem: низ­ка́
+sho_neu: ни́з­ко
+sho_plu: ни́з­ки
 
-compara:
-superla:
+compara: ни́­же
+superla: са́мый ни́з­кий
 
 comment:
 

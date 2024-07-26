@@ -1,33 +1,34 @@
 name: волосы
-name_ac:
+name_ac: во́лосы
 wordcls: substantive
 translation:
+  - Haare
+  - Haar
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: shifting
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: true
 
-sin_nom:
 sin_gen:
 sin_dat:
 sin_acc:
 sin_ins:
 sin_pre:
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: во́лосы
+plu_gen: воло́с
+plu_dat: волоса́м
+plu_acc: во́лосы
+plu_ins: волоса́ми
+plu_pre: волоса́х
 
 partitive:
 locative:

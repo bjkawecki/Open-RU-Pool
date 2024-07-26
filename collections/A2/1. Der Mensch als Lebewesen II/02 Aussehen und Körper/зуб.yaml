@@ -1,33 +1,34 @@
 name: зуб
-name_ac:
+name_ac: зуб
 wordcls: substantive
 translation:
+  - Zahn
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: shifting
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: зуб
+sin_gen: зу́­ба
+sin_dat: зу́­бу
+sin_acc: зуб
+sin_ins: зу́­бом
+sin_pre: зу́­бе
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: зу́­бы
+plu_gen: зу­бо́в
+plu_dat: зу­ба́м
+plu_acc: зу́­бы
+plu_ins: зу­ба́­ми
+plu_pre: зу­ба́х
 
 partitive:
 locative:

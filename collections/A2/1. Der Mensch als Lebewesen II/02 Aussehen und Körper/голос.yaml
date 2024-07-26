@@ -1,33 +1,34 @@
 name: голос
-name_ac:
+name_ac: го́­лос
 wordcls: substantive
 translation:
+  - Stimme
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: shifting
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: го́­лос
+sin_gen: го́­ло­са
+sin_dat: го́­ло­су
+sin_acc: го́­лос
+sin_ins: го́­лос­ом
+sin_pre: го́­ло­се
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: го­ло­са́
+plu_gen: го­лос­о́в
+plu_dat: го­лос­а́м
+plu_acc: го­ло­са́
+plu_ins: го­ло­са́­ми
+plu_pre: го­лос­а́х
 
 partitive:
 locative:

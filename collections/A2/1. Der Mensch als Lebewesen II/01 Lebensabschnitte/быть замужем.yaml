@@ -1,7 +1,8 @@
 name: быть замужем
-name_ac:
+name_ac: быть заму́жем
 wordcls: phrase
 translation:
+  - verheiratet sein
 
 metaphrase:
 

@@ -1,33 +1,34 @@
 name: палец
-name_ac:
+name_ac: па́­лец
 wordcls: substantive
 translation:
+  - Finger
+  - Zeh
+genus: masculine
 
-genus:
+dec_cls: "2"
 
-dec_cls:
+stress: root
 
-stress:
-
-is_animate:
+is_animate: false
 
 is_sin_tan:
 
 is_plu_tan:
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: па́­лец
+sin_gen: па́ль­ца
+sin_dat: па́ль­цу
+sin_acc: па́­лец
+sin_ins: па́ль­цем
+sin_pre: па́ль­це
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: па́ль­цы
+plu_gen: па́ль­цев
+plu_dat: па́ль­цам
+plu_acc: па́ль­цы
+plu_ins: па́ль­ца­ми
+plu_pre: па́ль­цах
 
 partitive:
 locative:

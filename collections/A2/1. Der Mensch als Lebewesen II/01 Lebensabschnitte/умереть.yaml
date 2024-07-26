@@ -2,7 +2,7 @@ name: умереть
 name_ac: умере́ть
 wordcls: verb
 translation:
-- sterben
+  - sterben
 aspect: perfective
 partner: уми­ра́ть
 con_cls: e

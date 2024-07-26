@@ -1,19 +1,20 @@
 name: поцеловать
-name_ac:
+name_ac: поцелова́ть
 wordcls: verb
 translation:
+  - küssen
 
-aspect:
-partner:
-con_cls:
+aspect: perfective
+partner: целова́ть
+con_cls: e
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: null
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +23,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: по­це­лу́ю
+fut_sin_2: по­це­лу́­ешь
+fut_sin_3: по­це­лу́­ет
+fut_plu_1: по­це­лу́­ем
+fut_plu_2: по­це­лу́­ете
+fut_plu_3: по­це­лу́­ют
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: по­це­ло­ва́л
+pas_fem: по­це­ло­ва́­ла
+pas_neu: по­це­ло­ва́­ло
+pas_plu: по­це­ло­ва́­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: по­це­ло­ва́в­ший
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: по­це­ло́­ван­ный
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: по­це­ло­ва́в­ши, по­це­ло­ва́в
 
-imp_sin:
-imp_plu:
+imp_sin: по­це­лу́й
+imp_plu: по­це­лу́й­те
 
 comment:
 

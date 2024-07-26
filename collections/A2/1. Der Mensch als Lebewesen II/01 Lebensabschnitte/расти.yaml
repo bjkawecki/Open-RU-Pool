@@ -1,26 +1,28 @@
 name: расти
-name_ac:
+name_ac: расти́
 wordcls: verb
 translation:
+  - wachsen
+  - aufwachsen
 
-aspect:
-partner:
-con_cls:
+aspect: imperfective
+partner: вы́­рас­ти
+con_cls: e
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: null
+verb_prepo: null
+is_reflexive: null
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: рас­ту́
+pre_sin_2: рас­тёшь
+pre_sin_3: рас­тёт
+pre_plu_1: рас­тём
+pre_plu_2: рас­тё­те
+pre_plu_3: рас­ту́т
 
 fut_sin_1:
 fut_sin_2:
@@ -29,22 +31,22 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: рос
+pas_fem: рос­ла́
+pas_neu: рос­ло́
+pas_plu: рос­ли́
 
-par_pre_act:
-par_pas_act:
+par_pre_act: рас­ту́­щий
+par_pas_act: ро́с­ший
 
-par_pre_pas:
-par_pas_pas:
+par_pre_pas: null
+par_pas_pas: null
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: рас­тя́
+par_adv_pas: ро́с­ши
 
-imp_sin:
-imp_plu:
+imp_sin: рас­ти́
+imp_plu: рас­ти́­те
 
 comment:
 

@@ -1,33 +1,34 @@
 name: молодость
-name_ac:
+name_ac: мо́лодость
 wordcls: substantive
 translation:
+  - Jugend
 
-genus:
+genus: feminine
 
-dec_cls:
+dec_cls: "3"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: мо́­лод­ость
+sin_gen: мо́­лод­ос­ти
+sin_dat: мо́­лод­ос­ти
+sin_acc: мо́­лод­ость
+sin_ins: мо́­лод­остью
+sin_pre: мо́­лод­ос­ти
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: мо́­лод­ос­ти
+plu_gen: мо́­лод­ос­тей
+plu_dat: мо́­лод­ос­тям
+plu_acc: мо́­лод­ос­ти
+plu_ins: мо́­лод­ос­тя­ми
+plu_pre: мо́­лод­ос­тях
 
 partitive:
 locative:

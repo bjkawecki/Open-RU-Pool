@@ -2,43 +2,45 @@ name: светлый
 name_ac:
 wordcls: adjective
 translation:
+  - hell
+  - klar
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: све́т­лый
+mas_gen: све́т­ло­го
+mas_dat: све́т­ло­му
+mas_acc: све́т­лый
+mas_ins: све́т­лым
+mas_pre: све́т­лом
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: све́т­лая
+fem_gen: све́т­лой
+fem_dat: све́т­лой
+fem_acc: све́т­лую
+fem_ins: све́т­лой
+fem_pre: све́т­лой
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: све́т­лое
+neu_gen: све́т­ло­го
+neu_dat: све́т­ло­му
+neu_acc: све́т­лое
+neu_ins: све́т­лым
+neu_pre: све́т­лом
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: све́т­лые
+plu_gen: све́т­лых
+plu_dat: све́т­лым
+plu_acc: све́т­лые
+plu_ins: све́т­лы­ми
+plu_pre: све́т­лых
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: све́­тел
+sho_fem: свет­ла́
+sho_neu: свет­ло́
+sho_plu: свет­лы́
 
-compara:
+compara: свет­ле́е
 superla:
 
 comment:

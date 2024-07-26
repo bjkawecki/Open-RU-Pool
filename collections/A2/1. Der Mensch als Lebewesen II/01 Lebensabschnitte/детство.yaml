@@ -1,33 +1,34 @@
 name: детство
-name_ac:
+name_ac: де́тство
 wordcls: substantive
 translation:
+  - Kindheit
 
-genus:
+genus: neutral
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: де́тс­тво
+sin_gen: де́тс­тва
+sin_dat: де́тс­тву
+sin_acc: де́тс­тво
+sin_ins: де́тс­твом
+sin_pre: де́тс­тве
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: де́тс­тва
+plu_gen: детств
+plu_dat: де́тс­твам
+plu_acc: де́тс­тва
+plu_ins: де́тс­тва­ми
+plu_pre: де́тс­твах
 
 partitive:
 locative:

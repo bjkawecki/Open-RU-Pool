@@ -1,36 +1,37 @@
 name: лоб
-name_ac:
+name_ac: лоб
 wordcls: substantive
 translation:
+  - Stirn
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: лоб
+sin_gen: лба
+sin_dat: лбу
+sin_acc: лоб
+sin_ins: лбом
+sin_pre: лбе
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: лбы
+plu_gen: лбов
+plu_dat: лбам
+plu_acc: лбы
+plu_ins: лба́­ми
+plu_pre: лбах
 
 partitive:
-locative:
+locative: лбу
 
 comment:
 

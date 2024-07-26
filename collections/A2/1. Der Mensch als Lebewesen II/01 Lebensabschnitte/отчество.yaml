@@ -1,33 +1,35 @@
 name: отчество
-name_ac:
+name_ac: о́т­чест­во
 wordcls: substantive
 translation:
+  - Vatersname
+  - Patronym
 
-genus:
+genus: neutral
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: о́т­чест­во
+sin_gen: о́т­чест­ва
+sin_dat: о́т­чест­ву
+sin_acc: о́т­чест­во
+sin_ins: о́т­чест­вом
+sin_pre: о́т­чест­ве
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: о́т­чест­ва
+plu_gen: о́т­честв
+plu_dat: о́т­чест­вам
+plu_acc: о́т­чест­ва
+plu_ins: о́т­чест­ва­ми
+plu_pre: о́т­чест­вах
 
 partitive:
 locative:

@@ -2,43 +2,45 @@ name: симпатичный
 name_ac:
 wordcls: adjective
 translation:
+  - hübsch
+  - ansprechend
 
 is_gradable:
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: сим­па­ти́ч­ный
+mas_gen: сим­па­ти́ч­но­го
+mas_dat: сим­па­ти́ч­но­му
+mas_acc: сим­па­ти́ч­ный
+mas_ins: сим­па­ти́ч­ным
+mas_pre: сим­па­ти́ч­ном
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: сим­па­ти́ч­ная
+fem_gen: сим­па­ти́ч­ной
+fem_dat: сим­па­ти́ч­ной
+fem_acc: сим­па­ти́ч­ную
+fem_ins: сим­па­ти́ч­ной
+fem_pre: сим­па­ти́ч­ной
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: сим­па­ти́ч­ное
+neu_gen: сим­па­ти́ч­но­го
+neu_dat: сим­па­ти́ч­но­му
+neu_acc: сим­па­ти́ч­ное
+neu_ins: сим­па­ти́ч­ным
+neu_pre: сим­па­ти́ч­ном
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: сим­па­ти́ч­ные
+plu_gen: сим­па­ти́ч­ных
+plu_dat: сим­па­ти́ч­ным
+plu_acc: сим­па­ти́ч­ные
+plu_ins: сим­па­ти́ч­ны­ми
+plu_pre: сим­па­ти́ч­ных
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: сим­па­ти́ч­ен
+sho_fem: сим­па­ти́ч­на
+sho_neu: сим­па­ти́ч­но
+sho_plu: сим­па­ти́ч­ны
 
-compara:
+compara: сим­па­ти́ч­нее
 superla:
 
 comment:

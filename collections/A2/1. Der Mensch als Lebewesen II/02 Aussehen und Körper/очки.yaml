@@ -1,19 +1,20 @@
 name: очки
-name_ac:
+name_ac: очки́
 wordcls: substantive
 translation:
+  - Brille
 
-genus:
+genus: null
 
-dec_cls:
+dec_cls: none
 
-stress:
+stress: suffix
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: true
 
 sin_nom:
 sin_gen:
@@ -22,12 +23,12 @@ sin_acc:
 sin_ins:
 sin_pre:
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: оч­ки́
+plu_gen: оч­ко́в
+plu_dat: оч­ка́м
+plu_acc: оч­ки́
+plu_ins: оч­ка́­ми
+plu_pre: оч­ка́х
 
 partitive:
 locative:

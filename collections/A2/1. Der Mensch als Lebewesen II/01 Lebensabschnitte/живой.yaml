@@ -1,45 +1,48 @@
 name: живой
-name_ac:
+name_ac: живо́й
 wordcls: adjective
 translation:
+  - lebend
+  - lebndig
+  - wach
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: жи­во́й
+mas_gen: жи­во́­го
+mas_dat: жи­во́­му
+mas_acc: жи­во́й
+mas_ins: жи­вы́м
+mas_pre: жи­во́м
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: жи­ва́я
+fem_gen: жи­во́й
+fem_dat: жи­во́й
+fem_acc: жи­ву́ю
+fem_ins: жи­во́й
+fem_pre: жи­во́й
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: жи­во́е
+neu_gen: жи­во́­го
+neu_dat: жи­во́­му
+neu_acc: жи­во́е
+neu_ins: жи­вы́м
+neu_pre: жи­во́м
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: жи­вы́е
+plu_gen: жи­вы́х
+plu_dat: жи­вы́м
+plu_acc: жи­вы́е
+plu_ins: жи­вы́­ми
+plu_pre: жи­вы́х
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: жив
+sho_fem: жи­ва́
+sho_neu: жи́­во
+sho_plu: жи́­вы
 
-compara:
-superla:
+compara: жи­ве́е
+superla: са́мый живо́й
 
 comment:
 

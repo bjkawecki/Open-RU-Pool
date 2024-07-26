@@ -1,33 +1,34 @@
 name: ребёнок
-name_ac:
+name_ac: ребёнок
 wordcls: substantive
 translation:
+  - Kind
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: true
 
-is_sin_tan:
+is_sin_tan: true
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ре­бён­ок
+sin_gen: ре­бён­ка
+sin_dat: ре­бён­ку
+sin_acc: ре­бён­ка
+sin_ins: ре­бён­ком
+sin_pre: ре­бён­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: null
+plu_gen: null
+plu_dat: null
+plu_acc: null
+plu_ins: null
+plu_pre: null
 
 partitive:
 locative:

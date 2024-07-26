@@ -2,32 +2,35 @@ name: юность
 name_ac:
 wordcls: substantive
 translation:
+  - Jugend
+  - Jugendjahre
+  - Adoloszenz
 
-genus:
+genus: feminine
 
-dec_cls:
+dec_cls: "3"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ю́н­ость
+sin_gen: ю́н­ос­ти
+sin_dat: ю́н­ос­ти
+sin_acc: ю́н­ость
+sin_ins: ю́н­остью
+sin_pre: ю́н­ос­ти
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ю́н­ос­ти
+plu_gen: ю́н­ос­тей
+plu_dat: ю́н­ос­тям
+plu_acc: ю́н­ос­ти
+plu_ins: ю́н­ос­тя­ми
+plu_pre: ю́н­ос­тях
 
 partitive:
 locative:

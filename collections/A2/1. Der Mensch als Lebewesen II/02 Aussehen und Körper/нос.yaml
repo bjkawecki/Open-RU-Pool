@@ -1,36 +1,37 @@
 name: нос
-name_ac:
+name_ac: нос
 wordcls: substantive
 translation:
+  - Nase
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: shifting
 
-is_animate:
+is_animate: false
 
 is_sin_tan:
 
 is_plu_tan:
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: нос
+sin_gen: но́са
+sin_dat: но́су
+sin_acc: нос
+sin_ins: но́сом
+sin_pre: но́се
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: носы́
+plu_gen: носо́в
+plu_dat: носа́м
+plu_acc: носы́
+plu_ins: носа́ми
+plu_pre: носа́х
 
 partitive:
-locative:
+locative: носу́
 
 comment:
 

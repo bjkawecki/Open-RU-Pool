@@ -2,32 +2,35 @@ name: юноша
 name_ac:
 wordcls: substantive
 translation:
+  - Junge
+  - Jugendlicher
+  - junger Mann
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "1"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: true
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ю́но­ша
+sin_gen: ю́но­ши
+sin_dat: ю́но­ше
+sin_acc: ю́но­шу
+sin_ins: ю́но­шей
+sin_pre: ю́но­ше
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ю́но­ши
+plu_gen: ю́но­шей
+plu_dat: ю́но­шам
+plu_acc: ю́но­шей
+plu_ins: ю́но­ша­ми
+plu_pre: ю́но­шах
 
 partitive:
 locative:

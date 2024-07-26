@@ -1,26 +1,27 @@
 name: целовать
-name_ac:
+name_ac: целова́ть
 wordcls: verb
 translation:
+  - küssen
 
-aspect:
-partner:
-con_cls:
+aspect: imperfective
+partner: поцелова́ть
+con_cls: e
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: це­лу́ю
+pre_sin_2: це­лу́­ешь
+pre_sin_3: це­лу́­ет
+pre_plu_1: це­лу́­ем
+pre_plu_2: це­лу́­ете
+pre_plu_3: це­лу́­ют
 
 fut_sin_1:
 fut_sin_2:
@@ -29,22 +30,22 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: це­лов­а́л
+pas_fem: це­ло­ва́­ла
+pas_neu: це­ло­ва́­ло
+pas_plu: це­ло­ва́­ли
 
-par_pre_act:
-par_pas_act:
+par_pre_act: це­лу́­ющий
+par_pas_act: це­лов­а́в­ший
 
-par_pre_pas:
-par_pas_pas:
+par_pre_pas: це­лу́­емый
+par_pas_pas: це­ло́в­ан­ный
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: це­лу́я
+par_adv_pas: це­лов­а́в­ши, це­лов­а́в
 
-imp_sin:
-imp_plu:
+imp_sin: це­лу́й
+imp_plu: це­лу́й­те
 
 comment:
 

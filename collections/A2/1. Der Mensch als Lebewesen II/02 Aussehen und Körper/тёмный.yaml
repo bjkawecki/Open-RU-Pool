@@ -1,44 +1,45 @@
 name: тёмный
-name_ac:
+name_ac: тёмный
 wordcls: adjective
 translation:
+  - dunkel
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: тём­ный
+mas_gen: тём­но­го
+mas_dat: тём­но­му
+mas_acc: тём­ный
+mas_ins: тём­ным
+mas_pre: тём­ном
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: тём­ная
+fem_gen: тём­ной
+fem_dat: тём­ной
+fem_acc: тём­ную
+fem_ins: тём­ной
+fem_pre: тём­ной
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: тём­ное
+neu_gen: тём­но­го
+neu_dat: тём­но­му
+neu_acc: тём­ное
+neu_ins: тём­ным
+neu_pre: тём­ном
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: тём­ные
+plu_gen: тём­ных
+plu_dat: тём­ным
+plu_acc: тём­ные
+plu_ins: тём­ны­ми
+plu_pre: тём­ных
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: тё­мен
+sho_fem: тем­на́
+sho_neu: тем­но́
+sho_plu: тем­ны́
 
-compara:
+compara: тем­не́е
 superla:
 
 comment:

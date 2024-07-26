@@ -1,33 +1,33 @@
 name: сердце
-name_ac:
+name_ac: се́рд­це
 wordcls: substantive
 translation:
+  - Herz
+genus: neutral
 
-genus:
+dec_cls: "2"
 
-dec_cls:
+stress: shifting
 
-stress:
+is_animate: false
 
-is_animate:
+is_sin_tan: null
 
-is_sin_tan:
+is_plu_tan: null
 
-is_plu_tan:
+sin_nom: се́рд­це
+sin_gen: се́рд­ца
+sin_dat: се́рд­цу
+sin_acc: се́рд­це
+sin_ins: се́рд­цем
+sin_pre: се́рд­це
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
-
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: серд­ца́
+plu_gen: сер­де́ц
+plu_dat: серд­ца́м
+plu_acc: серд­ца́
+plu_ins: серд­ца́­ми
+plu_pre: серд­ца́х
 
 partitive:
 locative:

@@ -1,36 +1,37 @@
 name: рот
-name_ac:
+name_ac: рот
 wordcls: substantive
 translation:
+  - Mund
 
-genus:
+genus: masculine
 
-dec_cls:
+dec_cls: "2"
 
-stress:
+stress: suffix
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: рот
+sin_gen: рта
+sin_dat: рту
+sin_acc: рот
+sin_ins: ртом
+sin_pre: рте
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: рты
+plu_gen: ртов
+plu_dat: ртам
+plu_acc: рты
+plu_ins: рта́­ми
+plu_pre: ртах
 
 partitive:
-locative:
+locative: во рту
 
 comment:
 

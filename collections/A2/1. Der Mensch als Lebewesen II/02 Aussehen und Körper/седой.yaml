@@ -1,44 +1,46 @@
 name: седой
-name_ac:
+name_ac: се­до́й
 wordcls: adjective
 translation:
+  - grauhaarig
+  - weißhaarig
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: се­до́й
+mas_gen: се­до́­го
+mas_dat: се­до́­му
+mas_acc: се­до́й
+mas_ins: се­ды́м
+mas_pre: се­до́м
 
-fem_nom:
-fem_gen:
-fem_dat:
+fem_nom: се­да́я
+fem_gen: се­до́й
+fem_dat: се­до́й
 fem_acc:
-fem_ins:
-fem_pre:
+fem_ins: се­до́й
+fem_pre: се­до́й
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: се­до́е
+neu_gen: се­до́­го
+neu_dat: се­до́­му
+neu_acc: се­до́е
+neu_ins: се­ды́м
+neu_pre: се­до́м
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: се­ды́е
+plu_gen: се­ды́х
+plu_dat: се­ды́м
+plu_acc: се­ды́е
+plu_ins: се­ды́­ми
+plu_pre: се­ды́х
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: сед
+sho_fem: се­да́
+sho_neu: се́­до
+sho_plu: се́­ды
 
-compara:
+compara: се­де́е
 superla:
 
 comment:

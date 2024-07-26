@@ -1,7 +1,8 @@
 name: дата рождения
-name_ac:
+name_ac: да́та рожде́ния
 wordcls: compound
 translation:
+  - Datum der Geburt
 
 comment:
 

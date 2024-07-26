@@ -1,45 +1,48 @@
 name: мужской
-name_ac:
+name_ac: мужс­ко́й
 wordcls: adjective
 translation:
+  - Mann-
+  - Herren-
+  - maskulin
 
-is_gradable:
+is_gradable: false
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: мужс­ко́й
+mas_gen: мужс­ко́­го
+mas_dat: мужс­ко́­му
+mas_acc: мужс­ко́й
+mas_ins: мужс­ки́м
+mas_pre: мужс­ко́м
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: мужс­ка́я
+fem_gen: мужс­ко́й
+fem_dat: мужс­ко́й
+fem_acc: мужс­ку́ю
+fem_ins: мужс­ко́й
+fem_pre: мужс­ко́й
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: мужс­ко́е
+neu_gen: мужс­ко́­го
+neu_dat: мужс­ко́­му
+neu_acc: мужс­ко́е
+neu_ins: мужс­ки́м
+neu_pre: мужс­ко́м
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: мужс­ки́е
+plu_gen: мужс­ки́х
+plu_dat: мужс­ки́м
+plu_acc: мужс­ки́е
+plu_ins: мужс­ки́­ми
+plu_pre: мужс­ки́х
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: null
+sho_fem: null
+sho_neu: null
+sho_plu: null
 
-compara:
-superla:
+compara: null
+superla: null
 
 comment:
 

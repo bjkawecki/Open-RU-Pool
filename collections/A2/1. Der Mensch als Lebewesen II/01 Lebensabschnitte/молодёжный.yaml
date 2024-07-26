@@ -1,45 +1,46 @@
 name: молодёжный
-name_ac:
+name_ac: молодёжный
 wordcls: adjective
 translation:
+  - jugendlich
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: мо­лод­ёж­ный
+mas_gen: мо­лод­ёж­но­го
+mas_dat: мо­лод­ёж­но­му
+mas_acc: мо­лод­ёж­ный
+mas_ins: мо­лод­ёж­ным
+mas_pre: мо­лод­ёж­ном
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: мо­лод­ёж­ная
+fem_gen: мо­лод­ёж­ной
+fem_dat: мо­лод­ёж­ной
+fem_acc: мо­лод­ёж­ную
+fem_ins: мо­лод­ёж­ной
+fem_pre: мо­лод­ёж­ной
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: мо­лод­ёж­ное
+neu_gen: мо­лод­ёж­но­го
+neu_dat: мо­лод­ёж­но­му
+neu_acc: мо­лод­ёж­ное
+neu_ins: мо­лод­ёж­ным
+neu_pre: мо­лод­ёж­ном
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: мо­лод­ёж­ные
+plu_gen: мо­лод­ёж­ных
+plu_dat: мо­лод­ёж­ным
+plu_acc: мо­лод­ёж­ные
+plu_ins: мо­лод­ёж­ны­ми
+plu_pre: мо­лод­ёж­ных
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: мо­ло­дё­жен
+sho_fem: мо­лод­ёж­на
+sho_neu: мо­лод­ёж­но
+sho_plu: мо­лод­ёж­ны
 
-compara:
-superla:
+compara: мо­лод­ёж­нее
+superla: са́мый мо­лод­ёж­ный
 
 comment:
 
