@@ -48,4 +48,4 @@ with open("output.csv", "w") as outcsv:
     )
     writer.writeheader()
     writer.writerows(rows_to_write)
-    print("Output file nodes.csv created")
+    print("Output file output.csv created")
