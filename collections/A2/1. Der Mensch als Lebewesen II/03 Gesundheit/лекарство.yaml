@@ -1,39 +1,35 @@
 name: лекарство
-name_ac:
+name_ac: ле­ка́рс­тво
 wordcls: substantive
 translation:
+  - Medikament
+  - Heilmittel
+  - Arznei
 
-genus:
+genus: neutral
+dec_cls: "2"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-dec_cls:
+sin_nom: ле­ка́рс­тво
+sin_gen: ле­ка́рс­тва
+sin_dat: ле­ка́рс­тву
+sin_acc: ле­ка́рс­тво
+sin_ins: ле­ка́рс­твом
+sin_pre: ле­ка́рс­тве
 
-stress:
-
-is_animate:
-
-is_sin_tan:
-
-is_plu_tan:
-
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
-
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ле­ка́рс­тва
+plu_gen: ле­ка́рств
+plu_dat: ле­ка́рс­твам
+plu_acc: ле­ка́рс­тва
+plu_ins: ле­ка́рс­тва­ми
+plu_pre: ле­ка́рс­твах
 
 partitive:
 locative:
 
 comment:
-
 usage:
-
 etymol:

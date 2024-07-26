@@ -1,10 +1,9 @@
 name: детский врач
-name_ac:
+name_ac: де́тский врач
 wordcls: compound
 translation:
+  - Kinderarzt
 
 comment:
-
 usage:
-
 etymol:

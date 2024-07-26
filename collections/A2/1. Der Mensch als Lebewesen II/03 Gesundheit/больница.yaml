@@ -1,39 +1,38 @@
 name: больница
-name_ac:
+name_ac: боль­ни́­ца
 wordcls: substantive
 translation:
+  - Krankenhaus
 
-genus:
+genus: feminine
 
-dec_cls:
+dec_cls: "1"
 
-stress:
+stress: root
 
-is_animate:
+is_animate: false
 
-is_sin_tan:
+is_sin_tan: null
 
-is_plu_tan:
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: боль­ни́­ца
+sin_gen: боль­ни́­цы
+sin_dat: боль­ни́­це
+sin_acc: боль­ни́­цу
+sin_ins: боль­ни́­цей
+sin_pre: боль­ни́­це
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: боль­ни́­цы
+plu_gen: боль­ни́ц
+plu_dat: боль­ни́­цам
+plu_acc: боль­ни́­цы
+plu_ins: боль­ни́­ца­ми
+plu_pre: боль­ни́­цах
 
 partitive:
 locative:
 
 comment:
-
 usage:
-
 etymol:

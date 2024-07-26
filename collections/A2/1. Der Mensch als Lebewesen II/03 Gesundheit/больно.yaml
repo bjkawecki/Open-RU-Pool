@@ -1,12 +1,9 @@
 name: больно
-name_ac:
-wordcls: phrase
+name_ac: бо́льно
+wordcls: adverb
 translation:
-
-metaphrase:
+  - schmerzhaft
 
 comment:
-
 usage:
-
 etymol:

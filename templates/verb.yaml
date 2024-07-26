@@ -36,17 +36,15 @@ pas_plu:
 par_pre_act:
 par_pas_act:
 
-par_pre_pas:
-par_pas_pas:
-
 par_adv_pre:
 par_adv_pas:
+
+par_pre_pas:
+par_pas_pas:
 
 imp_sin:
 imp_plu:
 
 comment:
-
 usage:
-
 etymol:
