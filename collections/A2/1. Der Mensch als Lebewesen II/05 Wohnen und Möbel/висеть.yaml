@@ -1,26 +1,27 @@
 name: висеть
-name_ac:
+name_ac: ви­се́ть
 wordcls: verb
 translation:
+  - (an etwas) hängen
 
-aspect:
-partner:
-con_cls:
+aspect: imperfective
+partner: повисе́ть
+con_cls: i
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: prepositive
+verb_prepo: на
+is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: ви­шу́
+pre_sin_2: ви­си́шь
+pre_sin_3: ви­си́т
+pre_plu_1: ви­си́м
+pre_plu_2: ви­си́­те
+pre_plu_3: ви­ся́т
 
 fut_sin_1:
 fut_sin_2:
@@ -29,22 +30,22 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: ви­се́л
+pas_fem: ви­се́­ла
+pas_neu: ви­се́­ло
+pas_plu: ви­се́­ли
 
-par_pre_act:
-par_pas_act:
+par_pre_act: ви­ся́­щий
+par_pas_act: ви­се́в­ший
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: ви­ся́
+par_adv_pas: ви­се́в­ши, ви­се́в
 
 par_pre_pas:
 par_pas_pas:
 
-imp_sin:
-imp_plu:
+imp_sin: ви­си́
+imp_plu: ви­си́­те
 
 comment:
 usage:

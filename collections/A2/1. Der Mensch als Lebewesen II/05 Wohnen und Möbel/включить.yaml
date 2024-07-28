@@ -1,19 +1,21 @@
 name: включить
-name_ac:
+name_ac: вклю­чи́ть
 wordcls: verb
 translation:
+  - einschalten
+  - anmachen
 
-aspect:
-partner:
-con_cls:
+aspect: perfective
+partner: вклю­ча́ть
+con_cls: i
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +24,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: вклю­чу́
+fut_sin_2: вклю­чи́шь
+fut_sin_3: вклю­чи́т
+fut_plu_1: вклю­чи́м
+fut_plu_2: вклю­чи́­те
+fut_plu_3: вклю­ча́т
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: вклю­чи́л
+pas_fem: вклю­чи́­ла
+pas_neu: вклю­чи́­ло
+pas_plu: вклю­чи́­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: вклю­чи́в­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: вклю­чи́в­ши, вклю­чи́в
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: вклю­чён­ный
 
-imp_sin:
-imp_plu:
+imp_sin: вклю­чи́
+imp_plu: вклю­чи́­те
 
 comment:
 usage:

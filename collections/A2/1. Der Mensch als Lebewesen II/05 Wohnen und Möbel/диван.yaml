@@ -1,28 +1,29 @@
 name: диван
-name_ac:
+name_ac: ди­ва́н
 wordcls: substantive
 translation:
+  - Sofa
+  - Diwan
+genus: masculine
+dec_cls: "2"
+stress: root
+is_animate: false
+is_sin_tan: false
+is_plu_tan: false
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+sin_nom: ди­ва́н
+sin_gen: ди­ва́­на
+sin_dat: ди­ва́­ну
+sin_acc: ди­ва́н
+sin_ins: ди­ва́н­ом
+sin_pre: ди­ва́­не
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
-
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ди­ва́­ны
+plu_gen: ди­ва́н­ов
+plu_dat: ди­ва́н­ам
+plu_acc: ди­ва́­ны
+plu_ins: ди­ва́­на­ми
+plu_pre: ди­ва́н­ах
 
 partitive:
 locative:

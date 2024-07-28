@@ -1,28 +1,30 @@
 name: вещь
-name_ac:
+name_ac: вещь
 wordcls: substantive
 translation:
+  - Sache
+  - Ding
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: feminine
+dec_cls: "3"
+stress: shifting
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: вещь
+sin_gen: ве́­щи
+sin_dat: ве́­щи
+sin_acc: вещь
+sin_ins: ве́щью
+sin_pre: ве́­щи
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ве́­щи
+plu_gen: ве­ще́й
+plu_dat: ве­ща́м
+plu_acc: ве́­щи
+plu_ins: ве­ща́­ми
+plu_pre: ве­ща́х
 
 partitive:
 locative:

@@ -1,26 +1,29 @@
 name: водить
-name_ac:
+name_ac: во­ди́ть
 wordcls: verb
 translation:
+  - (etw) fahren
+  - (jmdn) führen
+  - (jmdn) mitnehmen
 
-aspect:
-partner:
-con_cls:
+aspect: imperfective
+partner: сво­ди́ть
+con_cls: i
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: true
+motion_partner: вести́
+direction: multi
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: во­жу́
+pre_sin_2: во́­дишь
+pre_sin_3: во́­дит
+pre_plu_1: во́­дим
+pre_plu_2: во́­ди­те
+pre_plu_3: во́­дят
 
 fut_sin_1:
 fut_sin_2:
@@ -29,22 +32,22 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: во­ди́л
+pas_fem: во­ди́­ла
+pas_neu: во­ди́­ло
+pas_plu: во­ди́­ли
 
-par_pre_act:
-par_pas_act:
+par_pre_act: во­дя́­щий
+par_pas_act: во­ди́в­ший
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: во­дя́
+par_adv_pas: во­ди́в­ши, во­ди́в
 
-par_pre_pas:
-par_pas_pas:
+par_pre_pas: во­ди́­мый
+par_pas_pas: во́­жен­ный
 
-imp_sin:
-imp_plu:
+imp_sin: во­ди́
+imp_plu: во­ди́­те
 
 comment:
 usage:

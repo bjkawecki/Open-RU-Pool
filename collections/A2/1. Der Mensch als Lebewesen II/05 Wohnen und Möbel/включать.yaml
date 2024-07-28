@@ -1,26 +1,28 @@
 name: включать
-name_ac:
+name_ac: вклю­ча́ть
 wordcls: verb
 translation:
+  - anschalten
+  - anmachen
 
-aspect:
-partner:
-con_cls:
+aspect: imperfective
+partner: вклю­чи́ть
+con_cls: e
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: вклю­ча́ю
+pre_sin_2: вклю­ча́­ешь
+pre_sin_3: вклю­ча́­ет
+pre_plu_1: вклю­ча́­ем
+pre_plu_2: вклю­ча́­ете
+pre_plu_3: вклю­ча́­ют
 
 fut_sin_1:
 fut_sin_2:
@@ -29,23 +31,23 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: вклю­ча́л
+pas_fem: вклю­ча́­ла
+pas_neu: вклю­ча́­ло
+pas_plu: вклю­ча́­ли
 
-par_pre_act:
-par_pas_act:
+par_pre_act: вклю­ча́­ющий
+par_pas_act: вклю­ча́в­ший
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: вклю­ча́я
+par_adv_pas: вклю­ча́в­ши, вклю­ча́в
 
-par_pre_pas:
+par_pre_pas: вклю­ча́­емый
 par_pas_pas:
 
-imp_sin:
-imp_plu:
+imp_sin: вклю­ча́й
+imp_plu: вклю­ча́й­те
 
-comment:
+comment: Licht, Fernseher, Radio
 usage:
 etymol:

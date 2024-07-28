@@ -7,9 +7,9 @@ aspect:
 partner:
 con_cls:
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
 obj_case:
 verb_prepo:

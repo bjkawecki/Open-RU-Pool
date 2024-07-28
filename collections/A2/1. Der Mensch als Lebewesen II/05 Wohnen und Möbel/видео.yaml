@@ -2,27 +2,28 @@ name: видео
 name_ac:
 wordcls: substantive
 translation:
+  - Video
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: neutral
+dec_cls: none
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ви́део
+sin_gen: ви́део
+sin_dat: ви́део
+sin_acc: ви́део
+sin_ins: ви́део
+sin_pre: ви́део
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ви́део
+plu_gen: ви́део
+plu_dat: ви́део
+plu_acc: ви́део
+plu_ins: ви́део
+plu_pre: ви́део
 
 partitive:
 locative:
