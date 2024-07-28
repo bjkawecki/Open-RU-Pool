@@ -19,12 +19,12 @@ pre_sin_3: ре­ша́­ет
 pre_plu_1: ре­ша́­ем
 pre_plu_2: ре­ша́­ете
 pre_plu_3: ре­ша́­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: ре­ша́л
 pas_fem: ре­ша́­ла
 pas_neu: ре­ша́­ло

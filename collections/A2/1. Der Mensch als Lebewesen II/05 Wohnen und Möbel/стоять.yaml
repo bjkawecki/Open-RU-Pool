@@ -1,26 +1,26 @@
 name: стоять
-name_ac:
+name_ac: сто­я́ть
 wordcls: verb
 translation:
-
-aspect:
-partner:
-con_cls:
+  - stehen
+aspect: imperfective
+partner: постоя́ть
+con_cls: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: null
+verb_prepo: null
+is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: стою́
+pre_sin_2: сто­и́шь
+pre_sin_3: сто­и́т
+pre_plu_1: сто­и́м
+pre_plu_2: сто­и́те
+pre_plu_3: сто­я́т
 
 fut_sin_1:
 fut_sin_2:
@@ -29,22 +29,22 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: сто­я́л
+pas_fem: сто­я́ла
+pas_neu: сто­я́ло
+pas_plu: сто­я́ли
 
-par_pre_act:
-par_pas_act:
+par_pre_act: сто­я́щий
+par_pas_act: сто­я́в­ший
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: сто́я
+par_adv_pas: сто­я́в­ши, сто­я́в
 
 par_pre_pas:
 par_pas_pas:
 
-imp_sin:
-imp_plu:
+imp_sin: стой
+imp_plu: сто́й­те
 
 comment: null
 usage: null

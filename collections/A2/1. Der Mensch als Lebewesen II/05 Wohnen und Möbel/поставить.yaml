@@ -1,19 +1,20 @@
 name: поставить
-name_ac:
+name_ac: пос­та́­вить
 wordcls: verb
 translation:
-
-aspect:
-partner:
-con_cls:
+  - stellen
+  - aufstellen
+aspect: perfective
+partner: с­та́­вить
+con_cls: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +23,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: пос­та́­влю
+fut_sin_2: пос­та́­вишь
+fut_sin_3: пос­та́­вит
+fut_plu_1: пос­та́­вим
+fut_plu_2: пос­та́­ви­те
+fut_plu_3: пос­та́­вят
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: пос­та́­вил
+pas_fem: пос­та́­ви­ла
+pas_neu: пос­та́­ви­ло
+pas_plu: пос­та́­ви­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: пос­та́­вив­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: пос­та́­вив­ши, пос­та́­вив
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: пос­та́­влен­ный
 
-imp_sin:
-imp_plu:
+imp_sin: пос­та́вь
+imp_plu: пос­та́вь­те
 
 comment: null
 usage: null

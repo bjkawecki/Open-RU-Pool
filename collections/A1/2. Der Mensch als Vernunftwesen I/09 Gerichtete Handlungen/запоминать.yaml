@@ -18,12 +18,12 @@ pre_sin_3: за­по­ми­на́­ет
 pre_plu_1: за­по­ми­на́­ем
 pre_plu_2: за­по­ми­на́­ете
 pre_plu_3: за­по­ми­на́­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: за­по­ми­на́л
 pas_fem: за­по­ми­на́­ла
 pas_neu: за­по­ми­на́­ло

@@ -18,12 +18,12 @@ pre_sin_3: ум­рёт
 pre_plu_1: ум­рём
 pre_plu_2: ум­рё­те
 pre_plu_3: ум­ру́т
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: у́м­ер
 pas_fem: ум­ер­ла́
 pas_neu: у́м­ер­ло

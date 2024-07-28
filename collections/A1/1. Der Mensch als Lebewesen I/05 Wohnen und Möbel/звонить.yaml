@@ -19,12 +19,12 @@ pre_sin_3: зво­ни́т
 pre_plu_1: зво­ни́м
 pre_plu_2: зво­ни́­те
 pre_plu_3: зво­ня́т
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: зво­ни́л
 pas_fem: зво­ни́­ла
 pas_neu: зво­ни́­ло

@@ -18,12 +18,12 @@ pre_sin_3: ку́­рит
 pre_plu_1: ку́­рим
 pre_plu_2: ку́­ри­те
 pre_plu_3: ку́­рят
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: ку­ри́л
 pas_fem: ку­ри́­ла
 pas_neu: ку­ри́­ло

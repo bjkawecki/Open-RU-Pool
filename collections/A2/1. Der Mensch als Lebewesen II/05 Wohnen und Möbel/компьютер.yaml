@@ -1,28 +1,30 @@
 name: компьютер
-name_ac:
+name_ac: компь­ю́т­ер
 wordcls: substantive
 translation:
+  - Computer
+  - Rechner
 
-genus:
-dec_cls:
-stress:
+genus: masculine
+dec_cls: "2"
+stress: root
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: компь­ю́те­ра
+sin_gen: компь­ю́те­ра
+sin_dat: компь­ю́те­ру
+sin_acc: компь­ю́те­ра
+sin_ins: компь­ю́те­ром
+sin_pre: компь­ю́те­ре
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: компь­ю́те­ры
+plu_gen: компь­ю́те­ров
+plu_dat: компь­ю́те­рам
+plu_acc: компь­ю́те­ры
+plu_ins: компь­ю́те­ра­ми
+plu_pre: компь­ю́те­рах
 
 partitive: null
 locative: null

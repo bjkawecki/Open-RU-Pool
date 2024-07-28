@@ -1,28 +1,29 @@
 name: ключ
-name_ac:
+name_ac: ключ
 wordcls: substantive
 translation:
+  - Schlüssel
 
-genus:
-dec_cls:
-stress:
+genus: masculine
+dec_cls: "2"
+stress: suffix
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ключ
+sin_gen: клю­ча́
+sin_dat: клю­чу́
+sin_acc: ключ
+sin_ins: клю­чо́м
+sin_pre: клю­че́
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: клю­чи́
+plu_gen: клю­че́й
+plu_dat: клю­ча́м
+plu_acc: клю­чи́
+plu_ins: клю­ча́­ми
+plu_pre: клю­ча́х
 
 partitive: null
 locative: null

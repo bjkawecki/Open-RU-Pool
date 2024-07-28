@@ -1,19 +1,19 @@
 name: послушать
-name_ac:
+name_ac: пос­лу́­шать
 wordcls: verb
 translation:
-
-aspect:
-partner:
-con_cls:
+  - zuhören
+aspect: perfective
+partner: слу́шать
+con_cls: e
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +22,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: пос­лу́­шаю
+fut_sin_2: пос­лу́­ша­ешь
+fut_sin_3: пос­лу́­ша­ет
+fut_plu_1: пос­лу́­ша­ем
+fut_plu_2: пос­лу́­ша­ете
+fut_plu_3: пос­лу́­ша­ют
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: пос­лу́­шал
+pas_fem: пос­лу́­ша­ла
+pas_neu: пос­лу́­ша­ло
+pas_plu: пос­лу́­ша­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: пос­лу́­шав­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: пос­лу́­шав­ши, пос­лу́­шав
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: пос­лу́­шан­ный
 
-imp_sin:
-imp_plu:
+imp_sin: пос­лу́­шай
+imp_plu: пос­лу́­шай­те
 
 comment: null
 usage: null

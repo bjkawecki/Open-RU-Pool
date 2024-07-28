@@ -18,12 +18,12 @@ pre_sin_3: фо­тог­ра­фи́­ру­ет
 pre_plu_1: фо­тог­ра­фи́­ру­ем
 pre_plu_2: фо­тог­ра­фи́­ру­ете
 pre_plu_3: фо­тог­ра­фи́­ру­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: фо­тог­ра­фи́­ро­вал
 pas_fem: фо­тог­ра­фи́­ро­ва­ла
 pas_neu: фо­тог­ра­фи́­ро­ва­ло

@@ -1,31 +1,33 @@
 name: пол
-name_ac:
+name_ac: пол
 wordcls: substantive
 translation:
+  - Boden
+  - Fußboden
 
-genus:
-dec_cls:
-stress:
+genus: masculine
+dec_cls: "2"
+stress: shifting
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: пол
+sin_gen: по́ла
+sin_dat: по́лу
+sin_acc: пол
+sin_ins: по́лом
+sin_pre: по́ле
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: полы́
+plu_gen: поло́в
+plu_dat: пола́м
+plu_acc: полы́
+plu_ins: пола́ми
+plu_pre: пола́х
 
 partitive: null
-locative: null
+locative: полу́
 
 comment: null
 usage: null

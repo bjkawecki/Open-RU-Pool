@@ -2,7 +2,7 @@ name: ужинать
 name_ac: у́жинать
 wordcls: verb
 translation:
-- zu Abend essen
+  - zu Abend essen
 aspect: imperfective
 partner: поу́жинать
 con_cls: e
@@ -18,12 +18,12 @@ pre_sin_3: у́жи­на­ет
 pre_plu_1: у́жи­на­ем
 pre_plu_2: у́жи­на­ете
 pre_plu_3: у́жи­на­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: у́жи­нал
 pas_fem: у́жи­на­ла
 pas_neu: у́жи­на­ло

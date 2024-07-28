@@ -19,12 +19,12 @@ pre_sin_3: стро́­ит
 pre_plu_1: стро́­им
 pre_plu_2: стро́­ите
 pre_plu_3: стро́­ят
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: стро́­ил
 pas_fem: стро́­ила
 pas_neu: стро́­ило

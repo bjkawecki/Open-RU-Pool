@@ -19,12 +19,12 @@ pre_sin_3: смо́т­рит
 pre_plu_1: смо́т­рим
 pre_plu_2: смо́т­ри­те
 pre_plu_3: смо́т­рят
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: смот­ре́л
 pas_fem: смот­ре́­ла
 pas_neu: смот­ре́­ло

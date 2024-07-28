@@ -18,12 +18,12 @@ pre_sin_3: нра́­вит­ся
 pre_plu_1: нра́­вим­ся
 pre_plu_2: нра́­вит­есь
 pre_plu_3: нра́­вят­ся
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: нра́­вил­ся
 pas_fem: нра́­вил­ась
 pas_neu: нра́­вил­ось

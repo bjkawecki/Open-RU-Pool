@@ -18,12 +18,12 @@ pre_sin_3: меч­та́­ет
 pre_plu_1: меч­та́­ем
 pre_plu_2: меч­та́­ете
 pre_plu_3: меч­та́­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: меч­та́л
 pas_fem: меч­та́­ла
 pas_neu: меч­та́­ло

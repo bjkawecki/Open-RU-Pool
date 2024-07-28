@@ -1,28 +1,28 @@
 name: флешка
-name_ac:
+name_ac: фле́ш­ка
 wordcls: substantive
 translation:
-
-genus:
-dec_cls:
-stress:
+  - USB-Speicherstick
+genus: feminine
+dec_cls: "1"
+stress: root
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: фле́ш­ка
+sin_gen: фле́ш­ки
+sin_dat: фле́ш­ке
+sin_acc: фле́ш­ку
+sin_ins: фле́ш­кой
+sin_pre: фле́ш­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: фле́ш­ки
+plu_gen: фле́­шек
+plu_dat: фле́ш­кам
+plu_acc: фле́ш­ки
+plu_ins: фле́ш­ка­ми
+plu_pre: фле́ш­ках
 
 partitive: null
 locative: null

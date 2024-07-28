@@ -18,12 +18,12 @@ pre_sin_3: иг­ра́­ет
 pre_plu_1: иг­ра́­ем
 pre_plu_2: иг­ра́­ете
 pre_plu_3: иг­ра́­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: иг­ра́л
 pas_fem: иг­ра́­ла
 pas_neu: иг­ра́­ло

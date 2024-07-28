@@ -18,12 +18,12 @@ pre_sin_3: чу́вс­тву­ет
 pre_plu_1: чу́вс­тву­ем
 pre_plu_2: чу́вс­тву­ете
 pre_plu_3: чу́вс­тву­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: чу́вс­тво­вал
 pas_fem: чу́вс­тво­ва­ла
 pas_neu: чу́вс­тво­ва­ло

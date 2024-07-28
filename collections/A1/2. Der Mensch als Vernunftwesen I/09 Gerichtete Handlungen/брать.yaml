@@ -20,12 +20,12 @@ pre_sin_3: бе­рёт
 pre_plu_1: бе­рём
 pre_plu_2: бе­рё­те
 pre_plu_3: бе­ру́т
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: брал
 pas_fem: бра­ла́
 pas_neu: бра́­ло

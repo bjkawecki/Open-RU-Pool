@@ -2,27 +2,29 @@ name: ксерокс
 name_ac:
 wordcls: substantive
 translation:
+  - Kopierer
+  - Kopiergerät
 
-genus:
-dec_cls:
-stress:
+genus: masculine
+dec_cls: "2"
+stress: root
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ксе́­рокс
+sin_gen: ксе́­рок­са
+sin_dat: ксе́­рок­су
+sin_acc: ксе́­рокс
+sin_ins: ксе́­рок­сом
+sin_pre: ксе́­рок­се
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ксе́­рок­сы
+plu_gen: ксе́­рок­сов
+plu_dat: ксе́­рок­сам
+plu_acc: ксе́­рок­сы
+plu_ins: ксе́­рок­са­ми
+plu_pre: ксе́­рок­сах
 
 partitive: null
 locative: null

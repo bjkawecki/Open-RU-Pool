@@ -2,7 +2,7 @@ name: завтракать
 name_ac: за́втракать
 wordcls: verb
 translation:
-- frühstücken
+  - frühstücken
 aspect: imperfective
 partner: поза́втракать
 con_cls: e
@@ -18,12 +18,12 @@ pre_sin_3: за́вт­ра­ка­ет
 pre_plu_1: за́вт­ра­ка­ем
 pre_plu_2: за́вт­ра­ка­ете
 pre_plu_3: за́вт­ра­ка­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: за́вт­ра­кал
 pas_fem: за́вт­ра­ка­ла
 pas_neu: за́вт­ра­ка­ло

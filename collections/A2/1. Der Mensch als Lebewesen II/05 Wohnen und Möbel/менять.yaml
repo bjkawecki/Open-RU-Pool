@@ -1,26 +1,29 @@
 name: менять
-name_ac:
+name_ac: ме­ня́ть
 wordcls: verb
 translation:
+  - wechseln
+  - tauschen
+  - austaschen
 
-aspect:
-partner:
-con_cls:
+aspect: imperfective
+partner: поме­ня́ть
+con_cls: e
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: ме­ня́ю
+pre_sin_2: ме­ня́­ешь
+pre_sin_3: ме­ня́­ет
+pre_plu_1: ме­ня́­ем
+pre_plu_2: ме­ня́­ете
+pre_plu_3: ме­ня́­ют
 
 fut_sin_1:
 fut_sin_2:
@@ -29,22 +32,22 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: ме­ня́л
+pas_fem: ме­ня́­ла
+pas_neu: ме­ня́­ло
+pas_plu: ме­ня́­ли
 
-par_pre_act:
-par_pas_act:
+par_pre_act: ме­ня́­ющий
+par_pas_act: ме­ня́в­ший
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: ме­ня́я
+par_adv_pas: ме­ня́в­ши, ме­ня́в
 
-par_pre_pas:
-par_pas_pas:
+par_pre_pas: ме­ня́­емый
+par_pas_pas: ме́­нян­ный
 
-imp_sin:
-imp_plu:
+imp_sin: ме­ня́й
+imp_plu: ме­ня́й­те
 
 comment: null
 usage: null

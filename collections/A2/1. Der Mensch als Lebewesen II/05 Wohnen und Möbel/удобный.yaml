@@ -1,44 +1,47 @@
 name: удобный
-name_ac:
+name_ac: уд­о́б­ный
 wordcls: adjective
 translation:
+  - bequem
+  - geeignet
+  - günstig
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: уд­о́б­ный
+mas_gen: уд­о́б­но­го
+mas_dat: уд­о́б­но­му
+mas_acc: уд­о́б­ный
+mas_ins: уд­о́б­ным
+mas_pre: уд­о́б­ном
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: уд­о́б­ная
+fem_gen: уд­о́б­ной
+fem_dat: уд­о́б­ной
+fem_acc: уд­о́б­ную
+fem_ins: уд­о́б­ной
+fem_pre: уд­о́б­ной
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: уд­о́б­ное
+neu_gen: уд­о́б­но­го
+neu_dat: уд­о́б­но­му
+neu_acc: уд­о́б­ное
+neu_ins: уд­о́б­ным
+neu_pre: уд­о́б­ном
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: уд­о́б­ные
+plu_gen: уд­о́б­ных
+plu_dat: уд­о́б­ным
+plu_acc: уд­о́б­ные
+plu_ins: уд­о́б­ны­ми
+plu_pre: удобных
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: удо́­бен
+sho_fem: уд­о́б­на
+sho_neu: уд­о́б­но
+sho_plu: уд­о́б­ны
 
-compara:
+compara: уд­о́б­нее
 superla:
 
 comment: null

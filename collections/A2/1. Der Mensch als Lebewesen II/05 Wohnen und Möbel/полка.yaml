@@ -1,28 +1,29 @@
 name: полка
-name_ac:
+name_ac: по́л­ка
 wordcls: substantive
 translation:
+  - Regal
 
-genus:
-dec_cls:
-stress:
+genus: feminine
+dec_cls: "1"
+stress: root
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: по́л­ка
+sin_gen: по́л­ки
+sin_dat: по́л­ке
+sin_acc: по́л­ку
+sin_ins: по́л­кой
+sin_pre: по́л­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: по́л­ки
+plu_gen: по́­лок
+plu_dat: по́л­кам
+plu_acc: по́л­ки
+plu_ins: по́л­ка­ми
+plu_pre: по́л­ках
 
 partitive: null
 locative: null

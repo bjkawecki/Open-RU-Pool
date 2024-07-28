@@ -20,12 +20,12 @@ pre_sin_3: де́­ла­ет
 pre_plu_1: де́­ла­ем
 pre_plu_2: де́­ла­ете
 pre_plu_3: де́­ла­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: де́­лал
 pas_fem: де́­ла­ла
 pas_neu: де́­ла­ло

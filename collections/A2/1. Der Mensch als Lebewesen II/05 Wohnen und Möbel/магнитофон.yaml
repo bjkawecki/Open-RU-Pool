@@ -2,9 +2,9 @@ wordcls: substantive
 name: магнитофон
 name_ac: магнитофо́н
 translation:
-- Kassettenrekorder
+  - Abspielgerät
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: null
 is_sin_tan: null
@@ -23,6 +23,6 @@ plu_ins: маг­ни­то­фо́­на­ми
 plu_pre: маг­ни­то­фо́­нах
 partitive: null
 locative: null
-comment: null
+comment: für CDs, Kasseten, Schallplatten
 usage: null
 etymol: null

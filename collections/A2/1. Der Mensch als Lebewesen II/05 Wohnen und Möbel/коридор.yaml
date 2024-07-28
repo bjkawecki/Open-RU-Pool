@@ -1,28 +1,31 @@
 name: коридор
-name_ac:
+name_ac: ко­рид­о́р
 wordcls: substantive
 translation:
+  - Gang
+  - Flur
+  - Korridor
 
-genus:
-dec_cls:
-stress:
+genus: masculine
+dec_cls: "2"
+stress: root
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ко­рид­о́р
+sin_gen: ко­ри­до́­ра
+sin_dat: ко­ри­до́­ру
+sin_acc: ко­рид­о́р
+sin_ins: ко­ри­до́­ром
+sin_pre: ко­ри­до́­ре
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ко­ри­до́­ры
+plu_gen: ко­ри­до́­ров
+plu_dat: ко­ри­до́­рам
+plu_acc: ко­ри­до́­ры
+plu_ins: ко­ри­до́­ра­ми
+plu_pre: ко­ри­до́­рах
 
 partitive: null
 locative: null

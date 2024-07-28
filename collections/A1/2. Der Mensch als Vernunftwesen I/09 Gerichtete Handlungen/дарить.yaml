@@ -18,12 +18,12 @@ pre_sin_3: да́­рит
 pre_plu_1: да́­рим
 pre_plu_2: да́­ри­те
 pre_plu_3: да́­рят
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: да­ри́л
 pas_fem: да­ри́­ла
 pas_neu: да­ри́­ло

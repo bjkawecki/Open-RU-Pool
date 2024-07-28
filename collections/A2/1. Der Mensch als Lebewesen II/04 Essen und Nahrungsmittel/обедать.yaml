@@ -2,7 +2,7 @@ name: обедать
 name_ac: обе́дать
 wordcls: verb
 translation:
-- zu Mittag essen
+  - zu Mittag essen
 aspect: imperfective
 partner: пообе́дать
 con_cls: e
@@ -18,12 +18,12 @@ pre_sin_3: обе́­да­ет
 pre_plu_1: обе́­да­ем
 pre_plu_2: обе́­да­ете
 pre_plu_3: обе́­да­ют
-fut_sin_1: null
-fut_sin_2: null
-fut_sin_3: null
-fut_plu_1: null
-fut_plu_2: null
-fut_plu_3: null
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
 pas_mas: обе́­дал
 pas_fem: обе́­да­ла
 pas_neu: обе́­да­ло

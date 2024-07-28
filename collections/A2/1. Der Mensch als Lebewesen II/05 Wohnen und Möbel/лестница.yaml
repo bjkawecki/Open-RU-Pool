@@ -1,28 +1,30 @@
 name: лестница
-name_ac:
+name_ac: ле́ст­ни­ца
 wordcls: substantive
 translation:
+  - Treppe
+  - Leiter
 
-genus:
-dec_cls:
-stress:
+genus: feminine
+dec_cls: "1"
+stress: root
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ле́ст­ни­ца
+sin_gen: ле́ст­ни­цы
+sin_dat: ле́ст­ни­це
+sin_acc: ле́ст­ни­ца
+sin_ins: ле́ст­ни­цей
+sin_pre: ле́ст­ни­це
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ле́ст­ни­цы
+plu_gen: ле́ст­ниц
+plu_dat: ле́ст­ни­цам
+plu_acc: ле́ст­ни­цы
+plu_ins: ле́ст­ни­ца­ми
+plu_pre: ле́ст­ни­цах
 
 partitive: null
 locative: null

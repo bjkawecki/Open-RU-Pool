@@ -1,28 +1,30 @@
 name: лифт
-name_ac:
+name_ac: лифт
 wordcls: substantive
 translation:
-
-genus:
-dec_cls:
-stress:
+  - Aufzug
+  - Fahrstuhl
+  - Lift
+genus: masculine
+dec_cls: "2"
+stress: root
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: лифт
+sin_gen: ли́ф­та
+sin_dat: ли́ф­ту
+sin_acc: лифт
+sin_ins: ли́ф­том
+sin_pre: ли́ф­те
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ли́ф­ты
+plu_gen: ли́ф­тов
+plu_dat: ли́ф­там
+plu_acc: ли́ф­ты
+plu_ins: ли́ф­та­ми
+plu_pre: ли́ф­тах
 
 partitive: null
 locative: null

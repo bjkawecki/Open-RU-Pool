@@ -1,7 +1,9 @@
 name: звонить по телефону
-name_ac:
+name_ac: звони́ть по теле́фону
 wordcls: phrase
 translation:
+  - anrufen
+  - telefonieren
 
 metaphrase:
 
