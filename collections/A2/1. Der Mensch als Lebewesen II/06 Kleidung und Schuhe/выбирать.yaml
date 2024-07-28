@@ -1,1 +1,53 @@
 name: выбирать
+name_ac: вы­бир­а́ть
+wordcls: verb
+translation:
+  - wählen
+  - auswählen
+
+aspect: imperfective
+partner: вы́брать
+con_cls: e
+
+is_motion_verb: false
+motion_partner: null
+direction: nulll
+
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
+
+pre_sin_1: вы­би­ра́ю
+pre_sin_2: вы­би­ра́­ешь
+pre_sin_3: вы­би­ра́­ет
+pre_plu_1: вы­би­ра́­ем
+pre_plu_2: вы­би­ра́­ете
+pre_plu_3: вы­би­ра́­ют
+
+fut_sin_1:
+fut_sin_2:
+fut_sin_3:
+fut_plu_1:
+fut_plu_2:
+fut_plu_3:
+
+pas_mas: вы­бир­а́л
+pas_fem: вы­би­ра́­ла
+pas_neu: вы­би­ра́­ло
+pas_plu: вы­би­ра́­ли
+
+par_pre_act: вы­би­ра́­ющий
+par_pas_act: вы­бир­а́в­ший
+
+par_adv_pre: вы­би­ра́я
+par_adv_pas: вы­бир­а́в­ши, вы­бир­а́в
+
+par_pre_pas: вы­би­ра́­емый
+par_pas_pas:
+
+imp_sin: вы­би­ра́й
+imp_plu: вы­би­ра́й­те
+
+comment: null
+usage: null
+etymol: null

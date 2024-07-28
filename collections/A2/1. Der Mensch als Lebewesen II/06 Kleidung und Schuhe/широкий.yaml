@@ -1,44 +1,46 @@
 name: широкий
-name_ac:
+name_ac: ши­ро́­кий
 wordcls: adjective
 translation:
+  - weit
+  - breit
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: ши­ро́­кий
+mas_gen: ши­ро́­ко­го
+mas_dat: ши­ро́­ко­му
+mas_acc: ши­ро́­кий
+mas_ins: ши­ро́к­им
+mas_pre: ши­ро́к­ом
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: ши­ро́­кая
+fem_gen: ши­ро́­кой
+fem_dat: ши­ро́­кой
+fem_acc: ши­ро́­кую
+fem_ins: ши­ро́­кой
+fem_pre: ши­ро́­кой
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: ши­ро́­кое
+neu_gen: ши­ро́­ко­го
+neu_dat: ши­ро́­ко­му
+neu_acc: ши­ро́­кое
+neu_ins: ши­ро́к­им
+neu_pre: ши­ро́к­ом
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ши­ро́­кие
+plu_gen: ши­ро́к­их
+plu_dat: ши­ро́к­им
+plu_acc: ши­ро́­кие
+plu_ins: ши­ро́­ки­ми
+plu_pre: ши­ро́к­их
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: ши­ро́к
+sho_fem: ши­ро­ка́
+sho_neu: ши́­ро­ко
+sho_plu: ши́­ро­ки
 
-compara:
+compara: ши́­ре
 superla:
 
 comment: null

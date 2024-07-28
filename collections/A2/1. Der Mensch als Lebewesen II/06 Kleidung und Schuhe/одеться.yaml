@@ -1,19 +1,21 @@
 name: одеться
-name_ac:
+name_ac: од­е́ть­ся
 wordcls: verb
 translation:
+  - sich anziehen
+  - sich kleiden
 
-aspect:
-partner:
-con_cls:
+aspect: perfecitve
+partner: оде­ва́ть­ся
+con_cls: e
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: null
+verb_prepo: null
+is_reflexive: true
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +24,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: оде́­нусь
+fut_sin_2: оде́­нешь­ся
+fut_sin_3: оде́­нет­ся
+fut_plu_1: оде́­нем­ся
+fut_plu_2: оде́­нет­есь
+fut_plu_3: оде́­нут­ся
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: од­е́л­ся
+pas_fem: оде́­лась
+pas_neu: оде́­лось
+pas_plu: оде́­лись
 
 par_pre_act:
-par_pas_act:
+par_pas_act: од­е́в­ший­ся
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: од­е́в­шись
 
 par_pre_pas:
 par_pas_pas:
 
-imp_sin:
-imp_plu:
+imp_sin: од­е́нь­ся
+imp_plu: од­е́нь­тесь
 
 comment: null
 usage: null

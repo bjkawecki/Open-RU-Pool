@@ -1,28 +1,29 @@
 name: пальто
-name_ac:
+name_ac: пальто́
 wordcls: substantive
 translation:
+  - Mantel
 
-genus:
-dec_cls:
-stress:
+genus: neutral
+dec_cls: none
+stress: suffix
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: пальто́
+sin_gen: пальто́
+sin_dat: пальто́
+sin_acc: пальто́
+sin_ins: пальто́
+sin_pre: пальто́
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: пальто́
+plu_gen: пальто́
+plu_dat: пальто́
+plu_acc: пальто́
+plu_ins: пальто́
+plu_pre: пальто́
 
 partitive: null
 locative: null

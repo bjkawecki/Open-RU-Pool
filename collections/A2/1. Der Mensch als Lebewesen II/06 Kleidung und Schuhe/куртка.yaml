@@ -1,50 +1,33 @@
 name: куртка
-name_ac:
+name_ac: ку́рт­ка
 wordcls: verb
 translation:
+  - Jacke
 
-aspect:
-partner:
-con_cls:
+genus: feminine
+dec_cls: "1"
+stress: root
 
-is_motion_verb: false
-motion_partner: null
-direction: null
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+sin_nom: ку́рт­ка
+sin_gen: ку́рт­ки
+sin_dat: ку́рт­ке
+sin_acc: ку́рт­ку
+sin_ins: ку́рт­кой
+sin_pre: ку́рт­ке
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+plu_nom: ку́рт­ки
+plu_gen: ку́р­ток
+plu_dat: ку́рт­кам
+plu_acc: ку́рт­ки
+plu_ins: ку́рт­ка­ми
+plu_pre: ку́рт­ках
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
-
-par_pre_act:
-par_pas_act:
-
-par_adv_pre:
-par_adv_pas:
-
-par_pre_pas:
-par_pas_pas:
-
-imp_sin:
-imp_plu:
+partitive: null
+locative: null
 
 comment: null
 usage: null

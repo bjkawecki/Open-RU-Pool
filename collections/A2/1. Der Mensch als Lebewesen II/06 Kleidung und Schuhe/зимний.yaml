@@ -1,44 +1,46 @@
 name: зимний
-name_ac:
+name_ac: зи́м­ний
 wordcls: adjective
 translation:
+  - Winter-
+  - winterlich
 
-is_gradable:
+is_gradable: false
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: зи́м­ний
+mas_gen: зи́м­не­го
+mas_dat: зи́м­не­му
+mas_acc: зи́м­ний
+mas_ins: зи́м­ним
+mas_pre: зи́м­нем
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: зи́м­няя
+fem_gen: зи́м­ней
+fem_dat: зи́м­ней
+fem_acc: зи́м­нюю
+fem_ins: зи́м­ней
+fem_pre: зи́м­ня
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: зи́м­нее
+neu_gen: зи́м­не­го
+neu_dat: зи́м­не­му
+neu_acc: зи́м­нее
+neu_ins: зи́м­ним
+neu_pre: зи́м­нем
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: зи́м­ние
+plu_gen: зи́м­них
+plu_dat: зи́м­ним
+plu_acc: зи́м­ние
+plu_ins: зи́м­ни­ми
+plu_pre: зи́м­них
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: зи́­мен
+sho_fem: зи́м­ня
+sho_neu: зи́м­не
+sho_plu: зи́м­ни
 
-compara:
+compara: зи́м­нее
 superla:
 
 comment: null

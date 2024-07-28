@@ -1,44 +1,46 @@
 name: узкий
-name_ac:
+name_ac: у́з­кий
 wordcls: adjective
 translation:
+  - schmal
+  - eng
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: у́з­кий
+mas_gen: у́з­ко­го
+mas_dat: у́з­ко­му
+mas_acc: у́з­кий
+mas_ins: у́з­ким
+mas_pre: у́з­ком
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: у́з­кая
+fem_gen: у́з­кой
+fem_dat: у́з­кой
+fem_acc: у́з­кую
+fem_ins: у́з­кой
+fem_pre: у́з­кой
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: у́з­кое
+neu_gen: у́з­ко­го
+neu_dat: у́з­ко­му
+neu_acc: у́з­кое
+neu_ins: у́з­ким
+neu_pre: у́з­ком
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: у́з­кие
+plu_gen: у́з­ких
+plu_dat: у́з­ким
+plu_acc: у́з­кие
+plu_ins: у́з­ки­ми
+plu_pre: у́з­ких
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: у́з­ок
+sho_fem: уз­ка́
+sho_neu: у́з­ко
+sho_plu: у́з­ки
 
-compara:
+compara: у́же
 superla:
 
 comment: null

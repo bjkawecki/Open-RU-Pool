@@ -1,19 +1,19 @@
 name: выбрать
-name_ac:
+name_ac: вы́б­рать
 wordcls: verb
 translation:
 
-aspect:
-partner:
-con_cls:
+aspect: perfective
+partner: вы­бир­а́ть
+con_cls: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +22,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: вы́­бе­ру
+fut_sin_2: вы́­бер­ешь
+fut_sin_3: вы́­бер­ет
+fut_plu_1: вы́­бер­ем
+fut_plu_2: вы́­бе­ре­те
+fut_plu_3: вы́­бер­ут
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: вы́б­рал
+pas_fem: вы́б­ра­ла
+pas_neu: вы́б­ра­ло
+pas_plu: вы́б­ра­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: вы́б­ра­вший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: вы́б­ра­вши,вы́б­рав
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: вы́б­ран­ный
 
-imp_sin:
-imp_plu:
+imp_sin: вы́­бе­ри
+imp_plu: вы́­бе­ри­те
 
 comment: null
 usage: null

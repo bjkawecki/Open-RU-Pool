@@ -1,28 +1,29 @@
 name: юбка
-name_ac:
+name_ac: ю́б­ка
 wordcls: substantive
 translation:
+  - Rock
 
-genus:
-dec_cls:
-stress:
+genus: feminine
+dec_cls: "1"
+stress: root
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ю́б­ка
+sin_gen: ю́б­ки
+sin_dat: ю́б­ке
+sin_acc: ю́б­ку
+sin_ins: ю́б­кой
+sin_pre: ю́б­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ю́б­ки
+plu_gen: ю́б­ок
+plu_dat: ю́б­кам
+plu_acc: ю́б­ки
+plu_ins: ю́б­ка­ми
+plu_pre: ю́б­ках
 
 partitive: null
 locative: null

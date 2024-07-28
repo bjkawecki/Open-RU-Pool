@@ -1,28 +1,30 @@
 name: зонтик
-name_ac:
+name_ac: зо́н­тик
 wordcls: substantive
 translation:
+  - Schirm
+  - Regenschirm
 
-genus:
-dec_cls:
-stress:
+genus: masculine
+dec_cls: "2"
+stress: root
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: зо́н­тик
+sin_gen: зо́н­ти­ка
+sin_dat: зо́н­ти­ку
+sin_acc: зо́н­тик
+sin_ins: зо́н­ти­ком
+sin_pre: зо́н­ти­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: зо́н­ти­ки
+plu_gen: зо́н­ти­ков
+plu_dat: зо́н­ти­кам
+plu_acc: зо́н­ти­ки
+plu_ins: зо́н­ти­ка­ми
+plu_pre: зо́н­ти­ках
 
 partitive: null
 locative: null

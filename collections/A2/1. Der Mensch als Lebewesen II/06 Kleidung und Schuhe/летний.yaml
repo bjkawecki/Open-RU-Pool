@@ -1,37 +1,39 @@
 name: летний
-name_ac:
+name_ac: ле́т­ний
 wordcls: adjective
 translation:
+  - Sommer
+  - sommerlich
 
-is_gradable:
+is_gradable: false
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: ле́т­ний
+mas_gen: ле́т­не­го
+mas_dat: ле́т­не­му
+mas_acc: ле́т­ний
+mas_ins: ле́т­ним
+mas_pre: ле́т­нем
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: ле́т­няя
+fem_gen: ле́т­ней
+fem_dat: ле́т­ней
+fem_acc: ле́т­нюю
+fem_ins: ле́т­ней
+fem_pre: ле́т­ней
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: ле́т­нее
+neu_gen: ле́т­не­го
+neu_dat: ле́т­не­му
+neu_acc: ле́т­нее
+neu_ins: ле́т­ним
+neu_pre: ле́т­нем
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ле́т­ние
+plu_gen: ле́т­них
+plu_dat: ле́т­ним
+plu_acc: ле́т­ние
+plu_ins: ле́т­ни­ми
+plu_pre: ле́т­них
 
 sho_mas:
 sho_fem:

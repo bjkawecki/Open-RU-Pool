@@ -1,26 +1,28 @@
 name: одеваться
-name_ac:
+name_ac: оде­ва́ть­ся
 wordcls: verb
 translation:
+  - sich anziehen
+  - sich kleiden
 
-aspect:
-partner:
-con_cls:
+aspect: imperfective
+partner: од­е́ть­ся
+con_cls: e
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: null
+verb_prepo: null
+is_reflexive: true
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: оде­ва́­юсь
+pre_sin_2: оде­ва́­ешь­ся
+pre_sin_3: оде­ва́­ет­ся
+pre_plu_1: оде­ва́­ем­ся
+pre_plu_2: оде­ва́­ет­есь
+pre_plu_3: оде­ва́­ют­ся
 
 fut_sin_1:
 fut_sin_2:
@@ -29,22 +31,22 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: оде­ва́л­ся
+pas_fem: оде­ва́л­ась
+pas_neu: оде­ва́л­ось
+pas_plu: оде­ва́л­ись
 
-par_pre_act:
-par_pas_act:
+par_pre_act: оде­ва́­ющий­ся
+par_pas_act: оде­ва́в­ший­ся
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: оде­ва́­ясь
+par_adv_pas: оде­ва́в­шись
 
 par_pre_pas:
 par_pas_pas:
 
-imp_sin:
-imp_plu:
+imp_sin: оде­ва́й­ся
+imp_plu: оде­ва́й­тесь
 
 comment: null
 usage: null

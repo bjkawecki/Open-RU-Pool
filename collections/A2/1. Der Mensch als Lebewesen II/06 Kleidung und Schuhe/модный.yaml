@@ -1,44 +1,47 @@
 name: модный
-name_ac:
+name_ac: мо́д­ный
 wordcls: adjective
 translation:
+  - modern
+  - modisch
+  - stylisch
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: мо́д­ный
+mas_gen: мо́д­но­го
+mas_dat: мо́д­но­му
+mas_acc: мо́д­ный
+mas_ins: мо́д­ным
+mas_pre: мо́д­ном
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: мо́д­ная
+fem_gen: мо́д­ной
+fem_dat: мо́д­ной
+fem_acc: мо́д­ную
+fem_ins: мо́д­ной
+fem_pre: мо́д­ной
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: мо́д­ное
+neu_gen: мо́д­но­го
+neu_dat: мо́д­но­му
+neu_acc: мо́д­ное
+neu_ins: мо́д­ным
+neu_pre: мо́д­ном
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: мо́д­ные
+plu_gen: мо́д­ных
+plu_dat: мо́д­ным
+plu_acc: мо́д­ные
+plu_ins: мо́д­ны­ми
+plu_pre: мо́д­ных
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: мо́­ден
+sho_fem: мо́д­на
+sho_neu: мо́д­но
+sho_plu: мо́д­ны
 
-compara:
+compara: мод­не́е
 superla:
 
 comment: null

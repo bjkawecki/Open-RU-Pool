@@ -1,28 +1,29 @@
 name: плащ
-name_ac:
+name_ac: плащ
 wordcls: substantive
 translation:
-
-genus:
-dec_cls:
-stress:
+  - Regenmantel
+  - Trenchcoat
+genus: masculine
+dec_cls: "2"
+stress: suffix
 is_animate: false
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: плащ
+sin_gen: пла­ща́
+sin_dat: пла­щу́
+sin_acc: плащ
+sin_ins: пла­що́м
+sin_pre: пла­ще́
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: пла­щи́
+plu_gen: пла­ще́й
+plu_dat: пла­ща́м
+plu_acc: пла­щи́
+plu_ins: пла­ща́­ми
+plu_pre: пла­ща́х
 
 partitive: null
 locative: null

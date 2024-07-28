@@ -1,19 +1,21 @@
 name: поменять
-name_ac:
+name_ac: по­мен­я́ть
 wordcls: verb
 translation:
-
-aspect:
-partner:
-con_cls:
+  - wechseln
+  - tauschen
+  - austaschen
+aspect: perfective
+partner: ме­ня́ть
+con_cls: e
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +24,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: по­ме­ня́ю
+fut_sin_2: по­ме­ня́­ешь
+fut_sin_3: по­ме­ня́­ет
+fut_plu_1: по­ме­ня́­ем
+fut_plu_2: по­ме­ня́­ете
+fut_plu_3: по­ме­ня́­ют
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: по­мен­я́л
+pas_fem: по­ме­ня́­ла
+pas_neu: по­ме­ня́­ло
+pas_plu: по­ме­ня́­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: по­мен­я́в­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: по­мен­я́в­ши, по­мен­я́в
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: по­ме́н­ян­ный
 
-imp_sin:
-imp_plu:
+imp_sin: по­ме­ня́й
+imp_plu: по­ме­ня́й­те
 
 comment: null
 usage: null

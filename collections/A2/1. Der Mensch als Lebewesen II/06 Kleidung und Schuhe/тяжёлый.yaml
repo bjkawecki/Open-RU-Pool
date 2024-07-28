@@ -2,43 +2,46 @@ name: тяжёлый
 name_ac:
 wordcls: adjective
 translation:
+  - schwer
+  - schlimm
+  - schwierig
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: спор­ти́­вный
+mas_gen: спор­ти́­вно­го
+mas_dat: спор­ти́­вно­му
+mas_acc: спор­ти́­вный
+mas_ins: спор­ти́­вным
+mas_pre: спор­ти́­вном
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: спор­ти́­вная
+fem_gen: спор­ти́­вной
+fem_dat: спор­ти́­вной
+fem_acc: спор­ти́­вная
+fem_ins: спор­ти́­вной
+fem_pre: спор­ти́­вной
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: спор­ти́­вное
+neu_gen: спор­ти́­вно­го
+neu_dat: спор­ти́­вно­му
+neu_acc: спор­ти́­вное
+neu_ins: спор­ти́­вным
+neu_pre: спор­ти́­вном
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: спор­ти́­вные
+plu_gen: спор­ти́­вных
+plu_dat: спор­ти́­вным
+plu_acc: спор­ти́­вные
+plu_ins: спор­ти́­вны­ми
+plu_pre: спор­ти́­вных
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: спор­ти́­вен
+sho_fem: спор­ти́­вна
+sho_neu: спор­ти́­вно
+sho_plu: спор­ти́­вны
 
-compara:
+compara: спор­ти́­внее
 superla:
 
 comment: null
