@@ -7,22 +7,22 @@ genus: neutral
 dec_cls: "2"
 stress: shifting
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: мы́­ло
-sin_gen: мы́­ла
-sin_dat: мы́­лу
-sin_acc: мы́­ло
-sin_ins: мы́­лом
-sin_pre: мы́­ле
+singular_nominative: мы́­ло
+singular_genitive: мы́­ла
+singular_dative: мы́­лу
+singular_accusative: мы́­ло
+singular_ins: мы́­лом
+singular_pre: мы́­ле
 
-plu_nom: мы́­ла
-plu_gen: мыл
-plu_dat: мы­ла́м
-plu_acc: мы́­ла
-plu_ins: мы­ла́­ми
-plu_pre: мы­ла́х
+plural_nominative: мы́­ла
+plural_genitive: мыл
+plural_dative: мы­ла́м
+plural_accusative: мы́­ла
+plural_ins: мы­ла́­ми
+plural_pre: мы­ла́х
 
 partitive: null
 locative: null

@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: suffix
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: пи­ро́г
-sin_gen: пи­ро­га́
-sin_dat: пи­ро­гу́
-sin_acc: пи­ро́г
-sin_ins: пи­рог­о́м
-sin_pre: пи­ро­ге́
+singular_nominative: пи­ро́г
+singular_genitive: пи­ро­га́
+singular_dative: пи­ро­гу́
+singular_accusative: пи­ро́г
+singular_ins: пи­рог­о́м
+singular_pre: пи­ро­ге́
 
-plu_nom: пи­ро­ги́
-plu_gen: пи­рог­о́в
-plu_dat: пи­рог­а́м
-plu_acc: пи­ро­ги́
-plu_ins: пи­ро­га́­ми
-plu_pre: пи­рог­а́х
+plural_nominative: пи­ро­ги́
+plural_genitive: пи­рог­о́в
+plural_dative: пи­рог­а́м
+plural_accusative: пи­ро­ги́
+plural_ins: пи­ро­га́­ми
+plural_pre: пи­рог­а́х
 
 partitive: null
 locative: null

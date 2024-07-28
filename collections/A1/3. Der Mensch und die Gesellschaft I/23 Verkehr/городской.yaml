@@ -5,37 +5,37 @@ translation:
   - Stadt-
   - städtisch
 is_gradable: false
-mas_nom: го­родс­ко́й
-mas_gen: го­родс­ко́­го
-mas_dat: го­родс­ко́­му
-mas_acc: го­родс­ко́й
-mas_ins: го­родс­ки́м
-mas_pre: го­родс­ко́м
-fem_nom: го­родс­ка́я
-fem_gen: го­родс­ко́й
-fem_dat: го­родс­ко́й
-fem_acc: го­родс­ку́ю
-fem_ins: го­родс­ко́й
-fem_pre: го­родс­ко́й
-neu_nom: го­родс­ко́е
-neu_gen: го­родс­ко́­го
-neu_dat: го­родс­ко́­му
-neu_acc: го­родс­ко́е
-neu_ins: го­родс­ки́м
-neu_pre: го­родс­ко́м
-plu_nom: го­родс­ки́е
-plu_gen: го­родс­ки́х
-plu_dat: го­родс­ки́м
-plu_acc: го­родс­ки́е
-plu_ins: го­родс­ки́­ми
-plu_pre: го­родс­ки́х
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+masculine_nominative: го­родс­ко́й
+masculine_genitive: го­родс­ко́­го
+masculine_dative: го­родс­ко́­му
+masculine_accusative: го­родс­ко́й
+masculine_ins: го­родс­ки́м
+masculine_pre: го­родс­ко́м
+feminine_nominative: го­родс­ка́я
+feminine_genitive: го­родс­ко́й
+feminine_dative: го­родс­ко́й
+feminine_accusative: го­родс­ку́ю
+feminine_ins: го­родс­ко́й
+feminine_pre: го­родс­ко́й
+neutral_nominative: го­родс­ко́е
+neutral_genitive: го­родс­ко́­го
+neutral_dative: го­родс­ко́­му
+neutral_accusative: го­родс­ко́е
+neutral_ins: го­родс­ки́м
+neutral_pre: го­родс­ко́м
+plural_nominative: го­родс­ки́е
+plural_genitive: го­родс­ки́х
+plural_dative: го­родс­ки́м
+plural_accusative: го­родс­ки́е
+plural_ins: го­родс­ки́­ми
+plural_pre: го­родс­ки́х
+shortform_mas:
+shortform_fem:
+shortform_neu:
+shortform_plu:
 comparative:
 superlative:
 comment: null
 usage: null
 etymology: null
-sin_nom: городской
+singular_nominative: городской

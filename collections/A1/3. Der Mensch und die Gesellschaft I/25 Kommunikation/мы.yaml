@@ -8,40 +8,40 @@ pro_type: personal
 
 dec_type: substantive
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+masculine_nominative:
+masculine_genitive:
+masculine_dative:
+masculine_accusative:
+masculine_ins:
+masculine_pre:
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+feminine_nominative:
+feminine_genitive:
+feminine_dative:
+feminine_accusative:
+feminine_ins:
+feminine_pre:
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neutral_nominative:
+neutral_genitive:
+neutral_dative:
+neutral_accusative:
+neutral_ins:
+neutral_pre:
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+singular_nominative:
+singular_genitive:
+singular_dative:
+singular_accusative:
+singular_ins:
+singular_pre:
 
-plu_nom: мы
-plu_gen: нас
-plu_dat: нам
-plu_acc: нас
-plu_ins: на́­ми
-plu_pre: нас
+plural_nominative: мы
+plural_genitive: нас
+plural_dative: нам
+plural_accusative: нас
+plural_ins: на́­ми
+plural_pre: нас
 
 comment: null
 usage: null

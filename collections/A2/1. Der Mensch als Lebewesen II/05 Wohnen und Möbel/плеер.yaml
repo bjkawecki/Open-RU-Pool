@@ -9,22 +9,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: пле́­ер
-sin_gen: пле́­ера
-sin_dat: пле́­еру
-sin_acc: пле́­ер
-sin_ins: пле́­ер­ом
-sin_pre: пле́­ере
+singular_nominative: пле́­ер
+singular_genitive: пле́­ера
+singular_dative: пле́­еру
+singular_accusative: пле́­ер
+singular_ins: пле́­ер­ом
+singular_pre: пле́­ере
 
-plu_nom: пле́­еры
-plu_gen: пле́­ер­ов
-plu_dat: пле́­ер­ам
-plu_acc: пле́­еры
-plu_ins: пле́­ера­ми
-plu_pre: пле́­ер­ах
+plural_nominative: пле́­еры
+plural_genitive: пле́­ер­ов
+plural_dative: пле́­ер­ам
+plural_accusative: пле́­еры
+plural_ins: пле́­ера­ми
+plural_pre: пле́­ер­ах
 
 partitive: null
 locative: null

@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: false
+is_singular_tan: false
 
-is_plu_tan: false
+is_plural_tan: false
 
-sin_nom: ад­ми­нист­ра́­ция
-sin_gen: ад­ми­нист­ра́­ции
-sin_dat: ад­ми­нист­ра́­ции
-sin_acc: ад­ми­нист­ра́­цию
-sin_ins: ад­ми­нист­ра́­ци­ей
-sin_pre: ад­ми­нист­ра́­ции
+singular_nominative: ад­ми­нист­ра́­ция
+singular_genitive: ад­ми­нист­ра́­ции
+singular_dative: ад­ми­нист­ра́­ции
+singular_accusative: ад­ми­нист­ра́­цию
+singular_ins: ад­ми­нист­ра́­ци­ей
+singular_pre: ад­ми­нист­ра́­ции
 
-plu_nom: ад­ми­нист­ра́­ции
-plu_gen: ад­ми­нист­ра́­ций
-plu_dat: ад­ми­нист­ра́­ци­ям
-plu_acc: ад­ми­нист­ра́­ции
-plu_ins: ад­ми­нист­ра́­ци­ями
-plu_pre: ад­ми­нист­ра́­ци­ях
+plural_nominative: ад­ми­нист­ра́­ции
+plural_genitive: ад­ми­нист­ра́­ций
+plural_dative: ад­ми­нист­ра́­ци­ям
+plural_accusative: ад­ми­нист­ра́­ции
+plural_ins: ад­ми­нист­ра́­ци­ями
+plural_pre: ад­ми­нист­ра́­ци­ях
 
 partitive: null
 locative: null

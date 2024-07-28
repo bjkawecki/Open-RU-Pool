@@ -6,38 +6,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: бли́з­кий
-mas_gen: бли́з­ко­го
-mas_dat: бли́з­ко­му
-mas_acc: бли́з­кий
-mas_ins: бли́з­ким
-mas_pre: бли́з­ком
+masculine_nominative: бли́з­кий
+masculine_genitive: бли́з­ко­го
+masculine_dative: бли́з­ко­му
+masculine_accusative: бли́з­кий
+masculine_ins: бли́з­ким
+masculine_pre: бли́з­ком
 
-fem_nom: бли́з­кая
-fem_gen: бли́з­кой
-fem_dat: бли́з­кой
-fem_acc: бли́з­кую
-fem_ins: бли́з­кой
-fem_pre: бли́з­кой
+feminine_nominative: бли́з­кая
+feminine_genitive: бли́з­кой
+feminine_dative: бли́з­кой
+feminine_accusative: бли́з­кую
+feminine_ins: бли́з­кой
+feminine_pre: бли́з­кой
 
-neu_nom: бли́з­кое
-neu_gen: бли́з­ко­го
-neu_dat: бли́з­ко­му
-neu_acc: бли́з­кое
-neu_ins: бли́з­ким
-neu_pre: бли́з­ком
+neutral_nominative: бли́з­кое
+neutral_genitive: бли́з­ко­го
+neutral_dative: бли́з­ко­му
+neutral_accusative: бли́з­кое
+neutral_ins: бли́з­ким
+neutral_pre: бли́з­ком
 
-plu_nom: бли́з­кие
-plu_gen: бли́з­ких
-plu_dat: бли́з­ким
-plu_acc: бли́з­кие
-plu_ins: бли́з­ки­ми
-plu_pre: бли́з­ких
+plural_nominative: бли́з­кие
+plural_genitive: бли́з­ких
+plural_dative: бли́з­ким
+plural_accusative: бли́з­кие
+plural_ins: бли́з­ки­ми
+plural_pre: бли́з­ких
 
-sho_mas: бли́­зок
-sho_fem: близ­ка́
-sho_neu: бли́з­ко
-sho_plu: бли́з­ки
+shortform_mas: бли́­зок
+shortform_fem: близ­ка́
+shortform_neu: бли́з­ко
+shortform_plu: бли́з­ки
 
 comparative: бли́­же
 superlative: самый бли́з­кий

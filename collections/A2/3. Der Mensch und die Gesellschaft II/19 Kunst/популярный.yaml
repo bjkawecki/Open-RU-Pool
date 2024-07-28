@@ -5,38 +5,38 @@ translation:
 
 is_gradable:
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+masculine_nominative:
+masculine_genitive:
+masculine_dative:
+masculine_accusative:
+masculine_ins:
+masculine_pre:
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+feminine_nominative:
+feminine_genitive:
+feminine_dative:
+feminine_accusative:
+feminine_ins:
+feminine_pre:
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neutral_nominative:
+neutral_genitive:
+neutral_dative:
+neutral_accusative:
+neutral_ins:
+neutral_pre:
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plural_nominative:
+plural_genitive:
+plural_dative:
+plural_accusative:
+plural_ins:
+plural_pre:
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+shortform_mas:
+shortform_fem:
+shortform_neu:
+shortform_plu:
 
 comparative:
 superlative:

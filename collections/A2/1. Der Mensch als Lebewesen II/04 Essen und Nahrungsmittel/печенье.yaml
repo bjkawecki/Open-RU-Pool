@@ -10,22 +10,22 @@ genus: neutral
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: пе­че́нье
-sin_gen: пе­че́нья
-sin_dat: пе­че́нью
-sin_acc: пе­че́нье
-sin_ins: пе­че́нь­ем
-sin_pre: пе­че́нье
+singular_nominative: пе­че́нье
+singular_genitive: пе­че́нья
+singular_dative: пе­че́нью
+singular_accusative: пе­че́нье
+singular_ins: пе­че́нь­ем
+singular_pre: пе­че́нье
 
-plu_nom: пе­че́нья
-plu_gen: пе­че́­ний
-plu_dat: пе­че́нь­ям
-plu_acc: пе­че́нья
-plu_ins: пе­че́нь­ями
-plu_pre: пе­че́нь­ях
+plural_nominative: пе­че́нья
+plural_genitive: пе­че́­ний
+plural_dative: пе­че́нь­ям
+plural_accusative: пе­че́нья
+plural_ins: пе­че́нь­ями
+plural_pre: пе­че́нь­ях
 
 partitive: null
 locative: null

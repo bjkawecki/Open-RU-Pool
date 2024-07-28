@@ -6,38 +6,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: ме́дленный
-mas_gen: ме́д­лен­но­го
-mas_dat: ме́д­лен­но­му
-mas_acc: ме́д­лен­ный
-mas_ins: ме́д­лен­ным
-mas_pre: ме́д­лен­ном
+masculine_nominative: ме́дленный
+masculine_genitive: ме́д­лен­но­го
+masculine_dative: ме́д­лен­но­му
+masculine_accusative: ме́д­лен­ный
+masculine_ins: ме́д­лен­ным
+masculine_pre: ме́д­лен­ном
 
-fem_nom: ме́д­лен­ная
-fem_gen: ме́д­лен­ной
-fem_dat: ме́д­лен­ной
-fem_acc: ме́д­лен­ную
-fem_ins: ме́д­лен­ной
-fem_pre: ме́д­лен­ной
+feminine_nominative: ме́д­лен­ная
+feminine_genitive: ме́д­лен­ной
+feminine_dative: ме́д­лен­ной
+feminine_accusative: ме́д­лен­ную
+feminine_ins: ме́д­лен­ной
+feminine_pre: ме́д­лен­ной
 
-neu_nom: ме́д­лен­ное
-neu_gen: ме́д­лен­но­го
-neu_dat: ме́д­лен­но­му
-neu_acc: ме́д­лен­ное
-neu_ins: ме́д­лен­ным
-neu_pre: ме́д­лен­ном
+neutral_nominative: ме́д­лен­ное
+neutral_genitive: ме́д­лен­но­го
+neutral_dative: ме́д­лен­но­му
+neutral_accusative: ме́д­лен­ное
+neutral_ins: ме́д­лен­ным
+neutral_pre: ме́д­лен­ном
 
-plu_nom: ме́д­лен­ные
-plu_gen: ме́д­лен­ных
-plu_dat: ме́д­лен­ным
-plu_acc: ме́д­лен­ные
-plu_ins: ме́д­лен­ны­ми
-plu_pre: ме́д­лен­ных
+plural_nominative: ме́д­лен­ные
+plural_genitive: ме́д­лен­ных
+plural_dative: ме́д­лен­ным
+plural_accusative: ме́д­лен­ные
+plural_ins: ме́д­лен­ны­ми
+plural_pre: ме́д­лен­ных
 
-sho_mas: ме́д­ле­нен, ме́д­лен
-sho_fem: ме́д­лен­на
-sho_neu: ме́д­лен­но
-sho_plu: ме́д­лен­ны
+shortform_mas: ме́д­ле­нен, ме́д­лен
+shortform_fem: ме́д­лен­на
+shortform_neu: ме́д­лен­но
+shortform_plu: ме́д­лен­ны
 
 comparative: ме́дленнее
 superlative: самый ме́дленный

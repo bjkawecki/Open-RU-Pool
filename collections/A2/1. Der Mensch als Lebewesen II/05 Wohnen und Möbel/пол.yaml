@@ -9,22 +9,22 @@ genus: masculine
 dec_cls: "2"
 stress: shifting
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: пол
-sin_gen: по́ла
-sin_dat: по́лу
-sin_acc: пол
-sin_ins: по́лом
-sin_pre: по́ле
+singular_nominative: пол
+singular_genitive: по́ла
+singular_dative: по́лу
+singular_accusative: пол
+singular_ins: по́лом
+singular_pre: по́ле
 
-plu_nom: полы́
-plu_gen: поло́в
-plu_dat: пола́м
-plu_acc: полы́
-plu_ins: пола́ми
-plu_pre: пола́х
+plural_nominative: полы́
+plural_genitive: поло́в
+plural_dative: пола́м
+plural_accusative: полы́
+plural_ins: пола́ми
+plural_pre: пола́х
 
 partitive: null
 locative: полу́

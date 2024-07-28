@@ -8,22 +8,22 @@ genus: feminine
 dec_cls: "1"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: бу­ты́л­ка
-sin_gen: бу­ты́л­ки
-sin_dat: бу­ты́л­ке
-sin_acc: бу­ты́л­ку
-sin_ins: бу­ты́л­кой
-sin_pre: бу­ты́л­ке
+singular_nominative: бу­ты́л­ка
+singular_genitive: бу­ты́л­ки
+singular_dative: бу­ты́л­ке
+singular_accusative: бу­ты́л­ку
+singular_ins: бу­ты́л­кой
+singular_pre: бу­ты́л­ке
 
-plu_nom: бу­ты́л­ки
-plu_gen: бу­ты́л­ок
-plu_dat: бу­ты́л­кам
-plu_acc: бу­ты́л­ки
-plu_ins: бу­ты́л­ка­ми
-plu_pre: бу­ты́л­ках
+plural_nominative: бу­ты́л­ки
+plural_genitive: бу­ты́л­ок
+plural_dative: бу­ты́л­кам
+plural_accusative: бу­ты́л­ки
+plural_ins: бу­ты́л­ка­ми
+plural_pre: бу­ты́л­ках
 
 partitive: null
 locative: null

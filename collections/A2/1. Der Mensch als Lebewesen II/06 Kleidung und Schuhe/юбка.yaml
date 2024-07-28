@@ -8,22 +8,22 @@ genus: feminine
 dec_cls: "1"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ю́б­ка
-sin_gen: ю́б­ки
-sin_dat: ю́б­ке
-sin_acc: ю́б­ку
-sin_ins: ю́б­кой
-sin_pre: ю́б­ке
+singular_nominative: ю́б­ка
+singular_genitive: ю́б­ки
+singular_dative: ю́б­ке
+singular_accusative: ю́б­ку
+singular_ins: ю́б­кой
+singular_pre: ю́б­ке
 
-plu_nom: ю́б­ки
-plu_gen: ю́б­ок
-plu_dat: ю́б­кам
-plu_acc: ю́б­ки
-plu_ins: ю́б­ка­ми
-plu_pre: ю́б­ках
+plural_nominative: ю́б­ки
+plural_genitive: ю́б­ок
+plural_dative: ю́б­кам
+plural_accusative: ю́б­ки
+plural_ins: ю́б­ка­ми
+plural_pre: ю́б­ках
 
 partitive: null
 locative: null

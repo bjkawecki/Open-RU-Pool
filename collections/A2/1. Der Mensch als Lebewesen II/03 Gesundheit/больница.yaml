@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: боль­ни́­ца
-sin_gen: боль­ни́­цы
-sin_dat: боль­ни́­це
-sin_acc: боль­ни́­цу
-sin_ins: боль­ни́­цей
-sin_pre: боль­ни́­це
+singular_nominative: боль­ни́­ца
+singular_genitive: боль­ни́­цы
+singular_dative: боль­ни́­це
+singular_accusative: боль­ни́­цу
+singular_ins: боль­ни́­цей
+singular_pre: боль­ни́­це
 
-plu_nom: боль­ни́­цы
-plu_gen: боль­ни́ц
-plu_dat: боль­ни́­цам
-plu_acc: боль­ни́­цы
-plu_ins: боль­ни́­ца­ми
-plu_pre: боль­ни́­цах
+plural_nominative: боль­ни́­цы
+plural_genitive: боль­ни́ц
+plural_dative: боль­ни́­цам
+plural_accusative: боль­ни́­цы
+plural_ins: боль­ни́­ца­ми
+plural_pre: боль­ни́­цах
 
 partitive: null
 locative: null

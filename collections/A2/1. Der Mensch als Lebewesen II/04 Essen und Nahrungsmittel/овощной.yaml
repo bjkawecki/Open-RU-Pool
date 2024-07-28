@@ -6,38 +6,38 @@ translation:
 
 is_gradable: false
 
-mas_nom: ов­ощ­но́й
-mas_gen: ов­ощ­но́­го
-mas_dat: ов­ощ­но́­му
-mas_acc: ов­ощ­но́й
-mas_ins: ов­ощ­ны́м
-mas_pre: ов­ощ­но́м
+masculine_nominative: ов­ощ­но́й
+masculine_genitive: ов­ощ­но́­го
+masculine_dative: ов­ощ­но́­му
+masculine_accusative: ов­ощ­но́й
+masculine_ins: ов­ощ­ны́м
+masculine_pre: ов­ощ­но́м
 
-fem_nom: ов­ощ­на́я
-fem_gen: ов­ощ­но́й
-fem_dat: ов­ощ­но́й
-fem_acc: ов­ощ­ну́ю
-fem_ins: ов­ощ­но́й
-fem_pre: ов­ощ­но́й
+feminine_nominative: ов­ощ­на́я
+feminine_genitive: ов­ощ­но́й
+feminine_dative: ов­ощ­но́й
+feminine_accusative: ов­ощ­ну́ю
+feminine_ins: ов­ощ­но́й
+feminine_pre: ов­ощ­но́й
 
-neu_nom: ов­ощ­но́е
-neu_gen: ов­ощ­но́­го
-neu_dat: ов­ощ­но́­му
-neu_acc: ов­ощ­но́е
-neu_ins: ов­ощ­ны́м
-neu_pre: ов­ощ­но́м
+neutral_nominative: ов­ощ­но́е
+neutral_genitive: ов­ощ­но́­го
+neutral_dative: ов­ощ­но́­му
+neutral_accusative: ов­ощ­но́е
+neutral_ins: ов­ощ­ны́м
+neutral_pre: ов­ощ­но́м
 
-plu_nom: ов­ощ­ны́е
-plu_gen: ов­ощ­ны́х
-plu_dat: ов­ощ­ны́м
-plu_acc: ов­ощ­ны́е
-plu_ins: ов­ощ­ны́­ми
-plu_pre: ов­ощ­ны́х
+plural_nominative: ов­ощ­ны́е
+plural_genitive: ов­ощ­ны́х
+plural_dative: ов­ощ­ны́м
+plural_accusative: ов­ощ­ны́е
+plural_ins: ов­ощ­ны́­ми
+plural_pre: ов­ощ­ны́х
 
-sho_mas: null
-sho_fem: null
-sho_neu: null
-sho_plu: null
+shortform_mas: null
+shortform_fem: null
+shortform_neu: null
+shortform_plu: null
 
 comparative: null
 superlative: null

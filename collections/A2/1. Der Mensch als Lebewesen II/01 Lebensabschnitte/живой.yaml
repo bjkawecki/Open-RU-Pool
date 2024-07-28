@@ -8,38 +8,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: жи­во́й
-mas_gen: жи­во́­го
-mas_dat: жи­во́­му
-mas_acc: жи­во́й
-mas_ins: жи­вы́м
-mas_pre: жи­во́м
+masculine_nominative: жи­во́й
+masculine_genitive: жи­во́­го
+masculine_dative: жи­во́­му
+masculine_accusative: жи­во́й
+masculine_ins: жи­вы́м
+masculine_pre: жи­во́м
 
-fem_nom: жи­ва́я
-fem_gen: жи­во́й
-fem_dat: жи­во́й
-fem_acc: жи­ву́ю
-fem_ins: жи­во́й
-fem_pre: жи­во́й
+feminine_nominative: жи­ва́я
+feminine_genitive: жи­во́й
+feminine_dative: жи­во́й
+feminine_accusative: жи­ву́ю
+feminine_ins: жи­во́й
+feminine_pre: жи­во́й
 
-neu_nom: жи­во́е
-neu_gen: жи­во́­го
-neu_dat: жи­во́­му
-neu_acc: жи­во́е
-neu_ins: жи­вы́м
-neu_pre: жи­во́м
+neutral_nominative: жи­во́е
+neutral_genitive: жи­во́­го
+neutral_dative: жи­во́­му
+neutral_accusative: жи­во́е
+neutral_ins: жи­вы́м
+neutral_pre: жи­во́м
 
-plu_nom: жи­вы́е
-plu_gen: жи­вы́х
-plu_dat: жи­вы́м
-plu_acc: жи­вы́е
-plu_ins: жи­вы́­ми
-plu_pre: жи­вы́х
+plural_nominative: жи­вы́е
+plural_genitive: жи­вы́х
+plural_dative: жи­вы́м
+plural_accusative: жи­вы́е
+plural_ins: жи­вы́­ми
+plural_pre: жи­вы́х
 
-sho_mas: жив
-sho_fem: жи­ва́
-sho_neu: жи́­во
-sho_plu: жи́­вы
+shortform_mas: жив
+shortform_fem: жи­ва́
+shortform_neu: жи́­во
+shortform_plu: жи́­вы
 
 comparative: жи­ве́е
 superlative: са́мый живо́й

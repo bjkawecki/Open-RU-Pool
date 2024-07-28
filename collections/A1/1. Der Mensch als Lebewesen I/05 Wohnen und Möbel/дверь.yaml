@@ -7,20 +7,20 @@ genus: feminine
 dec_cls: "3"
 stress: shifting
 is_animate: null
-is_sin_tan: null
-is_plu_tan: null
-sin_nom: дверь
-sin_gen: две́­ри
-sin_dat: две́­ри
-sin_acc: дверь
-sin_ins: две́рью
-sin_pre: две́­ри
-plu_nom: две́­ри
-plu_gen: две­ре́й
-plu_dat: две­ря́м
-plu_acc: две́­ри
-plu_ins: две­ря́­ми, дверь­ми́
-plu_pre: две­ря́х
+is_singular_tan: null
+is_plural_tan: null
+singular_nominative: дверь
+singular_genitive: две́­ри
+singular_dative: две́­ри
+singular_accusative: дверь
+singular_ins: две́рью
+singular_pre: две́­ри
+plural_nominative: две́­ри
+plural_genitive: две­ре́й
+plural_dative: две­ря́м
+plural_accusative: две́­ри
+plural_ins: две­ря́­ми, дверь­ми́
+plural_pre: две­ря́х
 partitive: null
 locative: в/на две­ри́
 comment: null

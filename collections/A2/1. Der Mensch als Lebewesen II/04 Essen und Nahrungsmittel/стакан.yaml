@@ -10,22 +10,22 @@ genus: "masculine"
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ста­ка́н
-sin_gen: ста­ка́­на
-sin_dat: ста­ка́­ну
-sin_acc: ста­ка́н
-sin_ins: ста­ка́н­ом
-sin_pre: ста­ка́­не
+singular_nominative: ста­ка́н
+singular_genitive: ста­ка́­на
+singular_dative: ста­ка́­ну
+singular_accusative: ста­ка́н
+singular_ins: ста­ка́н­ом
+singular_pre: ста­ка́­не
 
-plu_nom: ста­ка́­ны
-plu_gen: ста­ка́н­ов
-plu_dat: ста­ка́н­ам
-plu_acc: ста­ка́­ны
-plu_ins: ста­ка́­на­ми
-plu_pre: ста­ка́н­ах
+plural_nominative: ста­ка́­ны
+plural_genitive: ста­ка́н­ов
+plural_dative: ста­ка́н­ам
+plural_accusative: ста­ка́­ны
+plural_ins: ста­ка́­на­ми
+plural_pre: ста­ка́н­ах
 
 partitive: null
 locative: null

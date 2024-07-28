@@ -8,22 +8,22 @@ genus: feminine
 dec_cls: "1"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: си­га­ре́­та
-sin_gen: си­га­ре́­ты
-sin_dat: си­га­ре́­те
-sin_acc: си­га­ре́­ту
-sin_ins: си­га­ре́­той
-sin_pre: си­га­ре́­те
+singular_nominative: си­га­ре́­та
+singular_genitive: си­га­ре́­ты
+singular_dative: си­га­ре́­те
+singular_accusative: си­га­ре́­ту
+singular_ins: си­га­ре́­той
+singular_pre: си­га­ре́­те
 
-plu_nom: си­га­ре́­ты
-plu_gen: си­гар­е́т
-plu_dat: си­га­ре́­там
-plu_acc: си­га­ре́­ты
-plu_ins: си­га­ре́­та­ми
-plu_pre: си­га­ре́­тах
+plural_nominative: си­га­ре́­ты
+plural_genitive: си­гар­е́т
+plural_dative: си­га­ре́­там
+plural_accusative: си­га­ре́­ты
+plural_ins: си­га­ре́­та­ми
+plural_pre: си­га­ре́­тах
 
 partitive: null
 locative: null

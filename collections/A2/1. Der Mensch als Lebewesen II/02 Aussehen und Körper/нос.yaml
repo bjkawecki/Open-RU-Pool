@@ -12,23 +12,23 @@ stress: shifting
 
 is_animate: false
 
-is_sin_tan:
+is_singular_tan:
 
-is_plu_tan:
+is_plural_tan:
 
-sin_nom: нос
-sin_gen: но́са
-sin_dat: но́су
-sin_acc: нос
-sin_ins: но́сом
-sin_pre: но́се
+singular_nominative: нос
+singular_genitive: но́са
+singular_dative: но́су
+singular_accusative: нос
+singular_ins: но́сом
+singular_pre: но́се
 
-plu_nom: носы́
-plu_gen: носо́в
-plu_dat: носа́м
-plu_acc: носы́
-plu_ins: носа́ми
-plu_pre: носа́х
+plural_nominative: носы́
+plural_genitive: носо́в
+plural_dative: носа́м
+plural_accusative: носы́
+plural_ins: носа́ми
+plural_pre: носа́х
 
 partitive: null
 locative: null носу́

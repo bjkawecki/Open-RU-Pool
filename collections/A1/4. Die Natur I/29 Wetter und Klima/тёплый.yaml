@@ -6,38 +6,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: тёп­лый
-mas_gen: тёп­ло­го
-mas_dat: тёп­ло­му
-mas_acc: тёп­лый
-mas_ins: тёп­лым
-mas_pre: тёп­лом
+masculine_nominative: тёп­лый
+masculine_genitive: тёп­ло­го
+masculine_dative: тёп­ло­му
+masculine_accusative: тёп­лый
+masculine_ins: тёп­лым
+masculine_pre: тёп­лом
 
-fem_nom: тёп­лая
-fem_gen: тёп­лой
-fem_dat: тёп­лой
-fem_acc: тёп­лую
-fem_ins: тёп­лой
-fem_pre: тёп­лой
+feminine_nominative: тёп­лая
+feminine_genitive: тёп­лой
+feminine_dative: тёп­лой
+feminine_accusative: тёп­лую
+feminine_ins: тёп­лой
+feminine_pre: тёп­лой
 
-neu_nom: тёп­лое
-neu_gen: тёп­ло­го
-neu_dat: тёп­ло­му
-neu_acc: тёп­лое
-neu_ins: тёп­лым
-neu_pre: тёп­лом
+neutral_nominative: тёп­лое
+neutral_genitive: тёп­ло­го
+neutral_dative: тёп­ло­му
+neutral_accusative: тёп­лое
+neutral_ins: тёп­лым
+neutral_pre: тёп­лом
 
-plu_nom: тёп­лые
-plu_gen: тёп­лых
-plu_dat: тёп­лым
-plu_acc: тёп­лые
-plu_ins: тёп­лы­ми
-plu_pre: тёплых
+plural_nominative: тёп­лые
+plural_genitive: тёп­лых
+plural_dative: тёп­лым
+plural_accusative: тёп­лые
+plural_ins: тёп­лы­ми
+plural_pre: тёплых
 
-sho_mas: тё­пел
-sho_fem: теп­ла́
-sho_neu: теп­ло́
-sho_plu: теп­лы́
+shortform_mas: тё­пел
+shortform_fem: теп­ла́
+shortform_neu: теп­ло́
+shortform_plu: теп­лы́
 
 comparative: теп­ле́е
 superlative: самый тёплый

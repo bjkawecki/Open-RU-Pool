@@ -6,38 +6,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: спор­ти́­вный
-mas_gen: спор­ти́­вно­го
-mas_dat: спор­ти́­вно­му
-mas_acc: спор­ти́­вный
-mas_ins: спор­ти́­вным
-mas_pre: спор­ти́­вном
+masculine_nominative: спор­ти́­вный
+masculine_genitive: спор­ти́­вно­го
+masculine_dative: спор­ти́­вно­му
+masculine_accusative: спор­ти́­вный
+masculine_ins: спор­ти́­вным
+masculine_pre: спор­ти́­вном
 
-fem_nom: спор­ти́­вная
-fem_gen: спор­ти́­вной
-fem_dat: спор­ти́­вной
-fem_acc: спор­ти́­вную
-fem_ins: спор­ти́­вной
-fem_pre: спор­ти́­вной
+feminine_nominative: спор­ти́­вная
+feminine_genitive: спор­ти́­вной
+feminine_dative: спор­ти́­вной
+feminine_accusative: спор­ти́­вную
+feminine_ins: спор­ти́­вной
+feminine_pre: спор­ти́­вной
 
-neu_nom: спор­ти́­вное
-neu_gen: спор­ти́­вно­го
-neu_dat: спор­ти́­вно­му
-neu_acc: спор­ти́­вное
-neu_ins: спор­ти́­вным
-neu_pre: спор­ти́­вном
+neutral_nominative: спор­ти́­вное
+neutral_genitive: спор­ти́­вно­го
+neutral_dative: спор­ти́­вно­му
+neutral_accusative: спор­ти́­вное
+neutral_ins: спор­ти́­вным
+neutral_pre: спор­ти́­вном
 
-plu_nom: спор­ти́­вные
-plu_gen: спор­ти́­вных
-plu_dat: спор­ти́­вным
-plu_acc: спор­ти́­вные
-plu_ins: спор­ти́­вны­ми
-plu_pre: спор­ти́­вных
+plural_nominative: спор­ти́­вные
+plural_genitive: спор­ти́­вных
+plural_dative: спор­ти́­вным
+plural_accusative: спор­ти́­вные
+plural_ins: спор­ти́­вны­ми
+plural_pre: спор­ти́­вных
 
-sho_mas: спор­ти́­вен
-sho_fem: спор­ти́­вна
-sho_neu: спор­ти́­вно
-sho_plu: спор­ти́­вны
+shortform_mas: спор­ти́­вен
+shortform_fem: спор­ти́­вна
+shortform_neu: спор­ти́­вно
+shortform_plu: спор­ти́­вны
 
 comparative: спор­ти́­внее
 superlative:

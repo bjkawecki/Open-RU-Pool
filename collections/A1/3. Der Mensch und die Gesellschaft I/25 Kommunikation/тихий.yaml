@@ -6,38 +6,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: ти́­хий
-mas_gen: ти́­хо­го
-mas_dat: ти́­хо­му
-mas_acc: ти́­хий
-mas_ins: ти́­хим
-mas_pre: ти́­хом
+masculine_nominative: ти́­хий
+masculine_genitive: ти́­хо­го
+masculine_dative: ти́­хо­му
+masculine_accusative: ти́­хий
+masculine_ins: ти́­хим
+masculine_pre: ти́­хом
 
-fem_nom: ти́­хая
-fem_gen: ти́­хой
-fem_dat: ти́­хой
-fem_acc: ти́­хую
-fem_ins: ти́­хой
-fem_pre: ти́­хой
+feminine_nominative: ти́­хая
+feminine_genitive: ти́­хой
+feminine_dative: ти́­хой
+feminine_accusative: ти́­хую
+feminine_ins: ти́­хой
+feminine_pre: ти́­хой
 
-neu_nom: ти́­хое
-neu_gen: ти́­хо­го
-neu_dat: ти́­хо­му
-neu_acc: ти́­хое
-neu_ins: ти́­хим
-neu_pre: ти́­хом
+neutral_nominative: ти́­хое
+neutral_genitive: ти́­хо­го
+neutral_dative: ти́­хо­му
+neutral_accusative: ти́­хое
+neutral_ins: ти́­хим
+neutral_pre: ти́­хом
 
-plu_nom: ти́­хие
-plu_gen: ти́­хих
-plu_dat: ти́­хим
-plu_acc: ти́­хие
-plu_ins: ти́­хи­ми
-plu_pre: ти́­хих
+plural_nominative: ти́­хие
+plural_genitive: ти́­хих
+plural_dative: ти́­хим
+plural_accusative: ти́­хие
+plural_ins: ти́­хи­ми
+plural_pre: ти́­хих
 
-sho_mas: тих
-sho_fem: ти­ха́
-sho_neu: ти́­хо
-sho_plu: ти́­хи
+shortform_mas: тих
+shortform_fem: ти­ха́
+shortform_neu: ти́­хо
+shortform_plu: ти́­хи
 
 comparative: ти́­ше
 superlative: самый ти́­хий

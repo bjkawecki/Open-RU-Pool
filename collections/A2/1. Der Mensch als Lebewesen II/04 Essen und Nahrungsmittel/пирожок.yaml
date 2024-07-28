@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: suffix
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: пи­рож­о́к
-sin_gen: пи­рож­ка́
-sin_dat: пи­рож­ку́
-sin_acc: пи­рож­о́к
-sin_ins: пи­рож­ко́м
-sin_pre: пи­рож­ке́
+singular_nominative: пи­рож­о́к
+singular_genitive: пи­рож­ка́
+singular_dative: пи­рож­ку́
+singular_accusative: пи­рож­о́к
+singular_ins: пи­рож­ко́м
+singular_pre: пи­рож­ке́
 
-plu_nom: пи­рож­ки́
-plu_gen: пи­рож­ко́в
-plu_dat: пи­рож­ка́м
-plu_acc: пи­рож­ки́
-plu_ins: пи­рож­ка́­ми
-plu_pre: пи­рож­ка́х
+plural_nominative: пи­рож­ки́
+plural_genitive: пи­рож­ко́в
+plural_dative: пи­рож­ка́м
+plural_accusative: пи­рож­ки́
+plural_ins: пи­рож­ка́­ми
+plural_pre: пи­рож­ка́х
 
 partitive: null
 locative: null

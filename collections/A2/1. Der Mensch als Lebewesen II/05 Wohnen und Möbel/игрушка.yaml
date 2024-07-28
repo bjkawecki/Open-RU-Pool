@@ -7,22 +7,22 @@ genus: feminine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: иг­ру́­шка
-sin_gen: иг­ру́­шки
-sin_dat: иг­ру́­шке
-sin_acc: иг­ру́­шка
-sin_ins: иг­ру́­шкой
-sin_pre: иг­ру́­шке
+singular_nominative: иг­ру́­шка
+singular_genitive: иг­ру́­шки
+singular_dative: иг­ру́­шке
+singular_accusative: иг­ру́­шка
+singular_ins: иг­ру́­шкой
+singular_pre: иг­ру́­шке
 
-plu_nom: иг­ру́­шки
-plu_gen: иг­ру́­шек
-plu_dat: иг­ру́­шкам
-plu_acc: иг­ру́­шки
-plu_ins: иг­ру́­шка­ми
-plu_pre: иг­ру́­шках
+plural_nominative: иг­ру́­шки
+plural_genitive: иг­ру́­шек
+plural_dative: иг­ру́­шкам
+plural_accusative: иг­ру́­шки
+plural_ins: иг­ру́­шка­ми
+plural_pre: иг­ру́­шках
 
 partitive: null
 locative: null

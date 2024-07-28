@@ -8,22 +8,22 @@ genus: feminine
 dec_cls: "1"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: та­ре́л­ка
-sin_gen: та­ре́л­ки
-sin_dat: та­ре́л­ке
-sin_acc: та­ре́л­ку
-sin_ins: та­ре́л­кой
-sin_pre: та­ре́л­ке
+singular_nominative: та­ре́л­ка
+singular_genitive: та­ре́л­ки
+singular_dative: та­ре́л­ке
+singular_accusative: та­ре́л­ку
+singular_ins: та­ре́л­кой
+singular_pre: та­ре́л­ке
 
-plu_nom: та­ре́л­ки
-plu_gen: та­ре́л­ок
-plu_dat: та­ре́л­кам
-plu_acc: та­ре́л­ки
-plu_ins: та­ре́л­ка­ми
-plu_pre: та­ре́л­ках
+plural_nominative: та­ре́л­ки
+plural_genitive: та­ре́л­ок
+plural_dative: та­ре́л­кам
+plural_accusative: та­ре́л­ки
+plural_ins: та­ре́л­ка­ми
+plural_pre: та­ре́л­ках
 
 partitive: null
 locative: null

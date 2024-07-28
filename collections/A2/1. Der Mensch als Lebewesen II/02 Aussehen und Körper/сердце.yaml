@@ -11,23 +11,23 @@ stress: shifting
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: се́рд­це
-sin_gen: се́рд­ца
-sin_dat: се́рд­цу
-sin_acc: се́рд­це
-sin_ins: се́рд­цем
-sin_pre: се́рд­це
+singular_nominative: се́рд­це
+singular_genitive: се́рд­ца
+singular_dative: се́рд­цу
+singular_accusative: се́рд­це
+singular_ins: се́рд­цем
+singular_pre: се́рд­це
 
-plu_nom: серд­ца́
-plu_gen: сер­де́ц
-plu_dat: серд­ца́м
-plu_acc: серд­ца́
-plu_ins: серд­ца́­ми
-plu_pre: серд­ца́х
+plural_nominative: серд­ца́
+plural_genitive: сер­де́ц
+plural_dative: серд­ца́м
+plural_accusative: серд­ца́
+plural_ins: серд­ца́­ми
+plural_pre: серд­ца́х
 
 partitive: null
 locative: null

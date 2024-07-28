@@ -8,22 +8,22 @@ genus: neutral
 dec_cls: none
 stress: suffix
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: пальто́
-sin_gen: пальто́
-sin_dat: пальто́
-sin_acc: пальто́
-sin_ins: пальто́
-sin_pre: пальто́
+singular_nominative: пальто́
+singular_genitive: пальто́
+singular_dative: пальто́
+singular_accusative: пальто́
+singular_ins: пальто́
+singular_pre: пальто́
 
-plu_nom: пальто́
-plu_gen: пальто́
-plu_dat: пальто́
-plu_acc: пальто́
-plu_ins: пальто́
-plu_pre: пальто́
+plural_nominative: пальто́
+plural_genitive: пальто́
+plural_dative: пальто́
+plural_accusative: пальто́
+plural_ins: пальто́
+plural_pre: пальто́
 
 partitive: null
 locative: null

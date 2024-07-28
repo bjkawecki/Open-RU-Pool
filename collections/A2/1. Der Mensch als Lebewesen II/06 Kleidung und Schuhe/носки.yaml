@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: suffix
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: носо́к
-sin_gen: носка́
-sin_dat: носку́
-sin_acc: носо́к
-sin_ins: носко́м
-sin_pre: носке́
+singular_nominative: носо́к
+singular_genitive: носка́
+singular_dative: носку́
+singular_accusative: носо́к
+singular_ins: носко́м
+singular_pre: носке́
 
-plu_nom: носки́
-plu_gen: носко́в
-plu_dat: носка́м
-plu_acc: носки́
-plu_ins: носка́ми
-plu_pre: носка́х
+plural_nominative: носки́
+plural_genitive: носко́в
+plural_dative: носка́м
+plural_accusative: носки́
+plural_ins: носка́ми
+plural_pre: носка́х
 
 partitive: null
 locative: null

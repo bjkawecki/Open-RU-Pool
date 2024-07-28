@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: тире́
-sin_gen: тире́
-sin_dat: тире́
-sin_acc: тире́
-sin_ins: тире́
-sin_pre: тире́
+singular_nominative: тире́
+singular_genitive: тире́
+singular_dative: тире́
+singular_accusative: тире́
+singular_ins: тире́
+singular_pre: тире́
 
-plu_nom: тире́
-plu_gen: тире́
-plu_dat: тире́
-plu_acc: тире́
-plu_ins: тире́
-plu_pre: тире́
+plural_nominative: тире́
+plural_genitive: тире́
+plural_dative: тире́
+plural_accusative: тире́
+plural_ins: тире́
+plural_pre: тире́
 
 partitive: null
 locative: null

@@ -9,22 +9,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ли­мо́н
-sin_gen: ли­мо́­на
-sin_dat: ли­мо́­ну
-sin_acc: ли­мо́н
-sin_ins: ли­мо́н­ом
-sin_pre: ли­мо́­не
+singular_nominative: ли­мо́н
+singular_genitive: ли­мо́­на
+singular_dative: ли­мо́­ну
+singular_accusative: ли­мо́н
+singular_ins: ли­мо́н­ом
+singular_pre: ли­мо́­не
 
-plu_nom: ли­мо́­ны
-plu_gen: ли­мо́н­ов
-plu_dat: ли­мо́н­ам
-plu_acc: ли­мо́­ны
-plu_ins: ли­мо́­на­ми
-plu_pre: ли­мо́н­ах
+plural_nominative: ли­мо́­ны
+plural_genitive: ли­мо́н­ов
+plural_dative: ли­мо́н­ам
+plural_accusative: ли­мо́­ны
+plural_ins: ли­мо́­на­ми
+plural_pre: ли­мо́н­ах
 
 partitive: null
 locative: null

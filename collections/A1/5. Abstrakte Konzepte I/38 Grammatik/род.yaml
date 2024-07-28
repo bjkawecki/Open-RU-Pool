@@ -14,23 +14,23 @@ stress: shifting
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: род
-sin_gen: ро́­да
-sin_dat: ро́­ду
-sin_acc: род
-sin_ins: ро́­дом
-sin_pre: ро́­де
+singular_nominative: род
+singular_genitive: ро́­да
+singular_dative: ро́­ду
+singular_accusative: род
+singular_ins: ро́­дом
+singular_pre: ро́­де
 
-plu_nom: ро́­ды
-plu_gen: ро­до́в
-plu_dat: ро­да́м
-plu_acc: ро́­ды
-plu_ins: ро­да́­ми
-plu_pre: ро­да́х
+plural_nominative: ро́­ды
+plural_genitive: ро­до́в
+plural_dative: ро­да́м
+plural_accusative: ро́­ды
+plural_ins: ро­да́­ми
+plural_pre: ро­да́х
 
 partitive: null
 locative: null

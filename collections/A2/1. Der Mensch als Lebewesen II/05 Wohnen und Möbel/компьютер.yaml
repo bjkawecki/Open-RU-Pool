@@ -9,22 +9,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: компь­ю́те­ра
-sin_gen: компь­ю́те­ра
-sin_dat: компь­ю́те­ру
-sin_acc: компь­ю́те­ра
-sin_ins: компь­ю́те­ром
-sin_pre: компь­ю́те­ре
+singular_nominative: компь­ю́те­ра
+singular_genitive: компь­ю́те­ра
+singular_dative: компь­ю́те­ру
+singular_accusative: компь­ю́те­ра
+singular_ins: компь­ю́те­ром
+singular_pre: компь­ю́те­ре
 
-plu_nom: компь­ю́те­ры
-plu_gen: компь­ю́те­ров
-plu_dat: компь­ю́те­рам
-plu_acc: компь­ю́те­ры
-plu_ins: компь­ю́те­ра­ми
-plu_pre: компь­ю́те­рах
+plural_nominative: компь­ю́те­ры
+plural_genitive: компь­ю́те­ров
+plural_dative: компь­ю́те­рам
+plural_accusative: компь­ю́те­ры
+plural_ins: компь­ю́те­ра­ми
+plural_pre: компь­ю́те­рах
 
 partitive: null
 locative: null

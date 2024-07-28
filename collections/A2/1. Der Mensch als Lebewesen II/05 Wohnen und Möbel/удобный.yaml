@@ -8,38 +8,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: уд­о́б­ный
-mas_gen: уд­о́б­но­го
-mas_dat: уд­о́б­но­му
-mas_acc: уд­о́б­ный
-mas_ins: уд­о́б­ным
-mas_pre: уд­о́б­ном
+masculine_nominative: уд­о́б­ный
+masculine_genitive: уд­о́б­но­го
+masculine_dative: уд­о́б­но­му
+masculine_accusative: уд­о́б­ный
+masculine_ins: уд­о́б­ным
+masculine_pre: уд­о́б­ном
 
-fem_nom: уд­о́б­ная
-fem_gen: уд­о́б­ной
-fem_dat: уд­о́б­ной
-fem_acc: уд­о́б­ную
-fem_ins: уд­о́б­ной
-fem_pre: уд­о́б­ной
+feminine_nominative: уд­о́б­ная
+feminine_genitive: уд­о́б­ной
+feminine_dative: уд­о́б­ной
+feminine_accusative: уд­о́б­ную
+feminine_ins: уд­о́б­ной
+feminine_pre: уд­о́б­ной
 
-neu_nom: уд­о́б­ное
-neu_gen: уд­о́б­но­го
-neu_dat: уд­о́б­но­му
-neu_acc: уд­о́б­ное
-neu_ins: уд­о́б­ным
-neu_pre: уд­о́б­ном
+neutral_nominative: уд­о́б­ное
+neutral_genitive: уд­о́б­но­го
+neutral_dative: уд­о́б­но­му
+neutral_accusative: уд­о́б­ное
+neutral_ins: уд­о́б­ным
+neutral_pre: уд­о́б­ном
 
-plu_nom: уд­о́б­ные
-plu_gen: уд­о́б­ных
-plu_dat: уд­о́б­ным
-plu_acc: уд­о́б­ные
-plu_ins: уд­о́б­ны­ми
-plu_pre: удобных
+plural_nominative: уд­о́б­ные
+plural_genitive: уд­о́б­ных
+plural_dative: уд­о́б­ным
+plural_accusative: уд­о́б­ные
+plural_ins: уд­о́б­ны­ми
+plural_pre: удобных
 
-sho_mas: удо́­бен
-sho_fem: уд­о́б­на
-sho_neu: уд­о́б­но
-sho_plu: уд­о́б­ны
+shortform_mas: удо́­бен
+shortform_fem: уд­о́б­на
+shortform_neu: уд­о́б­но
+shortform_plu: уд­о́б­ны
 
 comparative: уд­о́б­нее
 superlative:

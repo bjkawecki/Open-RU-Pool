@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ди­ва́н
-sin_gen: ди­ва́­на
-sin_dat: ди­ва́­ну
-sin_acc: ди­ва́н
-sin_ins: ди­ва́н­ом
-sin_pre: ди­ва́­не
+singular_nominative: ди­ва́н
+singular_genitive: ди­ва́­на
+singular_dative: ди­ва́­ну
+singular_accusative: ди­ва́н
+singular_ins: ди­ва́н­ом
+singular_pre: ди­ва́­не
 
-plu_nom: ди­ва́­ны
-plu_gen: ди­ва́н­ов
-plu_dat: ди­ва́н­ам
-plu_acc: ди­ва́­ны
-plu_ins: ди­ва́­на­ми
-plu_pre: ди­ва́н­ах
+plural_nominative: ди­ва́­ны
+plural_genitive: ди­ва́н­ов
+plural_dative: ди­ва́н­ам
+plural_accusative: ди­ва́­ны
+plural_ins: ди­ва́­на­ми
+plural_pre: ди­ва́н­ах
 
 partitive: null
 locative: null

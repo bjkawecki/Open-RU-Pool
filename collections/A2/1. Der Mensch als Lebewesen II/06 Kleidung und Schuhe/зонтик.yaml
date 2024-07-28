@@ -9,22 +9,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: зо́н­тик
-sin_gen: зо́н­ти­ка
-sin_dat: зо́н­ти­ку
-sin_acc: зо́н­тик
-sin_ins: зо́н­ти­ком
-sin_pre: зо́н­ти­ке
+singular_nominative: зо́н­тик
+singular_genitive: зо́н­ти­ка
+singular_dative: зо́н­ти­ку
+singular_accusative: зо́н­тик
+singular_ins: зо́н­ти­ком
+singular_pre: зо́н­ти­ке
 
-plu_nom: зо́н­ти­ки
-plu_gen: зо́н­ти­ков
-plu_dat: зо́н­ти­кам
-plu_acc: зо́н­ти­ки
-plu_ins: зо́н­ти­ка­ми
-plu_pre: зо́н­ти­ках
+plural_nominative: зо́н­ти­ки
+plural_genitive: зо́н­ти­ков
+plural_dative: зо́н­ти­кам
+plural_accusative: зо́н­ти­ки
+plural_ins: зо́н­ти­ка­ми
+plural_pre: зо́н­ти­ках
 
 partitive: null
 locative: null

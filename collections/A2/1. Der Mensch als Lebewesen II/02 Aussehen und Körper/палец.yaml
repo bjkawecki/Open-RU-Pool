@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan:
+is_singular_tan:
 
-is_plu_tan:
+is_plural_tan:
 
-sin_nom: па́­лец
-sin_gen: па́ль­ца
-sin_dat: па́ль­цу
-sin_acc: па́­лец
-sin_ins: па́ль­цем
-sin_pre: па́ль­це
+singular_nominative: па́­лец
+singular_genitive: па́ль­ца
+singular_dative: па́ль­цу
+singular_accusative: па́­лец
+singular_ins: па́ль­цем
+singular_pre: па́ль­це
 
-plu_nom: па́ль­цы
-plu_gen: па́ль­цев
-plu_dat: па́ль­цам
-plu_acc: па́ль­цы
-plu_ins: па́ль­ца­ми
-plu_pre: па́ль­цах
+plural_nominative: па́ль­цы
+plural_genitive: па́ль­цев
+plural_dative: па́ль­цам
+plural_accusative: па́ль­цы
+plural_ins: па́ль­ца­ми
+plural_pre: па́ль­цах
 
 partitive: null
 locative: null

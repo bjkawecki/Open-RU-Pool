@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: ал­фа­ви́т
-sin_gen: ал­фа­ви́­та
-sin_dat: ал­фа­ви́­ту
-sin_acc: ал­фа­ви́т
-sin_ins: ал­фа­ви́т­ом
-sin_pre: ал­фа­ви́­те
+singular_nominative: ал­фа­ви́т
+singular_genitive: ал­фа­ви́­та
+singular_dative: ал­фа­ви́­ту
+singular_accusative: ал­фа­ви́т
+singular_ins: ал­фа­ви́т­ом
+singular_pre: ал­фа­ви́­те
 
-plu_nom: ал­фа­ви́­ты
-plu_gen: ал­фа­ви́т­ов
-plu_dat: ал­фа­ви́т­ам
-plu_acc: ал­фа­ви́­ты
-plu_ins: ал­фа­ви́­та­ми
-plu_pre: ал­фа­ви́т­ах
+plural_nominative: ал­фа­ви́­ты
+plural_genitive: ал­фа­ви́т­ов
+plural_dative: ал­фа­ви́т­ам
+plural_accusative: ал­фа­ви́­ты
+plural_ins: ал­фа­ви́­та­ми
+plural_pre: ал­фа­ви́т­ах
 
 partitive: null
 locative: null

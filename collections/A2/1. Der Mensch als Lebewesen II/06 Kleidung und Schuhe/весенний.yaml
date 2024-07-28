@@ -7,38 +7,38 @@ translation:
 
 is_gradable: false
 
-mas_nom: ве­се́н­ний
-mas_gen: ве­се́н­не­го
-mas_dat: ве­се́н­не­му
-mas_acc: ве­се́н­ний
-mas_ins: ве­се́н­ним
-mas_pre: ве­се́н­нем
+masculine_nominative: ве­се́н­ний
+masculine_genitive: ве­се́н­не­го
+masculine_dative: ве­се́н­не­му
+masculine_accusative: ве­се́н­ний
+masculine_ins: ве­се́н­ним
+masculine_pre: ве­се́н­нем
 
-fem_nom: ве­се́н­няя
-fem_gen: ве­се́н­ней
-fem_dat: ве­се́н­ней
-fem_acc: ве­се́н­нюю
-fem_ins: ве­се́н­ней
-fem_pre: ве­се́н­ней
+feminine_nominative: ве­се́н­няя
+feminine_genitive: ве­се́н­ней
+feminine_dative: ве­се́н­ней
+feminine_accusative: ве­се́н­нюю
+feminine_ins: ве­се́н­ней
+feminine_pre: ве­се́н­ней
 
-neu_nom: ве­се́н­нее
-neu_gen: ве­се́н­не­го
-neu_dat: ве­се́н­не­му
-neu_acc: ве­се́н­нее
-neu_ins: ве­се́н­ним
-neu_pre: ве­се́н­нем
+neutral_nominative: ве­се́н­нее
+neutral_genitive: ве­се́н­не­го
+neutral_dative: ве­се́н­не­му
+neutral_accusative: ве­се́н­нее
+neutral_ins: ве­се́н­ним
+neutral_pre: ве­се́н­нем
 
-plu_nom: ве­се́н­ние
-plu_gen: ве­се́н­них
-plu_dat: ве­се́н­ним
-plu_acc: ве­се́н­ние
-plu_ins: ве­се́н­ни­ми
-plu_pre: ве­се́н­них
+plural_nominative: ве­се́н­ние
+plural_genitive: ве­се́н­них
+plural_dative: ве­се́н­ним
+plural_accusative: ве­се́н­ние
+plural_ins: ве­се́н­ни­ми
+plural_pre: ве­се́н­них
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+shortform_mas:
+shortform_fem:
+shortform_neu:
+shortform_plu:
 
 comparative:
 superlative:

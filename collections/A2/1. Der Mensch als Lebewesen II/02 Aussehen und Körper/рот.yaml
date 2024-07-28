@@ -12,23 +12,23 @@ stress: suffix
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: рот
-sin_gen: рта
-sin_dat: рту
-sin_acc: рот
-sin_ins: ртом
-sin_pre: рте
+singular_nominative: рот
+singular_genitive: рта
+singular_dative: рту
+singular_accusative: рот
+singular_ins: ртом
+singular_pre: рте
 
-plu_nom: рты
-plu_gen: ртов
-plu_dat: ртам
-plu_acc: рты
-plu_ins: рта́­ми
-plu_pre: ртах
+plural_nominative: рты
+plural_genitive: ртов
+plural_dative: ртам
+plural_accusative: рты
+plural_ins: рта́­ми
+plural_pre: ртах
 
 partitive: null
 locative: null во рту

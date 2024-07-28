@@ -13,23 +13,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: ан­ке́­та
-sin_gen: ан­ке́­ты
-sin_dat: ан­ке́­те
-sin_acc: ан­ке́­ту
-sin_ins: ан­ке́­той
-sin_pre: ан­ке́­те
+singular_nominative: ан­ке́­та
+singular_genitive: ан­ке́­ты
+singular_dative: ан­ке́­те
+singular_accusative: ан­ке́­ту
+singular_ins: ан­ке́­той
+singular_pre: ан­ке́­те
 
-plu_nom: ан­ке́­ты
-plu_gen: ан­ке́т
-plu_dat: ан­ке́­там
-plu_acc: ан­ке́­ты
-plu_ins: ан­ке́­та­ми
-plu_pre: ан­ке́­тах
+plural_nominative: ан­ке́­ты
+plural_genitive: ан­ке́т
+plural_dative: ан­ке́­там
+plural_accusative: ан­ке́­ты
+plural_ins: ан­ке́­та­ми
+plural_pre: ан­ке́­тах
 
 partitive: null
 locative: null

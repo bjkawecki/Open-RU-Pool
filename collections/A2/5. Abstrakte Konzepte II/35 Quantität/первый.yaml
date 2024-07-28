@@ -8,30 +8,30 @@ num_type:
 
 dec_type:
 
-mas_nom: пе́рвый
-mas_gen: пе́р­во­го
-mas_dat: пе́р­во­му
-mas_acc: пе́рвый
-mas_ins: пе́р­вым
-mas_pre: пе́р­вом
-fem_nom: пе́р­вая
-fem_gen: пе́р­вой
-fem_dat: пе́р­вой
-fem_acc: пе́р­вую
-fem_ins: пе́р­вой
-fem_pre: пе́р­вой
-neu_nom: пе́р­вое
-neu_gen: пе́р­во­го
-neu_dat: пе́р­во­му
-neu_acc: пе́р­вое
-neu_ins: пе́р­вым
-neu_pre: пе́р­вом
-plu_nom: пе́р­вые
-plu_gen: пе́р­вых
-plu_dat: пе́р­вым
-plu_acc: пе́р­вые
-plu_ins: пе́р­вы­ми
-plu_pre: пе́р­вых
+masculine_nominative: пе́рвый
+masculine_genitive: пе́р­во­го
+masculine_dative: пе́р­во­му
+masculine_accusative: пе́рвый
+masculine_ins: пе́р­вым
+masculine_pre: пе́р­вом
+feminine_nominative: пе́р­вая
+feminine_genitive: пе́р­вой
+feminine_dative: пе́р­вой
+feminine_accusative: пе́р­вую
+feminine_ins: пе́р­вой
+feminine_pre: пе́р­вой
+neutral_nominative: пе́р­вое
+neutral_genitive: пе́р­во­го
+neutral_dative: пе́р­во­му
+neutral_accusative: пе́р­вое
+neutral_ins: пе́р­вым
+neutral_pre: пе́р­вом
+plural_nominative: пе́р­вые
+plural_genitive: пе́р­вых
+plural_dative: пе́р­вым
+plural_accusative: пе́р­вые
+plural_ins: пе́р­вы­ми
+plural_pre: пе́р­вых
 
 comment: null
 usage: null

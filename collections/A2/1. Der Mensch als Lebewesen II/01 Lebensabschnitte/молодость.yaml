@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: мо́­лод­ость
-sin_gen: мо́­лод­ос­ти
-sin_dat: мо́­лод­ос­ти
-sin_acc: мо́­лод­ость
-sin_ins: мо́­лод­остью
-sin_pre: мо́­лод­ос­ти
+singular_nominative: мо́­лод­ость
+singular_genitive: мо́­лод­ос­ти
+singular_dative: мо́­лод­ос­ти
+singular_accusative: мо́­лод­ость
+singular_ins: мо́­лод­остью
+singular_pre: мо́­лод­ос­ти
 
-plu_nom: мо́­лод­ос­ти
-plu_gen: мо́­лод­ос­тей
-plu_dat: мо́­лод­ос­тям
-plu_acc: мо́­лод­ос­ти
-plu_ins: мо́­лод­ос­тя­ми
-plu_pre: мо́­лод­ос­тях
+plural_nominative: мо́­лод­ос­ти
+plural_genitive: мо́­лод­ос­тей
+plural_dative: мо́­лод­ос­тям
+plural_accusative: мо́­лод­ос­ти
+plural_ins: мо́­лод­ос­тя­ми
+plural_pre: мо́­лод­ос­тях
 
 partitive: null
 locative: null

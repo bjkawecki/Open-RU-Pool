@@ -13,23 +13,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: падёж
-sin_gen: па­де­жа́
-sin_dat: па­де­жу́
-sin_acc: па­дёж
-sin_ins: па­деж­о́м
-sin_pre: па­де­же́
+singular_nominative: падёж
+singular_genitive: па­де­жа́
+singular_dative: па­де­жу́
+singular_accusative: па­дёж
+singular_ins: па­деж­о́м
+singular_pre: па­де­же́
 
-plu_nom: па­де­жи́
-plu_gen: па­де­же́й
-plu_dat: па­деж­а́м
-plu_acc: па­де­жи́
-plu_ins: па­де­жа́­ми
-plu_pre: па­деж­а́х
+plural_nominative: па­де­жи́
+plural_genitive: па­де­же́й
+plural_dative: па­деж­а́м
+plural_accusative: па­де­жи́
+plural_ins: па­де­жа́­ми
+plural_pre: па­деж­а́х
 
 partitive: null
 locative: null

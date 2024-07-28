@@ -10,22 +10,22 @@ genus: neutral
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ле­ка́рс­тво
-sin_gen: ле­ка́рс­тва
-sin_dat: ле­ка́рс­тву
-sin_acc: ле­ка́рс­тво
-sin_ins: ле­ка́рс­твом
-sin_pre: ле­ка́рс­тве
+singular_nominative: ле­ка́рс­тво
+singular_genitive: ле­ка́рс­тва
+singular_dative: ле­ка́рс­тву
+singular_accusative: ле­ка́рс­тво
+singular_ins: ле­ка́рс­твом
+singular_pre: ле­ка́рс­тве
 
-plu_nom: ле­ка́рс­тва
-plu_gen: ле­ка́рств
-plu_dat: ле­ка́рс­твам
-plu_acc: ле­ка́рс­тва
-plu_ins: ле­ка́рс­тва­ми
-plu_pre: ле­ка́рс­твах
+plural_nominative: ле­ка́рс­тва
+plural_genitive: ле­ка́рств
+plural_dative: ле­ка́рс­твам
+plural_accusative: ле­ка́рс­тва
+plural_ins: ле­ка́рс­тва­ми
+plural_pre: ле­ка́рс­твах
 
 partitive: null
 locative: null

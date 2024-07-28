@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: true
+is_singular_tan: null
+is_plural_tan: true
 
-sin_nom: null
-sin_gen: null
-sin_dat: null
-sin_acc: null
-sin_ins: null
-sin_pre: null
+singular_nominative: null
+singular_genitive: null
+singular_dative: null
+singular_accusative: null
+singular_ins: null
+singular_pre: null
 
-plu_nom: про­ду́к­ты
-plu_gen: про­ду́к­тов
-plu_dat: про­ду́к­там
-plu_acc: про­ду́к­ты
-plu_ins: про­ду́к­та­ми
-plu_pre: про­ду́к­тах
+plural_nominative: про­ду́к­ты
+plural_genitive: про­ду́к­тов
+plural_dative: про­ду́к­там
+plural_accusative: про­ду́к­ты
+plural_ins: про­ду́к­та­ми
+plural_pre: про­ду́к­тах
 
 partitive: null
 locative: null

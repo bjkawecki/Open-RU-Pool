@@ -12,23 +12,23 @@ stress: shifting
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: зуб
-sin_gen: зу́­ба
-sin_dat: зу́­бу
-sin_acc: зуб
-sin_ins: зу́­бом
-sin_pre: зу́­бе
+singular_nominative: зуб
+singular_genitive: зу́­ба
+singular_dative: зу́­бу
+singular_accusative: зуб
+singular_ins: зу́­бом
+singular_pre: зу́­бе
 
-plu_nom: зу́­бы
-plu_gen: зу­бо́в
-plu_dat: зу­ба́м
-plu_acc: зу́­бы
-plu_ins: зу­ба́­ми
-plu_pre: зу­ба́х
+plural_nominative: зу́­бы
+plural_genitive: зу­бо́в
+plural_dative: зу­ба́м
+plural_accusative: зу́­бы
+plural_ins: зу­ба́­ми
+plural_pre: зу­ба́х
 
 partitive: null
 locative: null

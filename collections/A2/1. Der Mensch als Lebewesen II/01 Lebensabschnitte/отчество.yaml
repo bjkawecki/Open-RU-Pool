@@ -13,23 +13,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: о́т­чест­во
-sin_gen: о́т­чест­ва
-sin_dat: о́т­чест­ву
-sin_acc: о́т­чест­во
-sin_ins: о́т­чест­вом
-sin_pre: о́т­чест­ве
+singular_nominative: о́т­чест­во
+singular_genitive: о́т­чест­ва
+singular_dative: о́т­чест­ву
+singular_accusative: о́т­чест­во
+singular_ins: о́т­чест­вом
+singular_pre: о́т­чест­ве
 
-plu_nom: о́т­чест­ва
-plu_gen: о́т­честв
-plu_dat: о́т­чест­вам
-plu_acc: о́т­чест­ва
-plu_ins: о́т­чест­ва­ми
-plu_pre: о́т­чест­вах
+plural_nominative: о́т­чест­ва
+plural_genitive: о́т­честв
+plural_dative: о́т­чест­вам
+plural_accusative: о́т­чест­ва
+plural_ins: о́т­чест­ва­ми
+plural_pre: о́т­чест­вах
 
 partitive: null
 locative: null

@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: не́­бо
-sin_gen: не́­ба
-sin_dat: не́­бу
-sin_acc: не́­бо
-sin_ins: не́­бом
-sin_pre: не́­бе
+singular_nominative: не́­бо
+singular_genitive: не́­ба
+singular_dative: не́­бу
+singular_accusative: не́­бо
+singular_ins: не́­бом
+singular_pre: не́­бе
 
-plu_nom: не­бе­са́
-plu_gen: не­бе́с
-plu_dat: не­бес­а́м
-plu_acc: не­бе­са́
-plu_ins: не­бе­са́­ми
-plu_pre: не­бес­а́х
+plural_nominative: не­бе­са́
+plural_genitive: не­бе́с
+plural_dative: не­бес­а́м
+plural_accusative: не­бе­са́
+plural_ins: не­бе­са́­ми
+plural_pre: не­бес­а́х
 
 partitive: null
 locative: null

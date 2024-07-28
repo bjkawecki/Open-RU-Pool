@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: false
+is_singular_tan: false
 
-is_plu_tan: false
+is_plural_tan: false
 
-sin_nom: ка­фе́
-sin_gen: ка­фе́
-sin_dat: ка­фе́
-sin_acc: ка­фе́
-sin_ins: ка­фе́
-sin_pre: ка­фе́
+singular_nominative: ка­фе́
+singular_genitive: ка­фе́
+singular_dative: ка­фе́
+singular_accusative: ка­фе́
+singular_ins: ка­фе́
+singular_pre: ка­фе́
 
-plu_nom: ка­фе́
-plu_gen: ка­фе́
-plu_dat: ка­фе́
-plu_acc: ка­фе́
-plu_ins: ка­фе́
-plu_pre: ка­фе́
+plural_nominative: ка­фе́
+plural_genitive: ка­фе́
+plural_dative: ка­фе́
+plural_accusative: ка­фе́
+plural_ins: ка­фе́
+plural_pre: ка­фе́
 
 partitive: null
 locative: null

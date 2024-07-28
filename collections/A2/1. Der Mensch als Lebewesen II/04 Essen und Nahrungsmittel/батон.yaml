@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ба­то́н
-sin_gen: ба­то́­на
-sin_dat: ба­то́­ну
-sin_acc: ба­то́н
-sin_ins: ба­то́н­ом
-sin_pre: ба­то́­не
+singular_nominative: ба­то́н
+singular_genitive: ба­то́­на
+singular_dative: ба­то́­ну
+singular_accusative: ба­то́н
+singular_ins: ба­то́н­ом
+singular_pre: ба­то́­не
 
-plu_nom: ба­то́­ны
-plu_gen: ба­то́н­ов
-plu_dat: ба­то́н­ам
-plu_acc: ба­то́­ны
-plu_ins: ба­то́­на­ми
-plu_pre: ба­то́н­ах
+plural_nominative: ба­то́­ны
+plural_genitive: ба­то́н­ов
+plural_dative: ба­то́н­ам
+plural_accusative: ба­то́­ны
+plural_ins: ба­то́­на­ми
+plural_pre: ба­то́н­ах
 
 partitive: null
 locative: null

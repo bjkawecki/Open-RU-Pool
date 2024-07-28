@@ -13,23 +13,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: грам­ма́­ти­ка
-sin_gen: грам­ма́­ти­ки
-sin_dat: грам­ма́­ти­ке
-sin_acc: грам­ма́­ти­ку
-sin_ins: грам­ма́­ти­кой
-sin_pre: грам­ма́­ти­ке
+singular_nominative: грам­ма́­ти­ка
+singular_genitive: грам­ма́­ти­ки
+singular_dative: грам­ма́­ти­ке
+singular_accusative: грам­ма́­ти­ку
+singular_ins: грам­ма́­ти­кой
+singular_pre: грам­ма́­ти­ке
 
-plu_nom: грам­ма́­ти­ки
-plu_gen: грам­ма́­тик
-plu_dat: грам­ма́­тик­ам
-plu_acc: грам­ма́­ти­ки
-plu_ins: грам­ма́­ти­ка­ми
-plu_pre: грам­ма́­тик­ах
+plural_nominative: грам­ма́­ти­ки
+plural_genitive: грам­ма́­тик
+plural_dative: грам­ма́­тик­ам
+plural_accusative: грам­ма́­ти­ки
+plural_ins: грам­ма́­ти­ка­ми
+plural_pre: грам­ма́­тик­ах
 
 partitive: null
 locative: null

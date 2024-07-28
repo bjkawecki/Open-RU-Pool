@@ -8,22 +8,22 @@ genus: feminine
 dec_cls: "1"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: бу́­лоч­ка
-sin_gen: бу́­лоч­ки
-sin_dat: бу́­лоч­ке
-sin_acc: бу́­лоч­ку
-sin_ins: бу́­лоч­кой
-sin_pre: бу́­лоч­ке
+singular_nominative: бу́­лоч­ка
+singular_genitive: бу́­лоч­ки
+singular_dative: бу́­лоч­ке
+singular_accusative: бу́­лоч­ку
+singular_ins: бу́­лоч­кой
+singular_pre: бу́­лоч­ке
 
-plu_nom: бу́­лоч­ки
-plu_gen: бу́­лоч­ек
-plu_dat: бу́­лоч­кам
-plu_acc: бу́­лоч­ки
-plu_ins: бу́­лоч­ка­ми
-plu_pre: бу́­лоч­ках
+plural_nominative: бу́­лоч­ки
+plural_genitive: бу́­лоч­ек
+plural_dative: бу́­лоч­кам
+plural_accusative: бу́­лоч­ки
+plural_ins: бу́­лоч­ка­ми
+plural_pre: бу́­лоч­ках
 
 partitive: null
 locative: null

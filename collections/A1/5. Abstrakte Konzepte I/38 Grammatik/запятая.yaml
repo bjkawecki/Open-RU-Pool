@@ -12,23 +12,23 @@ stress: suffix
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: за­пя­та́я
-sin_gen: за­пя­то́й
-sin_dat: за­пя­то́й
-sin_acc: за­пя­ту́ю
-sin_ins: за­пя­то́й
-sin_pre: за­пя­то́й
+singular_nominative: за­пя­та́я
+singular_genitive: за­пя­то́й
+singular_dative: за­пя­то́й
+singular_accusative: за­пя­ту́ю
+singular_ins: за­пя­то́й
+singular_pre: за­пя­то́й
 
-plu_nom: за­пя­ты́е
-plu_gen: за­пят­ы́х
-plu_dat: за­пят­ы́м
-plu_acc: за­пя­ты́е
-plu_ins: за­пя­ты́­ми
-plu_pre: за­пят­ы́х
+plural_nominative: за­пя­ты́е
+plural_genitive: за­пят­ы́х
+plural_dative: за­пят­ы́м
+plural_accusative: за­пя­ты́е
+plural_ins: за­пя­ты́­ми
+plural_pre: за­пят­ы́х
 
 partitive: null
 locative: null

@@ -7,38 +7,38 @@ translation:
 
 is_gradable: false
 
-mas_nom: род­но́й
-mas_gen: род­но́­го
-mas_dat: род­но́­му
-mas_acc: род­но́й
-mas_ins: род­ны́м
-mas_pre: род­но́м
+masculine_nominative: род­но́й
+masculine_genitive: род­но́­го
+masculine_dative: род­но́­му
+masculine_accusative: род­но́й
+masculine_ins: род­ны́м
+masculine_pre: род­но́м
 
-fem_nom: род­на́я
-fem_gen: род­но́й
-fem_dat: род­но́й
-fem_acc: род­ну́ю
-fem_ins: род­но́й
-fem_pre: род­но́й
+feminine_nominative: род­на́я
+feminine_genitive: род­но́й
+feminine_dative: род­но́й
+feminine_accusative: род­ну́ю
+feminine_ins: род­но́й
+feminine_pre: род­но́й
 
-neu_nom: род­но́е
-neu_gen: род­но́­го
-neu_dat: род­но́­му
-neu_acc: род­но́е
-neu_ins: род­ны́м
-neu_pre: род­но́м
+neutral_nominative: род­но́е
+neutral_genitive: род­но́­го
+neutral_dative: род­но́­му
+neutral_accusative: род­но́е
+neutral_ins: род­ны́м
+neutral_pre: род­но́м
 
-plu_nom: род­ны́е
-plu_gen: род­ны́х
-plu_dat: род­ны́м
-plu_acc: род­ны́е
-plu_ins: род­ны́­ми
-plu_pre: род­ны́х
+plural_nominative: род­ны́е
+plural_genitive: род­ны́х
+plural_dative: род­ны́м
+plural_accusative: род­ны́е
+plural_ins: род­ны́­ми
+plural_pre: род­ны́х
 
-sho_mas: null
-sho_fem: null
-sho_neu: null
-sho_plu: null
+shortform_mas: null
+shortform_fem: null
+shortform_neu: null
+shortform_plu: null
 
 comparative: null
 superlative: null

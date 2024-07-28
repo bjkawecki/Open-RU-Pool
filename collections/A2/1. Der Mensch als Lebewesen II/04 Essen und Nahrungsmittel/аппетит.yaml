@@ -7,22 +7,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ап­пе­ти́т
-sin_gen: ап­пе­ти́­та
-sin_dat: ап­пе­ти́­ту
-sin_acc: ап­пе­ти́т
-sin_ins: ап­пе­ти́т­ом
-sin_pre: ап­пе­ти́­те
+singular_nominative: ап­пе­ти́т
+singular_genitive: ап­пе­ти́­та
+singular_dative: ап­пе­ти́­ту
+singular_accusative: ап­пе­ти́т
+singular_ins: ап­пе­ти́т­ом
+singular_pre: ап­пе­ти́­те
 
-plu_nom: ап­пе­ти́­ты
-plu_gen: ап­пе­ти́т­ов
-plu_dat: ап­пе­ти́т­ам
-plu_acc: ап­пе­ти́­ты
-plu_ins: ап­пе­ти́­та­ми
-plu_pre: ап­пе­ти́т­ах
+plural_nominative: ап­пе­ти́­ты
+plural_genitive: ап­пе­ти́т­ов
+plural_dative: ап­пе­ти́т­ам
+plural_accusative: ап­пе­ти́­ты
+plural_ins: ап­пе­ти́­та­ми
+plural_pre: ап­пе­ти́т­ах
 
 partitive: null
 locative: null

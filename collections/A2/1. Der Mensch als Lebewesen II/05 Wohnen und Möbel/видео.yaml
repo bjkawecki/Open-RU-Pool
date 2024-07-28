@@ -8,22 +8,22 @@ genus: neutral
 dec_cls: none
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ви́део
-sin_gen: ви́део
-sin_dat: ви́део
-sin_acc: ви́део
-sin_ins: ви́део
-sin_pre: ви́део
+singular_nominative: ви́део
+singular_genitive: ви́део
+singular_dative: ви́део
+singular_accusative: ви́део
+singular_ins: ви́део
+singular_pre: ви́део
 
-plu_nom: ви́део
-plu_gen: ви́део
-plu_dat: ви́део
-plu_acc: ви́део
-plu_ins: ви́део
-plu_pre: ви́део
+plural_nominative: ви́део
+plural_genitive: ви́део
+plural_dative: ви́део
+plural_accusative: ви́део
+plural_ins: ви́део
+plural_pre: ви́део
 
 partitive: null
 locative: null

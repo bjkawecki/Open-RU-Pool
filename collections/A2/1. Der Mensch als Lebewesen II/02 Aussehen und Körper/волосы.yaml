@@ -13,22 +13,22 @@ stress: shifting
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: true
+is_plural_tan: true
 
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+singular_genitive:
+singular_dative:
+singular_accusative:
+singular_ins:
+singular_pre:
 
-plu_nom: во́лосы
-plu_gen: воло́с
-plu_dat: волоса́м
-plu_acc: во́лосы
-plu_ins: волоса́ми
-plu_pre: волоса́х
+plural_nominative: во́лосы
+plural_genitive: воло́с
+plural_dative: волоса́м
+plural_accusative: во́лосы
+plural_ins: волоса́ми
+plural_pre: волоса́х
 
 partitive: null
 locative: null

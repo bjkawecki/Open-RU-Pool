@@ -8,22 +8,22 @@ genus: neutral
 dec_cls: "2"
 stress: shifting
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: зе́р­ка­ло
-sin_gen: зе́р­ка­ла
-sin_dat: зе́р­ка­лу
-sin_acc: зе́р­ка­ло
-sin_ins: зе́р­ка­лом
-sin_pre: зе́р­ка­ле
+singular_nominative: зе́р­ка­ло
+singular_genitive: зе́р­ка­ла
+singular_dative: зе́р­ка­лу
+singular_accusative: зе́р­ка­ло
+singular_ins: зе́р­ка­лом
+singular_pre: зе́р­ка­ле
 
-plu_nom: зе́р­ка­ла
-plu_gen: зер­ка́л
-plu_dat: зер­ка­ла́м
-plu_acc: зе́р­ка­ла
-plu_ins: зер­ка­ла́­ми
-plu_pre: зер­ка­ла́х
+plural_nominative: зе́р­ка­ла
+plural_genitive: зер­ка́л
+plural_dative: зер­ка­ла́м
+plural_accusative: зе́р­ка­ла
+plural_ins: зер­ка­ла́­ми
+plural_pre: зер­ка­ла́х
 
 partitive: null
 locative: null

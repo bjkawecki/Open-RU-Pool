@@ -8,22 +8,22 @@ genus: feminine
 dec_cls: "3"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: кро­ва́ть
-sin_gen: кро­ва́­ти
-sin_dat: кро­ва́­ти
-sin_acc: кро­ва́ть
-sin_ins: кро­ва́тью
-sin_pre: кро­ва́­ти
+singular_nominative: кро­ва́ть
+singular_genitive: кро­ва́­ти
+singular_dative: кро­ва́­ти
+singular_accusative: кро­ва́ть
+singular_ins: кро­ва́тью
+singular_pre: кро­ва́­ти
 
-plu_nom: кро­ва́­ти
-plu_gen: кро­ва́­тей
-plu_dat: кро­ва́т­ям
-plu_acc: кро­ва́­ти
-plu_ins: кро­ва́­тя­ми
-plu_pre: кро­ва́т­ях
+plural_nominative: кро­ва́­ти
+plural_genitive: кро­ва́­тей
+plural_dative: кро­ва́т­ям
+plural_accusative: кро­ва́­ти
+plural_ins: кро­ва́­тя­ми
+plural_pre: кро­ва́т­ях
 
 partitive: null
 locative: null

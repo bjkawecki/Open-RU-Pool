@@ -6,38 +6,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: дли́н­ный
-mas_gen: дли́н­но­го
-mas_dat: дли́н­но­му
-mas_acc: дли́н­ный
-mas_ins: дли́н­ным
-mas_pre: дли́н­ном
+masculine_nominative: дли́н­ный
+masculine_genitive: дли́н­но­го
+masculine_dative: дли́н­но­му
+masculine_accusative: дли́н­ный
+masculine_ins: дли́н­ным
+masculine_pre: дли́н­ном
 
-fem_nom: дли́н­ная
-fem_gen: дли́н­ной
-fem_dat: дли́н­ной
-fem_acc: дли́н­ную
-fem_ins: дли́н­ной
-fem_pre: дли́н­ной
+feminine_nominative: дли́н­ная
+feminine_genitive: дли́н­ной
+feminine_dative: дли́н­ной
+feminine_accusative: дли́н­ную
+feminine_ins: дли́н­ной
+feminine_pre: дли́н­ной
 
-neu_nom: дли́н­ное
-neu_gen: дли́н­но­го
-neu_dat: дли́н­но­му
-neu_acc: дли́н­ное
-neu_ins: дли́н­ным
-neu_pre: дли́н­ном
+neutral_nominative: дли́н­ное
+neutral_genitive: дли́н­но­го
+neutral_dative: дли́н­но­му
+neutral_accusative: дли́н­ное
+neutral_ins: дли́н­ным
+neutral_pre: дли́н­ном
 
-plu_nom: дли́н­ные
-plu_gen: дли́н­ных
-plu_dat: дли́н­ным
-plu_acc: дли́н­ные
-plu_ins: дли́н­ны­ми
-plu_pre: дли́н­ных
+plural_nominative: дли́н­ные
+plural_genitive: дли́н­ных
+plural_dative: дли́н­ным
+plural_accusative: дли́н­ные
+plural_ins: дли́н­ны­ми
+plural_pre: дли́н­ных
 
-sho_mas: дли́­нен
-sho_fem: длин­на́
-sho_neu: дли́н­но
-sho_plu: дли́н­ны
+shortform_mas: дли́­нен
+shortform_fem: длин­на́
+shortform_neu: дли́н­но
+shortform_plu: дли́н­ны
 
 comparative: длин­не́е
 superlative: са́мый дли́н­ный

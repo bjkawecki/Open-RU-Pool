@@ -7,38 +7,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: све́т­лый
-mas_gen: све́т­ло­го
-mas_dat: све́т­ло­му
-mas_acc: све́т­лый
-mas_ins: све́т­лым
-mas_pre: све́т­лом
+masculine_nominative: све́т­лый
+masculine_genitive: све́т­ло­го
+masculine_dative: све́т­ло­му
+masculine_accusative: све́т­лый
+masculine_ins: све́т­лым
+masculine_pre: све́т­лом
 
-fem_nom: све́т­лая
-fem_gen: све́т­лой
-fem_dat: све́т­лой
-fem_acc: све́т­лую
-fem_ins: све́т­лой
-fem_pre: све́т­лой
+feminine_nominative: све́т­лая
+feminine_genitive: све́т­лой
+feminine_dative: све́т­лой
+feminine_accusative: све́т­лую
+feminine_ins: све́т­лой
+feminine_pre: све́т­лой
 
-neu_nom: све́т­лое
-neu_gen: све́т­ло­го
-neu_dat: све́т­ло­му
-neu_acc: све́т­лое
-neu_ins: све́т­лым
-neu_pre: све́т­лом
+neutral_nominative: све́т­лое
+neutral_genitive: све́т­ло­го
+neutral_dative: све́т­ло­му
+neutral_accusative: све́т­лое
+neutral_ins: све́т­лым
+neutral_pre: све́т­лом
 
-plu_nom: све́т­лые
-plu_gen: све́т­лых
-plu_dat: све́т­лым
-plu_acc: све́т­лые
-plu_ins: све́т­лы­ми
-plu_pre: све́т­лых
+plural_nominative: све́т­лые
+plural_genitive: све́т­лых
+plural_dative: све́т­лым
+plural_accusative: све́т­лые
+plural_ins: све́т­лы­ми
+plural_pre: све́т­лых
 
-sho_mas: све́­тел
-sho_fem: свет­ла́
-sho_neu: свет­ло́
-sho_plu: свет­лы́
+shortform_mas: све́­тел
+shortform_fem: свет­ла́
+shortform_neu: свет­ло́
+shortform_plu: свет­лы́
 
 comparative: свет­ле́е
 superlative:

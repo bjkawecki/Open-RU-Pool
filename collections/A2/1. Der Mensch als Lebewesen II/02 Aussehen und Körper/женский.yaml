@@ -8,38 +8,38 @@ translation:
 
 is_gradable: false
 
-mas_nom: же́нс­кий
-mas_gen: же́нс­ко­го
-mas_dat: же́нс­ко­му
-mas_acc: же́нс­кий
-mas_ins: же́нс­ким
-mas_pre: же́нс­ком
+masculine_nominative: же́нс­кий
+masculine_genitive: же́нс­ко­го
+masculine_dative: же́нс­ко­му
+masculine_accusative: же́нс­кий
+masculine_ins: же́нс­ким
+masculine_pre: же́нс­ком
 
-fem_nom: же́нс­кая
-fem_gen: же́нс­кой
-fem_dat: же́нс­кой
-fem_acc: же́нс­кую
-fem_ins: же́нс­кой
-fem_pre: же́нс­кой
+feminine_nominative: же́нс­кая
+feminine_genitive: же́нс­кой
+feminine_dative: же́нс­кой
+feminine_accusative: же́нс­кую
+feminine_ins: же́нс­кой
+feminine_pre: же́нс­кой
 
-neu_nom: же́нс­кое
-neu_gen: же́нс­ко­го
-neu_dat: же́нс­ко­му
-neu_acc: же́нс­кое
-neu_ins: же́нс­ким
-neu_pre: же́нс­ком
+neutral_nominative: же́нс­кое
+neutral_genitive: же́нс­ко­го
+neutral_dative: же́нс­ко­му
+neutral_accusative: же́нс­кое
+neutral_ins: же́нс­ким
+neutral_pre: же́нс­ком
 
-plu_nom: же́нс­кие
-plu_gen: же́нс­ких
-plu_dat: же́нс­ким
-plu_acc: же́нс­кие
-plu_ins: же́нс­ки­ми
-plu_pre: же́нс­ких
+plural_nominative: же́нс­кие
+plural_genitive: же́нс­ких
+plural_dative: же́нс­ким
+plural_accusative: же́нс­кие
+plural_ins: же́нс­ки­ми
+plural_pre: же́нс­ких
 
-sho_mas: null
-sho_fem: null
-sho_neu: null
-sho_plu: null
+shortform_mas: null
+shortform_fem: null
+shortform_neu: null
+shortform_plu: null
 
 comparative: null
 superlative: null

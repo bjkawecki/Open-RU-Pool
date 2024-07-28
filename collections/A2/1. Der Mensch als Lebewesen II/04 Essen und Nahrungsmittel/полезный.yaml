@@ -8,38 +8,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: по­ле́з­ный
-mas_gen: по­ле́з­но­го
-mas_dat: по­ле́з­но­му
-mas_acc: по­ле́з­ный
-mas_ins: по­ле́з­ным
-mas_pre: по­ле́з­ном
+masculine_nominative: по­ле́з­ный
+masculine_genitive: по­ле́з­но­го
+masculine_dative: по­ле́з­но­му
+masculine_accusative: по­ле́з­ный
+masculine_ins: по­ле́з­ным
+masculine_pre: по­ле́з­ном
 
-fem_nom: по­ле́з­ная
-fem_gen: по­ле́з­ной
-fem_dat: по­ле́з­ной
-fem_acc: по­ле́з­ную
-fem_ins: по­ле́з­ной
-fem_pre: по­ле́з­ной
+feminine_nominative: по­ле́з­ная
+feminine_genitive: по­ле́з­ной
+feminine_dative: по­ле́з­ной
+feminine_accusative: по­ле́з­ную
+feminine_ins: по­ле́з­ной
+feminine_pre: по­ле́з­ной
 
-neu_nom: по­ле́з­ное
-neu_gen: по­ле́з­но­го
-neu_dat: по­ле́з­но­му
-neu_acc: по­ле́з­ное
-neu_ins: по­ле́з­ным
-neu_pre: по­ле́з­ном
+neutral_nominative: по­ле́з­ное
+neutral_genitive: по­ле́з­но­го
+neutral_dative: по­ле́з­но­му
+neutral_accusative: по­ле́з­ное
+neutral_ins: по­ле́з­ным
+neutral_pre: по­ле́з­ном
 
-plu_nom: по­ле́з­ные
-plu_gen: по­ле́з­ных
-plu_dat: по­ле́з­ным
-plu_acc: по­ле́з­ные
-plu_ins: по­ле́з­ны­ми
-plu_pre: по­ле́з­ных
+plural_nominative: по­ле́з­ные
+plural_genitive: по­ле́з­ных
+plural_dative: по­ле́з­ным
+plural_accusative: по­ле́з­ные
+plural_ins: по­ле́з­ны­ми
+plural_pre: по­ле́з­ных
 
-sho_mas: по­ле́з­ен
-sho_fem: по­ле́з­на
-sho_neu: по­ле́з­но
-sho_plu: по­ле́з­ны
+shortform_mas: по­ле́з­ен
+shortform_fem: по­ле́з­на
+shortform_neu: по­ле́з­но
+shortform_plu: по­ле́з­ны
 
 comparative: по­ле́з­нее
 superlative:

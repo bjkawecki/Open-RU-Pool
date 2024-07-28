@@ -7,22 +7,22 @@ genus: feminine
 dec_cls: "1"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: фле́ш­ка
-sin_gen: фле́ш­ки
-sin_dat: фле́ш­ке
-sin_acc: фле́ш­ку
-sin_ins: фле́ш­кой
-sin_pre: фле́ш­ке
+singular_nominative: фле́ш­ка
+singular_genitive: фле́ш­ки
+singular_dative: фле́ш­ке
+singular_accusative: фле́ш­ку
+singular_ins: фле́ш­кой
+singular_pre: фле́ш­ке
 
-plu_nom: фле́ш­ки
-plu_gen: фле́­шек
-plu_dat: фле́ш­кам
-plu_acc: фле́ш­ки
-plu_ins: фле́ш­ка­ми
-plu_pre: фле́ш­ках
+plural_nominative: фле́ш­ки
+plural_genitive: фле́­шек
+plural_dative: фле́ш­кам
+plural_accusative: фле́ш­ки
+plural_ins: фле́ш­ка­ми
+plural_pre: фле́ш­ках
 
 partitive: null
 locative: null

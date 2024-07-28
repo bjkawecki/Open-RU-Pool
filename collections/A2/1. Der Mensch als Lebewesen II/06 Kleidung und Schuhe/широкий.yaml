@@ -7,38 +7,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: ши­ро́­кий
-mas_gen: ши­ро́­ко­го
-mas_dat: ши­ро́­ко­му
-mas_acc: ши­ро́­кий
-mas_ins: ши­ро́к­им
-mas_pre: ши­ро́к­ом
+masculine_nominative: ши­ро́­кий
+masculine_genitive: ши­ро́­ко­го
+masculine_dative: ши­ро́­ко­му
+masculine_accusative: ши­ро́­кий
+masculine_ins: ши­ро́к­им
+masculine_pre: ши­ро́к­ом
 
-fem_nom: ши­ро́­кая
-fem_gen: ши­ро́­кой
-fem_dat: ши­ро́­кой
-fem_acc: ши­ро́­кую
-fem_ins: ши­ро́­кой
-fem_pre: ши­ро́­кой
+feminine_nominative: ши­ро́­кая
+feminine_genitive: ши­ро́­кой
+feminine_dative: ши­ро́­кой
+feminine_accusative: ши­ро́­кую
+feminine_ins: ши­ро́­кой
+feminine_pre: ши­ро́­кой
 
-neu_nom: ши­ро́­кое
-neu_gen: ши­ро́­ко­го
-neu_dat: ши­ро́­ко­му
-neu_acc: ши­ро́­кое
-neu_ins: ши­ро́к­им
-neu_pre: ши­ро́к­ом
+neutral_nominative: ши­ро́­кое
+neutral_genitive: ши­ро́­ко­го
+neutral_dative: ши­ро́­ко­му
+neutral_accusative: ши­ро́­кое
+neutral_ins: ши­ро́к­им
+neutral_pre: ши­ро́к­ом
 
-plu_nom: ши­ро́­кие
-plu_gen: ши­ро́к­их
-plu_dat: ши­ро́к­им
-plu_acc: ши­ро́­кие
-plu_ins: ши­ро́­ки­ми
-plu_pre: ши­ро́к­их
+plural_nominative: ши­ро́­кие
+plural_genitive: ши­ро́к­их
+plural_dative: ши­ро́к­им
+plural_accusative: ши­ро́­кие
+plural_ins: ши­ро́­ки­ми
+plural_pre: ши­ро́к­их
 
-sho_mas: ши­ро́к
-sho_fem: ши­ро­ка́
-sho_neu: ши́­ро­ко
-sho_plu: ши́­ро­ки
+shortform_mas: ши­ро́к
+shortform_fem: ши­ро­ка́
+shortform_neu: ши́­ро­ко
+shortform_plu: ши́­ро­ки
 
 comparative: ши́­ре
 superlative:

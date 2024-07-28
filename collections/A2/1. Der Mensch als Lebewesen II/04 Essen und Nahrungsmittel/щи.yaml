@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: suffix
 is_animate: false
-is_sin_tan: null
-is_plu_tan: true
+is_singular_tan: null
+is_plural_tan: true
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+singular_nominative:
+singular_genitive:
+singular_dative:
+singular_accusative:
+singular_ins:
+singular_pre:
 
-plu_nom: щи
-plu_gen: щей
-plu_dat: щам
-plu_acc: щи
-plu_ins: щами
-plu_pre: щах
+plural_nominative: щи
+plural_genitive: щей
+plural_dative: щам
+plural_accusative: щи
+plural_ins: щами
+plural_pre: щах
 
 partitive: null
 locative: null

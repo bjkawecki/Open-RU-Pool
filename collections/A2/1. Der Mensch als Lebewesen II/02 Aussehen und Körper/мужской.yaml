@@ -8,38 +8,38 @@ translation:
 
 is_gradable: false
 
-mas_nom: мужс­ко́й
-mas_gen: мужс­ко́­го
-mas_dat: мужс­ко́­му
-mas_acc: мужс­ко́й
-mas_ins: мужс­ки́м
-mas_pre: мужс­ко́м
+masculine_nominative: мужс­ко́й
+masculine_genitive: мужс­ко́­го
+masculine_dative: мужс­ко́­му
+masculine_accusative: мужс­ко́й
+masculine_ins: мужс­ки́м
+masculine_pre: мужс­ко́м
 
-fem_nom: мужс­ка́я
-fem_gen: мужс­ко́й
-fem_dat: мужс­ко́й
-fem_acc: мужс­ку́ю
-fem_ins: мужс­ко́й
-fem_pre: мужс­ко́й
+feminine_nominative: мужс­ка́я
+feminine_genitive: мужс­ко́й
+feminine_dative: мужс­ко́й
+feminine_accusative: мужс­ку́ю
+feminine_ins: мужс­ко́й
+feminine_pre: мужс­ко́й
 
-neu_nom: мужс­ко́е
-neu_gen: мужс­ко́­го
-neu_dat: мужс­ко́­му
-neu_acc: мужс­ко́е
-neu_ins: мужс­ки́м
-neu_pre: мужс­ко́м
+neutral_nominative: мужс­ко́е
+neutral_genitive: мужс­ко́­го
+neutral_dative: мужс­ко́­му
+neutral_accusative: мужс­ко́е
+neutral_ins: мужс­ки́м
+neutral_pre: мужс­ко́м
 
-plu_nom: мужс­ки́е
-plu_gen: мужс­ки́х
-plu_dat: мужс­ки́м
-plu_acc: мужс­ки́е
-plu_ins: мужс­ки́­ми
-plu_pre: мужс­ки́х
+plural_nominative: мужс­ки́е
+plural_genitive: мужс­ки́х
+plural_dative: мужс­ки́м
+plural_accusative: мужс­ки́е
+plural_ins: мужс­ки́­ми
+plural_pre: мужс­ки́х
 
-sho_mas: null
-sho_fem: null
-sho_neu: null
-sho_plu: null
+shortform_mas: null
+shortform_fem: null
+shortform_neu: null
+shortform_plu: null
 
 comparative: null
 superlative: null

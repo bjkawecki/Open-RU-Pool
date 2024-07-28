@@ -9,22 +9,22 @@ genus: feminine
 dec_cls: "1"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ка́­ша
-sin_gen: ка́­ши
-sin_dat: ка́­ше
-sin_acc: ка́­шу
-sin_ins: ка́­шей
-sin_pre: ка́­ше
+singular_nominative: ка́­ша
+singular_genitive: ка́­ши
+singular_dative: ка́­ше
+singular_accusative: ка́­шу
+singular_ins: ка́­шей
+singular_pre: ка́­ше
 
-plu_nom: ка́­ши
-plu_gen: каш
-plu_dat: ка́­шам
-plu_acc: ка́­ши
-plu_ins: ка́­ша­ми
-plu_pre: ка́­шах
+plural_nominative: ка́­ши
+plural_genitive: каш
+plural_dative: ка́­шам
+plural_accusative: ка́­ши
+plural_ins: ка́­ша­ми
+plural_pre: ка́­шах
 
 partitive: null
 locative: null

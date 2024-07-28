@@ -8,38 +8,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: мо́д­ный
-mas_gen: мо́д­но­го
-mas_dat: мо́д­но­му
-mas_acc: мо́д­ный
-mas_ins: мо́д­ным
-mas_pre: мо́д­ном
+masculine_nominative: мо́д­ный
+masculine_genitive: мо́д­но­го
+masculine_dative: мо́д­но­му
+masculine_accusative: мо́д­ный
+masculine_ins: мо́д­ным
+masculine_pre: мо́д­ном
 
-fem_nom: мо́д­ная
-fem_gen: мо́д­ной
-fem_dat: мо́д­ной
-fem_acc: мо́д­ную
-fem_ins: мо́д­ной
-fem_pre: мо́д­ной
+feminine_nominative: мо́д­ная
+feminine_genitive: мо́д­ной
+feminine_dative: мо́д­ной
+feminine_accusative: мо́д­ную
+feminine_ins: мо́д­ной
+feminine_pre: мо́д­ной
 
-neu_nom: мо́д­ное
-neu_gen: мо́д­но­го
-neu_dat: мо́д­но­му
-neu_acc: мо́д­ное
-neu_ins: мо́д­ным
-neu_pre: мо́д­ном
+neutral_nominative: мо́д­ное
+neutral_genitive: мо́д­но­го
+neutral_dative: мо́д­но­му
+neutral_accusative: мо́д­ное
+neutral_ins: мо́д­ным
+neutral_pre: мо́д­ном
 
-plu_nom: мо́д­ные
-plu_gen: мо́д­ных
-plu_dat: мо́д­ным
-plu_acc: мо́д­ные
-plu_ins: мо́д­ны­ми
-plu_pre: мо́д­ных
+plural_nominative: мо́д­ные
+plural_genitive: мо́д­ных
+plural_dative: мо́д­ным
+plural_accusative: мо́д­ные
+plural_ins: мо́д­ны­ми
+plural_pre: мо́д­ных
 
-sho_mas: мо́­ден
-sho_fem: мо́д­на
-sho_neu: мо́д­но
-sho_plu: мо́д­ны
+shortform_mas: мо́­ден
+shortform_fem: мо́д­на
+shortform_neu: мо́д­но
+shortform_plu: мо́д­ны
 
 comparative: мод­не́е
 superlative:

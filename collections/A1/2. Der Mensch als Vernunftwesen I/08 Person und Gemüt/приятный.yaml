@@ -6,38 +6,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: при­я́т­ный
-mas_gen: при­я́т­но­го
-mas_dat: при­я́т­но­му
-mas_acc: при­я́т­ный
-mas_ins: при­я́т­ным
-mas_pre: при­я́т­ном
+masculine_nominative: при­я́т­ный
+masculine_genitive: при­я́т­но­го
+masculine_dative: при­я́т­но­му
+masculine_accusative: при­я́т­ный
+masculine_ins: при­я́т­ным
+masculine_pre: при­я́т­ном
 
-fem_nom: при­я́т­ная
-fem_gen: при­я́т­ной
-fem_dat: при­я́т­ной
-fem_acc: при­я́т­ную
-fem_ins: при­я́т­ной
-fem_pre: при­я́т­ной
+feminine_nominative: при­я́т­ная
+feminine_genitive: при­я́т­ной
+feminine_dative: при­я́т­ной
+feminine_accusative: при­я́т­ную
+feminine_ins: при­я́т­ной
+feminine_pre: при­я́т­ной
 
-neu_nom: при­я́т­ное
-neu_gen: при­я́т­но­го
-neu_dat: при­я́т­но­му
-neu_acc: при­я́т­ное
-neu_ins: при­я́т­ным
-neu_pre: при­я́т­ном
+neutral_nominative: при­я́т­ное
+neutral_genitive: при­я́т­но­го
+neutral_dative: при­я́т­но­му
+neutral_accusative: при­я́т­ное
+neutral_ins: при­я́т­ным
+neutral_pre: при­я́т­ном
 
-plu_nom: при­я́т­ные
-plu_gen: при­я́т­ных
-plu_dat: при­я́т­ным
-plu_acc: при­я́т­ные
-plu_ins: при­я́т­ны­ми
-plu_pre: при­я́т­ных
+plural_nominative: при­я́т­ные
+plural_genitive: при­я́т­ных
+plural_dative: при­я́т­ным
+plural_accusative: при­я́т­ные
+plural_ins: при­я́т­ны­ми
+plural_pre: при­я́т­ных
 
-sho_mas: при­я́т­ен
-sho_fem: при­я́т­на
-sho_neu: при­я́т­но
-sho_plu: при­я́т­ны
+shortform_mas: при­я́т­ен
+shortform_fem: при­я́т­на
+shortform_neu: при­я́т­но
+shortform_plu: при­я́т­ны
 
 comparative: при­я́т­нее
 superlative: самый при­я́т­ный

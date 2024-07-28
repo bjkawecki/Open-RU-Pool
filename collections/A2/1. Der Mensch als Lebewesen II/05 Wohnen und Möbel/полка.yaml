@@ -8,22 +8,22 @@ genus: feminine
 dec_cls: "1"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: по́л­ка
-sin_gen: по́л­ки
-sin_dat: по́л­ке
-sin_acc: по́л­ку
-sin_ins: по́л­кой
-sin_pre: по́л­ке
+singular_nominative: по́л­ка
+singular_genitive: по́л­ки
+singular_dative: по́л­ке
+singular_accusative: по́л­ку
+singular_ins: по́л­кой
+singular_pre: по́л­ке
 
-plu_nom: по́л­ки
-plu_gen: по́­лок
-plu_dat: по́л­кам
-plu_acc: по́л­ки
-plu_ins: по́л­ка­ми
-plu_pre: по́л­ках
+plural_nominative: по́л­ки
+plural_genitive: по́­лок
+plural_dative: по́л­кам
+plural_accusative: по́л­ки
+plural_ins: по́л­ка­ми
+plural_pre: по́л­ках
 
 partitive: null
 locative: null

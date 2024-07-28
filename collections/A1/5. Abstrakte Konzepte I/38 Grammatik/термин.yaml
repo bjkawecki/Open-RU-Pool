@@ -14,23 +14,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: те́р­мин
-sin_gen: те́р­ми­на
-sin_dat: те́р­ми­ну
-sin_acc: те́р­мин
-sin_ins: те́р­ми­ном
-sin_pre: те́р­ми­не
+singular_nominative: те́р­мин
+singular_genitive: те́р­ми­на
+singular_dative: те́р­ми­ну
+singular_accusative: те́р­мин
+singular_ins: те́р­ми­ном
+singular_pre: те́р­ми­не
 
-plu_nom: те́р­ми­ны
-plu_gen: те́р­ми­нов
-plu_dat: те́р­ми­нам
-plu_acc: те́р­ми­ны
-plu_ins: те́р­ми­на­ми
-plu_pre: те́р­ми­нах
+plural_nominative: те́р­ми­ны
+plural_genitive: те́р­ми­нов
+plural_dative: те́р­ми­нам
+plural_accusative: те́р­ми­ны
+plural_ins: те́р­ми­на­ми
+plural_pre: те́р­ми­нах
 
 partitive: null
 locative: null

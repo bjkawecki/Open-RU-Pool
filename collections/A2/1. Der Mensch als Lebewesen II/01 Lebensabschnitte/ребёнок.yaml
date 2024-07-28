@@ -12,23 +12,23 @@ stress: root
 
 is_animate: true
 
-is_sin_tan: true
+is_singular_tan: true
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: ре­бён­ок
-sin_gen: ре­бён­ка
-sin_dat: ре­бён­ку
-sin_acc: ре­бён­ка
-sin_ins: ре­бён­ком
-sin_pre: ре­бён­ке
+singular_nominative: ре­бён­ок
+singular_genitive: ре­бён­ка
+singular_dative: ре­бён­ку
+singular_accusative: ре­бён­ка
+singular_ins: ре­бён­ком
+singular_pre: ре­бён­ке
 
-plu_nom: null
-plu_gen: null
-plu_dat: null
-plu_acc: null
-plu_ins: null
-plu_pre: null
+plural_nominative: null
+plural_genitive: null
+plural_dative: null
+plural_accusative: null
+plural_ins: null
+plural_pre: null
 
 partitive: null
 locative: null

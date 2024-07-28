@@ -8,40 +8,40 @@ pro_type: demonstrative
 
 dec_type: adjective
 
-mas_nom: тот
-mas_gen: то­го́
-mas_dat: то­му́
-mas_acc: тот
-mas_ins: тем
-mas_pre: том
+masculine_nominative: тот
+masculine_genitive: то­го́
+masculine_dative: то­му́
+masculine_accusative: тот
+masculine_ins: тем
+masculine_pre: том
 
-fem_nom: та
-fem_gen: той
-fem_dat: той
-fem_acc: ту
-fem_ins: то́й
-fem_pre: той
+feminine_nominative: та
+feminine_genitive: той
+feminine_dative: той
+feminine_accusative: ту
+feminine_ins: то́й
+feminine_pre: той
 
-neu_nom: то
-neu_gen: то­го́
-neu_dat: то­му́
-neu_acc: то
-neu_ins: тем
-neu_pre: том
+neutral_nominative: то
+neutral_genitive: то­го́
+neutral_dative: то­му́
+neutral_accusative: то
+neutral_ins: тем
+neutral_pre: том
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+singular_nominative:
+singular_genitive:
+singular_dative:
+singular_accusative:
+singular_ins:
+singular_pre:
 
-plu_nom: те
-plu_gen: тех
-plu_dat: тем
-plu_acc: те
-plu_ins: те́­ми
-plu_pre: тех
+plural_nominative: те
+plural_genitive: тех
+plural_dative: тем
+plural_accusative: те
+plural_ins: те́­ми
+plural_pre: тех
 
 comment: null
 usage: null

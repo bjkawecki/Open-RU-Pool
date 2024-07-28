@@ -10,22 +10,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: бу­терб­ро́д
-sin_gen: бу­терб­ро́­да
-sin_dat: бу­терб­ро́­ду
-sin_acc: бу­терб­ро́д
-sin_ins: бу­терб­ро́­дом
-sin_pre: бу­терб­ро́­де
+singular_nominative: бу­терб­ро́д
+singular_genitive: бу­терб­ро́­да
+singular_dative: бу­терб­ро́­ду
+singular_accusative: бу­терб­ро́д
+singular_ins: бу­терб­ро́­дом
+singular_pre: бу­терб­ро́­де
 
-plu_nom: бу­терб­ро́­ды
-plu_gen: бу­терб­ро́­дов
-plu_dat: бу­терб­ро́­дам
-plu_acc: бу­терб­ро́­ды
-plu_ins: бу­терб­ро́­да­ми
-plu_pre: бу­терб­ро́­дах
+plural_nominative: бу­терб­ро́­ды
+plural_genitive: бу­терб­ро́­дов
+plural_dative: бу­терб­ро́­дам
+plural_accusative: бу­терб­ро́­ды
+plural_ins: бу­терб­ро́­да­ми
+plural_pre: бу­терб­ро́­дах
 
 partitive: null
 locative: null

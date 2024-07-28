@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: suffix
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: плащ
-sin_gen: пла­ща́
-sin_dat: пла­щу́
-sin_acc: плащ
-sin_ins: пла­що́м
-sin_pre: пла­ще́
+singular_nominative: плащ
+singular_genitive: пла­ща́
+singular_dative: пла­щу́
+singular_accusative: плащ
+singular_ins: пла­що́м
+singular_pre: пла­ще́
 
-plu_nom: пла­щи́
-plu_gen: пла­ще́й
-plu_dat: пла­ща́м
-plu_acc: пла­щи́
-plu_ins: пла­ща́­ми
-plu_pre: пла­ща́х
+plural_nominative: пла­щи́
+plural_genitive: пла­ще́й
+plural_dative: пла­ща́м
+plural_accusative: пла­щи́
+plural_ins: пла­ща́­ми
+plural_pre: пла­ща́х
 
 partitive: null
 locative: null

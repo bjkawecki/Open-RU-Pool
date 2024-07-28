@@ -7,38 +7,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: по­ня́т­ный
-mas_gen: по­ня́т­но­го
-mas_dat: по­ня́т­но­му
-mas_acc: по­ня́т­ный
-mas_ins: по­ня́т­ным
-mas_pre: по­ня́т­ном
+masculine_nominative: по­ня́т­ный
+masculine_genitive: по­ня́т­но­го
+masculine_dative: по­ня́т­но­му
+masculine_accusative: по­ня́т­ный
+masculine_ins: по­ня́т­ным
+masculine_pre: по­ня́т­ном
 
-fem_nom: по­ня́т­ная
-fem_gen: по­ня́т­ной
-fem_dat: по­ня́т­ной
-fem_acc: по­ня́т­ную
-fem_ins: по­ня́т­ной
-fem_pre: по­ня́т­ной
+feminine_nominative: по­ня́т­ная
+feminine_genitive: по­ня́т­ной
+feminine_dative: по­ня́т­ной
+feminine_accusative: по­ня́т­ную
+feminine_ins: по­ня́т­ной
+feminine_pre: по­ня́т­ной
 
-neu_nom: по­ня́т­ное
-neu_gen: по­ня́т­но­го
-neu_dat: по­ня́т­но­му
-neu_acc: по­ня́т­ное
-neu_ins: по­ня́т­ным
-neu_pre: по­ня́т­ном
+neutral_nominative: по­ня́т­ное
+neutral_genitive: по­ня́т­но­го
+neutral_dative: по­ня́т­но­му
+neutral_accusative: по­ня́т­ное
+neutral_ins: по­ня́т­ным
+neutral_pre: по­ня́т­ном
 
-plu_nom: по­ня́т­ные
-plu_gen: по­ня́т­ных
-plu_dat: по­ня́т­ным
-plu_acc: по­ня́т­ные
-plu_ins: по­ня́т­ны­ми
-plu_pre: по­ня́т­ных
+plural_nominative: по­ня́т­ные
+plural_genitive: по­ня́т­ных
+plural_dative: по­ня́т­ным
+plural_accusative: по­ня́т­ные
+plural_ins: по­ня́т­ны­ми
+plural_pre: по­ня́т­ных
 
-sho_mas: по­ня́т­ен
-sho_fem: по­ня́т­на
-sho_neu: по­ня́т­но
-sho_plu: по­ня́т­ны
+shortform_mas: по­ня́т­ен
+shortform_fem: по­ня́т­на
+shortform_neu: по­ня́т­но
+shortform_plu: по­ня́т­ны
 
 comparative: по­ня́т­нее
 superlative: самый по­ня́т­ный

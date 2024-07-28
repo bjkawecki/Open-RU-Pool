@@ -12,23 +12,23 @@ stress: shifting
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: го́­лос
-sin_gen: го́­ло­са
-sin_dat: го́­ло­су
-sin_acc: го́­лос
-sin_ins: го́­лос­ом
-sin_pre: го́­ло­се
+singular_nominative: го́­лос
+singular_genitive: го́­ло­са
+singular_dative: го́­ло­су
+singular_accusative: го́­лос
+singular_ins: го́­лос­ом
+singular_pre: го́­ло­се
 
-plu_nom: го­ло­са́
-plu_gen: го­лос­о́в
-plu_dat: го­лос­а́м
-plu_acc: го­ло­са́
-plu_ins: го­ло­са́­ми
-plu_pre: го­лос­а́х
+plural_nominative: го­ло­са́
+plural_genitive: го­лос­о́в
+plural_dative: го­лос­а́м
+plural_accusative: го­ло­са́
+plural_ins: го­ло­са́­ми
+plural_pre: го­лос­а́х
 
 partitive: null
 locative: null

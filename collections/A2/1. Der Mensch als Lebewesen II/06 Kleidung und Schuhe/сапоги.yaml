@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: suffix
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: са­по́г
-sin_gen: са­по­га́
-sin_dat: са­по­гу́
-sin_acc: са­по́г
-sin_ins: са­пог­о́м
-sin_pre: са­по­ге́
+singular_nominative: са­по́г
+singular_genitive: са­по­га́
+singular_dative: са­по­гу́
+singular_accusative: са­по́г
+singular_ins: са­пог­о́м
+singular_pre: са­по­ге́
 
-plu_nom: са­по­ги́
-plu_gen: са­по́г
-plu_dat: са­пог­а́м
-plu_acc: са­по­ги́
-plu_ins: са­по­га́­ми
-plu_pre: са­пог­а́х
+plural_nominative: са­по­ги́
+plural_genitive: са­по́г
+plural_dative: са­пог­а́м
+plural_accusative: са­по­ги́
+plural_ins: са­по­га́­ми
+plural_pre: са­пог­а́х
 
 partitive: null
 locative: null

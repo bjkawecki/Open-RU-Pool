@@ -14,23 +14,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: ю́н­ость
-sin_gen: ю́н­ос­ти
-sin_dat: ю́н­ос­ти
-sin_acc: ю́н­ость
-sin_ins: ю́н­остью
-sin_pre: ю́н­ос­ти
+singular_nominative: ю́н­ость
+singular_genitive: ю́н­ос­ти
+singular_dative: ю́н­ос­ти
+singular_accusative: ю́н­ость
+singular_ins: ю́н­остью
+singular_pre: ю́н­ос­ти
 
-plu_nom: ю́н­ос­ти
-plu_gen: ю́н­ос­тей
-plu_dat: ю́н­ос­тям
-plu_acc: ю́н­ос­ти
-plu_ins: ю́н­ос­тя­ми
-plu_pre: ю́н­ос­тях
+plural_nominative: ю́н­ос­ти
+plural_genitive: ю́н­ос­тей
+plural_dative: ю́н­ос­тям
+plural_accusative: ю́н­ос­ти
+plural_ins: ю́н­ос­тя­ми
+plural_pre: ю́н­ос­тях
 
 partitive: null
 locative: null

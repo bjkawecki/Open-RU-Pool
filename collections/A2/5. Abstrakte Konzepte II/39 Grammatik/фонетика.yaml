@@ -7,22 +7,22 @@ genus:
 dec_cls:
 stress:
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+singular_nominative:
+singular_genitive:
+singular_dative:
+singular_accusative:
+singular_ins:
+singular_pre:
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plural_nominative:
+plural_genitive:
+plural_dative:
+plural_accusative:
+plural_ins:
+plural_pre:
 
 partitive: null
 locative: null

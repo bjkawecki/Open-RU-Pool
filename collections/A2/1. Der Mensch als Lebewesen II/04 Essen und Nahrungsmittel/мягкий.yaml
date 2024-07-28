@@ -8,38 +8,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: мя́г­кий
-mas_gen: мя́г­ко­го
-mas_dat: мя́г­ко­му
-mas_acc: мя́г­кий
-mas_ins: мя́г­ким
-mas_pre: мя́г­ком
+masculine_nominative: мя́г­кий
+masculine_genitive: мя́г­ко­го
+masculine_dative: мя́г­ко­му
+masculine_accusative: мя́г­кий
+masculine_ins: мя́г­ким
+masculine_pre: мя́г­ком
 
-fem_nom: мя́г­кая
-fem_gen: мя́г­кой
-fem_dat: мя́г­кой
-fem_acc: мя́г­кую
-fem_ins: мя́г­кой
-fem_pre: мя́г­кой
+feminine_nominative: мя́г­кая
+feminine_genitive: мя́г­кой
+feminine_dative: мя́г­кой
+feminine_accusative: мя́г­кую
+feminine_ins: мя́г­кой
+feminine_pre: мя́г­кой
 
-neu_nom: мя́г­кое
-neu_gen: мя́г­ко­го
-neu_dat: мя́г­ко­му
-neu_acc: мя́г­кое
-neu_ins: мя́г­ким
-neu_pre: мя́г­ком
+neutral_nominative: мя́г­кое
+neutral_genitive: мя́г­ко­го
+neutral_dative: мя́г­ко­му
+neutral_accusative: мя́г­кое
+neutral_ins: мя́г­ким
+neutral_pre: мя́г­ком
 
-plu_nom: мя́г­кие
-plu_gen: мя́г­ких
-plu_dat: мя́г­ким
-plu_acc: мя́г­кие
-plu_ins: мя́г­ки­ми
-plu_pre: мя́г­ких
+plural_nominative: мя́г­кие
+plural_genitive: мя́г­ких
+plural_dative: мя́г­ким
+plural_accusative: мя́г­кие
+plural_ins: мя́г­ки­ми
+plural_pre: мя́г­ких
 
-sho_mas: мя́­гок
-sho_fem: мяг­ка́
-sho_neu: мя́г­ко
-sho_plu: мя́г­ки
+shortform_mas: мя́­гок
+shortform_fem: мяг­ка́
+shortform_neu: мя́г­ко
+shortform_plu: мя́г­ки
 
 comparative: мя́г­че
 superlative:

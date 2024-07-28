@@ -7,38 +7,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: у́з­кий
-mas_gen: у́з­ко­го
-mas_dat: у́з­ко­му
-mas_acc: у́з­кий
-mas_ins: у́з­ким
-mas_pre: у́з­ком
+masculine_nominative: у́з­кий
+masculine_genitive: у́з­ко­го
+masculine_dative: у́з­ко­му
+masculine_accusative: у́з­кий
+masculine_ins: у́з­ким
+masculine_pre: у́з­ком
 
-fem_nom: у́з­кая
-fem_gen: у́з­кой
-fem_dat: у́з­кой
-fem_acc: у́з­кую
-fem_ins: у́з­кой
-fem_pre: у́з­кой
+feminine_nominative: у́з­кая
+feminine_genitive: у́з­кой
+feminine_dative: у́з­кой
+feminine_accusative: у́з­кую
+feminine_ins: у́з­кой
+feminine_pre: у́з­кой
 
-neu_nom: у́з­кое
-neu_gen: у́з­ко­го
-neu_dat: у́з­ко­му
-neu_acc: у́з­кое
-neu_ins: у́з­ким
-neu_pre: у́з­ком
+neutral_nominative: у́з­кое
+neutral_genitive: у́з­ко­го
+neutral_dative: у́з­ко­му
+neutral_accusative: у́з­кое
+neutral_ins: у́з­ким
+neutral_pre: у́з­ком
 
-plu_nom: у́з­кие
-plu_gen: у́з­ких
-plu_dat: у́з­ким
-plu_acc: у́з­кие
-plu_ins: у́з­ки­ми
-plu_pre: у́з­ких
+plural_nominative: у́з­кие
+plural_genitive: у́з­ких
+plural_dative: у́з­ким
+plural_accusative: у́з­кие
+plural_ins: у́з­ки­ми
+plural_pre: у́з­ких
 
-sho_mas: у́з­ок
-sho_fem: уз­ка́
-sho_neu: у́з­ко
-sho_plu: у́з­ки
+shortform_mas: у́з­ок
+shortform_fem: уз­ка́
+shortform_neu: у́з­ко
+shortform_plu: у́з­ки
 
 comparative: у́же
 superlative:

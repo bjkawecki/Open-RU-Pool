@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: suffix
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ключ
-sin_gen: клю­ча́
-sin_dat: клю­чу́
-sin_acc: ключ
-sin_ins: клю­чо́м
-sin_pre: клю­че́
+singular_nominative: ключ
+singular_genitive: клю­ча́
+singular_dative: клю­чу́
+singular_accusative: ключ
+singular_ins: клю­чо́м
+singular_pre: клю­че́
 
-plu_nom: клю­чи́
-plu_gen: клю­че́й
-plu_dat: клю­ча́м
-plu_acc: клю­чи́
-plu_ins: клю­ча́­ми
-plu_pre: клю­ча́х
+plural_nominative: клю­чи́
+plural_genitive: клю­че́й
+plural_dative: клю­ча́м
+plural_accusative: клю­чи́
+plural_ins: клю­ча́­ми
+plural_pre: клю­ча́х
 
 partitive: null
 locative: null

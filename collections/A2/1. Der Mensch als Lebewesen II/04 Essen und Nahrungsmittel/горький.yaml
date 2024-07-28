@@ -7,38 +7,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: го́рь­кий
-mas_gen: го́рь­ко­го
-mas_dat: го́рь­ко­му
-mas_acc: го́рь­кий
-mas_ins: го́рь­ким
-mas_pre: го́рь­ком
+masculine_nominative: го́рь­кий
+masculine_genitive: го́рь­ко­го
+masculine_dative: го́рь­ко­му
+masculine_accusative: го́рь­кий
+masculine_ins: го́рь­ким
+masculine_pre: го́рь­ком
 
-fem_nom: го́рь­кая
-fem_gen: го́рь­кой
-fem_dat: го́рь­кой
-fem_acc: го́рь­кую
-fem_ins: го́рь­кой
-fem_pre: го́рь­кой
+feminine_nominative: го́рь­кая
+feminine_genitive: го́рь­кой
+feminine_dative: го́рь­кой
+feminine_accusative: го́рь­кую
+feminine_ins: го́рь­кой
+feminine_pre: го́рь­кой
 
-neu_nom: го́рь­кое
-neu_gen: го́рь­ко­го
-neu_dat: го́рь­ко­му
-neu_acc: го́рь­кое
-neu_ins: го́рь­ким
-neu_pre: го́рь­ком
+neutral_nominative: го́рь­кое
+neutral_genitive: го́рь­ко­го
+neutral_dative: го́рь­ко­му
+neutral_accusative: го́рь­кое
+neutral_ins: го́рь­ким
+neutral_pre: го́рь­ком
 
-plu_nom: го́рь­кие
-plu_gen: го́рь­ких
-plu_dat: го́рь­ким
-plu_acc: го́рь­кие
-plu_ins: го́рь­ки­ми
-plu_pre: го́рь­ких
+plural_nominative: го́рь­кие
+plural_genitive: го́рь­ких
+plural_dative: го́рь­ким
+plural_accusative: го́рь­кие
+plural_ins: го́рь­ки­ми
+plural_pre: го́рь­ких
 
-sho_mas: го́­рек
-sho_fem: горь­ка́
-sho_neu: го́рь­ко
-sho_plu: го́рь­ки
+shortform_mas: го́­рек
+shortform_fem: горь­ка́
+shortform_neu: го́рь­ко
+shortform_plu: го́рь­ки
 
 comparative: го́р­че
 superlative:

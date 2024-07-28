@@ -9,22 +9,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ап­ель­си́н
-sin_gen: ап­ель­си́­на
-sin_dat: ап­ель­си́­ну
-sin_acc: ап­ель­си́н
-sin_ins: ап­ель­си́­ном
-sin_pre: ап­ель­си́­не
+singular_nominative: ап­ель­си́н
+singular_genitive: ап­ель­си́­на
+singular_dative: ап­ель­си́­ну
+singular_accusative: ап­ель­си́н
+singular_ins: ап­ель­си́­ном
+singular_pre: ап­ель­си́­не
 
-plu_nom: ап­ель­си́­ны
-plu_gen: ап­ель­си́­нов
-plu_dat: ап­ель­си́­нам
-plu_acc: ап­ель­си́­ны
-plu_ins: ап­ель­си́­на­ми
-plu_pre: ап­ель­си́­нах
+plural_nominative: ап­ель­си́­ны
+plural_genitive: ап­ель­си́­нов
+plural_dative: ап­ель­си́­нам
+plural_accusative: ап­ель­си́­ны
+plural_ins: ап­ель­си́­на­ми
+plural_pre: ап­ель­си́­нах
 
 partitive: null
 locative: null

@@ -6,38 +6,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: тём­ный
-mas_gen: тём­но­го
-mas_dat: тём­но­му
-mas_acc: тём­ный
-mas_ins: тём­ным
-mas_pre: тём­ном
+masculine_nominative: тём­ный
+masculine_genitive: тём­но­го
+masculine_dative: тём­но­му
+masculine_accusative: тём­ный
+masculine_ins: тём­ным
+masculine_pre: тём­ном
 
-fem_nom: тём­ная
-fem_gen: тём­ной
-fem_dat: тём­ной
-fem_acc: тём­ную
-fem_ins: тём­ной
-fem_pre: тём­ной
+feminine_nominative: тём­ная
+feminine_genitive: тём­ной
+feminine_dative: тём­ной
+feminine_accusative: тём­ную
+feminine_ins: тём­ной
+feminine_pre: тём­ной
 
-neu_nom: тём­ное
-neu_gen: тём­но­го
-neu_dat: тём­но­му
-neu_acc: тём­ное
-neu_ins: тём­ным
-neu_pre: тём­ном
+neutral_nominative: тём­ное
+neutral_genitive: тём­но­го
+neutral_dative: тём­но­му
+neutral_accusative: тём­ное
+neutral_ins: тём­ным
+neutral_pre: тём­ном
 
-plu_nom: тём­ные
-plu_gen: тём­ных
-plu_dat: тём­ным
-plu_acc: тём­ные
-plu_ins: тём­ны­ми
-plu_pre: тём­ных
+plural_nominative: тём­ные
+plural_genitive: тём­ных
+plural_dative: тём­ным
+plural_accusative: тём­ные
+plural_ins: тём­ны­ми
+plural_pre: тём­ных
 
-sho_mas: тё­мен
-sho_fem: тем­на́
-sho_neu: тем­но́
-sho_plu: тем­ны́
+shortform_mas: тё­мен
+shortform_fem: тем­на́
+shortform_neu: тем­но́
+shortform_plu: тем­ны́
 
 comparative: тем­не́е
 superlative:

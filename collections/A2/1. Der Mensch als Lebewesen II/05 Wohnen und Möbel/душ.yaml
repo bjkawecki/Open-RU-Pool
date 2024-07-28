@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: душ
-sin_gen: ду́­ша
-sin_dat: ду́­шу
-sin_acc: душ
-sin_ins: ду́­шем
-sin_pre: ду́­ше
+singular_nominative: душ
+singular_genitive: ду́­ша
+singular_dative: ду́­шу
+singular_accusative: душ
+singular_ins: ду́­шем
+singular_pre: ду́­ше
 
-plu_nom: ду́­ши
-plu_gen: ду́­шей
-plu_dat: ду́­шам
-plu_acc: ду́­ши
-plu_ins: ду́­ша­ми
-plu_pre: ду́­шах
+plural_nominative: ду́­ши
+plural_genitive: ду́­шей
+plural_dative: ду́­шам
+plural_accusative: ду́­ши
+plural_ins: ду́­ша­ми
+plural_pre: ду́­шах
 
 partitive: null
 locative: null

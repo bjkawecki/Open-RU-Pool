@@ -9,22 +9,22 @@ dec_cls: "1"
 stress: root
 
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ку́рт­ка
-sin_gen: ку́рт­ки
-sin_dat: ку́рт­ке
-sin_acc: ку́рт­ку
-sin_ins: ку́рт­кой
-sin_pre: ку́рт­ке
+singular_nominative: ку́рт­ка
+singular_genitive: ку́рт­ки
+singular_dative: ку́рт­ке
+singular_accusative: ку́рт­ку
+singular_ins: ку́рт­кой
+singular_pre: ку́рт­ке
 
-plu_nom: ку́рт­ки
-plu_gen: ку́р­ток
-plu_dat: ку́рт­кам
-plu_acc: ку́рт­ки
-plu_ins: ку́рт­ка­ми
-plu_pre: ку́рт­ках
+plural_nominative: ку́рт­ки
+plural_genitive: ку́р­ток
+plural_dative: ку́рт­кам
+plural_accusative: ку́рт­ки
+plural_ins: ку́рт­ка­ми
+plural_pre: ку́рт­ках
 
 partitive: null
 locative: null

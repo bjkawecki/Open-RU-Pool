@@ -7,20 +7,20 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: null
-is_sin_tan: null
-is_plu_tan: null
-sin_nom: килогра́мм
-sin_gen: ки­лог­ра́м­ма
-sin_dat: ки­лог­ра́м­му
-sin_acc: ки­лог­ра́м­м
-sin_ins: ки­лог­ра́м­мом
-sin_pre: ки­лог­ра́м­ме
-plu_nom: ки­лог­ра́м­мы
-plu_gen: ки­лог­ра́м­мов, ки­лог­ра́м­м
-plu_dat: ки­лог­ра́м­мам
-plu_acc: ки­лог­ра́м­мы
-plu_ins: ки­лог­ра́м­ма­ми
-plu_pre: килограммах
+is_singular_tan: null
+is_plural_tan: null
+singular_nominative: килогра́мм
+singular_genitive: ки­лог­ра́м­ма
+singular_dative: ки­лог­ра́м­му
+singular_accusative: ки­лог­ра́м­м
+singular_ins: ки­лог­ра́м­мом
+singular_pre: ки­лог­ра́м­ме
+plural_nominative: ки­лог­ра́м­мы
+plural_genitive: ки­лог­ра́м­мов, ки­лог­ра́м­м
+plural_dative: ки­лог­ра́м­мам
+plural_accusative: ки­лог­ра́м­мы
+plural_ins: ки­лог­ра́м­ма­ми
+plural_pre: килограммах
 partitive: null
 locative: null
 comment: null

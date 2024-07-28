@@ -7,38 +7,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: се­до́й
-mas_gen: се­до́­го
-mas_dat: се­до́­му
-mas_acc: се­до́й
-mas_ins: се­ды́м
-mas_pre: се­до́м
+masculine_nominative: се­до́й
+masculine_genitive: се­до́­го
+masculine_dative: се­до́­му
+masculine_accusative: се­до́й
+masculine_ins: се­ды́м
+masculine_pre: се­до́м
 
-fem_nom: се­да́я
-fem_gen: се­до́й
-fem_dat: се­до́й
-fem_acc:
-fem_ins: се­до́й
-fem_pre: се­до́й
+feminine_nominative: се­да́я
+feminine_genitive: се­до́й
+feminine_dative: се­до́й
+feminine_accusative:
+feminine_ins: се­до́й
+feminine_pre: се­до́й
 
-neu_nom: се­до́е
-neu_gen: се­до́­го
-neu_dat: се­до́­му
-neu_acc: се­до́е
-neu_ins: се­ды́м
-neu_pre: се­до́м
+neutral_nominative: се­до́е
+neutral_genitive: се­до́­го
+neutral_dative: се­до́­му
+neutral_accusative: се­до́е
+neutral_ins: се­ды́м
+neutral_pre: се­до́м
 
-plu_nom: се­ды́е
-plu_gen: се­ды́х
-plu_dat: се­ды́м
-plu_acc: се­ды́е
-plu_ins: се­ды́­ми
-plu_pre: се­ды́х
+plural_nominative: се­ды́е
+plural_genitive: се­ды́х
+plural_dative: се­ды́м
+plural_accusative: се­ды́е
+plural_ins: се­ды́­ми
+plural_pre: се­ды́х
 
-sho_mas: сед
-sho_fem: се­да́
-sho_neu: се́­до
-sho_plu: се́­ды
+shortform_mas: сед
+shortform_fem: се­да́
+shortform_neu: се́­до
+shortform_plu: се́­ды
 
 comparative: се­де́е
 superlative:

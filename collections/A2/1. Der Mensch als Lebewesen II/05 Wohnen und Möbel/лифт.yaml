@@ -9,22 +9,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: лифт
-sin_gen: ли́ф­та
-sin_dat: ли́ф­ту
-sin_acc: лифт
-sin_ins: ли́ф­том
-sin_pre: ли́ф­те
+singular_nominative: лифт
+singular_genitive: ли́ф­та
+singular_dative: ли́ф­ту
+singular_accusative: лифт
+singular_ins: ли́ф­том
+singular_pre: ли́ф­те
 
-plu_nom: ли́ф­ты
-plu_gen: ли́ф­тов
-plu_dat: ли́ф­там
-plu_acc: ли́ф­ты
-plu_ins: ли́ф­та­ми
-plu_pre: ли́ф­тах
+plural_nominative: ли́ф­ты
+plural_genitive: ли́ф­тов
+plural_dative: ли́ф­там
+plural_accusative: ли́ф­ты
+plural_ins: ли́ф­та­ми
+plural_pre: ли́ф­тах
 
 partitive: null
 locative: null

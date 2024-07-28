@@ -10,22 +10,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ко­рид­о́р
-sin_gen: ко­ри­до́­ра
-sin_dat: ко­ри­до́­ру
-sin_acc: ко­рид­о́р
-sin_ins: ко­ри­до́­ром
-sin_pre: ко­ри­до́­ре
+singular_nominative: ко­рид­о́р
+singular_genitive: ко­ри­до́­ра
+singular_dative: ко­ри­до́­ру
+singular_accusative: ко­рид­о́р
+singular_ins: ко­ри­до́­ром
+singular_pre: ко­ри­до́­ре
 
-plu_nom: ко­ри­до́­ры
-plu_gen: ко­ри­до́­ров
-plu_dat: ко­ри­до́­рам
-plu_acc: ко­ри­до́­ры
-plu_ins: ко­ри­до́­ра­ми
-plu_pre: ко­ри­до́­рах
+plural_nominative: ко­ри­до́­ры
+plural_genitive: ко­ри­до́­ров
+plural_dative: ко­ри­до́­рам
+plural_accusative: ко­ри­до́­ры
+plural_ins: ко­ри­до́­ра­ми
+plural_pre: ко­ри­до́­рах
 
 partitive: null
 locative: null

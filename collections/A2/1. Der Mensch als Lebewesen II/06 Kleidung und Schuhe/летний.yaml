@@ -7,38 +7,38 @@ translation:
 
 is_gradable: false
 
-mas_nom: ле́т­ний
-mas_gen: ле́т­не­го
-mas_dat: ле́т­не­му
-mas_acc: ле́т­ний
-mas_ins: ле́т­ним
-mas_pre: ле́т­нем
+masculine_nominative: ле́т­ний
+masculine_genitive: ле́т­не­го
+masculine_dative: ле́т­не­му
+masculine_accusative: ле́т­ний
+masculine_ins: ле́т­ним
+masculine_pre: ле́т­нем
 
-fem_nom: ле́т­няя
-fem_gen: ле́т­ней
-fem_dat: ле́т­ней
-fem_acc: ле́т­нюю
-fem_ins: ле́т­ней
-fem_pre: ле́т­ней
+feminine_nominative: ле́т­няя
+feminine_genitive: ле́т­ней
+feminine_dative: ле́т­ней
+feminine_accusative: ле́т­нюю
+feminine_ins: ле́т­ней
+feminine_pre: ле́т­ней
 
-neu_nom: ле́т­нее
-neu_gen: ле́т­не­го
-neu_dat: ле́т­не­му
-neu_acc: ле́т­нее
-neu_ins: ле́т­ним
-neu_pre: ле́т­нем
+neutral_nominative: ле́т­нее
+neutral_genitive: ле́т­не­го
+neutral_dative: ле́т­не­му
+neutral_accusative: ле́т­нее
+neutral_ins: ле́т­ним
+neutral_pre: ле́т­нем
 
-plu_nom: ле́т­ние
-plu_gen: ле́т­них
-plu_dat: ле́т­ним
-plu_acc: ле́т­ние
-plu_ins: ле́т­ни­ми
-plu_pre: ле́т­них
+plural_nominative: ле́т­ние
+plural_genitive: ле́т­них
+plural_dative: ле́т­ним
+plural_accusative: ле́т­ние
+plural_ins: ле́т­ни­ми
+plural_pre: ле́т­них
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+shortform_mas:
+shortform_fem:
+shortform_neu:
+shortform_plu:
 
 comparative:
 superlative:

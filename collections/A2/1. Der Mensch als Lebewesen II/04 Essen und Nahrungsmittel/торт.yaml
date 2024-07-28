@@ -8,22 +8,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: торт
-sin_gen: то́р­та
-sin_dat: то́р­ту
-sin_acc: торт
-sin_ins: то́р­том
-sin_pre: то́р­те
+singular_nominative: торт
+singular_genitive: то́р­та
+singular_dative: то́р­ту
+singular_accusative: торт
+singular_ins: то́р­том
+singular_pre: то́р­те
 
-plu_nom: то́р­ты
-plu_gen: то́р­тов
-plu_dat: то́р­там
-plu_acc: то́р­ты
-plu_ins: то́р­та­ми
-plu_pre: то́р­тах
+plural_nominative: то́р­ты
+plural_genitive: то́р­тов
+plural_dative: то́р­там
+plural_accusative: то́р­ты
+plural_ins: то́р­та­ми
+plural_pre: то́р­тах
 
 partitive: null
 locative: null

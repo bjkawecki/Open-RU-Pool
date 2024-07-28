@@ -8,38 +8,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: ни́з­кий
-mas_gen: ни́з­ко­го
-mas_dat: ни́з­ко­му
-mas_acc: ни́з­кий
-mas_ins: ни́з­ким
-mas_pre: ни́з­ком
+masculine_nominative: ни́з­кий
+masculine_genitive: ни́з­ко­го
+masculine_dative: ни́з­ко­му
+masculine_accusative: ни́з­кий
+masculine_ins: ни́з­ким
+masculine_pre: ни́з­ком
 
-fem_nom: ни́з­кая
-fem_gen: ни́з­кой
-fem_dat: ни́з­кой
-fem_acc: ни́з­кую
-fem_ins: ни́з­кой
-fem_pre: ни́з­кой
+feminine_nominative: ни́з­кая
+feminine_genitive: ни́з­кой
+feminine_dative: ни́з­кой
+feminine_accusative: ни́з­кую
+feminine_ins: ни́з­кой
+feminine_pre: ни́з­кой
 
-neu_nom: ни́з­кое
-neu_gen: ни́з­ко­го
-neu_dat: ни́з­ко­му
-neu_acc: ни́з­кое
-neu_ins: ни́з­ким
-neu_pre: ни́з­ком
+neutral_nominative: ни́з­кое
+neutral_genitive: ни́з­ко­го
+neutral_dative: ни́з­ко­му
+neutral_accusative: ни́з­кое
+neutral_ins: ни́з­ким
+neutral_pre: ни́з­ком
 
-plu_nom: ни́з­кие
-plu_gen: ни́з­ких
-plu_dat: ни́з­ким
-plu_acc: ни́з­кие
-plu_ins: ни́з­ки­ми
-plu_pre: ни́з­ких
+plural_nominative: ни́з­кие
+plural_genitive: ни́з­ких
+plural_dative: ни́з­ким
+plural_accusative: ни́з­кие
+plural_ins: ни́з­ки­ми
+plural_pre: ни́з­ких
 
-sho_mas: ни́­зок
-sho_fem: низ­ка́
-sho_neu: ни́з­ко
-sho_plu: ни́з­ки
+shortform_mas: ни́­зок
+shortform_fem: низ­ка́
+shortform_neu: ни́з­ко
+shortform_plu: ни́з­ки
 
 comparative: ни́­же
 superlative: са́мый ни́з­кий

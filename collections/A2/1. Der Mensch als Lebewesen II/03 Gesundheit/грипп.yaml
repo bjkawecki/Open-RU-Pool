@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: грип­п
-sin_gen: гри́п­па
-sin_dat: гри́п­пу
-sin_acc: грип­п
-sin_ins: гри́п­пом
-sin_pre: гри́п­пе
+singular_nominative: грип­п
+singular_genitive: гри́п­па
+singular_dative: гри́п­пу
+singular_accusative: грип­п
+singular_ins: гри́п­пом
+singular_pre: гри́п­пе
 
-plu_nom: гри́п­пы
-plu_gen: гри́п­пов
-plu_dat: гри́п­пам
-plu_acc: гри́п­пы
-plu_ins: гри́п­па­ми
-plu_pre: гри́п­пах
+plural_nominative: гри́п­пы
+plural_genitive: гри́п­пов
+plural_dative: гри́п­пам
+plural_accusative: гри́п­пы
+plural_ins: гри́п­па­ми
+plural_pre: гри́п­пах
 
 partitive: null
 locative: null

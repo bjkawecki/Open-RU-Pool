@@ -9,22 +9,22 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: null
-is_plu_tan: null
+is_singular_tan: null
+is_plural_tan: null
 
-sin_nom: ксе́­рокс
-sin_gen: ксе́­рок­са
-sin_dat: ксе́­рок­су
-sin_acc: ксе́­рокс
-sin_ins: ксе́­рок­сом
-sin_pre: ксе́­рок­се
+singular_nominative: ксе́­рокс
+singular_genitive: ксе́­рок­са
+singular_dative: ксе́­рок­су
+singular_accusative: ксе́­рокс
+singular_ins: ксе́­рок­сом
+singular_pre: ксе́­рок­се
 
-plu_nom: ксе́­рок­сы
-plu_gen: ксе́­рок­сов
-plu_dat: ксе́­рок­сам
-plu_acc: ксе́­рок­сы
-plu_ins: ксе́­рок­са­ми
-plu_pre: ксе́­рок­сах
+plural_nominative: ксе́­рок­сы
+plural_genitive: ксе́­рок­сов
+plural_dative: ксе́­рок­сам
+plural_accusative: ксе́­рок­сы
+plural_ins: ксе́­рок­са­ми
+plural_pre: ксе́­рок­сах
 
 partitive: null
 locative: null

@@ -12,23 +12,23 @@ stress: root
 
 is_animate: false
 
-is_sin_tan: null
+is_singular_tan: null
 
-is_plu_tan: null
+is_plural_tan: null
 
-sin_nom: при­ла­га́­тель­ное
-sin_gen: при­ла­га́­тель­но­го
-sin_dat: при­ла­га́­тель­но­му
-sin_acc: при­ла­га́­тель­ное
-sin_ins: при­ла­га́­тель­ным
-sin_pre: при­ла­га́­тель­ном
+singular_nominative: при­ла­га́­тель­ное
+singular_genitive: при­ла­га́­тель­но­го
+singular_dative: при­ла­га́­тель­но­му
+singular_accusative: при­ла­га́­тель­ное
+singular_ins: при­ла­га́­тель­ным
+singular_pre: при­ла­га́­тель­ном
 
-plu_nom: при­ла­га́­тель­ные
-plu_gen: при­ла­га́­тель­ных
-plu_dat: при­ла­га́­тель­ным
-plu_acc: при­ла­га́­тель­ные
-plu_ins: при­ла­га́­тель­ны­ми
-plu_pre: при­ла­га́­тель­ных
+plural_nominative: при­ла­га́­тель­ные
+plural_genitive: при­ла­га́­тель­ных
+plural_dative: при­ла­га́­тель­ным
+plural_accusative: при­ла­га́­тель­ные
+plural_ins: при­ла­га́­тель­ны­ми
+plural_pre: при­ла­га́­тель­ных
 
 partitive: null
 locative: null

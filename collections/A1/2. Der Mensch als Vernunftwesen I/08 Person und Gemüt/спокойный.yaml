@@ -7,38 +7,38 @@ translation:
 
 is_gradable: true
 
-mas_nom: спо­ко́й­ный
-mas_gen: спо­ко́й­но­го
-mas_dat: спо­ко́й­но­му
-mas_acc: спо­ко́й­ный
-mas_ins: спо­ко́й­ным
-mas_pre: спо­ко́й­ном
+masculine_nominative: спо­ко́й­ный
+masculine_genitive: спо­ко́й­но­го
+masculine_dative: спо­ко́й­но­му
+masculine_accusative: спо­ко́й­ный
+masculine_ins: спо­ко́й­ным
+masculine_pre: спо­ко́й­ном
 
-fem_nom: спо­ко́й­ная
-fem_gen: спо­ко́й­ной
-fem_dat: спо­ко́й­ной
-fem_acc: спо­ко́й­ную
-fem_ins: спо­ко́й­ной
-fem_pre: спо­ко́й­ной
+feminine_nominative: спо­ко́й­ная
+feminine_genitive: спо­ко́й­ной
+feminine_dative: спо­ко́й­ной
+feminine_accusative: спо­ко́й­ную
+feminine_ins: спо­ко́й­ной
+feminine_pre: спо­ко́й­ной
 
-neu_nom: спо­ко́й­ное
-neu_gen: спо­ко́й­но­го
-neu_dat: спо­ко́й­но­му
-neu_acc: спо­ко́й­ное
-neu_ins: спо­ко́й­ным
-neu_pre: спо­ко́й­ном
+neutral_nominative: спо­ко́й­ное
+neutral_genitive: спо­ко́й­но­го
+neutral_dative: спо­ко́й­но­му
+neutral_accusative: спо­ко́й­ное
+neutral_ins: спо­ко́й­ным
+neutral_pre: спо­ко́й­ном
 
-plu_nom: спо­ко́й­ные
-plu_gen: спо­ко́й­ных
-plu_dat: спо­ко́й­ным
-plu_acc: спо­ко́й­ные
-plu_ins: спо­ко́й­ны­ми
-plu_pre: спо­ко́й­ных
+plural_nominative: спо­ко́й­ные
+plural_genitive: спо­ко́й­ных
+plural_dative: спо­ко́й­ным
+plural_accusative: спо­ко́й­ные
+plural_ins: спо­ко́й­ны­ми
+plural_pre: спо­ко́й­ных
 
-sho_mas: спо­ко́­ен
-sho_fem: спо­ко́й­на
-sho_neu: спо­ко́й­но
-sho_plu: спо­ко́й­ны
+shortform_mas: спо­ко́­ен
+shortform_fem: спо­ко́й­на
+shortform_neu: спо­ко́й­но
+shortform_plu: спо­ко́й­ны
 
 comparative: спо­ко́й­нее
 superlative: самый споко́йный
