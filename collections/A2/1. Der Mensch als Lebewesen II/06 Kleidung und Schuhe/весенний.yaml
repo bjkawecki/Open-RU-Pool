@@ -11,34 +11,34 @@ masculine_nominative: ве­се́н­ний
 masculine_genitive: ве­се́н­не­го
 masculine_dative: ве­се́н­не­му
 masculine_accusative: ве­се́н­ний
-masculine_ins: ве­се́н­ним
-masculine_pre: ве­се́н­нем
+masculine_instrumental: ве­се́н­ним
+masculine_prepositive: ве­се́н­нем
 
 feminine_nominative: ве­се́н­няя
 feminine_genitive: ве­се́н­ней
 feminine_dative: ве­се́н­ней
 feminine_accusative: ве­се́н­нюю
-feminine_ins: ве­се́н­ней
-feminine_pre: ве­се́н­ней
+feminine_instrumental: ве­се́н­ней
+feminine_prepositive: ве­се́н­ней
 
 neutral_nominative: ве­се́н­нее
 neutral_genitive: ве­се́н­не­го
 neutral_dative: ве­се́н­не­му
 neutral_accusative: ве­се́н­нее
-neutral_ins: ве­се́н­ним
-neutral_pre: ве­се́н­нем
+neutral_instrumental: ве­се́н­ним
+neutral_prepositive: ве­се́н­нем
 
 plural_nominative: ве­се́н­ние
 plural_genitive: ве­се́н­них
 plural_dative: ве­се́н­ним
 plural_accusative: ве­се́н­ние
-plural_ins: ве­се́н­ни­ми
-plural_pre: ве­се́н­них
+plural_instrumental: ве­се́н­ни­ми
+plural_prepositive: ве­се́н­них
 
-shortform_mas:
-shortform_fem:
-shortform_neu:
-shortform_plu:
+shortform_masculine:
+shortform_feminine:
+shortform_neutral:
+shortform_plural:
 
 comparative:
 superlative:

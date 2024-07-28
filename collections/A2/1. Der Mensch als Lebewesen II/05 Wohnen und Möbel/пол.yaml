@@ -6,25 +6,25 @@ translation:
   - Fußboden
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: shifting
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: пол
 singular_genitive: по́ла
 singular_dative: по́лу
 singular_accusative: пол
-singular_ins: по́лом
-singular_pre: по́ле
+singular_instrumental: по́лом
+singular_prepositive: по́ле
 
 plural_nominative: полы́
 plural_genitive: поло́в
 plural_dative: пола́м
 plural_accusative: полы́
-plural_ins: пола́ми
-plural_pre: пола́х
+plural_instrumental: пола́ми
+plural_prepositive: пола́х
 
 partitive: null
 locative: полу́

@@ -6,29 +6,29 @@ translation:
 
 genus: neutral
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: не́­бо
 singular_genitive: не́­ба
 singular_dative: не́­бу
 singular_accusative: не́­бо
-singular_ins: не́­бом
-singular_pre: не́­бе
+singular_instrumental: не́­бом
+singular_prepositive: не́­бе
 
 plural_nominative: не­бе­са́
 plural_genitive: не­бе́с
 plural_dative: не­бес­а́м
 plural_accusative: не­бе­са́
-plural_ins: не­бе­са́­ми
-plural_pre: не­бес­а́х
+plural_instrumental: не­бе­са́­ми
+plural_prepositive: не­бес­а́х
 
 partitive: null
 locative: null

@@ -11,34 +11,34 @@ masculine_nominative: све́т­лый
 masculine_genitive: све́т­ло­го
 masculine_dative: све́т­ло­му
 masculine_accusative: све́т­лый
-masculine_ins: све́т­лым
-masculine_pre: све́т­лом
+masculine_instrumental: све́т­лым
+masculine_prepositive: све́т­лом
 
 feminine_nominative: све́т­лая
 feminine_genitive: све́т­лой
 feminine_dative: све́т­лой
 feminine_accusative: све́т­лую
-feminine_ins: све́т­лой
-feminine_pre: све́т­лой
+feminine_instrumental: све́т­лой
+feminine_prepositive: све́т­лой
 
 neutral_nominative: све́т­лое
 neutral_genitive: све́т­ло­го
 neutral_dative: све́т­ло­му
 neutral_accusative: све́т­лое
-neutral_ins: све́т­лым
-neutral_pre: све́т­лом
+neutral_instrumental: све́т­лым
+neutral_prepositive: све́т­лом
 
 plural_nominative: све́т­лые
 plural_genitive: све́т­лых
 plural_dative: све́т­лым
 plural_accusative: све́т­лые
-plural_ins: све́т­лы­ми
-plural_pre: све́т­лых
+plural_instrumental: све́т­лы­ми
+plural_prepositive: све́т­лых
 
-shortform_mas: све́­тел
-shortform_fem: свет­ла́
-shortform_neu: свет­ло́
-shortform_plu: свет­лы́
+shortform_masculine: све́­тел
+shortform_feminine: свет­ла́
+shortform_neutral: свет­ло́
+shortform_plural: свет­лы́
 
 comparative: свет­ле́е
 superlative:

@@ -11,34 +11,34 @@ masculine_nominative: се­до́й
 masculine_genitive: се­до́­го
 masculine_dative: се­до́­му
 masculine_accusative: се­до́й
-masculine_ins: се­ды́м
-masculine_pre: се­до́м
+masculine_instrumental: се­ды́м
+masculine_prepositive: се­до́м
 
 feminine_nominative: се­да́я
 feminine_genitive: се­до́й
 feminine_dative: се­до́й
 feminine_accusative:
-feminine_ins: се­до́й
-feminine_pre: се­до́й
+feminine_instrumental: се­до́й
+feminine_prepositive: се­до́й
 
 neutral_nominative: се­до́е
 neutral_genitive: се­до́­го
 neutral_dative: се­до́­му
 neutral_accusative: се­до́е
-neutral_ins: се­ды́м
-neutral_pre: се­до́м
+neutral_instrumental: се­ды́м
+neutral_prepositive: се­до́м
 
 plural_nominative: се­ды́е
 plural_genitive: се­ды́х
 plural_dative: се­ды́м
 plural_accusative: се­ды́е
-plural_ins: се­ды́­ми
-plural_pre: се­ды́х
+plural_instrumental: се­ды́­ми
+plural_prepositive: се­ды́х
 
-shortform_mas: сед
-shortform_fem: се­да́
-shortform_neu: се́­до
-shortform_plu: се́­ды
+shortform_masculine: сед
+shortform_feminine: се­да́
+shortform_neutral: се́­до
+shortform_plural: се́­ды
 
 comparative: се­де́е
 superlative:

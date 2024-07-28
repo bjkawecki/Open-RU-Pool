@@ -6,25 +6,25 @@ translation:
   - Fahrstuhl
   - Lift
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: лифт
 singular_genitive: ли́ф­та
 singular_dative: ли́ф­ту
 singular_accusative: лифт
-singular_ins: ли́ф­том
-singular_pre: ли́ф­те
+singular_instrumental: ли́ф­том
+singular_prepositive: ли́ф­те
 
 plural_nominative: ли́ф­ты
 plural_genitive: ли́ф­тов
 plural_dative: ли́ф­там
 plural_accusative: ли́ф­ты
-plural_ins: ли́ф­та­ми
-plural_pre: ли́ф­тах
+plural_instrumental: ли́ф­та­ми
+plural_prepositive: ли́ф­тах
 
 partitive: null
 locative: null

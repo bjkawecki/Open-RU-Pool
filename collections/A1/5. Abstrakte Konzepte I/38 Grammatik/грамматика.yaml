@@ -7,29 +7,29 @@ translation:
 
 genus: feminine
 
-dec_cls: "1"
+declination_class: "1"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: грам­ма́­ти­ка
 singular_genitive: грам­ма́­ти­ки
 singular_dative: грам­ма́­ти­ке
 singular_accusative: грам­ма́­ти­ку
-singular_ins: грам­ма́­ти­кой
-singular_pre: грам­ма́­ти­ке
+singular_instrumental: грам­ма́­ти­кой
+singular_prepositive: грам­ма́­ти­ке
 
 plural_nominative: грам­ма́­ти­ки
 plural_genitive: грам­ма́­тик
 plural_dative: грам­ма́­тик­ам
 plural_accusative: грам­ма́­ти­ки
-plural_ins: грам­ма́­ти­ка­ми
-plural_pre: грам­ма́­тик­ах
+plural_instrumental: грам­ма́­ти­ка­ми
+plural_prepositive: грам­ма́­тик­ах
 
 partitive: null
 locative: null

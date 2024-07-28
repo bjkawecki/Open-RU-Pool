@@ -2,8 +2,8 @@ name_accent:
 wordclass: preposition
 translation:
 
-prep_type:
-prep_case:
+preposition_type:
+preposition_case:
 
 comment: null
 usage: null

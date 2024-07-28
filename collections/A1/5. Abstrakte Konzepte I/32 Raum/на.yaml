@@ -3,8 +3,8 @@ name_accent: на
 wordclass: preposition
 translation:
   - auf
-prep_type: local
-prep_case: prepositive
+preposition_type: local
+preposition_case: prepositive
 comment: null
 usage: null
 etymology: null

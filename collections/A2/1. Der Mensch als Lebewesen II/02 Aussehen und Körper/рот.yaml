@@ -6,29 +6,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: suffix
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: рот
 singular_genitive: рта
 singular_dative: рту
 singular_accusative: рот
-singular_ins: ртом
-singular_pre: рте
+singular_instrumental: ртом
+singular_prepositive: рте
 
 plural_nominative: рты
 plural_genitive: ртов
 plural_dative: ртам
 plural_accusative: рты
-plural_ins: рта́­ми
-plural_pre: ртах
+plural_instrumental: рта́­ми
+plural_prepositive: ртах
 
 partitive: null
 locative: null во рту

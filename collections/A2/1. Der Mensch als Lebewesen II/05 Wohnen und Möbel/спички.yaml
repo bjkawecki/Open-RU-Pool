@@ -6,25 +6,25 @@ translation:
   - Zündholz
 
 genus: masculine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: спи́ч­ка
 singular_genitive: спи́ч­ки
 singular_dative: спи́ч­ке
 singular_accusative: спи́ч­ку
-singular_ins: спи́ч­кой
-singular_pre: спи́ч­ке
+singular_instrumental: спи́ч­кой
+singular_prepositive: спи́ч­ке
 
 plural_nominative: спи́ч­ки
 plural_genitive: спи́­чек
 plural_dative: спи́ч­кам
 plural_accusative: спи́ч­ки
-plural_ins: спи́ч­ка­ми
-plural_pre: спи́ч­ках
+plural_instrumental: спи́ч­ка­ми
+plural_prepositive: спи́ч­ках
 
 partitive: null
 locative: null

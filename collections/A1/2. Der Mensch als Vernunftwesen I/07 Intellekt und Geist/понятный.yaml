@@ -11,34 +11,34 @@ masculine_nominative: по­ня́т­ный
 masculine_genitive: по­ня́т­но­го
 masculine_dative: по­ня́т­но­му
 masculine_accusative: по­ня́т­ный
-masculine_ins: по­ня́т­ным
-masculine_pre: по­ня́т­ном
+masculine_instrumental: по­ня́т­ным
+masculine_prepositive: по­ня́т­ном
 
 feminine_nominative: по­ня́т­ная
 feminine_genitive: по­ня́т­ной
 feminine_dative: по­ня́т­ной
 feminine_accusative: по­ня́т­ную
-feminine_ins: по­ня́т­ной
-feminine_pre: по­ня́т­ной
+feminine_instrumental: по­ня́т­ной
+feminine_prepositive: по­ня́т­ной
 
 neutral_nominative: по­ня́т­ное
 neutral_genitive: по­ня́т­но­го
 neutral_dative: по­ня́т­но­му
 neutral_accusative: по­ня́т­ное
-neutral_ins: по­ня́т­ным
-neutral_pre: по­ня́т­ном
+neutral_instrumental: по­ня́т­ным
+neutral_prepositive: по­ня́т­ном
 
 plural_nominative: по­ня́т­ные
 plural_genitive: по­ня́т­ных
 plural_dative: по­ня́т­ным
 plural_accusative: по­ня́т­ные
-plural_ins: по­ня́т­ны­ми
-plural_pre: по­ня́т­ных
+plural_instrumental: по­ня́т­ны­ми
+plural_prepositive: по­ня́т­ных
 
-shortform_mas: по­ня́т­ен
-shortform_fem: по­ня́т­на
-shortform_neu: по­ня́т­но
-shortform_plu: по­ня́т­ны
+shortform_masculine: по­ня́т­ен
+shortform_feminine: по­ня́т­на
+shortform_neutral: по­ня́т­но
+shortform_plural: по­ня́т­ны
 
 comparative: по­ня́т­нее
 superlative: самый по­ня́т­ный

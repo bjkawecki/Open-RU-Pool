@@ -6,29 +6,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: shifting
 
 is_animate: false
 
-is_singular_tan:
+is_singular_tantum:
 
-is_plural_tan:
+is_plural_tantum:
 
 singular_nominative: нос
 singular_genitive: но́са
 singular_dative: но́су
 singular_accusative: нос
-singular_ins: но́сом
-singular_pre: но́се
+singular_instrumental: но́сом
+singular_prepositive: но́се
 
 plural_nominative: носы́
 plural_genitive: носо́в
 plural_dative: носа́м
 plural_accusative: носы́
-plural_ins: носа́ми
-plural_pre: носа́х
+plural_instrumental: носа́ми
+plural_prepositive: носа́х
 
 partitive: null
 locative: null носу́

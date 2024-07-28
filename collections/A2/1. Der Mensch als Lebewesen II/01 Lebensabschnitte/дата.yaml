@@ -8,29 +8,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "1"
+declination_class: "1"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: да́­та
 singular_genitive: да́­ты
 singular_dative: да́­те
 singular_accusative: да́­ту
-singular_ins: да́­той
-singular_pre: да́­те
+singular_instrumental: да́­той
+singular_prepositive: да́­те
 
 plural_nominative: да́­ты
 plural_genitive: дат
 plural_dative: да́­там
 plural_accusative: да́­ты
-plural_ins: да́­та­ми
-plural_pre: да́­тах
+plural_instrumental: да́­та­ми
+plural_prepositive: да́­тах
 
 partitive: null
 locative: null

@@ -7,29 +7,29 @@ translation:
 
 genus: feminine
 
-dec_cls: "1"
+declination_class: "1"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: ан­ке́­та
 singular_genitive: ан­ке́­ты
 singular_dative: ан­ке́­те
 singular_accusative: ан­ке́­ту
-singular_ins: ан­ке́­той
-singular_pre: ан­ке́­те
+singular_instrumental: ан­ке́­той
+singular_prepositive: ан­ке́­те
 
 plural_nominative: ан­ке́­ты
 plural_genitive: ан­ке́т
 plural_dative: ан­ке́­там
 plural_accusative: ан­ке́­ты
-plural_ins: ан­ке́­та­ми
-plural_pre: ан­ке́­тах
+plural_instrumental: ан­ке́­та­ми
+plural_prepositive: ан­ке́­тах
 
 partitive: null
 locative: null

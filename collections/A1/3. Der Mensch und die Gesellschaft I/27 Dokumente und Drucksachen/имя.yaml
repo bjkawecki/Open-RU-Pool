@@ -7,29 +7,29 @@ translation:
 
 genus: neutral
 
-dec_cls: irregular
+declination_class: irregular
 
 stress: shifting
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: и́мя
 singular_genitive: и́ме­ни
 singular_dative: и́ме­ни
 singular_accusative: и́мя
-singular_ins: и́ме­нем
-singular_pre: и́ме­ни
+singular_instrumental: и́ме­нем
+singular_prepositive: и́ме­ни
 
 plural_nominative: име­на́
 plural_genitive: им­ён
 plural_dative: име­на́м
 plural_accusative: име­на́
-plural_ins: име­на́­ми
-plural_pre: име­на́х
+plural_instrumental: име­на́­ми
+plural_prepositive: име­на́х
 
 partitive: null
 locative: null

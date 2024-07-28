@@ -4,23 +4,23 @@ name_accent: сок
 translation:
   - Saft
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: null
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: сок
 singular_genitive: со́­ка
 singular_dative: со́­ку
 singular_accusative: сок
-singular_ins: со́­ком
-singular_pre: со́­ке
+singular_instrumental: со́­ком
+singular_prepositive: со́­ке
 plural_nominative: со́­ки
 plural_genitive: со́­ков
 plural_dative: со́­кам
 plural_accusative: со́­ки
-plural_ins: со́­ка­ми
-plural_pre: со́­ках
+plural_instrumental: со́­ка­ми
+plural_prepositive: со́­ках
 partitive: со́­ку
 locative: в/на со­ку́
 comment: null

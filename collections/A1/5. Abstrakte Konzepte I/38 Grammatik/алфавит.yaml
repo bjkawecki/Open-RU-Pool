@@ -6,29 +6,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: ал­фа­ви́т
 singular_genitive: ал­фа­ви́­та
 singular_dative: ал­фа­ви́­ту
 singular_accusative: ал­фа­ви́т
-singular_ins: ал­фа­ви́т­ом
-singular_pre: ал­фа­ви́­те
+singular_instrumental: ал­фа­ви́т­ом
+singular_prepositive: ал­фа­ви́­те
 
 plural_nominative: ал­фа­ви́­ты
 plural_genitive: ал­фа­ви́т­ов
 plural_dative: ал­фа­ви́т­ам
 plural_accusative: ал­фа­ви́­ты
-plural_ins: ал­фа­ви́­та­ми
-plural_pre: ал­фа­ви́т­ах
+plural_instrumental: ал­фа­ви́­та­ми
+plural_prepositive: ал­фа­ви́т­ах
 
 partitive: null
 locative: null

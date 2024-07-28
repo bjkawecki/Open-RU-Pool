@@ -5,25 +5,25 @@ translation:
   - Torte
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: торт
 singular_genitive: то́р­та
 singular_dative: то́р­ту
 singular_accusative: торт
-singular_ins: то́р­том
-singular_pre: то́р­те
+singular_instrumental: то́р­том
+singular_prepositive: то́р­те
 
 plural_nominative: то́р­ты
 plural_genitive: то́р­тов
 plural_dative: то́р­там
 plural_accusative: то́р­ты
-plural_ins: то́р­та­ми
-plural_pre: то́р­тах
+plural_instrumental: то́р­та­ми
+plural_prepositive: то́р­тах
 
 partitive: null
 locative: null

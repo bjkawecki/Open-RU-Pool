@@ -6,29 +6,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: true
 
-is_singular_tan: true
+is_singular_tantum: true
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: ре­бён­ок
 singular_genitive: ре­бён­ка
 singular_dative: ре­бён­ку
 singular_accusative: ре­бён­ка
-singular_ins: ре­бён­ком
-singular_pre: ре­бён­ке
+singular_instrumental: ре­бён­ком
+singular_prepositive: ре­бён­ке
 
 plural_nominative: null
 plural_genitive: null
 plural_dative: null
 plural_accusative: null
-plural_ins: null
-plural_pre: null
+plural_instrumental: null
+plural_prepositive: null
 
 partitive: null
 locative: null

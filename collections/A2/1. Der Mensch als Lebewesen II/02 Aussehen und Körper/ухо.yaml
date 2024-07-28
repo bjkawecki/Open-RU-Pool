@@ -6,29 +6,29 @@ translation:
 
 genus: neutral
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: shifting
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: у́хо
 singular_genitive: у́ха
 singular_dative: у́ху
 singular_accusative: у́хо
-singular_ins: у́х­ом
-singular_pre: у́хе
+singular_instrumental: у́х­ом
+singular_prepositive: у́хе
 
 plural_nominative: у́ши
 plural_genitive: уше́й
 plural_dative: уш­а́м
 plural_accusative: у́ши
-plural_ins: уша́­ми
-plural_pre: уш­а́х
+plural_instrumental: уша́­ми
+plural_prepositive: уш­а́х
 
 partitive: null
 locative: null

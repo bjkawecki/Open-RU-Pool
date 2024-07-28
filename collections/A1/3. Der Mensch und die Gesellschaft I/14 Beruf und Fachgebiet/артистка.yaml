@@ -4,23 +4,23 @@ name_accent: арти́стка
 translation:
   - Künstlerin
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: арти́стка
 singular_genitive: ар­ти́ст­ки
 singular_dative: ар­ти́ст­ке
 singular_accusative: ар­ти́ст­ку
-singular_ins: ар­ти́ст­кой
-singular_pre: ар­ти́ст­ке
+singular_instrumental: ар­ти́ст­кой
+singular_prepositive: ар­ти́ст­ке
 plural_nominative: ар­ти́ст­ки
 plural_genitive: ар­ти́­сток
 plural_dative: ар­ти́ст­кам
 plural_accusative: ар­ти́­сток
-plural_ins: ар­ти́ст­ка­ми
-plural_pre: ар­ти́ст­ках
+plural_instrumental: ар­ти́ст­ка­ми
+plural_prepositive: ар­ти́ст­ках
 partitive: null
 locative: null
 comment: Künstlerin, die vor Publikum auftritt

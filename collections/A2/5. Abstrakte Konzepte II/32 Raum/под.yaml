@@ -3,9 +3,9 @@ name_accent:
 wordclass: preposition
 translation:
 
-prep_type:
+preposition_type:
 
-prep_case:
+preposition_case:
 
 comment: null
 usage: null

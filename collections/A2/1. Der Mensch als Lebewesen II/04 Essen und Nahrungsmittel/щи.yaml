@@ -5,25 +5,25 @@ translation:
   - Kohlsuppe
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: suffix
 is_animate: false
-is_singular_tan: null
-is_plural_tan: true
+is_singular_tantum: null
+is_plural_tantum: true
 
 singular_nominative:
 singular_genitive:
 singular_dative:
 singular_accusative:
-singular_ins:
-singular_pre:
+singular_instrumental:
+singular_prepositive:
 
 plural_nominative: щи
 plural_genitive: щей
 plural_dative: щам
 plural_accusative: щи
-plural_ins: щами
-plural_pre: щах
+plural_instrumental: щами
+plural_prepositive: щах
 
 partitive: null
 locative: null

@@ -6,29 +6,29 @@ translation:
 
 genus: neutral
 
-dec_cls: none
+declination_class: none
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: false
+is_singular_tantum: false
 
-is_plural_tan: false
+is_plural_tantum: false
 
 singular_nominative: ка­фе́
 singular_genitive: ка­фе́
 singular_dative: ка­фе́
 singular_accusative: ка­фе́
-singular_ins: ка­фе́
-singular_pre: ка­фе́
+singular_instrumental: ка­фе́
+singular_prepositive: ка­фе́
 
 plural_nominative: ка­фе́
 plural_genitive: ка­фе́
 plural_dative: ка­фе́
 plural_accusative: ка­фе́
-plural_ins: ка­фе́
-plural_pre: ка­фе́
+plural_instrumental: ка­фе́
+plural_prepositive: ка­фе́
 
 partitive: null
 locative: null

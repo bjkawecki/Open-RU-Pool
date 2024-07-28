@@ -7,25 +7,25 @@ translation:
   - Schnitte
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: бу­терб­ро́д
 singular_genitive: бу­терб­ро́­да
 singular_dative: бу­терб­ро́­ду
 singular_accusative: бу­терб­ро́д
-singular_ins: бу­терб­ро́­дом
-singular_pre: бу­терб­ро́­де
+singular_instrumental: бу­терб­ро́­дом
+singular_prepositive: бу­терб­ро́­де
 
 plural_nominative: бу­терб­ро́­ды
 plural_genitive: бу­терб­ро́­дов
 plural_dative: бу­терб­ро́­дам
 plural_accusative: бу­терб­ро́­ды
-plural_ins: бу­терб­ро́­да­ми
-plural_pre: бу­терб­ро́­дах
+plural_instrumental: бу­терб­ро́­да­ми
+plural_prepositive: бу­терб­ро́­дах
 
 partitive: null
 locative: null

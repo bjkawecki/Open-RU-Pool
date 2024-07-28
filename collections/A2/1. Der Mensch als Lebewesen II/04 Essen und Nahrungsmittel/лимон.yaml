@@ -6,25 +6,25 @@ translation:
   - Zitronenbaum
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ли­мо́н
 singular_genitive: ли­мо́­на
 singular_dative: ли­мо́­ну
 singular_accusative: ли­мо́н
-singular_ins: ли­мо́н­ом
-singular_pre: ли­мо́­не
+singular_instrumental: ли­мо́н­ом
+singular_prepositive: ли­мо́­не
 
 plural_nominative: ли­мо́­ны
 plural_genitive: ли­мо́н­ов
 plural_dative: ли­мо́н­ам
 plural_accusative: ли­мо́­ны
-plural_ins: ли­мо́­на­ми
-plural_pre: ли­мо́н­ах
+plural_instrumental: ли­мо́­на­ми
+plural_prepositive: ли­мо́н­ах
 
 partitive: null
 locative: null

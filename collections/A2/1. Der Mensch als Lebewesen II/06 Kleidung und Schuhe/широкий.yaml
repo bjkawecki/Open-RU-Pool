@@ -11,34 +11,34 @@ masculine_nominative: ши­ро́­кий
 masculine_genitive: ши­ро́­ко­го
 masculine_dative: ши­ро́­ко­му
 masculine_accusative: ши­ро́­кий
-masculine_ins: ши­ро́к­им
-masculine_pre: ши­ро́к­ом
+masculine_instrumental: ши­ро́к­им
+masculine_prepositive: ши­ро́к­ом
 
 feminine_nominative: ши­ро́­кая
 feminine_genitive: ши­ро́­кой
 feminine_dative: ши­ро́­кой
 feminine_accusative: ши­ро́­кую
-feminine_ins: ши­ро́­кой
-feminine_pre: ши­ро́­кой
+feminine_instrumental: ши­ро́­кой
+feminine_prepositive: ши­ро́­кой
 
 neutral_nominative: ши­ро́­кое
 neutral_genitive: ши­ро́­ко­го
 neutral_dative: ши­ро́­ко­му
 neutral_accusative: ши­ро́­кое
-neutral_ins: ши­ро́к­им
-neutral_pre: ши­ро́к­ом
+neutral_instrumental: ши­ро́к­им
+neutral_prepositive: ши­ро́к­ом
 
 plural_nominative: ши­ро́­кие
 plural_genitive: ши­ро́к­их
 plural_dative: ши­ро́к­им
 plural_accusative: ши­ро́­кие
-plural_ins: ши­ро́­ки­ми
-plural_pre: ши­ро́к­их
+plural_instrumental: ши­ро́­ки­ми
+plural_prepositive: ши­ро́к­их
 
-shortform_mas: ши­ро́к
-shortform_fem: ши­ро­ка́
-shortform_neu: ши́­ро­ко
-shortform_plu: ши́­ро­ки
+shortform_masculine: ши­ро́к
+shortform_feminine: ши­ро­ка́
+shortform_neutral: ши́­ро­ко
+shortform_plural: ши́­ро­ки
 
 comparative: ши́­ре
 superlative:

@@ -5,25 +5,25 @@ translation:
   - Bett
 
 genus: feminine
-dec_cls: "3"
+declination_class: "3"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: кро­ва́ть
 singular_genitive: кро­ва́­ти
 singular_dative: кро­ва́­ти
 singular_accusative: кро­ва́ть
-singular_ins: кро­ва́тью
-singular_pre: кро­ва́­ти
+singular_instrumental: кро­ва́тью
+singular_prepositive: кро­ва́­ти
 
 plural_nominative: кро­ва́­ти
 plural_genitive: кро­ва́­тей
 plural_dative: кро­ва́т­ям
 plural_accusative: кро­ва́­ти
-plural_ins: кро­ва́­тя­ми
-plural_pre: кро­ва́т­ях
+plural_instrumental: кро­ва́­тя­ми
+plural_prepositive: кро­ва́т­ях
 
 partitive: null
 locative: null

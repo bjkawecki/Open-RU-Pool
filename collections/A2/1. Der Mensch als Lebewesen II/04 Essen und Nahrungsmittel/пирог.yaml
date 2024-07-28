@@ -5,25 +5,25 @@ translation:
   - Kuchen
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: suffix
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: пи­ро́г
 singular_genitive: пи­ро­га́
 singular_dative: пи­ро­гу́
 singular_accusative: пи­ро́г
-singular_ins: пи­рог­о́м
-singular_pre: пи­ро­ге́
+singular_instrumental: пи­рог­о́м
+singular_prepositive: пи­ро­ге́
 
 plural_nominative: пи­ро­ги́
 plural_genitive: пи­рог­о́в
 plural_dative: пи­рог­а́м
 plural_accusative: пи­ро­ги́
-plural_ins: пи­ро­га́­ми
-plural_pre: пи­рог­а́х
+plural_instrumental: пи­ро­га́­ми
+plural_prepositive: пи­рог­а́х
 
 partitive: null
 locative: null

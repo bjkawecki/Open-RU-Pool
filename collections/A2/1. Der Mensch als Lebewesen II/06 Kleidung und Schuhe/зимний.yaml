@@ -11,34 +11,34 @@ masculine_nominative: зи́м­ний
 masculine_genitive: зи́м­не­го
 masculine_dative: зи́м­не­му
 masculine_accusative: зи́м­ний
-masculine_ins: зи́м­ним
-masculine_pre: зи́м­нем
+masculine_instrumental: зи́м­ним
+masculine_prepositive: зи́м­нем
 
 feminine_nominative: зи́м­няя
 feminine_genitive: зи́м­ней
 feminine_dative: зи́м­ней
 feminine_accusative: зи́м­нюю
-feminine_ins: зи́м­ней
-feminine_pre: зи́м­ня
+feminine_instrumental: зи́м­ней
+feminine_prepositive: зи́м­ня
 
 neutral_nominative: зи́м­нее
 neutral_genitive: зи́м­не­го
 neutral_dative: зи́м­не­му
 neutral_accusative: зи́м­нее
-neutral_ins: зи́м­ним
-neutral_pre: зи́м­нем
+neutral_instrumental: зи́м­ним
+neutral_prepositive: зи́м­нем
 
 plural_nominative: зи́м­ние
 plural_genitive: зи́м­них
 plural_dative: зи́м­ним
 plural_accusative: зи́м­ние
-plural_ins: зи́м­ни­ми
-plural_pre: зи́м­них
+plural_instrumental: зи́м­ни­ми
+plural_prepositive: зи́м­них
 
-shortform_mas: зи́­мен
-shortform_fem: зи́м­ня
-shortform_neu: зи́м­не
-shortform_plu: зи́м­ни
+shortform_masculine: зи́­мен
+shortform_feminine: зи́м­ня
+shortform_neutral: зи́м­не
+shortform_plural: зи́м­ни
 
 comparative: зи́м­нее
 superlative:

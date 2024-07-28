@@ -7,25 +7,25 @@ translation:
   - Becher
 
 genus: "masculine"
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ста­ка́н
 singular_genitive: ста­ка́­на
 singular_dative: ста­ка́­ну
 singular_accusative: ста­ка́н
-singular_ins: ста­ка́н­ом
-singular_pre: ста­ка́­не
+singular_instrumental: ста­ка́н­ом
+singular_prepositive: ста­ка́­не
 
 plural_nominative: ста­ка́­ны
 plural_genitive: ста­ка́н­ов
 plural_dative: ста­ка́н­ам
 plural_accusative: ста­ка́­ны
-plural_ins: ста­ка́­на­ми
-plural_pre: ста­ка́н­ах
+plural_instrumental: ста­ка́­на­ми
+plural_prepositive: ста­ка́н­ах
 
 partitive: null
 locative: null

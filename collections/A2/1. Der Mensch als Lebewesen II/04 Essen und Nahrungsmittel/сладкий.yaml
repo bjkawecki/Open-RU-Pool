@@ -10,34 +10,34 @@ masculine_nominative: сла́д­кий
 masculine_genitive: сла́д­ко­го
 masculine_dative: сла́д­ко­му
 masculine_accusative: сла́д­кий
-masculine_ins: сла́д­ким
-masculine_pre: сла́д­ком
+masculine_instrumental: сла́д­ким
+masculine_prepositive: сла́д­ком
 
 feminine_nominative: сла́д­кая
 feminine_genitive: сла́д­кой
 feminine_dative: сла́д­кой
 feminine_accusative: сла́д­кую
-feminine_ins: сла́д­кой
-feminine_pre: сла́д­кой
+feminine_instrumental: сла́д­кой
+feminine_prepositive: сла́д­кой
 
 neutral_nominative: сла́д­кое
 neutral_genitive: сла́д­ко­го
 neutral_dative: сла́д­ко­му
 neutral_accusative: сла́д­кое
-neutral_ins: сла́д­ким
-neutral_pre: сла́д­ком
+neutral_instrumental: сла́д­ким
+neutral_prepositive: сла́д­ком
 
 plural_nominative: сла́д­кие
 plural_genitive: сла́д­ких
 plural_dative: сла́д­ким
 plural_accusative: сла́д­кие
-plural_ins: сла́д­ки­ми
-plural_pre: сла́д­ких
+plural_instrumental: сла́д­ки­ми
+plural_prepositive: сла́д­ких
 
-shortform_mas: сла́­док
-shortform_fem: слад­ка́
-shortform_neu: сла́д­ко
-shortform_plu: сла́д­ки
+shortform_masculine: сла́­док
+shortform_feminine: слад­ка́
+shortform_neutral: сла́д­ко
+shortform_plural: сла́д­ки
 
 comparative: сла́­ще
 superlative:

@@ -4,44 +4,44 @@ wordclass: pronoun
 translation:
   - dieser
 
-pro_type: demonstrative
+pronoun_type: demonstrative
 
-dec_type: adjective
+declination_type: adjective
 
 masculine_nominative: э́тот
 masculine_genitive: э́то­го
 masculine_dative: э́то­му
 masculine_accusative: э́тот
-masculine_ins: э́тем
-masculine_pre: э́том
+masculine_instrumental: э́тем
+masculine_prepositive: э́том
 
 feminine_nominative: э́та
 feminine_genitive: э́той
 feminine_dative: э́той
 feminine_accusative: э́ту
-feminine_ins: э́той
-feminine_pre: э́той
+feminine_instrumental: э́той
+feminine_prepositive: э́той
 
 neutral_nominative: э́то
 neutral_genitive: э́то­го
 neutral_dative: э́то­му
 neutral_accusative: э́то
-neutral_ins: э́тем
-neutral_pre: э́том
+neutral_instrumental: э́тем
+neutral_prepositive: э́том
 
 singular_nominative:
 singular_genitive:
 singular_dative:
 singular_accusative:
-singular_ins:
-singular_pre:
+singular_instrumental:
+singular_prepositive:
 
 plural_nominative: э́ти
 plural_genitive: э́тих
 plural_dative: э́тим
 plural_accusative: э́ти
-plural_ins: э́ти­ми
-plural_pre: э́тих
+plural_instrumental: э́ти­ми
+plural_prepositive: э́тих
 
 comment: null
 usage: null

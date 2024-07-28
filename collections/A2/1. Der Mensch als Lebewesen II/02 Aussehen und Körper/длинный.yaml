@@ -10,34 +10,34 @@ masculine_nominative: дли́н­ный
 masculine_genitive: дли́н­но­го
 masculine_dative: дли́н­но­му
 masculine_accusative: дли́н­ный
-masculine_ins: дли́н­ным
-masculine_pre: дли́н­ном
+masculine_instrumental: дли́н­ным
+masculine_prepositive: дли́н­ном
 
 feminine_nominative: дли́н­ная
 feminine_genitive: дли́н­ной
 feminine_dative: дли́н­ной
 feminine_accusative: дли́н­ную
-feminine_ins: дли́н­ной
-feminine_pre: дли́н­ной
+feminine_instrumental: дли́н­ной
+feminine_prepositive: дли́н­ной
 
 neutral_nominative: дли́н­ное
 neutral_genitive: дли́н­но­го
 neutral_dative: дли́н­но­му
 neutral_accusative: дли́н­ное
-neutral_ins: дли́н­ным
-neutral_pre: дли́н­ном
+neutral_instrumental: дли́н­ным
+neutral_prepositive: дли́н­ном
 
 plural_nominative: дли́н­ные
 plural_genitive: дли́н­ных
 plural_dative: дли́н­ным
 plural_accusative: дли́н­ные
-plural_ins: дли́н­ны­ми
-plural_pre: дли́н­ных
+plural_instrumental: дли́н­ны­ми
+plural_prepositive: дли́н­ных
 
-shortform_mas: дли́­нен
-shortform_fem: длин­на́
-shortform_neu: дли́н­но
-shortform_plu: дли́н­ны
+shortform_masculine: дли́­нен
+shortform_feminine: длин­на́
+shortform_neutral: дли́н­но
+shortform_plural: дли́н­ны
 
 comparative: длин­не́е
 superlative: са́мый дли́н­ный

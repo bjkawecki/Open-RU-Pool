@@ -12,34 +12,34 @@ masculine_nominative: жи­во́й
 masculine_genitive: жи­во́­го
 masculine_dative: жи­во́­му
 masculine_accusative: жи­во́й
-masculine_ins: жи­вы́м
-masculine_pre: жи­во́м
+masculine_instrumental: жи­вы́м
+masculine_prepositive: жи­во́м
 
 feminine_nominative: жи­ва́я
 feminine_genitive: жи­во́й
 feminine_dative: жи­во́й
 feminine_accusative: жи­ву́ю
-feminine_ins: жи­во́й
-feminine_pre: жи­во́й
+feminine_instrumental: жи­во́й
+feminine_prepositive: жи­во́й
 
 neutral_nominative: жи­во́е
 neutral_genitive: жи­во́­го
 neutral_dative: жи­во́­му
 neutral_accusative: жи­во́е
-neutral_ins: жи­вы́м
-neutral_pre: жи­во́м
+neutral_instrumental: жи­вы́м
+neutral_prepositive: жи­во́м
 
 plural_nominative: жи­вы́е
 plural_genitive: жи­вы́х
 plural_dative: жи­вы́м
 plural_accusative: жи­вы́е
-plural_ins: жи­вы́­ми
-plural_pre: жи­вы́х
+plural_instrumental: жи­вы́­ми
+plural_prepositive: жи­вы́х
 
-shortform_mas: жив
-shortform_fem: жи­ва́
-shortform_neu: жи́­во
-shortform_plu: жи́­вы
+shortform_masculine: жив
+shortform_feminine: жи­ва́
+shortform_neutral: жи́­во
+shortform_plural: жи́­вы
 
 comparative: жи­ве́е
 superlative: са́мый живо́й

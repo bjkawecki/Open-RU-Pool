@@ -6,29 +6,29 @@ translation:
 
 genus: feminine
 
-dec_cls: "1"
+declination_class: "1"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: боль­ни́­ца
 singular_genitive: боль­ни́­цы
 singular_dative: боль­ни́­це
 singular_accusative: боль­ни́­цу
-singular_ins: боль­ни́­цей
-singular_pre: боль­ни́­це
+singular_instrumental: боль­ни́­цей
+singular_prepositive: боль­ни́­це
 
 plural_nominative: боль­ни́­цы
 plural_genitive: боль­ни́ц
 plural_dative: боль­ни́­цам
 plural_accusative: боль­ни́­цы
-plural_ins: боль­ни́­ца­ми
-plural_pre: боль­ни́­цах
+plural_instrumental: боль­ни́­ца­ми
+plural_prepositive: боль­ни́­цах
 
 partitive: null
 locative: null

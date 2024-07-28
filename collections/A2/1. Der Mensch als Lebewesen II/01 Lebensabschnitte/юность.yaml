@@ -8,29 +8,29 @@ translation:
 
 genus: feminine
 
-dec_cls: "3"
+declination_class: "3"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: ю́н­ость
 singular_genitive: ю́н­ос­ти
 singular_dative: ю́н­ос­ти
 singular_accusative: ю́н­ость
-singular_ins: ю́н­остью
-singular_pre: ю́н­ос­ти
+singular_instrumental: ю́н­остью
+singular_prepositive: ю́н­ос­ти
 
 plural_nominative: ю́н­ос­ти
 plural_genitive: ю́н­ос­тей
 plural_dative: ю́н­ос­тям
 plural_accusative: ю́н­ос­ти
-plural_ins: ю́н­ос­тя­ми
-plural_pre: ю́н­ос­тях
+plural_instrumental: ю́н­ос­тя­ми
+plural_prepositive: ю́н­ос­тях
 
 partitive: null
 locative: null

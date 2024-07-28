@@ -4,25 +4,25 @@ wordclass: substantive
 translation:
   - Seife
 genus: neutral
-dec_cls: "2"
+declination_class: "2"
 stress: shifting
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: мы́­ло
 singular_genitive: мы́­ла
 singular_dative: мы́­лу
 singular_accusative: мы́­ло
-singular_ins: мы́­лом
-singular_pre: мы́­ле
+singular_instrumental: мы́­лом
+singular_prepositive: мы́­ле
 
 plural_nominative: мы́­ла
 plural_genitive: мыл
 plural_dative: мы­ла́м
 plural_accusative: мы́­ла
-plural_ins: мы­ла́­ми
-plural_pre: мы­ла́х
+plural_instrumental: мы­ла́­ми
+plural_prepositive: мы­ла́х
 
 partitive: null
 locative: null

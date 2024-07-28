@@ -4,23 +4,23 @@ wordclass: substantive
 translation:
   - Garten
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: shifting
 is_animate: null
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: сад
 singular_genitive: са́­да
 singular_dative: са́­ду
 singular_accusative: сад
-singular_ins: са́­дом
-singular_pre: са́­де
+singular_instrumental: са́­дом
+singular_prepositive: са́­де
 plural_nominative: са­ды́
 plural_genitive: са­до́в
 plural_dative: са­да́м
 plural_accusative: са­ды́
-plural_ins: са­да́­ми
-plural_pre: са­да́х
+plural_instrumental: са­да́­ми
+plural_prepositive: са­да́х
 partitive: null
 locative: в са­ду́
 comment: null

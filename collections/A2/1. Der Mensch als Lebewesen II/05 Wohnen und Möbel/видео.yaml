@@ -5,25 +5,25 @@ translation:
   - Video
 
 genus: neutral
-dec_cls: none
+declination_class: none
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ви́део
 singular_genitive: ви́део
 singular_dative: ви́део
 singular_accusative: ви́део
-singular_ins: ви́део
-singular_pre: ви́део
+singular_instrumental: ви́део
+singular_prepositive: ви́део
 
 plural_nominative: ви́део
 plural_genitive: ви́део
 plural_dative: ви́део
 plural_accusative: ви́део
-plural_ins: ви́део
-plural_pre: ви́део
+plural_instrumental: ви́део
+plural_prepositive: ви́део
 
 partitive: null
 locative: null

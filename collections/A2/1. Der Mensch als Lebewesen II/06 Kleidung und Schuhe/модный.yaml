@@ -12,34 +12,34 @@ masculine_nominative: мо́д­ный
 masculine_genitive: мо́д­но­го
 masculine_dative: мо́д­но­му
 masculine_accusative: мо́д­ный
-masculine_ins: мо́д­ным
-masculine_pre: мо́д­ном
+masculine_instrumental: мо́д­ным
+masculine_prepositive: мо́д­ном
 
 feminine_nominative: мо́д­ная
 feminine_genitive: мо́д­ной
 feminine_dative: мо́д­ной
 feminine_accusative: мо́д­ную
-feminine_ins: мо́д­ной
-feminine_pre: мо́д­ной
+feminine_instrumental: мо́д­ной
+feminine_prepositive: мо́д­ной
 
 neutral_nominative: мо́д­ное
 neutral_genitive: мо́д­но­го
 neutral_dative: мо́д­но­му
 neutral_accusative: мо́д­ное
-neutral_ins: мо́д­ным
-neutral_pre: мо́д­ном
+neutral_instrumental: мо́д­ным
+neutral_prepositive: мо́д­ном
 
 plural_nominative: мо́д­ные
 plural_genitive: мо́д­ных
 plural_dative: мо́д­ным
 plural_accusative: мо́д­ные
-plural_ins: мо́д­ны­ми
-plural_pre: мо́д­ных
+plural_instrumental: мо́д­ны­ми
+plural_prepositive: мо́д­ных
 
-shortform_mas: мо́­ден
-shortform_fem: мо́д­на
-shortform_neu: мо́д­но
-shortform_plu: мо́д­ны
+shortform_masculine: мо́­ден
+shortform_feminine: мо́д­на
+shortform_neutral: мо́д­но
+shortform_plural: мо́д­ны
 
 comparative: мод­не́е
 superlative:

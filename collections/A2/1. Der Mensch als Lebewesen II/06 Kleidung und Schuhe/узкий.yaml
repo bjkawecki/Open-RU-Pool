@@ -11,34 +11,34 @@ masculine_nominative: у́з­кий
 masculine_genitive: у́з­ко­го
 masculine_dative: у́з­ко­му
 masculine_accusative: у́з­кий
-masculine_ins: у́з­ким
-masculine_pre: у́з­ком
+masculine_instrumental: у́з­ким
+masculine_prepositive: у́з­ком
 
 feminine_nominative: у́з­кая
 feminine_genitive: у́з­кой
 feminine_dative: у́з­кой
 feminine_accusative: у́з­кую
-feminine_ins: у́з­кой
-feminine_pre: у́з­кой
+feminine_instrumental: у́з­кой
+feminine_prepositive: у́з­кой
 
 neutral_nominative: у́з­кое
 neutral_genitive: у́з­ко­го
 neutral_dative: у́з­ко­му
 neutral_accusative: у́з­кое
-neutral_ins: у́з­ким
-neutral_pre: у́з­ком
+neutral_instrumental: у́з­ким
+neutral_prepositive: у́з­ком
 
 plural_nominative: у́з­кие
 plural_genitive: у́з­ких
 plural_dative: у́з­ким
 plural_accusative: у́з­кие
-plural_ins: у́з­ки­ми
-plural_pre: у́з­ких
+plural_instrumental: у́з­ки­ми
+plural_prepositive: у́з­ких
 
-shortform_mas: у́з­ок
-shortform_fem: уз­ка́
-shortform_neu: у́з­ко
-shortform_plu: у́з­ки
+shortform_masculine: у́з­ок
+shortform_feminine: уз­ка́
+shortform_neutral: у́з­ко
+shortform_plural: у́з­ки
 
 comparative: у́же
 superlative:

@@ -5,25 +5,25 @@ translation:
   - Rock
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ю́б­ка
 singular_genitive: ю́б­ки
 singular_dative: ю́б­ке
 singular_accusative: ю́б­ку
-singular_ins: ю́б­кой
-singular_pre: ю́б­ке
+singular_instrumental: ю́б­кой
+singular_prepositive: ю́б­ке
 
 plural_nominative: ю́б­ки
 plural_genitive: ю́б­ок
 plural_dative: ю́б­кам
 plural_accusative: ю́б­ки
-plural_ins: ю́б­ка­ми
-plural_pre: ю́б­ках
+plural_instrumental: ю́б­ка­ми
+plural_prepositive: ю́б­ках
 
 partitive: null
 locative: null

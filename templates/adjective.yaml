@@ -8,34 +8,34 @@ masculine_nominative:
 masculine_genitive:
 masculine_dative:
 masculine_accusative:
-masculine_ins:
-masculine_pre:
+masculine_instrumental:
+masculine_prepositive:
 
 feminine_nominative:
 feminine_genitive:
 feminine_dative:
 feminine_accusative:
-feminine_ins:
-feminine_pre:
+feminine_instrumental:
+feminine_prepositive:
 
 neutral_nominative:
 neutral_genitive:
 neutral_dative:
 neutral_accusative:
-neutral_ins:
-neutral_pre:
+neutral_instrumental:
+neutral_prepositive:
 
 plural_nominative:
 plural_genitive:
 plural_dative:
 plural_accusative:
-plural_ins:
-plural_pre:
+plural_instrumental:
+plural_prepositive:
 
-shortform_mas:
-shortform_fem:
-shortform_neu:
-shortform_plu:
+shortform_masculine:
+shortform_feminine:
+shortform_neutral:
+shortform_plural:
 
 comparative:
 superlative:

@@ -3,8 +3,8 @@ name_accent: о
 wordclass: preposition
 translation:
   - über
-prep_type: modal
-prep_case: prepositive
+preposition_type: modal
+preposition_case: prepositive
 comment: Aus 'о' wird 'об' oder 'о́бо', um bestimmte Konsonantenhäufungen zu vermeiden.
 usage: null
 etymology: null

@@ -5,25 +5,25 @@ translation:
   - Wodka
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: во́д­ка
 singular_genitive: во́д­ки
 singular_dative: во́д­ке
 singular_accusative: во́д­ку
-singular_ins: во́д­кой
-singular_pre: во́д­ке
+singular_instrumental: во́д­кой
+singular_prepositive: во́д­ке
 
 plural_nominative: во́д­ки
 plural_genitive: во́­док
 plural_dative: во́д­кам
 plural_accusative: во́д­ки
-plural_ins: во́д­ка­ми
-plural_pre: во́д­ках
+plural_instrumental: во́д­ка­ми
+plural_prepositive: во́д­ках
 
 partitive: null
 locative: null

@@ -6,23 +6,23 @@ translation:
   - 24 Stunden
   - Tag und Nacht
 genus: none
-dec_cls: irregular
+declination_class: irregular
 stress: root
 is_animate: null
-is_singular_tan: null
-is_plural_tan: true
+is_singular_tantum: null
+is_plural_tantum: true
 singular_nominative: null
 singular_genitive: null
 singular_dative: null
 singular_accusative: null
-singular_ins: null
-singular_pre: null
+singular_instrumental: null
+singular_prepositive: null
 plural_nominative: су́тки
 plural_genitive: су́­ток
 plural_dative: су́т­кам
 plural_accusative: су́т­ки
-plural_ins: су́т­ка­ми
-plural_pre: су́т­ках
+plural_instrumental: су́т­ка­ми
+plural_prepositive: су́т­ках
 partitive: null
 locative: null
 comment: null

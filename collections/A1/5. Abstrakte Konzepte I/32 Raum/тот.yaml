@@ -4,44 +4,44 @@ wordclass: pronoun
 translation:
   - jener
 
-pro_type: demonstrative
+pronoun_type: demonstrative
 
-dec_type: adjective
+declination_type: adjective
 
 masculine_nominative: тот
 masculine_genitive: то­го́
 masculine_dative: то­му́
 masculine_accusative: тот
-masculine_ins: тем
-masculine_pre: том
+masculine_instrumental: тем
+masculine_prepositive: том
 
 feminine_nominative: та
 feminine_genitive: той
 feminine_dative: той
 feminine_accusative: ту
-feminine_ins: то́й
-feminine_pre: той
+feminine_instrumental: то́й
+feminine_prepositive: той
 
 neutral_nominative: то
 neutral_genitive: то­го́
 neutral_dative: то­му́
 neutral_accusative: то
-neutral_ins: тем
-neutral_pre: том
+neutral_instrumental: тем
+neutral_prepositive: том
 
 singular_nominative:
 singular_genitive:
 singular_dative:
 singular_accusative:
-singular_ins:
-singular_pre:
+singular_instrumental:
+singular_prepositive:
 
 plural_nominative: те
 plural_genitive: тех
 plural_dative: тем
 plural_accusative: те
-plural_ins: те́­ми
-plural_pre: тех
+plural_instrumental: те́­ми
+plural_prepositive: тех
 
 comment: null
 usage: null

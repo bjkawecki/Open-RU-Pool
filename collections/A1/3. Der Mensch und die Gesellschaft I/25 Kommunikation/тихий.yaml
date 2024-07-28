@@ -10,34 +10,34 @@ masculine_nominative: ти́­хий
 masculine_genitive: ти́­хо­го
 masculine_dative: ти́­хо­му
 masculine_accusative: ти́­хий
-masculine_ins: ти́­хим
-masculine_pre: ти́­хом
+masculine_instrumental: ти́­хим
+masculine_prepositive: ти́­хом
 
 feminine_nominative: ти́­хая
 feminine_genitive: ти́­хой
 feminine_dative: ти́­хой
 feminine_accusative: ти́­хую
-feminine_ins: ти́­хой
-feminine_pre: ти́­хой
+feminine_instrumental: ти́­хой
+feminine_prepositive: ти́­хой
 
 neutral_nominative: ти́­хое
 neutral_genitive: ти́­хо­го
 neutral_dative: ти́­хо­му
 neutral_accusative: ти́­хое
-neutral_ins: ти́­хим
-neutral_pre: ти́­хом
+neutral_instrumental: ти́­хим
+neutral_prepositive: ти́­хом
 
 plural_nominative: ти́­хие
 plural_genitive: ти́­хих
 plural_dative: ти́­хим
 plural_accusative: ти́­хие
-plural_ins: ти́­хи­ми
-plural_pre: ти́­хих
+plural_instrumental: ти́­хи­ми
+plural_prepositive: ти́­хих
 
-shortform_mas: тих
-shortform_fem: ти­ха́
-shortform_neu: ти́­хо
-shortform_plu: ти́­хи
+shortform_masculine: тих
+shortform_feminine: ти­ха́
+shortform_neutral: ти́­хо
+shortform_plural: ти́­хи
 
 comparative: ти́­ше
 superlative: самый ти́­хий

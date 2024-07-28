@@ -6,29 +6,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: пред­ло́г
 singular_genitive: пред­ло́­га
 singular_dative: пред­ло́­гу
 singular_accusative: пред­ло́г
-singular_ins: пред­ло́­гом
-singular_pre: пред­ло́­ге
+singular_instrumental: пред­ло́­гом
+singular_prepositive: пред­ло́­ге
 
 plural_nominative: пред­ло́­га
 plural_genitive: пред­ло́­ги
 plural_dative: пред­ло́­гов
 plural_accusative: пред­ло́­га
-plural_ins: пред­ло́­га­ми
-plural_pre: пред­ло́­гах
+plural_instrumental: пред­ло́­га­ми
+plural_prepositive: пред­ло́­гах
 
 partitive: null
 locative: null

@@ -6,25 +6,25 @@ translation:
   - Leiter
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ле́ст­ни­ца
 singular_genitive: ле́ст­ни­цы
 singular_dative: ле́ст­ни­це
 singular_accusative: ле́ст­ни­ца
-singular_ins: ле́ст­ни­цей
-singular_pre: ле́ст­ни­це
+singular_instrumental: ле́ст­ни­цей
+singular_prepositive: ле́ст­ни­це
 
 plural_nominative: ле́ст­ни­цы
 plural_genitive: ле́ст­ниц
 plural_dative: ле́ст­ни­цам
 plural_accusative: ле́ст­ни­цы
-plural_ins: ле́ст­ни­ца­ми
-plural_pre: ле́ст­ни­цах
+plural_instrumental: ле́ст­ни­ца­ми
+plural_prepositive: ле́ст­ни­цах
 
 partitive: null
 locative: null

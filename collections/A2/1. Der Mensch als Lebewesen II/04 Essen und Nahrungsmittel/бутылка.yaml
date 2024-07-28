@@ -5,25 +5,25 @@ translation:
   - Flasche
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: бу­ты́л­ка
 singular_genitive: бу­ты́л­ки
 singular_dative: бу­ты́л­ке
 singular_accusative: бу­ты́л­ку
-singular_ins: бу­ты́л­кой
-singular_pre: бу­ты́л­ке
+singular_instrumental: бу­ты́л­кой
+singular_prepositive: бу­ты́л­ке
 
 plural_nominative: бу­ты́л­ки
 plural_genitive: бу­ты́л­ок
 plural_dative: бу­ты́л­кам
 plural_accusative: бу­ты́л­ки
-plural_ins: бу­ты́л­ка­ми
-plural_pre: бу­ты́л­ках
+plural_instrumental: бу­ты́л­ка­ми
+plural_prepositive: бу­ты́л­ках
 
 partitive: null
 locative: null

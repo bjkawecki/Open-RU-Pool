@@ -12,34 +12,34 @@ masculine_nominative: ни́з­кий
 masculine_genitive: ни́з­ко­го
 masculine_dative: ни́з­ко­му
 masculine_accusative: ни́з­кий
-masculine_ins: ни́з­ким
-masculine_pre: ни́з­ком
+masculine_instrumental: ни́з­ким
+masculine_prepositive: ни́з­ком
 
 feminine_nominative: ни́з­кая
 feminine_genitive: ни́з­кой
 feminine_dative: ни́з­кой
 feminine_accusative: ни́з­кую
-feminine_ins: ни́з­кой
-feminine_pre: ни́з­кой
+feminine_instrumental: ни́з­кой
+feminine_prepositive: ни́з­кой
 
 neutral_nominative: ни́з­кое
 neutral_genitive: ни́з­ко­го
 neutral_dative: ни́з­ко­му
 neutral_accusative: ни́з­кое
-neutral_ins: ни́з­ким
-neutral_pre: ни́з­ком
+neutral_instrumental: ни́з­ким
+neutral_prepositive: ни́з­ком
 
 plural_nominative: ни́з­кие
 plural_genitive: ни́з­ких
 plural_dative: ни́з­ким
 plural_accusative: ни́з­кие
-plural_ins: ни́з­ки­ми
-plural_pre: ни́з­ких
+plural_instrumental: ни́з­ки­ми
+plural_prepositive: ни́з­ких
 
-shortform_mas: ни́­зок
-shortform_fem: низ­ка́
-shortform_neu: ни́з­ко
-shortform_plu: ни́з­ки
+shortform_masculine: ни́­зок
+shortform_feminine: низ­ка́
+shortform_neutral: ни́з­ко
+shortform_plural: ни́з­ки
 
 comparative: ни́­же
 superlative: са́мый ни́з­кий

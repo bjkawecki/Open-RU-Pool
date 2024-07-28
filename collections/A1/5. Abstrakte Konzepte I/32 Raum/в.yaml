@@ -3,8 +3,8 @@ name_accent: в
 wordclass: preposition
 translation:
   - in
-prep_type: directional
-prep_case: accusative
+preposition_type: directional
+preposition_case: accusative
 comment: Aus 'в' wird 'во', um bestimmte Konsonantenhäufungen zu vermeiden.
 usage: null
 etymology: null

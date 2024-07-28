@@ -4,23 +4,23 @@ name_accent: год
 translation:
   - Jahr
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: shifting
 is_animate: null
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: год
 singular_genitive: го́­да
 singular_dative: го́­ду
 singular_accusative: год
-singular_ins: го́­дом
-singular_pre: го́­де
+singular_instrumental: го́­дом
+singular_prepositive: го́­де
 plural_nominative: го́­ды
 plural_genitive: лет, го­до́в
 plural_dative: го­да́м
 plural_accusative: го́­ды
-plural_ins: го­да́­ми
-plural_pre: го­да́х
+plural_instrumental: го­да́­ми
+plural_prepositive: го­да́х
 partitive: null
 locative: в го­ду́
 comment: null

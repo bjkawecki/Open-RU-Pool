@@ -5,25 +5,25 @@ translation:
   - Mantel
 
 genus: neutral
-dec_cls: none
+declination_class: none
 stress: suffix
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: пальто́
 singular_genitive: пальто́
 singular_dative: пальто́
 singular_accusative: пальто́
-singular_ins: пальто́
-singular_pre: пальто́
+singular_instrumental: пальто́
+singular_prepositive: пальто́
 
 plural_nominative: пальто́
 plural_genitive: пальто́
 plural_dative: пальто́
 plural_accusative: пальто́
-plural_ins: пальто́
-plural_pre: пальто́
+plural_instrumental: пальто́
+plural_prepositive: пальто́
 
 partitive: null
 locative: null

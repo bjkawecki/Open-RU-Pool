@@ -6,29 +6,29 @@ translation:
 
 genus: feminine
 
-dec_cls: "1"
+declination_class: "1"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: то́ч­ка
 singular_genitive: то́ч­ки
 singular_dative: то́ч­ке
 singular_accusative: то́ч­ку
-singular_ins: то́ч­кой
-singular_pre: то́ч­ке
+singular_instrumental: то́ч­кой
+singular_prepositive: то́ч­ке
 
 plural_nominative: то́ч­ки
 plural_genitive: то́­чек
 plural_dative: то́ч­кам
 plural_accusative: то́ч­ки
-plural_ins: то́ч­ка­ми
-plural_pre: то́ч­ках
+plural_instrumental: то́ч­ка­ми
+plural_prepositive: то́ч­ках
 
 partitive: null
 locative: null

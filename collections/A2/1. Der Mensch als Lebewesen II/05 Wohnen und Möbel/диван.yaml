@@ -5,25 +5,25 @@ translation:
   - Sofa
   - Diwan
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ди­ва́н
 singular_genitive: ди­ва́­на
 singular_dative: ди­ва́­ну
 singular_accusative: ди­ва́н
-singular_ins: ди­ва́н­ом
-singular_pre: ди­ва́­не
+singular_instrumental: ди­ва́н­ом
+singular_prepositive: ди­ва́­не
 
 plural_nominative: ди­ва́­ны
 plural_genitive: ди­ва́н­ов
 plural_dative: ди­ва́н­ам
 plural_accusative: ди­ва́­ны
-plural_ins: ди­ва́­на­ми
-plural_pre: ди­ва́н­ах
+plural_instrumental: ди­ва́­на­ми
+plural_prepositive: ди­ва́н­ах
 
 partitive: null
 locative: null

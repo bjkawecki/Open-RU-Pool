@@ -5,25 +5,25 @@ translation:
   - Dusche
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: душ
 singular_genitive: ду́­ша
 singular_dative: ду́­шу
 singular_accusative: душ
-singular_ins: ду́­шем
-singular_pre: ду́­ше
+singular_instrumental: ду́­шем
+singular_prepositive: ду́­ше
 
 plural_nominative: ду́­ши
 plural_genitive: ду́­шей
 plural_dative: ду́­шам
 plural_accusative: ду́­ши
-plural_ins: ду́­ша­ми
-plural_pre: ду́­шах
+plural_instrumental: ду́­ша­ми
+plural_prepositive: ду́­шах
 
 partitive: null
 locative: null

@@ -12,34 +12,34 @@ masculine_nominative: до­ма́ш­ний
 masculine_genitive: до­ма́ш­не­го
 masculine_dative: до­ма́ш­не­му
 masculine_accusative: до­ма́ш­ний
-masculine_ins: до­ма́ш­ним
-masculine_pre: до­ма́ш­нем
+masculine_instrumental: до­ма́ш­ним
+masculine_prepositive: до­ма́ш­нем
 
 feminine_nominative: до­ма́ш­няя
 feminine_genitive: до­ма́ш­ней
 feminine_dative: до­ма́ш­ней
 feminine_accusative: до­ма́ш­нюю
-feminine_ins: до­ма́ш­ней
-feminine_pre: до­ма́ш­ней
+feminine_instrumental: до­ма́ш­ней
+feminine_prepositive: до­ма́ш­ней
 
 neutral_nominative: до­ма́ш­нее
 neutral_genitive: до­ма́ш­не­го
 neutral_dative: до­ма́ш­не­му
 neutral_accusative: до­ма́ш­нее
-neutral_ins: до­ма́ш­ним
-neutral_pre: до­ма́ш­нем
+neutral_instrumental: до­ма́ш­ним
+neutral_prepositive: до­ма́ш­нем
 
 plural_nominative: до­ма́ш­ние
 plural_genitive: до­ма́ш­них
 plural_dative: до­ма́ш­ним
 plural_accusative: до­ма́ш­ние
-plural_ins: до­ма́ш­ни­ми
-plural_pre: до­ма́ш­них
+plural_instrumental: до­ма́ш­ни­ми
+plural_prepositive: до­ма́ш­них
 
-shortform_mas: до­ма́ш­ен
-shortform_fem: до­ма́ш­ня
-shortform_neu: до­ма́ш­не
-shortform_plu: до­ма́ш­ни
+shortform_masculine: до­ма́ш­ен
+shortform_feminine: до­ма́ш­ня
+shortform_neutral: до­ма́ш­не
+shortform_plural: до­ма́ш­ни
 
 comparative: до­ма́ш­нее
 superlative:

@@ -4,23 +4,23 @@ name_accent: учи́тельница
 translation:
   - Lehrerin
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: учи́тельница
 singular_genitive: учи́­тель­ни­цы
 singular_dative: учи́­тель­ни­це
 singular_accusative: учи́­тель­ни­цу
-singular_ins: учи́­тель­ни­цей
-singular_pre: учи́­тель­ни­це
+singular_instrumental: учи́­тель­ни­цей
+singular_prepositive: учи́­тель­ни­це
 plural_nominative: учи́­тель­ни­цы
 plural_genitive: учи́­тель­ниц
 plural_dative: учи́­тель­ни­цам
 plural_accusative: учи́­тель­ниц
-plural_ins: учи́­тель­ни­ца­ми
-plural_pre: учи́­тель­ни­цах
+plural_instrumental: учи́­тель­ни­ца­ми
+plural_prepositive: учи́­тель­ни­цах
 partitive: null
 locative: null
 comment: in der Schule

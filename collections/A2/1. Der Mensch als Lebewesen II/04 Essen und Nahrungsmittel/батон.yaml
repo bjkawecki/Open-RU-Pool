@@ -5,25 +5,25 @@ translation:
   - Weißbrot
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ба­то́н
 singular_genitive: ба­то́­на
 singular_dative: ба­то́­ну
 singular_accusative: ба­то́н
-singular_ins: ба­то́н­ом
-singular_pre: ба­то́­не
+singular_instrumental: ба­то́н­ом
+singular_prepositive: ба­то́­не
 
 plural_nominative: ба­то́­ны
 plural_genitive: ба­то́н­ов
 plural_dative: ба­то́н­ам
 plural_accusative: ба­то́­ны
-plural_ins: ба­то́­на­ми
-plural_pre: ба­то́н­ах
+plural_instrumental: ба­то́­на­ми
+plural_prepositive: ба­то́н­ах
 
 partitive: null
 locative: null

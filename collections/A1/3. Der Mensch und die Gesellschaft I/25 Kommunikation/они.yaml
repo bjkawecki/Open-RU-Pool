@@ -4,44 +4,44 @@ wordclass: pronoun
 translation:
   - sie
 
-pro_type: personal
+pronoun_type: personal
 
-dec_type: substantive
+declination_type: substantive
 
 masculine_nominative:
 masculine_genitive:
 masculine_dative:
 masculine_accusative:
-masculine_ins:
-masculine_pre:
+masculine_instrumental:
+masculine_prepositive:
 
 feminine_nominative:
 feminine_genitive:
 feminine_dative:
 feminine_accusative:
-feminine_ins:
-feminine_pre:
+feminine_instrumental:
+feminine_prepositive:
 
 neutral_nominative:
 neutral_genitive:
 neutral_dative:
 neutral_accusative:
-neutral_ins:
-neutral_pre:
+neutral_instrumental:
+neutral_prepositive:
 
 singular_nominative:
 singular_genitive:
 singular_dative:
 singular_accusative:
-singular_ins:
-singular_pre:
+singular_instrumental:
+singular_prepositive:
 
 plural_nominative: они́
 plural_genitive: их, от ни́х
 plural_dative: им, к ним
 plural_accusative: их, про ни́х
-plural_ins: и́ми, с ни́­ми
-plural_pre: о ни́х
+plural_instrumental: и́ми, с ни́­ми
+plural_prepositive: о ни́х
 
 comment: null
 usage: null

@@ -5,25 +5,25 @@ translation:
   - Lebensmittel
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: true
+is_singular_tantum: null
+is_plural_tantum: true
 
 singular_nominative: null
 singular_genitive: null
 singular_dative: null
 singular_accusative: null
-singular_ins: null
-singular_pre: null
+singular_instrumental: null
+singular_prepositive: null
 
 plural_nominative: про­ду́к­ты
 plural_genitive: про­ду́к­тов
 plural_dative: про­ду́к­там
 plural_accusative: про­ду́к­ты
-plural_ins: про­ду́к­та­ми
-plural_pre: про­ду́к­тах
+plural_instrumental: про­ду́к­та­ми
+plural_prepositive: про­ду́к­тах
 
 partitive: null
 locative: null

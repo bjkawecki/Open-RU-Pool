@@ -4,23 +4,23 @@ name_accent: дом
 translation:
   - Haus
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: shifting
 is_animate: null
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: дом
 singular_genitive: до́­ма
 singular_dative: до́­му
 singular_accusative: дом
-singular_ins: до́­мом
-singular_pre: до́­ме
+singular_instrumental: до́­мом
+singular_prepositive: до́­ме
 plural_nominative: до­ма́
 plural_genitive: до­мо́в
 plural_dative: до­ма́м
 plural_accusative: до­ма́
-plural_ins: до­ма́­ми
-plural_pre: до­ма́х
+plural_instrumental: до­ма́­ми
+plural_prepositive: до­ма́х
 partitive: null
 locative: в до­му́
 comment: null

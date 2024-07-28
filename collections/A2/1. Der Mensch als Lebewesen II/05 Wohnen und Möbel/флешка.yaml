@@ -4,25 +4,25 @@ wordclass: substantive
 translation:
   - USB-Speicherstick
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: фле́ш­ка
 singular_genitive: фле́ш­ки
 singular_dative: фле́ш­ке
 singular_accusative: фле́ш­ку
-singular_ins: фле́ш­кой
-singular_pre: фле́ш­ке
+singular_instrumental: фле́ш­кой
+singular_prepositive: фле́ш­ке
 
 plural_nominative: фле́ш­ки
 plural_genitive: фле́­шек
 plural_dative: фле́ш­кам
 plural_accusative: фле́ш­ки
-plural_ins: фле́ш­ка­ми
-plural_pre: фле́ш­ках
+plural_instrumental: фле́ш­ка­ми
+plural_prepositive: фле́ш­ках
 
 partitive: null
 locative: null

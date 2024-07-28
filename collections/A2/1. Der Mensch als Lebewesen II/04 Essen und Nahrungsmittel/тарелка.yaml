@@ -5,25 +5,25 @@ translation:
   - Teller
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: та­ре́л­ка
 singular_genitive: та­ре́л­ки
 singular_dative: та­ре́л­ке
 singular_accusative: та­ре́л­ку
-singular_ins: та­ре́л­кой
-singular_pre: та­ре́л­ке
+singular_instrumental: та­ре́л­кой
+singular_prepositive: та­ре́л­ке
 
 plural_nominative: та­ре́л­ки
 plural_genitive: та­ре́л­ок
 plural_dative: та­ре́л­кам
 plural_accusative: та­ре́л­ки
-plural_ins: та­ре́л­ка­ми
-plural_pre: та­ре́л­ках
+plural_instrumental: та­ре́л­ка­ми
+plural_prepositive: та­ре́л­ках
 
 partitive: null
 locative: null

@@ -5,44 +5,44 @@ translation:
   - alle
   - ganzer
 
-pro_type: indefinite
+pronoun_type: indefinite
 
-dec_type: adjective
+declination_type: adjective
 
 masculine_nominative: весь
 masculine_genitive: все­го́
 masculine_dative: все­му́
 masculine_accusative: весь
-masculine_ins: всем
-masculine_pre: всём
+masculine_instrumental: всем
+masculine_prepositive: всём
 
 feminine_nominative: вся
 feminine_genitive: всей
 feminine_dative: всей
 feminine_accusative: всю
-feminine_ins: все́й
-feminine_pre: всей
+feminine_instrumental: все́й
+feminine_prepositive: всей
 
 neutral_nominative: всё
 neutral_genitive: все­го́
 neutral_dative: все­му́
 neutral_accusative: всё
-neutral_ins: всем
-neutral_pre: всём
+neutral_instrumental: всем
+neutral_prepositive: всём
 
 singular_nominative: null
 singular_genitive: null
 singular_dative: null
 singular_accusative: null
-singular_ins: null
-singular_pre: null
+singular_instrumental: null
+singular_prepositive: null
 
 plural_nominative: все
 plural_genitive: всех
 plural_dative: всем
 plural_accusative: все
-plural_ins: все́­ми
-plural_pre: всех
+plural_instrumental: все́­ми
+plural_prepositive: всех
 
 comment: null
 

@@ -10,34 +10,34 @@ masculine_nominative: спор­ти́­вный
 masculine_genitive: спор­ти́­вно­го
 masculine_dative: спор­ти́­вно­му
 masculine_accusative: спор­ти́­вный
-masculine_ins: спор­ти́­вным
-masculine_pre: спор­ти́­вном
+masculine_instrumental: спор­ти́­вным
+masculine_prepositive: спор­ти́­вном
 
 feminine_nominative: спор­ти́­вная
 feminine_genitive: спор­ти́­вной
 feminine_dative: спор­ти́­вной
 feminine_accusative: спор­ти́­вную
-feminine_ins: спор­ти́­вной
-feminine_pre: спор­ти́­вной
+feminine_instrumental: спор­ти́­вной
+feminine_prepositive: спор­ти́­вной
 
 neutral_nominative: спор­ти́­вное
 neutral_genitive: спор­ти́­вно­го
 neutral_dative: спор­ти́­вно­му
 neutral_accusative: спор­ти́­вное
-neutral_ins: спор­ти́­вным
-neutral_pre: спор­ти́­вном
+neutral_instrumental: спор­ти́­вным
+neutral_prepositive: спор­ти́­вном
 
 plural_nominative: спор­ти́­вные
 plural_genitive: спор­ти́­вных
 plural_dative: спор­ти́­вным
 plural_accusative: спор­ти́­вные
-plural_ins: спор­ти́­вны­ми
-plural_pre: спор­ти́­вных
+plural_instrumental: спор­ти́­вны­ми
+plural_prepositive: спор­ти́­вных
 
-shortform_mas: спор­ти́­вен
-shortform_fem: спор­ти́­вна
-shortform_neu: спор­ти́­вно
-shortform_plu: спор­ти́­вны
+shortform_masculine: спор­ти́­вен
+shortform_feminine: спор­ти́­вна
+shortform_neutral: спор­ти́­вно
+shortform_plural: спор­ти́­вны
 
 comparative: спор­ти́­внее
 superlative:

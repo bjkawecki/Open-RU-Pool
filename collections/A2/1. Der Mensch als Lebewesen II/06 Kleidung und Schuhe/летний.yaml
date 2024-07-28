@@ -11,34 +11,34 @@ masculine_nominative: ле́т­ний
 masculine_genitive: ле́т­не­го
 masculine_dative: ле́т­не­му
 masculine_accusative: ле́т­ний
-masculine_ins: ле́т­ним
-masculine_pre: ле́т­нем
+masculine_instrumental: ле́т­ним
+masculine_prepositive: ле́т­нем
 
 feminine_nominative: ле́т­няя
 feminine_genitive: ле́т­ней
 feminine_dative: ле́т­ней
 feminine_accusative: ле́т­нюю
-feminine_ins: ле́т­ней
-feminine_pre: ле́т­ней
+feminine_instrumental: ле́т­ней
+feminine_prepositive: ле́т­ней
 
 neutral_nominative: ле́т­нее
 neutral_genitive: ле́т­не­го
 neutral_dative: ле́т­не­му
 neutral_accusative: ле́т­нее
-neutral_ins: ле́т­ним
-neutral_pre: ле́т­нем
+neutral_instrumental: ле́т­ним
+neutral_prepositive: ле́т­нем
 
 plural_nominative: ле́т­ние
 plural_genitive: ле́т­них
 plural_dative: ле́т­ним
 plural_accusative: ле́т­ние
-plural_ins: ле́т­ни­ми
-plural_pre: ле́т­них
+plural_instrumental: ле́т­ни­ми
+plural_prepositive: ле́т­них
 
-shortform_mas:
-shortform_fem:
-shortform_neu:
-shortform_plu:
+shortform_masculine:
+shortform_feminine:
+shortform_neutral:
+shortform_plural:
 
 comparative:
 superlative:

@@ -10,34 +10,34 @@ masculine_nominative: мо­лод­ёж­ный
 masculine_genitive: мо­лод­ёж­но­го
 masculine_dative: мо­лод­ёж­но­му
 masculine_accusative: мо­лод­ёж­ный
-masculine_ins: мо­лод­ёж­ным
-masculine_pre: мо­лод­ёж­ном
+masculine_instrumental: мо­лод­ёж­ным
+masculine_prepositive: мо­лод­ёж­ном
 
 feminine_nominative: мо­лод­ёж­ная
 feminine_genitive: мо­лод­ёж­ной
 feminine_dative: мо­лод­ёж­ной
 feminine_accusative: мо­лод­ёж­ную
-feminine_ins: мо­лод­ёж­ной
-feminine_pre: мо­лод­ёж­ной
+feminine_instrumental: мо­лод­ёж­ной
+feminine_prepositive: мо­лод­ёж­ной
 
 neutral_nominative: мо­лод­ёж­ное
 neutral_genitive: мо­лод­ёж­но­го
 neutral_dative: мо­лод­ёж­но­му
 neutral_accusative: мо­лод­ёж­ное
-neutral_ins: мо­лод­ёж­ным
-neutral_pre: мо­лод­ёж­ном
+neutral_instrumental: мо­лод­ёж­ным
+neutral_prepositive: мо­лод­ёж­ном
 
 plural_nominative: мо­лод­ёж­ные
 plural_genitive: мо­лод­ёж­ных
 plural_dative: мо­лод­ёж­ным
 plural_accusative: мо­лод­ёж­ные
-plural_ins: мо­лод­ёж­ны­ми
-plural_pre: мо­лод­ёж­ных
+plural_instrumental: мо­лод­ёж­ны­ми
+plural_prepositive: мо­лод­ёж­ных
 
-shortform_mas: мо­ло­дё­жен
-shortform_fem: мо­лод­ёж­на
-shortform_neu: мо­лод­ёж­но
-shortform_plu: мо­лод­ёж­ны
+shortform_masculine: мо­ло­дё­жен
+shortform_feminine: мо­лод­ёж­на
+shortform_neutral: мо­лод­ёж­но
+shortform_plural: мо­лод­ёж­ны
 
 comparative: мо­лод­ёж­нее
 superlative: са́мый мо­лод­ёж­ный

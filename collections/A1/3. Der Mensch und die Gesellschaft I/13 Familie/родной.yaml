@@ -11,34 +11,34 @@ masculine_nominative: род­но́й
 masculine_genitive: род­но́­го
 masculine_dative: род­но́­му
 masculine_accusative: род­но́й
-masculine_ins: род­ны́м
-masculine_pre: род­но́м
+masculine_instrumental: род­ны́м
+masculine_prepositive: род­но́м
 
 feminine_nominative: род­на́я
 feminine_genitive: род­но́й
 feminine_dative: род­но́й
 feminine_accusative: род­ну́ю
-feminine_ins: род­но́й
-feminine_pre: род­но́й
+feminine_instrumental: род­но́й
+feminine_prepositive: род­но́й
 
 neutral_nominative: род­но́е
 neutral_genitive: род­но́­го
 neutral_dative: род­но́­му
 neutral_accusative: род­но́е
-neutral_ins: род­ны́м
-neutral_pre: род­но́м
+neutral_instrumental: род­ны́м
+neutral_prepositive: род­но́м
 
 plural_nominative: род­ны́е
 plural_genitive: род­ны́х
 plural_dative: род­ны́м
 plural_accusative: род­ны́е
-plural_ins: род­ны́­ми
-plural_pre: род­ны́х
+plural_instrumental: род­ны́­ми
+plural_prepositive: род­ны́х
 
-shortform_mas: null
-shortform_fem: null
-shortform_neu: null
-shortform_plu: null
+shortform_masculine: null
+shortform_feminine: null
+shortform_neutral: null
+shortform_plural: null
 
 comparative: null
 superlative: null

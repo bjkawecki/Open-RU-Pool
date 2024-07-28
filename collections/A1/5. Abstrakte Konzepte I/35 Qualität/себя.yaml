@@ -3,44 +3,44 @@ name_accent: себя́
 wordclass: pronoun
 translation:
 
-pro_type: reflexive
+pronoun_type: reflexive
 
-dec_type: substantive
+declination_type: substantive
 
 masculine_nominative:
 masculine_genitive:
 masculine_dative:
 masculine_accusative:
-masculine_ins:
-masculine_pre:
+masculine_instrumental:
+masculine_prepositive:
 
 feminine_nominative:
 feminine_genitive:
 feminine_dative:
 feminine_accusative:
-feminine_ins:
-feminine_pre:
+feminine_instrumental:
+feminine_prepositive:
 
 neutral_nominative:
 neutral_genitive:
 neutral_dative:
 neutral_accusative:
-neutral_ins:
-neutral_pre:
+neutral_instrumental:
+neutral_prepositive:
 
 singular_nominative:
 singular_genitive: себя́
 singular_dative: се­бе́
 singular_accusative: се­бя́
-singular_ins: со­бо́й
-singular_pre: се­бе́
+singular_instrumental: со­бо́й
+singular_prepositive: се­бе́
 
 plural_nominative:
 plural_genitive:
 plural_dative:
 plural_accusative:
-plural_ins:
-plural_pre:
+plural_instrumental:
+plural_prepositive:
 
 comment: null
 usage: null

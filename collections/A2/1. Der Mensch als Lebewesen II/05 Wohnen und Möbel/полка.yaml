@@ -5,25 +5,25 @@ translation:
   - Regal
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: по́л­ка
 singular_genitive: по́л­ки
 singular_dative: по́л­ке
 singular_accusative: по́л­ку
-singular_ins: по́л­кой
-singular_pre: по́л­ке
+singular_instrumental: по́л­кой
+singular_prepositive: по́л­ке
 
 plural_nominative: по́л­ки
 plural_genitive: по́­лок
 plural_dative: по́л­кам
 plural_accusative: по́л­ки
-plural_ins: по́л­ка­ми
-plural_pre: по́л­ках
+plural_instrumental: по́л­ка­ми
+plural_prepositive: по́л­ках
 
 partitive: null
 locative: null

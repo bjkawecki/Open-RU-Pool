@@ -3,8 +3,8 @@ name_accent: с
 wordclass: preposition
 translation:
   - mit
-prep_type: modal
-prep_case: instrumental
+preposition_type: modal
+preposition_case: instrumental
 comment: null
 usage: null
 etymology: null

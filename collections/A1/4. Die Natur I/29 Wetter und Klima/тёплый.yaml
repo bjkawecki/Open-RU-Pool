@@ -10,34 +10,34 @@ masculine_nominative: тёп­лый
 masculine_genitive: тёп­ло­го
 masculine_dative: тёп­ло­му
 masculine_accusative: тёп­лый
-masculine_ins: тёп­лым
-masculine_pre: тёп­лом
+masculine_instrumental: тёп­лым
+masculine_prepositive: тёп­лом
 
 feminine_nominative: тёп­лая
 feminine_genitive: тёп­лой
 feminine_dative: тёп­лой
 feminine_accusative: тёп­лую
-feminine_ins: тёп­лой
-feminine_pre: тёп­лой
+feminine_instrumental: тёп­лой
+feminine_prepositive: тёп­лой
 
 neutral_nominative: тёп­лое
 neutral_genitive: тёп­ло­го
 neutral_dative: тёп­ло­му
 neutral_accusative: тёп­лое
-neutral_ins: тёп­лым
-neutral_pre: тёп­лом
+neutral_instrumental: тёп­лым
+neutral_prepositive: тёп­лом
 
 plural_nominative: тёп­лые
 plural_genitive: тёп­лых
 plural_dative: тёп­лым
 plural_accusative: тёп­лые
-plural_ins: тёп­лы­ми
-plural_pre: тёплых
+plural_instrumental: тёп­лы­ми
+plural_prepositive: тёплых
 
-shortform_mas: тё­пел
-shortform_fem: теп­ла́
-shortform_neu: теп­ло́
-shortform_plu: теп­лы́
+shortform_masculine: тё­пел
+shortform_feminine: теп­ла́
+shortform_neutral: теп­ло́
+shortform_plural: теп­лы́
 
 comparative: теп­ле́е
 superlative: самый тёплый

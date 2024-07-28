@@ -12,34 +12,34 @@ masculine_nominative: же́нс­кий
 masculine_genitive: же́нс­ко­го
 masculine_dative: же́нс­ко­му
 masculine_accusative: же́нс­кий
-masculine_ins: же́нс­ким
-masculine_pre: же́нс­ком
+masculine_instrumental: же́нс­ким
+masculine_prepositive: же́нс­ком
 
 feminine_nominative: же́нс­кая
 feminine_genitive: же́нс­кой
 feminine_dative: же́нс­кой
 feminine_accusative: же́нс­кую
-feminine_ins: же́нс­кой
-feminine_pre: же́нс­кой
+feminine_instrumental: же́нс­кой
+feminine_prepositive: же́нс­кой
 
 neutral_nominative: же́нс­кое
 neutral_genitive: же́нс­ко­го
 neutral_dative: же́нс­ко­му
 neutral_accusative: же́нс­кое
-neutral_ins: же́нс­ким
-neutral_pre: же́нс­ком
+neutral_instrumental: же́нс­ким
+neutral_prepositive: же́нс­ком
 
 plural_nominative: же́нс­кие
 plural_genitive: же́нс­ких
 plural_dative: же́нс­ким
 plural_accusative: же́нс­кие
-plural_ins: же́нс­ки­ми
-plural_pre: же́нс­ких
+plural_instrumental: же́нс­ки­ми
+plural_prepositive: же́нс­ких
 
-shortform_mas: null
-shortform_fem: null
-shortform_neu: null
-shortform_plu: null
+shortform_masculine: null
+shortform_feminine: null
+shortform_neutral: null
+shortform_plural: null
 
 comparative: null
 superlative: null

@@ -6,29 +6,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: лоб
 singular_genitive: лба
 singular_dative: лбу
 singular_accusative: лоб
-singular_ins: лбом
-singular_pre: лбе
+singular_instrumental: лбом
+singular_prepositive: лбе
 
 plural_nominative: лбы
 plural_genitive: лбов
 plural_dative: лбам
 plural_accusative: лбы
-plural_ins: лба́­ми
-plural_pre: лбах
+plural_instrumental: лба́­ми
+plural_prepositive: лбах
 
 partitive: null
 locative: null лбу

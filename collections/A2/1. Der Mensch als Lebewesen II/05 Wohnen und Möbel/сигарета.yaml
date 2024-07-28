@@ -5,25 +5,25 @@ translation:
   - Zigarette
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: си­га­ре́­та
 singular_genitive: си­га­ре́­ты
 singular_dative: си­га­ре́­те
 singular_accusative: си­га­ре́­ту
-singular_ins: си­га­ре́­той
-singular_pre: си­га­ре́­те
+singular_instrumental: си­га­ре́­той
+singular_prepositive: си­га­ре́­те
 
 plural_nominative: си­га­ре́­ты
 plural_genitive: си­гар­е́т
 plural_dative: си­га­ре́­там
 plural_accusative: си­га­ре́­ты
-plural_ins: си­га­ре́­та­ми
-plural_pre: си­га­ре́­тах
+plural_instrumental: си­га­ре́­та­ми
+plural_prepositive: си­га­ре́­тах
 
 partitive: null
 locative: null

@@ -7,29 +7,29 @@ translation:
 
 genus: neutral
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: уда­ре́­ние
 singular_genitive: уда­ре́­ния
 singular_dative: уда­ре́­нию
 singular_accusative: уда­ре́­ние
-singular_ins: уда­ре́­ни­ем
-singular_pre: уда­ре́­нии
+singular_instrumental: уда­ре́­ни­ем
+singular_prepositive: уда­ре́­нии
 
 plural_nominative: уда­ре́­ния
 plural_genitive: уда­ре́­ний
 plural_dative: уда­ре́­ни­ям
 plural_accusative: уда­ре́­ния
-plural_ins: уда­ре́­ни­ями
-plural_pre: уда­ре́­ни­ях
+plural_instrumental: уда­ре́­ни­ями
+plural_prepositive: уда­ре́­ни­ях
 
 partitive: null
 locative: null

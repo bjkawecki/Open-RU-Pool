@@ -4,23 +4,23 @@ name_accent: снег
 translation:
   - Schnee
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: shifting
 is_animate: null
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: снег
 singular_genitive: сне́­га
 singular_dative: сне́­гу
 singular_accusative: снег
-singular_ins: сне́­гом
-singular_pre: сне́­ге
+singular_instrumental: сне́­гом
+singular_prepositive: сне́­ге
 plural_nominative: сне­га́
 plural_genitive: сне­го́в
 plural_dative: сне­га́м
 plural_accusative: сне­га́
-plural_ins: сне­га́­ми
-plural_pre: сне­га́х
+plural_instrumental: сне­га́­ми
+plural_prepositive: сне­га́х
 partitive: сне́­гу
 locative: в/на сне­гу́
 comment: null

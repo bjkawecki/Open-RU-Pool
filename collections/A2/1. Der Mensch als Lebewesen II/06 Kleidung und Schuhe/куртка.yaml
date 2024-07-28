@@ -5,26 +5,26 @@ translation:
   - Jacke
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ку́рт­ка
 singular_genitive: ку́рт­ки
 singular_dative: ку́рт­ке
 singular_accusative: ку́рт­ку
-singular_ins: ку́рт­кой
-singular_pre: ку́рт­ке
+singular_instrumental: ку́рт­кой
+singular_prepositive: ку́рт­ке
 
 plural_nominative: ку́рт­ки
 plural_genitive: ку́р­ток
 plural_dative: ку́рт­кам
 plural_accusative: ку́рт­ки
-plural_ins: ку́рт­ка­ми
-plural_pre: ку́рт­ках
+plural_instrumental: ку́рт­ка­ми
+plural_prepositive: ку́рт­ках
 
 partitive: null
 locative: null

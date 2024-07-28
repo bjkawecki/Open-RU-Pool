@@ -8,29 +8,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "1"
+declination_class: "1"
 
 stress: root
 
 is_animate: true
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: ю́но­ша
 singular_genitive: ю́но­ши
 singular_dative: ю́но­ше
 singular_accusative: ю́но­шу
-singular_ins: ю́но­шей
-singular_pre: ю́но­ше
+singular_instrumental: ю́но­шей
+singular_prepositive: ю́но­ше
 
 plural_nominative: ю́но­ши
 plural_genitive: ю́но­шей
 plural_dative: ю́но­шам
 plural_accusative: ю́но­шей
-plural_ins: ю́но­ша­ми
-plural_pre: ю́но­шах
+plural_instrumental: ю́но­ша­ми
+plural_prepositive: ю́но­шах
 
 partitive: null
 locative: null

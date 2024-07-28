@@ -10,34 +10,34 @@ masculine_nominative: жа́р­кий
 masculine_genitive: жа́р­ко­го
 masculine_dative: жа́р­ко­му
 masculine_accusative: жа́р­кий
-masculine_ins: жа́р­ким
-masculine_pre: жа́р­ком
+masculine_instrumental: жа́р­ким
+masculine_prepositive: жа́р­ком
 
 feminine_nominative: жа́р­кая
 feminine_genitive: жа́р­кой
 feminine_dative: жа́р­кой
 feminine_accusative: жа́р­кую
-feminine_ins: жа́р­кой
-feminine_pre: жа́р­кой
+feminine_instrumental: жа́р­кой
+feminine_prepositive: жа́р­кой
 
 neutral_nominative: жа́р­кое
 neutral_genitive: жа́р­ко­го
 neutral_dative: жа́р­ко­му
 neutral_accusative: жа́р­кое
-neutral_ins: жа́р­ким
-neutral_pre: жа́р­ком
+neutral_instrumental: жа́р­ким
+neutral_prepositive: жа́р­ком
 
 plural_nominative: жа́р­кие
 plural_genitive: жа́р­ких
 plural_dative: жа́р­ким
 plural_accusative: жа́р­кие
-plural_ins: жа́р­ки­ми
-plural_pre: жа́р­ких
+plural_instrumental: жа́р­ки­ми
+plural_prepositive: жа́р­ких
 
-shortform_mas: жа́­рок
-shortform_fem: жар­ка́
-shortform_neu: жа́р­ко
-shortform_plu: жа́р­ки
+shortform_masculine: жа́­рок
+shortform_feminine: жар­ка́
+shortform_neutral: жа́р­ко
+shortform_plural: жа́р­ки
 
 comparative: жа́р­че
 superlative: самый жаркий

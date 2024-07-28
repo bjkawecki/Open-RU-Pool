@@ -6,25 +6,25 @@ translation:
   - Regenschirm
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: зо́н­тик
 singular_genitive: зо́н­ти­ка
 singular_dative: зо́н­ти­ку
 singular_accusative: зо́н­тик
-singular_ins: зо́н­ти­ком
-singular_pre: зо́н­ти­ке
+singular_instrumental: зо́н­ти­ком
+singular_prepositive: зо́н­ти­ке
 
 plural_nominative: зо́н­ти­ки
 plural_genitive: зо́н­ти­ков
 plural_dative: зо́н­ти­кам
 plural_accusative: зо́н­ти­ки
-plural_ins: зо́н­ти­ка­ми
-plural_pre: зо́н­ти­ках
+plural_instrumental: зо́н­ти­ка­ми
+plural_prepositive: зо́н­ти­ках
 
 partitive: null
 locative: null

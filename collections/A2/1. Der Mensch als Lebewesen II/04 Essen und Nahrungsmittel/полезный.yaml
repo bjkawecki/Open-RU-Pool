@@ -12,34 +12,34 @@ masculine_nominative: по­ле́з­ный
 masculine_genitive: по­ле́з­но­го
 masculine_dative: по­ле́з­но­му
 masculine_accusative: по­ле́з­ный
-masculine_ins: по­ле́з­ным
-masculine_pre: по­ле́з­ном
+masculine_instrumental: по­ле́з­ным
+masculine_prepositive: по­ле́з­ном
 
 feminine_nominative: по­ле́з­ная
 feminine_genitive: по­ле́з­ной
 feminine_dative: по­ле́з­ной
 feminine_accusative: по­ле́з­ную
-feminine_ins: по­ле́з­ной
-feminine_pre: по­ле́з­ной
+feminine_instrumental: по­ле́з­ной
+feminine_prepositive: по­ле́з­ной
 
 neutral_nominative: по­ле́з­ное
 neutral_genitive: по­ле́з­но­го
 neutral_dative: по­ле́з­но­му
 neutral_accusative: по­ле́з­ное
-neutral_ins: по­ле́з­ным
-neutral_pre: по­ле́з­ном
+neutral_instrumental: по­ле́з­ным
+neutral_prepositive: по­ле́з­ном
 
 plural_nominative: по­ле́з­ные
 plural_genitive: по­ле́з­ных
 plural_dative: по­ле́з­ным
 plural_accusative: по­ле́з­ные
-plural_ins: по­ле́з­ны­ми
-plural_pre: по­ле́з­ных
+plural_instrumental: по­ле́з­ны­ми
+plural_prepositive: по­ле́з­ных
 
-shortform_mas: по­ле́з­ен
-shortform_fem: по­ле́з­на
-shortform_neu: по­ле́з­но
-shortform_plu: по­ле́з­ны
+shortform_masculine: по­ле́з­ен
+shortform_feminine: по­ле́з­на
+shortform_neutral: по­ле́з­но
+shortform_plural: по­ле́з­ны
 
 comparative: по­ле́з­нее
 superlative:

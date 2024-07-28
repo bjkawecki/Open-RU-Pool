@@ -7,25 +7,25 @@ translation:
   - Praline
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: кон­фе́­та
 singular_genitive: кон­фе́­ты
 singular_dative: кон­фе́­те
 singular_accusative: кон­фе́­ту
-singular_ins: кон­фе́­той
-singular_pre: кон­фе́­те
+singular_instrumental: кон­фе́­той
+singular_prepositive: кон­фе́­те
 
 plural_nominative: кон­фе́­ты
 plural_genitive: кон­фе́т
 plural_dative: кон­фе́­там
 plural_accusative: кон­фе́­ты
-plural_ins: кон­фе́­та­ми
-plural_pre: кон­фе́­тах
+plural_instrumental: кон­фе́­та­ми
+plural_prepositive: кон­фе́­тах
 
 partitive: null
 locative: null

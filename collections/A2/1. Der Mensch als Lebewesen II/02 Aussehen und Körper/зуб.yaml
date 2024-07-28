@@ -6,29 +6,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: shifting
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: зуб
 singular_genitive: зу́­ба
 singular_dative: зу́­бу
 singular_accusative: зуб
-singular_ins: зу́­бом
-singular_pre: зу́­бе
+singular_instrumental: зу́­бом
+singular_prepositive: зу́­бе
 
 plural_nominative: зу́­бы
 plural_genitive: зу­бо́в
 plural_dative: зу­ба́м
 plural_accusative: зу́­бы
-plural_ins: зу­ба́­ми
-plural_pre: зу­ба́х
+plural_instrumental: зу­ба́­ми
+plural_prepositive: зу­ба́х
 
 partitive: null
 locative: null

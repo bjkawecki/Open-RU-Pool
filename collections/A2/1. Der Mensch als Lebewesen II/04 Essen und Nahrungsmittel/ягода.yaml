@@ -4,25 +4,25 @@ wordclass: substantive
 translation:
   - Beere
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: я́го­да
 singular_genitive: я́го­ды
 singular_dative: я́го­де
 singular_accusative: я́го­ду
-singular_ins: я́го­дой
-singular_pre: я́го­де
+singular_instrumental: я́го­дой
+singular_prepositive: я́го­де
 
 plural_nominative: я́го­ды
 plural_genitive: я́г­од
 plural_dative: я́го­дам
 plural_accusative: я́го­ды
-plural_ins: я́го­да­ми
-plural_pre: я́го­дах
+plural_instrumental: я́го­да­ми
+plural_prepositive: я́го­дах
 
 partitive: null
 locative: null

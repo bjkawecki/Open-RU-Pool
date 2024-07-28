@@ -5,25 +5,25 @@ translation:
   - Brötchen
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: бу́­лоч­ка
 singular_genitive: бу́­лоч­ки
 singular_dative: бу́­лоч­ке
 singular_accusative: бу́­лоч­ку
-singular_ins: бу́­лоч­кой
-singular_pre: бу́­лоч­ке
+singular_instrumental: бу́­лоч­кой
+singular_prepositive: бу́­лоч­ке
 
 plural_nominative: бу́­лоч­ки
 plural_genitive: бу́­лоч­ек
 plural_dative: бу́­лоч­кам
 plural_accusative: бу́­лоч­ки
-plural_ins: бу́­лоч­ка­ми
-plural_pre: бу́­лоч­ках
+plural_instrumental: бу́­лоч­ка­ми
+plural_prepositive: бу́­лоч­ках
 
 partitive: null
 locative: null

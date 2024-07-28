@@ -7,29 +7,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: падёж
 singular_genitive: па­де­жа́
 singular_dative: па­де­жу́
 singular_accusative: па­дёж
-singular_ins: па­деж­о́м
-singular_pre: па­де­же́
+singular_instrumental: па­деж­о́м
+singular_prepositive: па­де­же́
 
 plural_nominative: па­де­жи́
 plural_genitive: па­де­же́й
 plural_dative: па­деж­а́м
 plural_accusative: па­де­жи́
-plural_ins: па­де­жа́­ми
-plural_pre: па­деж­а́х
+plural_instrumental: па­де­жа́­ми
+plural_prepositive: па­деж­а́х
 
 partitive: null
 locative: null

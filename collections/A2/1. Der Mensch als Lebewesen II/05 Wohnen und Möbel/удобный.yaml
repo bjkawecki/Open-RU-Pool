@@ -12,34 +12,34 @@ masculine_nominative: уд­о́б­ный
 masculine_genitive: уд­о́б­но­го
 masculine_dative: уд­о́б­но­му
 masculine_accusative: уд­о́б­ный
-masculine_ins: уд­о́б­ным
-masculine_pre: уд­о́б­ном
+masculine_instrumental: уд­о́б­ным
+masculine_prepositive: уд­о́б­ном
 
 feminine_nominative: уд­о́б­ная
 feminine_genitive: уд­о́б­ной
 feminine_dative: уд­о́б­ной
 feminine_accusative: уд­о́б­ную
-feminine_ins: уд­о́б­ной
-feminine_pre: уд­о́б­ной
+feminine_instrumental: уд­о́б­ной
+feminine_prepositive: уд­о́б­ной
 
 neutral_nominative: уд­о́б­ное
 neutral_genitive: уд­о́б­но­го
 neutral_dative: уд­о́б­но­му
 neutral_accusative: уд­о́б­ное
-neutral_ins: уд­о́б­ным
-neutral_pre: уд­о́б­ном
+neutral_instrumental: уд­о́б­ным
+neutral_prepositive: уд­о́б­ном
 
 plural_nominative: уд­о́б­ные
 plural_genitive: уд­о́б­ных
 plural_dative: уд­о́б­ным
 plural_accusative: уд­о́б­ные
-plural_ins: уд­о́б­ны­ми
-plural_pre: удобных
+plural_instrumental: уд­о́б­ны­ми
+plural_prepositive: удобных
 
-shortform_mas: удо́­бен
-shortform_fem: уд­о́б­на
-shortform_neu: уд­о́б­но
-shortform_plu: уд­о́б­ны
+shortform_masculine: удо́­бен
+shortform_feminine: уд­о́б­на
+shortform_neutral: уд­о́б­но
+shortform_plural: уд­о́б­ны
 
 comparative: уд­о́б­нее
 superlative:

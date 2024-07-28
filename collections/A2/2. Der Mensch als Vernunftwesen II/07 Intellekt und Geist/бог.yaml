@@ -4,25 +4,25 @@ wordclass: substantive
 translation:
   - Gott
 genus:
-dec_cls: "2"
+declination_class: "2"
 stress: shifting
 is_animate: true
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: бог
 singular_genitive: бо́­га
 singular_dative: бо́­гу
 singular_accusative: бо́­га
-singular_ins: бо́­гом
-singular_pre: бо́­ге
+singular_instrumental: бо́­гом
+singular_prepositive: бо́­ге
 
 plural_nominative: бо́­ги
 plural_genitive: бо­го́в
 plural_dative: бо­га́м
 plural_accusative: бо­го́в
-plural_ins: бо­га́­ми
-plural_pre: бо­га́х
+plural_instrumental: бо­га́­ми
+plural_prepositive: бо­га́х
 
 partitive: null
 locative: null

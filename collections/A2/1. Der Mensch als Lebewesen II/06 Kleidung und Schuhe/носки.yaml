@@ -5,25 +5,25 @@ translation:
   - Socke
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: suffix
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: носо́к
 singular_genitive: носка́
 singular_dative: носку́
 singular_accusative: носо́к
-singular_ins: носко́м
-singular_pre: носке́
+singular_instrumental: носко́м
+singular_prepositive: носке́
 
 plural_nominative: носки́
 plural_genitive: носко́в
 plural_dative: носка́м
 plural_accusative: носки́
-plural_ins: носка́ми
-plural_pre: носка́х
+plural_instrumental: носка́ми
+plural_prepositive: носка́х
 
 partitive: null
 locative: null

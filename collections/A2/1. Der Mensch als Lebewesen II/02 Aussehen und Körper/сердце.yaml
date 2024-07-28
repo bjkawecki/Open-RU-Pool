@@ -5,29 +5,29 @@ translation:
   - Herz
 genus: neutral
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: shifting
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: се́рд­це
 singular_genitive: се́рд­ца
 singular_dative: се́рд­цу
 singular_accusative: се́рд­це
-singular_ins: се́рд­цем
-singular_pre: се́рд­це
+singular_instrumental: се́рд­цем
+singular_prepositive: се́рд­це
 
 plural_nominative: серд­ца́
 plural_genitive: сер­де́ц
 plural_dative: серд­ца́м
 plural_accusative: серд­ца́
-plural_ins: серд­ца́­ми
-plural_pre: серд­ца́х
+plural_instrumental: серд­ца́­ми
+plural_prepositive: серд­ца́х
 
 partitive: null
 locative: null

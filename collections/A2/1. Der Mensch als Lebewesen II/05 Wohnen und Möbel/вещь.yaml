@@ -6,25 +6,25 @@ translation:
   - Ding
 
 genus: feminine
-dec_cls: "3"
+declination_class: "3"
 stress: shifting
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: вещь
 singular_genitive: ве́­щи
 singular_dative: ве́­щи
 singular_accusative: вещь
-singular_ins: ве́щью
-singular_pre: ве́­щи
+singular_instrumental: ве́щью
+singular_prepositive: ве́­щи
 
 plural_nominative: ве́­щи
 plural_genitive: ве­ще́й
 plural_dative: ве­ща́м
 plural_accusative: ве́­щи
-plural_ins: ве­ща́­ми
-plural_pre: ве­ща́х
+plural_instrumental: ве­ща́­ми
+plural_prepositive: ве­ща́х
 
 partitive: null
 locative: null

@@ -5,25 +5,25 @@ translation:
   - Schlüssel
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: suffix
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ключ
 singular_genitive: клю­ча́
 singular_dative: клю­чу́
 singular_accusative: ключ
-singular_ins: клю­чо́м
-singular_pre: клю­че́
+singular_instrumental: клю­чо́м
+singular_prepositive: клю­че́
 
 plural_nominative: клю­чи́
 plural_genitive: клю­че́й
 plural_dative: клю­ча́м
 plural_accusative: клю­чи́
-plural_ins: клю­ча́­ми
-plural_pre: клю­ча́х
+plural_instrumental: клю­ча́­ми
+plural_prepositive: клю­ча́х
 
 partitive: null
 locative: null

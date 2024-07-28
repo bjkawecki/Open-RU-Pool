@@ -10,34 +10,34 @@ masculine_nominative: тём­ный
 masculine_genitive: тём­но­го
 masculine_dative: тём­но­му
 masculine_accusative: тём­ный
-masculine_ins: тём­ным
-masculine_pre: тём­ном
+masculine_instrumental: тём­ным
+masculine_prepositive: тём­ном
 
 feminine_nominative: тём­ная
 feminine_genitive: тём­ной
 feminine_dative: тём­ной
 feminine_accusative: тём­ную
-feminine_ins: тём­ной
-feminine_pre: тём­ной
+feminine_instrumental: тём­ной
+feminine_prepositive: тём­ной
 
 neutral_nominative: тём­ное
 neutral_genitive: тём­но­го
 neutral_dative: тём­но­му
 neutral_accusative: тём­ное
-neutral_ins: тём­ным
-neutral_pre: тём­ном
+neutral_instrumental: тём­ным
+neutral_prepositive: тём­ном
 
 plural_nominative: тём­ные
 plural_genitive: тём­ных
 plural_dative: тём­ным
 plural_accusative: тём­ные
-plural_ins: тём­ны­ми
-plural_pre: тём­ных
+plural_instrumental: тём­ны­ми
+plural_prepositive: тём­ных
 
-shortform_mas: тё­мен
-shortform_fem: тем­на́
-shortform_neu: тем­но́
-shortform_plu: тем­ны́
+shortform_masculine: тё­мен
+shortform_feminine: тем­на́
+shortform_neutral: тем­но́
+shortform_plural: тем­ны́
 
 comparative: тем­не́е
 superlative:

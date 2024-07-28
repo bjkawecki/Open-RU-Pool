@@ -7,25 +7,25 @@ translation:
   - Nahrung
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: shifting
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: еда́
 singular_genitive: еды́
 singular_dative: еде́
 singular_accusative: еду́
-singular_ins: едо́й
-singular_pre: еде́
+singular_instrumental: едо́й
+singular_prepositive: еде́
 
 plural_nominative: е́ды
 plural_genitive: ед
 plural_dative: е́д­ам
 plural_accusative: е́ды
-plural_ins: е́да­ми
-plural_pre: е́д­ах
+plural_instrumental: е́да­ми
+plural_prepositive: е́д­ах
 
 partitive: null
 locative: null

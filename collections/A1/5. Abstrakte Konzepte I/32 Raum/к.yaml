@@ -3,8 +3,8 @@ name_accent: к
 wordclass: preposition
 translation:
   - zu
-prep_type: direction
-prep_case: dative
+preposition_type: direction
+preposition_case: dative
 comment: null
 usage: null
 etymology: null

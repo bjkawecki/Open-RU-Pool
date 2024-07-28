@@ -10,34 +10,34 @@ masculine_nominative: ме́дленный
 masculine_genitive: ме́д­лен­но­го
 masculine_dative: ме́д­лен­но­му
 masculine_accusative: ме́д­лен­ный
-masculine_ins: ме́д­лен­ным
-masculine_pre: ме́д­лен­ном
+masculine_instrumental: ме́д­лен­ным
+masculine_prepositive: ме́д­лен­ном
 
 feminine_nominative: ме́д­лен­ная
 feminine_genitive: ме́д­лен­ной
 feminine_dative: ме́д­лен­ной
 feminine_accusative: ме́д­лен­ную
-feminine_ins: ме́д­лен­ной
-feminine_pre: ме́д­лен­ной
+feminine_instrumental: ме́д­лен­ной
+feminine_prepositive: ме́д­лен­ной
 
 neutral_nominative: ме́д­лен­ное
 neutral_genitive: ме́д­лен­но­го
 neutral_dative: ме́д­лен­но­му
 neutral_accusative: ме́д­лен­ное
-neutral_ins: ме́д­лен­ным
-neutral_pre: ме́д­лен­ном
+neutral_instrumental: ме́д­лен­ным
+neutral_prepositive: ме́д­лен­ном
 
 plural_nominative: ме́д­лен­ные
 plural_genitive: ме́д­лен­ных
 plural_dative: ме́д­лен­ным
 plural_accusative: ме́д­лен­ные
-plural_ins: ме́д­лен­ны­ми
-plural_pre: ме́д­лен­ных
+plural_instrumental: ме́д­лен­ны­ми
+plural_prepositive: ме́д­лен­ных
 
-shortform_mas: ме́д­ле­нен, ме́д­лен
-shortform_fem: ме́д­лен­на
-shortform_neu: ме́д­лен­но
-shortform_plu: ме́д­лен­ны
+shortform_masculine: ме́д­ле­нен, ме́д­лен
+shortform_feminine: ме́д­лен­на
+shortform_neutral: ме́д­лен­но
+shortform_plural: ме́д­лен­ны
 
 comparative: ме́дленнее
 superlative: самый ме́дленный

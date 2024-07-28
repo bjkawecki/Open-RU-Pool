@@ -6,25 +6,25 @@ translation:
   - Player
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: пле́­ер
 singular_genitive: пле́­ера
 singular_dative: пле́­еру
 singular_accusative: пле́­ер
-singular_ins: пле́­ер­ом
-singular_pre: пле́­ере
+singular_instrumental: пле́­ер­ом
+singular_prepositive: пле́­ере
 
 plural_nominative: пле́­еры
 plural_genitive: пле́­ер­ов
 plural_dative: пле́­ер­ам
 plural_accusative: пле́­еры
-plural_ins: пле́­ера­ми
-plural_pre: пле́­ер­ах
+plural_instrumental: пле́­ера­ми
+plural_prepositive: пле́­ер­ах
 
 partitive: null
 locative: null

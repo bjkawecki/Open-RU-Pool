@@ -7,29 +7,29 @@ translation:
 
 genus: neutral
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: о́т­чест­во
 singular_genitive: о́т­чест­ва
 singular_dative: о́т­чест­ву
 singular_accusative: о́т­чест­во
-singular_ins: о́т­чест­вом
-singular_pre: о́т­чест­ве
+singular_instrumental: о́т­чест­вом
+singular_prepositive: о́т­чест­ве
 
 plural_nominative: о́т­чест­ва
 plural_genitive: о́т­честв
 plural_dative: о́т­чест­вам
 plural_accusative: о́т­чест­ва
-plural_ins: о́т­чест­ва­ми
-plural_pre: о́т­чест­вах
+plural_instrumental: о́т­чест­ва­ми
+plural_prepositive: о́т­чест­вах
 
 partitive: null
 locative: null

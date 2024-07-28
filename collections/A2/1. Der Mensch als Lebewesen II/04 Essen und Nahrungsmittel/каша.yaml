@@ -6,25 +6,25 @@ translation:
   - Grütze
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ка́­ша
 singular_genitive: ка́­ши
 singular_dative: ка́­ше
 singular_accusative: ка́­шу
-singular_ins: ка́­шей
-singular_pre: ка́­ше
+singular_instrumental: ка́­шей
+singular_prepositive: ка́­ше
 
 plural_nominative: ка́­ши
 plural_genitive: каш
 plural_dative: ка́­шам
 plural_accusative: ка́­ши
-plural_ins: ка́­ша­ми
-plural_pre: ка́­шах
+plural_instrumental: ка́­ша­ми
+plural_prepositive: ка́­шах
 
 partitive: null
 locative: null

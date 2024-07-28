@@ -7,28 +7,28 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: shifting
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: true
+is_plural_tantum: true
 
 singular_genitive:
 singular_dative:
 singular_accusative:
-singular_ins:
-singular_pre:
+singular_instrumental:
+singular_prepositive:
 
 plural_nominative: во́лосы
 plural_genitive: воло́с
 plural_dative: волоса́м
 plural_accusative: во́лосы
-plural_ins: волоса́ми
-plural_pre: волоса́х
+plural_instrumental: волоса́ми
+plural_prepositive: волоса́х
 
 partitive: null
 locative: null

@@ -10,34 +10,34 @@ masculine_nominative: гро́мкий
 masculine_genitive: гро́м­ко­го
 masculine_dative: гро́м­ко­му
 masculine_accusative: гро́м­кий
-masculine_ins: гро́м­ким
-masculine_pre: гро́м­ком
+masculine_instrumental: гро́м­ким
+masculine_prepositive: гро́м­ком
 
 feminine_nominative: гро́м­кая
 feminine_genitive: гро́м­кой
 feminine_dative: гро́м­кой
 feminine_accusative: гро́м­кую
-feminine_ins: гро́м­кой
-feminine_pre: гро́м­кой
+feminine_instrumental: гро́м­кой
+feminine_prepositive: гро́м­кой
 
 neutral_nominative: гро́м­кое
 neutral_genitive: гро́м­ко­го
 neutral_dative: гро́м­ко­му
 neutral_accusative: гро́м­кое
-neutral_ins: гро́м­ким
-neutral_pre: гро́м­ком
+neutral_instrumental: гро́м­ким
+neutral_prepositive: гро́м­ком
 
 plural_nominative: гро́м­кие
 plural_genitive: гро́м­ких
 plural_dative: гро́м­ким
 plural_accusative: гро́м­кие
-plural_ins: гро́м­ки­ми
-plural_pre: гро́м­ких
+plural_instrumental: гро́м­ки­ми
+plural_prepositive: гро́м­ких
 
-shortform_mas: гро́­мок
-shortform_fem: гром­ка́
-shortform_neu: гро́м­ко
-shortform_plu: гро́м­ки
+shortform_masculine: гро́­мок
+shortform_feminine: гром­ка́
+shortform_neutral: гро́м­ко
+shortform_plural: гро́м­ки
 
 comparative: гро́м­че
 superlative: самый гро́мкий

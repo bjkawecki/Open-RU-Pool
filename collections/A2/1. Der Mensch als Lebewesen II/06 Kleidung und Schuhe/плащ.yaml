@@ -5,25 +5,25 @@ translation:
   - Regenmantel
   - Trenchcoat
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: suffix
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: плащ
 singular_genitive: пла­ща́
 singular_dative: пла­щу́
 singular_accusative: плащ
-singular_ins: пла­що́м
-singular_pre: пла­ще́
+singular_instrumental: пла­що́м
+singular_prepositive: пла­ще́
 
 plural_nominative: пла­щи́
 plural_genitive: пла­ще́й
 plural_dative: пла­ща́м
 plural_accusative: пла­щи́
-plural_ins: пла­ща́­ми
-plural_pre: пла­ща́х
+plural_instrumental: пла­ща́­ми
+plural_prepositive: пла­ща́х
 
 partitive: null
 locative: null

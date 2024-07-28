@@ -6,25 +6,25 @@ translation:
   - Apfelsine
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ап­ель­си́н
 singular_genitive: ап­ель­си́­на
 singular_dative: ап­ель­си́­ну
 singular_accusative: ап­ель­си́н
-singular_ins: ап­ель­си́­ном
-singular_pre: ап­ель­си́­не
+singular_instrumental: ап­ель­си́­ном
+singular_prepositive: ап­ель­си́­не
 
 plural_nominative: ап­ель­си́­ны
 plural_genitive: ап­ель­си́­нов
 plural_dative: ап­ель­си́­нам
 plural_accusative: ап­ель­си́­ны
-plural_ins: ап­ель­си́­на­ми
-plural_pre: ап­ель­си́­нах
+plural_instrumental: ап­ель­си́­на­ми
+plural_prepositive: ап­ель­си́­нах
 
 partitive: null
 locative: null

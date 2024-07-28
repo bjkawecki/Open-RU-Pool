@@ -3,8 +3,8 @@ name_accent: у
 wordclass: preposition
 translation:
   - bei
-prep_type: local
-prep_case: genitive
+preposition_type: local
+preposition_case: genitive
 comment: null
 usage: null
 etymology: null

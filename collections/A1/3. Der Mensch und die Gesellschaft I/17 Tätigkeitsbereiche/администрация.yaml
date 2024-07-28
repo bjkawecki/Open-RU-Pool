@@ -6,29 +6,29 @@ translation:
 
 genus: feminine
 
-dec_cls: "1"
+declination_class: "1"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: false
+is_singular_tantum: false
 
-is_plural_tan: false
+is_plural_tantum: false
 
 singular_nominative: ад­ми­нист­ра́­ция
 singular_genitive: ад­ми­нист­ра́­ции
 singular_dative: ад­ми­нист­ра́­ции
 singular_accusative: ад­ми­нист­ра́­цию
-singular_ins: ад­ми­нист­ра́­ци­ей
-singular_pre: ад­ми­нист­ра́­ции
+singular_instrumental: ад­ми­нист­ра́­ци­ей
+singular_prepositive: ад­ми­нист­ра́­ции
 
 plural_nominative: ад­ми­нист­ра́­ции
 plural_genitive: ад­ми­нист­ра́­ций
 plural_dative: ад­ми­нист­ра́­ци­ям
 plural_accusative: ад­ми­нист­ра́­ции
-plural_ins: ад­ми­нист­ра́­ци­ями
-plural_pre: ад­ми­нист­ра́­ци­ях
+plural_instrumental: ад­ми­нист­ра́­ци­ями
+plural_prepositive: ад­ми­нист­ра́­ци­ях
 
 partitive: null
 locative: null

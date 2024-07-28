@@ -5,44 +5,44 @@ translation:
   - ihr
   - Sie
 
-pro_type: personal
+pronoun_type: personal
 
-dec_type: substantive
+declination_type: substantive
 
 masculine_nominative:
 masculine_genitive:
 masculine_dative:
 masculine_accusative:
-masculine_ins:
-masculine_pre:
+masculine_instrumental:
+masculine_prepositive:
 
 feminine_nominative:
 feminine_genitive:
 feminine_dative:
 feminine_accusative:
-feminine_ins:
-feminine_pre:
+feminine_instrumental:
+feminine_prepositive:
 
 neutral_nominative:
 neutral_genitive:
 neutral_dative:
 neutral_accusative:
-neutral_ins:
-neutral_pre:
+neutral_instrumental:
+neutral_prepositive:
 
 singular_nominative:
 singular_genitive:
 singular_dative:
 singular_accusative:
-singular_ins:
-singular_pre:
+singular_instrumental:
+singular_prepositive:
 
 plural_nominative: вы
 plural_genitive: вас
 plural_dative: вам
 plural_accusative: вас
-plural_ins: ва́­ми
-plural_pre: вас
+plural_instrumental: ва́­ми
+plural_prepositive: вас
 
 comment: null
 usage: null

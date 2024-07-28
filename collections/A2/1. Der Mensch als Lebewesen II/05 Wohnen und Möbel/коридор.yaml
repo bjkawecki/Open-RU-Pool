@@ -7,25 +7,25 @@ translation:
   - Korridor
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ко­рид­о́р
 singular_genitive: ко­ри­до́­ра
 singular_dative: ко­ри­до́­ру
 singular_accusative: ко­рид­о́р
-singular_ins: ко­ри­до́­ром
-singular_pre: ко­ри­до́­ре
+singular_instrumental: ко­ри­до́­ром
+singular_prepositive: ко­ри­до́­ре
 
 plural_nominative: ко­ри­до́­ры
 plural_genitive: ко­ри­до́­ров
 plural_dative: ко­ри­до́­рам
 plural_accusative: ко­ри­до́­ры
-plural_ins: ко­ри­до́­ра­ми
-plural_pre: ко­ри­до́­рах
+plural_instrumental: ко­ри­до́­ра­ми
+plural_prepositive: ко­ри­до́­рах
 
 partitive: null
 locative: null

@@ -3,8 +3,8 @@ name_accent: из
 wordclass: preposition
 translation:
   - aus
-prep_type: directional
-prep_case: genitive
+preposition_type: directional
+preposition_case: genitive
 comment: null
 usage: null
 etymology: null

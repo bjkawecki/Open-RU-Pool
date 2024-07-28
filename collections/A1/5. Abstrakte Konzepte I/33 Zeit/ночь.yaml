@@ -4,23 +4,23 @@ name_accent: ночь
 translation:
   - Nacht
 genus: feminine
-dec_cls: "3"
+declination_class: "3"
 stress: shifting
 is_animate: null
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: ночь
 singular_genitive: но́­чи
 singular_dative: но́­чи
 singular_accusative: ночь
-singular_ins: но́чью
-singular_pre: но́­чи
+singular_instrumental: но́чью
+singular_prepositive: но́­чи
 plural_nominative: но́­чи
 plural_genitive: но­че́й
 plural_dative: но­ча́м
 plural_accusative: но́­чи
-plural_ins: но­ча́­ми
-plural_pre: но­ча́х
+plural_instrumental: но­ча́­ми
+plural_prepositive: но­ча́х
 partitive: null
 locative: в но­чи́
 comment: null

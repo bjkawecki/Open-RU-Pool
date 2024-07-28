@@ -9,30 +9,30 @@ masculine_nominative: го­родс­ко́й
 masculine_genitive: го­родс­ко́­го
 masculine_dative: го­родс­ко́­му
 masculine_accusative: го­родс­ко́й
-masculine_ins: го­родс­ки́м
-masculine_pre: го­родс­ко́м
+masculine_instrumental: го­родс­ки́м
+masculine_prepositive: го­родс­ко́м
 feminine_nominative: го­родс­ка́я
 feminine_genitive: го­родс­ко́й
 feminine_dative: го­родс­ко́й
 feminine_accusative: го­родс­ку́ю
-feminine_ins: го­родс­ко́й
-feminine_pre: го­родс­ко́й
+feminine_instrumental: го­родс­ко́й
+feminine_prepositive: го­родс­ко́й
 neutral_nominative: го­родс­ко́е
 neutral_genitive: го­родс­ко́­го
 neutral_dative: го­родс­ко́­му
 neutral_accusative: го­родс­ко́е
-neutral_ins: го­родс­ки́м
-neutral_pre: го­родс­ко́м
+neutral_instrumental: го­родс­ки́м
+neutral_prepositive: го­родс­ко́м
 plural_nominative: го­родс­ки́е
 plural_genitive: го­родс­ки́х
 plural_dative: го­родс­ки́м
 plural_accusative: го­родс­ки́е
-plural_ins: го­родс­ки́­ми
-plural_pre: го­родс­ки́х
-shortform_mas:
-shortform_fem:
-shortform_neu:
-shortform_plu:
+plural_instrumental: го­родс­ки́­ми
+plural_prepositive: го­родс­ки́х
+shortform_masculine:
+shortform_feminine:
+shortform_neutral:
+shortform_plural:
 comparative:
 superlative:
 comment: null

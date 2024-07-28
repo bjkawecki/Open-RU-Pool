@@ -5,25 +5,25 @@ translation:
   - Spiegel
 
 genus: neutral
-dec_cls: "2"
+declination_class: "2"
 stress: shifting
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: зе́р­ка­ло
 singular_genitive: зе́р­ка­ла
 singular_dative: зе́р­ка­лу
 singular_accusative: зе́р­ка­ло
-singular_ins: зе́р­ка­лом
-singular_pre: зе́р­ка­ле
+singular_instrumental: зе́р­ка­лом
+singular_prepositive: зе́р­ка­ле
 
 plural_nominative: зе́р­ка­ла
 plural_genitive: зер­ка́л
 plural_dative: зер­ка­ла́м
 plural_accusative: зе́р­ка­ла
-plural_ins: зер­ка­ла́­ми
-plural_pre: зер­ка­ла́х
+plural_instrumental: зер­ка­ла́­ми
+plural_prepositive: зер­ка­ла́х
 
 partitive: null
 locative: null

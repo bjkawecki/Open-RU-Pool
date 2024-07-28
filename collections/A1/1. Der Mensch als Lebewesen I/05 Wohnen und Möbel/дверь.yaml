@@ -4,23 +4,23 @@ name_accent: дверь
 translation:
   - Tür
 genus: feminine
-dec_cls: "3"
+declination_class: "3"
 stress: shifting
 is_animate: null
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: дверь
 singular_genitive: две́­ри
 singular_dative: две́­ри
 singular_accusative: дверь
-singular_ins: две́рью
-singular_pre: две́­ри
+singular_instrumental: две́рью
+singular_prepositive: две́­ри
 plural_nominative: две́­ри
 plural_genitive: две­ре́й
 plural_dative: две­ря́м
 plural_accusative: две́­ри
-plural_ins: две­ря́­ми, дверь­ми́
-plural_pre: две­ря́х
+plural_instrumental: две­ря́­ми, дверь­ми́
+plural_prepositive: две­ря́х
 partitive: null
 locative: в/на две­ри́
 comment: null

@@ -11,34 +11,34 @@ masculine_nominative: сим­па­ти́ч­ный
 masculine_genitive: сим­па­ти́ч­но­го
 masculine_dative: сим­па­ти́ч­но­му
 masculine_accusative: сим­па­ти́ч­ный
-masculine_ins: сим­па­ти́ч­ным
-masculine_pre: сим­па­ти́ч­ном
+masculine_instrumental: сим­па­ти́ч­ным
+masculine_prepositive: сим­па­ти́ч­ном
 
 feminine_nominative: сим­па­ти́ч­ная
 feminine_genitive: сим­па­ти́ч­ной
 feminine_dative: сим­па­ти́ч­ной
 feminine_accusative: сим­па­ти́ч­ную
-feminine_ins: сим­па­ти́ч­ной
-feminine_pre: сим­па­ти́ч­ной
+feminine_instrumental: сим­па­ти́ч­ной
+feminine_prepositive: сим­па­ти́ч­ной
 
 neutral_nominative: сим­па­ти́ч­ное
 neutral_genitive: сим­па­ти́ч­но­го
 neutral_dative: сим­па­ти́ч­но­му
 neutral_accusative: сим­па­ти́ч­ное
-neutral_ins: сим­па­ти́ч­ным
-neutral_pre: сим­па­ти́ч­ном
+neutral_instrumental: сим­па­ти́ч­ным
+neutral_prepositive: сим­па­ти́ч­ном
 
 plural_nominative: сим­па­ти́ч­ные
 plural_genitive: сим­па­ти́ч­ных
 plural_dative: сим­па­ти́ч­ным
 plural_accusative: сим­па­ти́ч­ные
-plural_ins: сим­па­ти́ч­ны­ми
-plural_pre: сим­па­ти́ч­ных
+plural_instrumental: сим­па­ти́ч­ны­ми
+plural_prepositive: сим­па­ти́ч­ных
 
-shortform_mas: сим­па­ти́ч­ен
-shortform_fem: сим­па­ти́ч­на
-shortform_neu: сим­па­ти́ч­но
-shortform_plu: сим­па­ти́ч­ны
+shortform_masculine: сим­па­ти́ч­ен
+shortform_feminine: сим­па­ти́ч­на
+shortform_neutral: сим­па­ти́ч­но
+shortform_plural: сим­па­ти́ч­ны
 
 comparative: сим­па­ти́ч­нее
 superlative:

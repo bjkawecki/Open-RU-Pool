@@ -4,23 +4,23 @@ name_accent: проспе́кт
 translation:
   - Prospekt
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: null
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: проспе́кт
 singular_genitive: прос­пе́­кта
 singular_dative: прос­пе́­кту
 singular_accusative: прос­пе́кт
-singular_ins: прос­пе́­ктом
-singular_pre: прос­пе́­кте
+singular_instrumental: прос­пе́­ктом
+singular_prepositive: прос­пе́­кте
 plural_nominative: прос­пе́­кты
 plural_genitive: прос­пе́­ктов
 plural_dative: прос­пе́­ктам
 plural_accusative: прос­пе́­кты
-plural_ins: прос­пе́­кта­ми
-plural_pre: прос­пе́­ктах
+plural_instrumental: прос­пе́­кта­ми
+plural_prepositive: прос­пе́­ктах
 partitive: null
 locative: null
 comment: sehr lange, gerade und breite Straße in einer Stadt

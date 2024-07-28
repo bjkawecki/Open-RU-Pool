@@ -4,9 +4,9 @@ wordclass: preposition
 translation:
   - mit
 
-prep_type: modal
+preposition_type: modal
 
-prep_case: instrumental
+preposition_case: instrumental
 
 comment: Aus 'с' wird 'со', um bestimmte Konsonantenhäufungen zu vermeiden.
 

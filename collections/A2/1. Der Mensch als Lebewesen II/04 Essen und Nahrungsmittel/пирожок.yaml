@@ -5,25 +5,25 @@ translation:
   - Küchlein
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: suffix
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: пи­рож­о́к
 singular_genitive: пи­рож­ка́
 singular_dative: пи­рож­ку́
 singular_accusative: пи­рож­о́к
-singular_ins: пи­рож­ко́м
-singular_pre: пи­рож­ке́
+singular_instrumental: пи­рож­ко́м
+singular_prepositive: пи­рож­ке́
 
 plural_nominative: пи­рож­ки́
 plural_genitive: пи­рож­ко́в
 plural_dative: пи­рож­ка́м
 plural_accusative: пи­рож­ки́
-plural_ins: пи­рож­ка́­ми
-plural_pre: пи­рож­ка́х
+plural_instrumental: пи­рож­ка́­ми
+plural_prepositive: пи­рож­ка́х
 
 partitive: null
 locative: null

@@ -6,29 +6,29 @@ translation:
 
 genus: feminine
 
-dec_cls: "1"
+declination_class: "1"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: ка­вы́ч­ка
 singular_genitive: ка­вы́ч­ки
 singular_dative: ка­вы́ч­ке
 singular_accusative: ка­вы́ч­ку
-singular_ins: ка­вы́ч­кой
-singular_pre: ка­вы́ч­ке
+singular_instrumental: ка­вы́ч­кой
+singular_prepositive: ка­вы́ч­ке
 
 plural_nominative: ка­вы́ч­ки
 plural_genitive: ка­вы́ч­ек
 plural_dative: ка­вы́ч­кам
 plural_accusative: ка­вы́ч­ки
-plural_ins: ка­вы́ч­ка­ми
-plural_pre: ка­вы́ч­ках
+plural_instrumental: ка­вы́ч­ка­ми
+plural_prepositive: ка­вы́ч­ках
 
 partitive: null
 locative: null

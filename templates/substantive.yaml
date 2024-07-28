@@ -3,25 +3,25 @@ wordclass: substantive
 translation:
 
 genus:
-dec_cls:
+declination_class:
 stress:
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative:
 singular_genitive:
 singular_dative:
 singular_accusative:
-singular_ins:
-singular_pre:
+singular_instrumental:
+singular_prepositive:
 
 plural_nominative:
 plural_genitive:
 plural_dative:
 plural_accusative:
-plural_ins:
-plural_pre:
+plural_instrumental:
+plural_prepositive:
 
 partitive: null
 locative: null

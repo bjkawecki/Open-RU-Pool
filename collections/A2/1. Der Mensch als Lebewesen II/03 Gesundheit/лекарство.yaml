@@ -7,25 +7,25 @@ translation:
   - Arznei
 
 genus: neutral
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ле­ка́рс­тво
 singular_genitive: ле­ка́рс­тва
 singular_dative: ле­ка́рс­тву
 singular_accusative: ле­ка́рс­тво
-singular_ins: ле­ка́рс­твом
-singular_pre: ле­ка́рс­тве
+singular_instrumental: ле­ка́рс­твом
+singular_prepositive: ле­ка́рс­тве
 
 plural_nominative: ле­ка́рс­тва
 plural_genitive: ле­ка́рств
 plural_dative: ле­ка́рс­твам
 plural_accusative: ле­ка́рс­тва
-plural_ins: ле­ка́рс­тва­ми
-plural_pre: ле­ка́рс­твах
+plural_instrumental: ле­ка́рс­тва­ми
+plural_prepositive: ле­ка́рс­твах
 
 partitive: null
 locative: null

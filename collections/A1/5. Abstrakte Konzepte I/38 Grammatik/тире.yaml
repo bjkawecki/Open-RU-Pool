@@ -6,29 +6,29 @@ translation:
 
 genus: neutral
 
-dec_cls: none
+declination_class: none
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: тире́
 singular_genitive: тире́
 singular_dative: тире́
 singular_accusative: тире́
-singular_ins: тире́
-singular_pre: тире́
+singular_instrumental: тире́
+singular_prepositive: тире́
 
 plural_nominative: тире́
 plural_genitive: тире́
 plural_dative: тире́
 plural_accusative: тире́
-plural_ins: тире́
-plural_pre: тире́
+plural_instrumental: тире́
+plural_prepositive: тире́
 
 partitive: null
 locative: null

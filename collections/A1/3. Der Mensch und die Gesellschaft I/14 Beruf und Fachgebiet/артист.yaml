@@ -4,23 +4,23 @@ name_accent: арти́ст
 translation:
   - Künstler
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: арти́ст
 singular_genitive: ар­ти́­ста
 singular_dative: ар­ти́­сту
 singular_accusative: ар­ти́­ста
-singular_ins: ар­ти́­стом
-singular_pre: ар­ти́­сте
+singular_instrumental: ар­ти́­стом
+singular_prepositive: ар­ти́­сте
 plural_nominative: ар­ти́­сты
 plural_genitive: ар­ти́­стов
 plural_dative: ар­ти́­стам
 plural_accusative: ар­ти́­стов
-plural_ins: ар­ти́­ста­ми
-plural_pre: ар­ти́­стах
+plural_instrumental: ар­ти́­ста­ми
+plural_prepositive: ар­ти́­стах
 partitive: null
 locative: null
 comment: Künstler, der vor Publikum auftritt

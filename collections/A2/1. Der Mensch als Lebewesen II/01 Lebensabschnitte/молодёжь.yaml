@@ -7,29 +7,29 @@ translation:
 
 genus: feminine
 
-dec_cls: "3"
+declination_class: "3"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: мо­лод­ёжь
 singular_genitive: мо­ло­дё­жи
 singular_dative: мо­ло­дё­жи
 singular_accusative: мо­лод­ёжь
-singular_ins: мо­лод­ёжью
-singular_pre: мо­ло­дё­жи
+singular_instrumental: мо­лод­ёжью
+singular_prepositive: мо­ло­дё­жи
 
 plural_nominative: мо­ло­дё­жи
 plural_genitive: мо­ло­дё­жей
 plural_dative: мо­ло­дё­жам
 plural_accusative: мо­ло­дё­жи
-plural_ins: мо­ло­дё­жа­ми
-plural_pre: мо­ло­дё­жах
+plural_instrumental: мо­ло­дё­жа­ми
+plural_prepositive: мо­ло­дё­жах
 
 partitive: null
 locative: null

@@ -4,9 +4,9 @@ wordclass: preposition
 translation:
   - ohne
 
-prep_type: modal
+preposition_type: modal
 
-prep_case: genitive
+preposition_case: genitive
 
 comment: null
 usage: null

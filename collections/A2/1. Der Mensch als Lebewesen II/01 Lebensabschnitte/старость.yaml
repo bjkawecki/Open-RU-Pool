@@ -7,29 +7,29 @@ translation:
 
 genus: feminine
 
-dec_cls: "3"
+declination_class: "3"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: ста́­рость
 singular_genitive: ста́­рос­ти
 singular_dative: ста́­рос­ти
 singular_accusative: ста́­рость
-singular_ins: ста́­ростью
-singular_pre: ста́­рос­ти
+singular_instrumental: ста́­ростью
+singular_prepositive: ста́­рос­ти
 
 plural_nominative: ста́­рос­ти
 plural_genitive: ста́­рос­тей
 plural_dative: ста́­рос­тям
 plural_accusative: ста́­рос­ти
-plural_ins: ста́­рос­тя­ми
-plural_pre: ста́­рос­тях
+plural_instrumental: ста́­рос­тя­ми
+plural_prepositive: ста́­рос­тях
 
 partitive: null
 locative: null

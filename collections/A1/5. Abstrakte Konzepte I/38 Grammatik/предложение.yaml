@@ -8,29 +8,29 @@ translation:
 
 genus: neutral
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: пред­ло­же́­ние
 singular_genitive: пред­ло­же́­ния
 singular_dative: пред­ло­же́­нию
 singular_accusative: пред­ло­же́­ние
-singular_ins: пред­ло­же́­ни­ем
-singular_pre: пред­ло­же́­нии
+singular_instrumental: пред­ло­же́­ни­ем
+singular_prepositive: пред­ло­же́­нии
 
 plural_nominative: пред­ло­же́­ния
 plural_genitive: пред­ло­же́­ний
 plural_dative: пред­ло­же́­ни­ям
 plural_accusative: пред­ло­же́­ния
-plural_ins: пред­ло­же́­ни­ями
-plural_pre: пред­ло­же́­ни­ях
+plural_instrumental: пред­ло­же́­ни­ями
+plural_prepositive: пред­ло­же́­ни­ях
 
 partitive: null
 locative: null

@@ -7,29 +7,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: вид
 singular_genitive: ви́­да
 singular_dative: ви́­ду
 singular_accusative: вид
-singular_ins: ви́­дом
-singular_pre: ви́­де
+singular_instrumental: ви́­дом
+singular_prepositive: ви́­де
 
 plural_nominative: ви́­ды
 plural_genitive: ви́­дов
 plural_dative: ви́­дам
 plural_accusative: ви́­ды
-plural_ins: ви́­да­ми
-plural_pre: ви́­дах
+plural_instrumental: ви́­да­ми
+plural_prepositive: ви́­дах
 
 partitive: null
 locative: null

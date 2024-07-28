@@ -6,29 +6,29 @@ translation:
 
 genus: neutral
 
-dec_cls: adjective
+declination_class: adjective
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: при­ла­га́­тель­ное
 singular_genitive: при­ла­га́­тель­но­го
 singular_dative: при­ла­га́­тель­но­му
 singular_accusative: при­ла­га́­тель­ное
-singular_ins: при­ла­га́­тель­ным
-singular_pre: при­ла­га́­тель­ном
+singular_instrumental: при­ла­га́­тель­ным
+singular_prepositive: при­ла­га́­тель­ном
 
 plural_nominative: при­ла­га́­тель­ные
 plural_genitive: при­ла­га́­тель­ных
 plural_dative: при­ла­га́­тель­ным
 plural_accusative: при­ла­га́­тель­ные
-plural_ins: при­ла­га́­тель­ны­ми
-plural_pre: при­ла­га́­тель­ных
+plural_instrumental: при­ла­га́­тель­ны­ми
+plural_prepositive: при­ла­га́­тель­ных
 
 partitive: null
 locative: null

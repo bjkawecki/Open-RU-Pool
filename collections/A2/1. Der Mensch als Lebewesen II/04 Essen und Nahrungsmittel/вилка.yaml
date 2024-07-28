@@ -5,25 +5,25 @@ translation:
   - Gabel
 
 genus: feminine
-dec_cls: "1"
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ви́л­ка
 singular_genitive: ви́л­ки
 singular_dative: ви́л­ке
 singular_accusative: ви́л­ку
-singular_ins: ви́л­кой
-singular_pre: ви́л­ке
+singular_instrumental: ви́л­кой
+singular_prepositive: ви́л­ке
 
 plural_nominative: ви́л­ки
 plural_genitive: ви́­лок
 plural_dative: ви́л­кам
 plural_accusative: ви́л­ки
-plural_ins: ви́л­ка­ми
-plural_pre: ви́л­ках
+plural_instrumental: ви́л­ка­ми
+plural_prepositive: ви́л­ках
 
 partitive: null
 locative: null

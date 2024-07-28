@@ -6,29 +6,29 @@ translation:
 
 genus: null
 
-dec_cls: none
+declination_class: none
 
 stress: suffix
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: true
+is_plural_tantum: true
 
 singular_nominative:
 singular_genitive:
 singular_dative:
 singular_accusative:
-singular_ins:
-singular_pre:
+singular_instrumental:
+singular_prepositive:
 
 plural_nominative: оч­ки́
 plural_genitive: оч­ко́в
 plural_dative: оч­ка́м
 plural_accusative: оч­ки́
-plural_ins: оч­ка́­ми
-plural_pre: оч­ка́х
+plural_instrumental: оч­ка́­ми
+plural_prepositive: оч­ка́х
 
 partitive: null
 locative: null

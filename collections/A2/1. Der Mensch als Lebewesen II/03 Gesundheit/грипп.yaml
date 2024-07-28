@@ -6,29 +6,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: грип­п
 singular_genitive: гри́п­па
 singular_dative: гри́п­пу
 singular_accusative: грип­п
-singular_ins: гри́п­пом
-singular_pre: гри́п­пе
+singular_instrumental: гри́п­пом
+singular_prepositive: гри́п­пе
 
 plural_nominative: гри́п­пы
 plural_genitive: гри́п­пов
 plural_dative: гри́п­пам
 plural_accusative: гри́п­пы
-plural_ins: гри́п­па­ми
-plural_pre: гри́п­пах
+plural_instrumental: гри́п­па­ми
+plural_prepositive: гри́п­пах
 
 partitive: null
 locative: null

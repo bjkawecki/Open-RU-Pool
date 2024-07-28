@@ -10,34 +10,34 @@ masculine_nominative: бли́з­кий
 masculine_genitive: бли́з­ко­го
 masculine_dative: бли́з­ко­му
 masculine_accusative: бли́з­кий
-masculine_ins: бли́з­ким
-masculine_pre: бли́з­ком
+masculine_instrumental: бли́з­ким
+masculine_prepositive: бли́з­ком
 
 feminine_nominative: бли́з­кая
 feminine_genitive: бли́з­кой
 feminine_dative: бли́з­кой
 feminine_accusative: бли́з­кую
-feminine_ins: бли́з­кой
-feminine_pre: бли́з­кой
+feminine_instrumental: бли́з­кой
+feminine_prepositive: бли́з­кой
 
 neutral_nominative: бли́з­кое
 neutral_genitive: бли́з­ко­го
 neutral_dative: бли́з­ко­му
 neutral_accusative: бли́з­кое
-neutral_ins: бли́з­ким
-neutral_pre: бли́з­ком
+neutral_instrumental: бли́з­ким
+neutral_prepositive: бли́з­ком
 
 plural_nominative: бли́з­кие
 plural_genitive: бли́з­ких
 plural_dative: бли́з­ким
 plural_accusative: бли́з­кие
-plural_ins: бли́з­ки­ми
-plural_pre: бли́з­ких
+plural_instrumental: бли́з­ки­ми
+plural_prepositive: бли́з­ких
 
-shortform_mas: бли́­зок
-shortform_fem: близ­ка́
-shortform_neu: бли́з­ко
-shortform_plu: бли́з­ки
+shortform_masculine: бли́­зок
+shortform_feminine: близ­ка́
+shortform_neutral: бли́з­ко
+shortform_plural: бли́з­ки
 
 comparative: бли́­же
 superlative: самый бли́з­кий

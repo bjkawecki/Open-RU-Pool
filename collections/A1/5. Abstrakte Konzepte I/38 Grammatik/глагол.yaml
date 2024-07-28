@@ -7,29 +7,29 @@ translation:
 
 genus: masculine
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: гла­го́л
 singular_genitive: гла­го́­ла
 singular_dative: гла­го́­лу
 singular_accusative: гла­го́л
-singular_ins: гла­го́л­ом
-singular_pre: гла­го́­ле
+singular_instrumental: гла­го́л­ом
+singular_prepositive: гла­го́­ле
 
 plural_nominative: гла­го́­лы
 plural_genitive: гла­го́л­ов
 plural_dative: гла­го́л­ам
 plural_accusative: гла­го́­лы
-plural_ins: гла­го́­ла­ми
-plural_pre: гла­го́л­ах
+plural_instrumental: гла­го́­ла­ми
+plural_prepositive: гла­го́л­ах
 
 partitive: null
 locative: null

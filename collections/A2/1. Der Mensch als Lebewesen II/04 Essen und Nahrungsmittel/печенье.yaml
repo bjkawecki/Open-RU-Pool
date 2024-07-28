@@ -7,25 +7,25 @@ translation:
   - Plätzchen
 
 genus: neutral
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: пе­че́нье
 singular_genitive: пе­че́нья
 singular_dative: пе­че́нью
 singular_accusative: пе­че́нье
-singular_ins: пе­че́нь­ем
-singular_pre: пе­че́нье
+singular_instrumental: пе­че́нь­ем
+singular_prepositive: пе­че́нье
 
 plural_nominative: пе­че́нья
 plural_genitive: пе­че́­ний
 plural_dative: пе­че́нь­ям
 plural_accusative: пе­че́нья
-plural_ins: пе­че́нь­ями
-plural_pre: пе­че́нь­ях
+plural_instrumental: пе­че́нь­ями
+plural_prepositive: пе­че́нь­ях
 
 partitive: null
 locative: null

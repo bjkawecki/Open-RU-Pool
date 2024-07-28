@@ -11,34 +11,34 @@ masculine_nominative: спо­ко́й­ный
 masculine_genitive: спо­ко́й­но­го
 masculine_dative: спо­ко́й­но­му
 masculine_accusative: спо­ко́й­ный
-masculine_ins: спо­ко́й­ным
-masculine_pre: спо­ко́й­ном
+masculine_instrumental: спо­ко́й­ным
+masculine_prepositive: спо­ко́й­ном
 
 feminine_nominative: спо­ко́й­ная
 feminine_genitive: спо­ко́й­ной
 feminine_dative: спо­ко́й­ной
 feminine_accusative: спо­ко́й­ную
-feminine_ins: спо­ко́й­ной
-feminine_pre: спо­ко́й­ной
+feminine_instrumental: спо­ко́й­ной
+feminine_prepositive: спо­ко́й­ной
 
 neutral_nominative: спо­ко́й­ное
 neutral_genitive: спо­ко́й­но­го
 neutral_dative: спо­ко́й­но­му
 neutral_accusative: спо­ко́й­ное
-neutral_ins: спо­ко́й­ным
-neutral_pre: спо­ко́й­ном
+neutral_instrumental: спо­ко́й­ным
+neutral_prepositive: спо­ко́й­ном
 
 plural_nominative: спо­ко́й­ные
 plural_genitive: спо­ко́й­ных
 plural_dative: спо­ко́й­ным
 plural_accusative: спо­ко́й­ные
-plural_ins: спо­ко́й­ны­ми
-plural_pre: спо­ко́й­ных
+plural_instrumental: спо­ко́й­ны­ми
+plural_prepositive: спо­ко́й­ных
 
-shortform_mas: спо­ко́­ен
-shortform_fem: спо­ко́й­на
-shortform_neu: спо­ко́й­но
-shortform_plu: спо­ко́й­ны
+shortform_masculine: спо­ко́­ен
+shortform_feminine: спо­ко́й­на
+shortform_neutral: спо­ко́й­но
+shortform_plural: спо­ко́й­ны
 
 comparative: спо­ко́й­нее
 superlative: самый споко́йный

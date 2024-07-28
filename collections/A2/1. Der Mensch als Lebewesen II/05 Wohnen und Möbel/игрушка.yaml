@@ -4,25 +4,25 @@ wordclass: substantive
 translation:
 
 genus: feminine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: иг­ру́­шка
 singular_genitive: иг­ру́­шки
 singular_dative: иг­ру́­шке
 singular_accusative: иг­ру́­шка
-singular_ins: иг­ру́­шкой
-singular_pre: иг­ру́­шке
+singular_instrumental: иг­ру́­шкой
+singular_prepositive: иг­ру́­шке
 
 plural_nominative: иг­ру́­шки
 plural_genitive: иг­ру́­шек
 plural_dative: иг­ру́­шкам
 plural_accusative: иг­ру́­шки
-plural_ins: иг­ру́­шка­ми
-plural_pre: иг­ру́­шках
+plural_instrumental: иг­ру́­шка­ми
+plural_prepositive: иг­ру́­шках
 
 partitive: null
 locative: null

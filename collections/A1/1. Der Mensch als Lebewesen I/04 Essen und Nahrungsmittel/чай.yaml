@@ -4,23 +4,23 @@ name_accent: чай
 translation:
   - Tee
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: shifting
 is_animate: null
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 singular_nominative: чай
 singular_genitive: ча́я
 singular_dative: ча́ю
 singular_accusative: чай
-singular_ins: ча́­ем
-singular_pre: ча́е
+singular_instrumental: ча́­ем
+singular_prepositive: ча́е
 plural_nominative: чаи́
 plural_genitive: ча­ёв
 plural_dative: ча­я́м
 plural_accusative: чаи́
-plural_ins: ча­я́ми
-plural_pre: ча­я́х
+plural_instrumental: ча­я́ми
+plural_prepositive: ча­я́х
 partitive: ча́ю
 locative: в чаю́
 comment: null

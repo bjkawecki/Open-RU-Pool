@@ -12,34 +12,34 @@ masculine_nominative: мужс­ко́й
 masculine_genitive: мужс­ко́­го
 masculine_dative: мужс­ко́­му
 masculine_accusative: мужс­ко́й
-masculine_ins: мужс­ки́м
-masculine_pre: мужс­ко́м
+masculine_instrumental: мужс­ки́м
+masculine_prepositive: мужс­ко́м
 
 feminine_nominative: мужс­ка́я
 feminine_genitive: мужс­ко́й
 feminine_dative: мужс­ко́й
 feminine_accusative: мужс­ку́ю
-feminine_ins: мужс­ко́й
-feminine_pre: мужс­ко́й
+feminine_instrumental: мужс­ко́й
+feminine_prepositive: мужс­ко́й
 
 neutral_nominative: мужс­ко́е
 neutral_genitive: мужс­ко́­го
 neutral_dative: мужс­ко́­му
 neutral_accusative: мужс­ко́е
-neutral_ins: мужс­ки́м
-neutral_pre: мужс­ко́м
+neutral_instrumental: мужс­ки́м
+neutral_prepositive: мужс­ко́м
 
 plural_nominative: мужс­ки́е
 plural_genitive: мужс­ки́х
 plural_dative: мужс­ки́м
 plural_accusative: мужс­ки́е
-plural_ins: мужс­ки́­ми
-plural_pre: мужс­ки́х
+plural_instrumental: мужс­ки́­ми
+plural_prepositive: мужс­ки́х
 
-shortform_mas: null
-shortform_fem: null
-shortform_neu: null
-shortform_plu: null
+shortform_masculine: null
+shortform_feminine: null
+shortform_neutral: null
+shortform_plural: null
 
 comparative: null
 superlative: null

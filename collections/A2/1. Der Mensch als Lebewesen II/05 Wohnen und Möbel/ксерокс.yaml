@@ -6,25 +6,25 @@ translation:
   - Kopiergerät
 
 genus: masculine
-dec_cls: "2"
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tan: null
-is_plural_tan: null
+is_singular_tantum: null
+is_plural_tantum: null
 
 singular_nominative: ксе́­рокс
 singular_genitive: ксе́­рок­са
 singular_dative: ксе́­рок­су
 singular_accusative: ксе́­рокс
-singular_ins: ксе́­рок­сом
-singular_pre: ксе́­рок­се
+singular_instrumental: ксе́­рок­сом
+singular_prepositive: ксе́­рок­се
 
 plural_nominative: ксе́­рок­сы
 plural_genitive: ксе́­рок­сов
 plural_dative: ксе́­рок­сам
 plural_accusative: ксе́­рок­сы
-plural_ins: ксе́­рок­са­ми
-plural_pre: ксе́­рок­сах
+plural_instrumental: ксе́­рок­са­ми
+plural_prepositive: ксе́­рок­сах
 
 partitive: null
 locative: null

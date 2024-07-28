@@ -10,34 +10,34 @@ masculine_nominative: вку́с­ный
 masculine_genitive: вку́с­но­го
 masculine_dative: вку́с­но­му
 masculine_accusative: вку́с­ный
-masculine_ins: вку́с­ным
-masculine_pre: вку́с­ном
+masculine_instrumental: вку́с­ным
+masculine_prepositive: вку́с­ном
 
 feminine_nominative: вку́с­ная
 feminine_genitive: вку́с­ной
 feminine_dative: вку́с­ной
 feminine_accusative: вку́с­ную
-feminine_ins: вку́с­ной
-feminine_pre: вку́с­ной
+feminine_instrumental: вку́с­ной
+feminine_prepositive: вку́с­ной
 
 neutral_nominative: вку́с­ное
 neutral_genitive: вку́с­но­го
 neutral_dative: вку́с­но­му
 neutral_accusative: вку́с­ное
-neutral_ins: вку́с­ным
-neutral_pre: вку́с­ном
+neutral_instrumental: вку́с­ным
+neutral_prepositive: вку́с­ном
 
 plural_nominative: вку́с­ные
 plural_genitive: вку́с­ных
 plural_dative: вку́с­ным
 plural_accusative: вку́с­ные
-plural_ins: вку́с­ны­ми
-plural_pre: вку́с­ных
+plural_instrumental: вку́с­ны­ми
+plural_prepositive: вку́с­ных
 
-shortform_mas: вку́­сен
-shortform_fem: вкус­на́
-shortform_neu: вку́с­но
-shortform_plu: вку́с­ны
+shortform_masculine: вку́­сен
+shortform_feminine: вкус­на́
+shortform_neutral: вку́с­но
+shortform_plural: вку́с­ны
 
 comparative: вкус­не́е
 superlative:

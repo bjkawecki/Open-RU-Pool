@@ -10,34 +10,34 @@ masculine_nominative: ов­ощ­но́й
 masculine_genitive: ов­ощ­но́­го
 masculine_dative: ов­ощ­но́­му
 masculine_accusative: ов­ощ­но́й
-masculine_ins: ов­ощ­ны́м
-masculine_pre: ов­ощ­но́м
+masculine_instrumental: ов­ощ­ны́м
+masculine_prepositive: ов­ощ­но́м
 
 feminine_nominative: ов­ощ­на́я
 feminine_genitive: ов­ощ­но́й
 feminine_dative: ов­ощ­но́й
 feminine_accusative: ов­ощ­ну́ю
-feminine_ins: ов­ощ­но́й
-feminine_pre: ов­ощ­но́й
+feminine_instrumental: ов­ощ­но́й
+feminine_prepositive: ов­ощ­но́й
 
 neutral_nominative: ов­ощ­но́е
 neutral_genitive: ов­ощ­но́­го
 neutral_dative: ов­ощ­но́­му
 neutral_accusative: ов­ощ­но́е
-neutral_ins: ов­ощ­ны́м
-neutral_pre: ов­ощ­но́м
+neutral_instrumental: ов­ощ­ны́м
+neutral_prepositive: ов­ощ­но́м
 
 plural_nominative: ов­ощ­ны́е
 plural_genitive: ов­ощ­ны́х
 plural_dative: ов­ощ­ны́м
 plural_accusative: ов­ощ­ны́е
-plural_ins: ов­ощ­ны́­ми
-plural_pre: ов­ощ­ны́х
+plural_instrumental: ов­ощ­ны́­ми
+plural_prepositive: ов­ощ­ны́х
 
-shortform_mas: null
-shortform_fem: null
-shortform_neu: null
-shortform_plu: null
+shortform_masculine: null
+shortform_feminine: null
+shortform_neutral: null
+shortform_plural: null
 
 comparative: null
 superlative: null

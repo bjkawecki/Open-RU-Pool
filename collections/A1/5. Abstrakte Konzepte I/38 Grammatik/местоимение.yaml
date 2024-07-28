@@ -6,29 +6,29 @@ translation:
 
 genus: neutral
 
-dec_cls: "2"
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tan: null
+is_singular_tantum: null
 
-is_plural_tan: null
+is_plural_tantum: null
 
 singular_nominative: мес­то­име́­ние
 singular_genitive: мес­то­име́­ния
 singular_dative: мес­то­име́­нию
 singular_accusative: мес­то­име́­ние
-singular_ins: мес­то­име́­ни­ем
-singular_pre: мес­то­име́­нии
+singular_instrumental: мес­то­име́­ни­ем
+singular_prepositive: мес­то­име́­нии
 
 plural_nominative: мес­то­име́­ния
 plural_genitive: мес­то­име́­ний
 plural_dative: мес­то­име́­ни­ям
 plural_accusative: мес­то­име́­ния
-plural_ins: мес­то­име́­ни­ями
-plural_pre: мес­то­име́­ни­ях
+plural_instrumental: мес­то­име́­ни­ями
+plural_prepositive: мес­то­име́­ни­ях
 
 partitive: null
 locative: null
