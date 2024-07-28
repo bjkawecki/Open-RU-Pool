@@ -4,7 +4,7 @@ name_accent: москвичи́
 translation:
   - Moskauer
 genus: masculine
-declination_class: "2"
+declination_class: 2
 stress: suffix
 is_animate: true
 is_singular_tantum: null

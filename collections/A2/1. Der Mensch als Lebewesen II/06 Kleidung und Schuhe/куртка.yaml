@@ -5,7 +5,7 @@ translation:
   - Jacke
 
 genus: feminine
-declination_class: "1"
+declination_class: 1
 stress: root
 
 is_animate: false

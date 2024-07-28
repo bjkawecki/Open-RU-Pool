@@ -1,21 +1,24 @@
 name: заметить
-name_accent:
+name_accent: за­ме́т­ить
 wordclass: verb
 translation:
+  - merken
+  - wahrnehmen
+  - bemerken
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: замеча́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case:
-indirect_object_case:
-direct_object_preposition:
-indirect_object_preposition:
-is_reflexive:
+direct_object_case: accusative
+indirect_object_case: null
+direct_object_preposition: null
+indirect_object_preposition: null
+is_reflexive: false
 
 present_singular_1:
 present_singular_2:
@@ -24,29 +27,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: за­ме́­чу
+future_singular_2: за­ме́т­ишь
+future_singular_3: за­ме́т­ит
+future_plural_1: за­ме́т­им
+future_plural_2: за­ме́­ти­те
+future_plural_3: за­ме́т­ят
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: за­ме́т­ил
+past_feminine: за­ме́­ти­ла
+past_neutral: за­ме́­ти­ло
+past_plural: за­ме́­ти­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: за­ме́т­ив­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: за­ме́т­ив­ши, за­ме́т­ив
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: за­ме́ч­ен­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: за­ме́ть
+imperative_plural: за­ме́ть­те
 
 comment: null
 usage: null

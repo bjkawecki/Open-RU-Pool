@@ -4,7 +4,7 @@ name_accent: тури́ст
 translation:
   - Tourist
 genus: masculine
-declination_class: "2"
+declination_class: 2
 stress: root
 is_animate: true
 is_singular_tantum: null

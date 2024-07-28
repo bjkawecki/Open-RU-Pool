@@ -1,10 +1,11 @@
-name: должны
-name_accent:
+name: Они должны
+name_accent: Они́ должны́
 wordclass: phrase
 translation:
+  - Sie müssen
 
 metaphrase:
 
-comment: null
+comment: 3. Person Plural
 usage: null
 etymology: null

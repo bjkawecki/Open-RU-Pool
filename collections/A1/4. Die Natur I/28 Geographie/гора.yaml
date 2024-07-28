@@ -4,7 +4,7 @@ name_accent: гора́
 translation:
   - Berg
 genus: feminine
-declination_class: "1"
+declination_class: 1
 stress: shifting
 is_animate: null
 is_singular_tantum: null

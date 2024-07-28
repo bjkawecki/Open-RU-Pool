@@ -4,7 +4,7 @@ name_accent: Герма́ния
 translation:
   - Deutschland
 genus: feminine
-declination_class: "1"
+declination_class: 1
 stress: root
 is_animate: null
 is_singular_tantum: null

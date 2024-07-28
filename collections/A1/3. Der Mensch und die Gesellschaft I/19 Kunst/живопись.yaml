@@ -4,7 +4,7 @@ name_accent: жи́вопись
 translation:
   - Malerei
 genus: feminine
-declination_class: "3"
+declination_class: 3
 stress: root
 is_animate: null
 is_singular_tantum: null

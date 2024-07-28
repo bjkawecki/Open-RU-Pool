@@ -4,7 +4,7 @@ name_accent: мать
 translation:
   - Mutter
 genus: feminine
-declination_class: "3"
+declination_class: 3
 stress: shifting
 is_animate: true
 is_singular_tantum: null

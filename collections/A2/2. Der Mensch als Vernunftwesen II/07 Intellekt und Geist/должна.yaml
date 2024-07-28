@@ -1,7 +1,8 @@
-name: должна
-name_accent:
+name: Она должна
+name_accent: Она́ должна́
 wordclass: phrase
 translation:
+  - Sie muss
 
 metaphrase:
 

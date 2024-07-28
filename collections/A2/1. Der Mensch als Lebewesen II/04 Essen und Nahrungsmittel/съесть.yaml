@@ -7,7 +7,7 @@ translation:
 
 aspect: perfective
 aspect_partner: есть
-conjugation_class: irregular
+conjugation_class: 2rregular
 
 is_motion_verb: false
 motion_partner: null

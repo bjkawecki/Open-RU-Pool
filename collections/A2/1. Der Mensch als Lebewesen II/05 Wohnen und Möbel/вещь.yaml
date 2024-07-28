@@ -6,7 +6,7 @@ translation:
   - Ding
 
 genus: feminine
-declination_class: "3"
+declination_class: 3
 stress: shifting
 is_animate: false
 is_singular_tantum: null

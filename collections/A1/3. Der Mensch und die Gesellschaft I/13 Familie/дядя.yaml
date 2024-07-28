@@ -4,7 +4,7 @@ name_accent: дя́дя
 translation:
   - Onkel
 genus: masculine
-declination_class: "1"
+declination_class: 1
 stress: shifting
 is_animate: true
 is_singular_tantum: null

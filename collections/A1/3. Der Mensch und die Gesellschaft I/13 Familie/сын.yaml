@@ -4,7 +4,7 @@ name_accent: сын
 translation:
   - Sohn
 genus: masculine
-declination_class: "2"
+declination_class: 2
 stress: shifting
 is_animate: true
 is_singular_tantum: null

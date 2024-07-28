@@ -4,7 +4,7 @@ name_accent: Эфио́пия
 translation:
   - Äthiopien
 genus: feminine
-declination_class: "1"
+declination_class: 1
 stress: null
 is_animate: null
 is_singular_tantum: null

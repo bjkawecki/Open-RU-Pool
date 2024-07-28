@@ -4,7 +4,7 @@ wordclass: substantive
 translation:
 
 genus: feminine
-declination_class: "2"
+declination_class: 2
 stress: root
 is_animate: false
 is_singular_tantum: null

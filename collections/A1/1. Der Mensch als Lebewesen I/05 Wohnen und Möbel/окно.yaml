@@ -4,7 +4,7 @@ name_accent: окно́
 translation:
   - Fenster
 genus: neutral
-declination_class: "2"
+declination_class: 2
 stress: shifting
 is_animate: null
 is_singular_tantum: null

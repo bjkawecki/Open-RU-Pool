@@ -6,7 +6,7 @@ translation:
   - Grütze
 
 genus: feminine
-declination_class: "1"
+declination_class: 1
 stress: root
 is_animate: false
 is_singular_tantum: null

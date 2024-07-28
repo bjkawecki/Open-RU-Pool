@@ -5,7 +5,7 @@ translation:
   - Pause
   - Unterbrechung
 genus: masculine
-declination_class: "2"
+declination_class: 2
 stress: root
 is_animate: null
 is_singular_tantum: null
