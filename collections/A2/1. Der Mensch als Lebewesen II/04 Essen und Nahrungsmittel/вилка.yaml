@@ -1,28 +1,29 @@
 name: вилка
-name_ac:
+name_ac: ви́л­ка
 wordcls: substantive
 translation:
+  - Gabel
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: feminine
+dec_cls: "1"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ви́л­ка
+sin_gen: ви́л­ки
+sin_dat: ви́л­ке
+sin_acc: ви́л­ку
+sin_ins: ви́л­кой
+sin_pre: ви́л­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ви́л­ки
+plu_gen: ви́­лок
+plu_dat: ви́л­кам
+plu_acc: ви́л­ки
+plu_ins: ви́л­ка­ми
+plu_pre: ви́л­ках
 
 partitive:
 locative:

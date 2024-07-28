@@ -1,28 +1,28 @@
 name: ягода
-name_ac:
+name_ac: я́го­да
 wordcls: substantive
 translation:
+  - Beere
+genus: feminine
+dec_cls: "1"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+sin_nom: я́го­да
+sin_gen: я́го­ды
+sin_dat: я́го­де
+sin_acc: я́го­ду
+sin_ins: я́го­дой
+sin_pre: я́го­де
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
-
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: я́го­ды
+plu_gen: я́г­од
+plu_dat: я́го­дам
+plu_acc: я́го­ды
+plu_ins: я́го­да­ми
+plu_pre: я́го­дах
 
 partitive:
 locative:

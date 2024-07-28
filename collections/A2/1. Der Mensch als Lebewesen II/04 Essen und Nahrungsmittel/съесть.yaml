@@ -1,19 +1,21 @@
 name: съесть
-name_ac:
+name_ac: съесть
 wordcls: verb
 translation:
+  - essen
+  - aufessen
 
-aspect:
-partner:
-con_cls:
+aspect: perfective
+partner: есть
+con_cls: irregular
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +24,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: съ­ем
+fut_sin_2: съ­ешь
+fut_sin_3: съ­ест
+fut_plu_1: съ­ед­и́м
+fut_plu_2: съ­еди́­те
+fut_plu_3: съ­ед­я́т
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: съ­ел
+pas_fem: съ­е́ла
+pas_neu: съ­е́ло
+pas_plu: съ­е́ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: съ­е́в­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: съ­е́в­ши, съ­ев
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: съ­е́д­ен­ный
 
-imp_sin:
-imp_plu:
+imp_sin: съ­ешь
+imp_plu: съ­е́шь­те
 
 comment:
 usage:

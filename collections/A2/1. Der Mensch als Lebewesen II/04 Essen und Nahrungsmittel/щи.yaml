@@ -1,14 +1,15 @@
 name: щи
-name_ac:
+name_ac: щи
 wordcls: substantive
 translation:
+  - Kohlsuppe
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: masculine
+dec_cls: "2"
+stress: suffix
+is_animate: false
+is_sin_tan: null
+is_plu_tan: true
 
 sin_nom:
 sin_gen:
@@ -17,12 +18,12 @@ sin_acc:
 sin_ins:
 sin_pre:
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: щи
+plu_gen: щей
+plu_dat: щам
+plu_acc: щи
+plu_ins: щами
+plu_pre: щах
 
 partitive:
 locative:

@@ -1,28 +1,31 @@
 name: бутерброд
-name_ac:
+name_ac: бу­терб­ро́д
 wordcls: substantive
 translation:
+  - belegtes Brot
+  - Stulle
+  - Schnitte
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: masculine
+dec_cls: "2"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: бу­терб­ро́д
+sin_gen: бу­терб­ро́­да
+sin_dat: бу­терб­ро́­ду
+sin_acc: бу­терб­ро́д
+sin_ins: бу­терб­ро́­дом
+sin_pre: бу­терб­ро́­де
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: бу­терб­ро́­ды
+plu_gen: бу­терб­ро́­дов
+plu_dat: бу­терб­ро́­дам
+plu_acc: бу­терб­ро́­ды
+plu_ins: бу­терб­ро́­да­ми
+plu_pre: бу­терб­ро́­дах
 
 partitive:
 locative:

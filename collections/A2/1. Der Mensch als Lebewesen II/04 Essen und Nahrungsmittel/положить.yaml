@@ -1,19 +1,19 @@
 name: положить
-name_ac:
+name_ac: по­лож­и́ть
 wordcls: verb
 translation:
 
-aspect:
-partner:
-con_cls:
+aspect: perfective
+partner: класть
+con_cls: i
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +22,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: по­ло­жу́
+fut_sin_2: по­ло́ж­ишь
+fut_sin_3: по­ло́ж­ит
+fut_plu_1: по­ло́ж­им
+fut_plu_2: по­ло́­жи­те
+fut_plu_3: по­ло́ж­ат
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: по­лож­и́л
+pas_fem: по­ло­жи́­ла
+pas_neu: по­ло­жи́­ло
+pas_plu: по­ло­жи́­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: по­лож­и́в­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: по­лож­и́в­ши, по­лож­и́в
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: по­ло́ж­ен­ный
 
-imp_sin:
-imp_plu:
+imp_sin: по­ло­жи́
+imp_plu: по­ло­жи́­те
 
 comment:
 usage:

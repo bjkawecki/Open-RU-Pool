@@ -1,19 +1,21 @@
 name: сварить
-name_ac:
+name_ac: сва­ри́ть
 wordcls: verb
 translation:
+  - kochen
+  - zubereiten
 
-aspect:
-partner:
-con_cls:
+aspect: perfective
+partner: ва­ри́ть
+con_cls: i
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
 pre_sin_1:
 pre_sin_2:
@@ -22,30 +24,30 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: сва­рю́
+fut_sin_2: сва́­ришь
+fut_sin_3: сва́­рит
+fut_plu_1: сва́­рим
+fut_plu_2: сва́­ри­те
+fut_plu_3: сва́­рят
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: сва­ри́л
+pas_fem: сва­ри́­ла
+pas_neu: сва­ри́­ло
+pas_plu: сва­ри́­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: сва­ри́в­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: сва­ри́в­ши, сва­ри́в
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: сва́­рен­ный
 
-imp_sin:
-imp_plu:
+imp_sin: сва­ри́
+imp_plu: сва­ри́­те
 
-comment:
+comment: mit Wasser
 usage:
 etymol:

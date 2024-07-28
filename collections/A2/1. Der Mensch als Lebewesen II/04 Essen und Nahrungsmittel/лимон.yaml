@@ -1,28 +1,30 @@
 name: лимон
-name_ac:
+name_ac: ли­мо́н
 wordcls: substantive
 translation:
+  - Zitrone
+  - Zitronenbaum
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: masculine
+dec_cls: "2"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ли­мо́н
+sin_gen: ли­мо́­на
+sin_dat: ли­мо́­ну
+sin_acc: ли­мо́н
+sin_ins: ли­мо́н­ом
+sin_pre: ли­мо́­не
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ли­мо́­ны
+plu_gen: ли­мо́н­ов
+plu_dat: ли­мо́н­ам
+plu_acc: ли­мо́­ны
+plu_ins: ли­мо́­на­ми
+plu_pre: ли­мо́н­ах
 
 partitive:
 locative:

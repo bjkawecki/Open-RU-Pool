@@ -1,28 +1,29 @@
 name: водка
-name_ac:
+name_ac: во́д­ка
 wordcls: substantive
 translation:
+  - Wodka
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: feminine
+dec_cls: "1"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: во́д­ка
+sin_gen: во́д­ки
+sin_dat: во́д­ке
+sin_acc: во́д­ку
+sin_ins: во́д­кой
+sin_pre: во́д­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: во́д­ки
+plu_gen: во́­док
+plu_dat: во́д­кам
+plu_acc: во́д­ки
+plu_ins: во́д­ка­ми
+plu_pre: во́д­ках
 
 partitive:
 locative:

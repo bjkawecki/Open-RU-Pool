@@ -1,28 +1,29 @@
 name: пирог
-name_ac:
+name_ac: пи­ро́г
 wordcls: substantive
 translation:
+  - Kuchen
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: masculine
+dec_cls: "2"
+stress: suffix
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: пи­ро́г
+sin_gen: пи­ро­га́
+sin_dat: пи­ро­гу́
+sin_acc: пи­ро́г
+sin_ins: пи­рог­о́м
+sin_pre: пи­ро­ге́
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: пи­ро­ги́
+plu_gen: пи­рог­о́в
+plu_dat: пи­рог­а́м
+plu_acc: пи­ро­ги́
+plu_ins: пи­ро­га́­ми
+plu_pre: пи­рог­а́х
 
 partitive:
 locative:

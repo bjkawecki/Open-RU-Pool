@@ -1,17 +1,19 @@
 name: выпить
-name_ac:
+name_ac: вы́­пить
 wordcls: verb
 translation:
+  - trinken
+  - austrinken
 
-aspect:
-partner:
-con_cls:
+aspect: perfective
+partner: пить
+con_cls: e
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: true
+motion_partner: null
+direction: null
 
-obj_case:
+obj_case: accusative
 verb_prepo:
 is_reflexive:
 
@@ -22,30 +24,30 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: вы́пью
+fut_sin_2: вы́пь­ешь
+fut_sin_3: вы́пь­ет
+fut_plu_1: вы́пь­ем
+fut_plu_2: вы́пь­ете
+fut_plu_3: вы́пь­ют
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: вы́­пил
+pas_fem: вы́­пи­ла
+pas_neu: вы́­пи­ло
+pas_plu: вы́­пи­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: вы́­пив­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: выпивши, выпив
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: вы́­пи­тый
 
-imp_sin:
-imp_plu:
+imp_sin: вы́­пей
+imp_plu: вы́­пей­те
 
-comment:
+comment: häufig verwendet im Kontext alkoholischer Getränke
 usage:
 etymol:

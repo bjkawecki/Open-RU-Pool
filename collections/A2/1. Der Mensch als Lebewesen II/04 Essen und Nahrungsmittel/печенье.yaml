@@ -1,28 +1,31 @@
 name: печенье
-name_ac:
+name_ac: пе­че́нье
 wordcls: substantive
 translation:
+  - Gebäck
+  - Keks
+  - Plätzchen
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: neutral
+dec_cls: "2"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: пе­че́нье
+sin_gen: пе­че́нья
+sin_dat: пе­че́нью
+sin_acc: пе­че́нье
+sin_ins: пе­че́нь­ем
+sin_pre: пе­че́нье
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: пе­че́нья
+plu_gen: пе­че́­ний
+plu_dat: пе­че́нь­ям
+plu_acc: пе­че́нья
+plu_ins: пе­че́нь­ями
+plu_pre: пе­че́нь­ях
 
 partitive:
 locative:

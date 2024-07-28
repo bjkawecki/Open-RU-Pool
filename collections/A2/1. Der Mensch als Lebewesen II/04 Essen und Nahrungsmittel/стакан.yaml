@@ -1,28 +1,31 @@
 name: стакан
-name_ac:
+name_ac: ста­ка́н
 wordcls: substantive
 translation:
+  - Glas
+  - Trinkglas
+  - Becher
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: "masculine"
+dec_cls: "2"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ста­ка́н
+sin_gen: ста­ка́­на
+sin_dat: ста­ка́­ну
+sin_acc: ста­ка́н
+sin_ins: ста­ка́н­ом
+sin_pre: ста­ка́­не
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ста­ка́­ны
+plu_gen: ста­ка́н­ов
+plu_dat: ста­ка́н­ам
+plu_acc: ста­ка́­ны
+plu_ins: ста­ка́­на­ми
+plu_pre: ста­ка́н­ах
 
 partitive:
 locative:

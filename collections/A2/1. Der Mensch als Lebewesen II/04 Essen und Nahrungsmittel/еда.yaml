@@ -1,28 +1,31 @@
 name: еда
-name_ac:
+name_ac: еда́
 wordcls: substantive
 translation:
+  - Essen
+  - Mahlzeit
+  - Nahrung
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: feminine
+dec_cls: "1"
+stress: shifting
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: еда́
+sin_gen: еды́
+sin_dat: еде́
+sin_acc: еду́
+sin_ins: едо́й
+sin_pre: еде́
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: е́ды
+plu_gen: ед
+plu_dat: е́д­ам
+plu_acc: е́ды
+plu_ins: е́да­ми
+plu_pre: е́д­ах
 
 partitive:
 locative:

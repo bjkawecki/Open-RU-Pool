@@ -1,28 +1,29 @@
 name: продукты
-name_ac:
+name_ac: проду́кты
 wordcls: substantive
 translation:
+  - Lebensmittel
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: masculine
+dec_cls: "2"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: true
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: null
+sin_gen: null
+sin_dat: null
+sin_acc: null
+sin_ins: null
+sin_pre: null
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: про­ду́к­ты
+plu_gen: про­ду́к­тов
+plu_dat: про­ду́к­там
+plu_acc: про­ду́к­ты
+plu_ins: про­ду́к­та­ми
+plu_pre: про­ду́к­тах
 
 partitive:
 locative:

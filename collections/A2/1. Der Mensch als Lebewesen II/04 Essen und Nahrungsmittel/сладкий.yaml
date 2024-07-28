@@ -1,44 +1,45 @@
 name: сладкий
-name_ac:
+name_ac: сла́д­кий
 wordcls: adjective
 translation:
+  - süß
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: сла́д­кий
+mas_gen: сла́д­ко­го
+mas_dat: сла́д­ко­му
+mas_acc: сла́д­кий
+mas_ins: сла́д­ким
+mas_pre: сла́д­ком
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: сла́д­кая
+fem_gen: сла́д­кой
+fem_dat: сла́д­кой
+fem_acc: сла́д­кую
+fem_ins: сла́д­кой
+fem_pre: сла́д­кой
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: сла́д­кое
+neu_gen: сла́д­ко­го
+neu_dat: сла́д­ко­му
+neu_acc: сла́д­кое
+neu_ins: сла́д­ким
+neu_pre: сла́д­ком
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: сла́д­кие
+plu_gen: сла́д­ких
+plu_dat: сла́д­ким
+plu_acc: сла́д­кие
+plu_ins: сла́д­ки­ми
+plu_pre: сла́д­ких
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: сла́­док
+sho_fem: слад­ка́
+sho_neu: сла́д­ко
+sho_plu: сла́д­ки
 
-compara:
+compara: сла́­ще
 superla:
 
 comment:

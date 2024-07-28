@@ -1,28 +1,28 @@
 name: аппетит
-name_ac:
+name_ac: ап­пе­ти́т
 wordcls: substantive
 translation:
+  - Appetit
+genus: masculine
+dec_cls: "2"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+sin_nom: ап­пе­ти́т
+sin_gen: ап­пе­ти́­та
+sin_dat: ап­пе­ти́­ту
+sin_acc: ап­пе­ти́т
+sin_ins: ап­пе­ти́т­ом
+sin_pre: ап­пе­ти́­те
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
-
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ап­пе­ти́­ты
+plu_gen: ап­пе­ти́т­ов
+plu_dat: ап­пе­ти́т­ам
+plu_acc: ап­пе­ти́­ты
+plu_ins: ап­пе­ти́­та­ми
+plu_pre: ап­пе­ти́т­ах
 
 partitive:
 locative:

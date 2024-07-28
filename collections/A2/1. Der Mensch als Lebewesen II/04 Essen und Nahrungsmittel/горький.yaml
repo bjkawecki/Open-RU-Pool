@@ -1,44 +1,46 @@
 name: горький
-name_ac:
+name_ac: го́рь­кий
 wordcls: adjective
 translation:
+  - bitter
+  - herb
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: го́рь­кий
+mas_gen: го́рь­ко­го
+mas_dat: го́рь­ко­му
+mas_acc: го́рь­кий
+mas_ins: го́рь­ким
+mas_pre: го́рь­ком
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: го́рь­кая
+fem_gen: го́рь­кой
+fem_dat: го́рь­кой
+fem_acc: го́рь­кую
+fem_ins: го́рь­кой
+fem_pre: го́рь­кой
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: го́рь­кое
+neu_gen: го́рь­ко­го
+neu_dat: го́рь­ко­му
+neu_acc: го́рь­кое
+neu_ins: го́рь­ким
+neu_pre: го́рь­ком
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: го́рь­кие
+plu_gen: го́рь­ких
+plu_dat: го́рь­ким
+plu_acc: го́рь­кие
+plu_ins: го́рь­ки­ми
+plu_pre: го́рь­ких
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: го́­рек
+sho_fem: горь­ка́
+sho_neu: го́рь­ко
+sho_plu: го́рь­ки
 
-compara:
+compara: го́р­че
 superla:
 
 comment:

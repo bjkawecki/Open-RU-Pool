@@ -1,19 +1,21 @@
 name: приготовить
-name_ac:
+name_ac: при­го­то́­вить
 wordcls: verb
 translation:
+  - vorbereiten
+  - kochen
 
-aspect:
-partner:
-con_cls:
+aspect: perfective
+partner: гото́вить
+con_cls: i
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +24,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: при­гот­о́в­лю
+fut_sin_2: при­го­то́­вишь
+fut_sin_3: при­го­то́­вит
+fut_plu_1: при­го­то́­вим
+fut_plu_2: при­го­то́­ви­те
+fut_plu_3: при­го­то́­вят
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: при­го­то́­вил
+pas_fem: при­го­то́­ви­ла
+pas_neu: при­го­то́­ви­ло
+pas_plu: при­го­то́­ви­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: при­го­то́­вив­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: при­го­то́­вив­ши, при­го­то́­вив
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: при­гот­о́в­лен­ный
 
-imp_sin:
-imp_plu:
+imp_sin: при­гот­о́вь
+imp_plu: при­гот­о́вь­те
 
 comment:
 usage:

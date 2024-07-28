@@ -1,19 +1,22 @@
 name: заказать
-name_ac:
+name_ac: за­каз­а́ть
 wordcls: verb
 translation:
+  - bestellen
+  - reservieren
+  - beauftragen
 
-aspect:
-partner:
-con_cls:
+aspect: perfective
+partner: заказывать
+con_cls: e
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: null
 
 pre_sin_1:
 pre_sin_2:
@@ -22,29 +25,29 @@ pre_plu_1:
 pre_plu_2:
 pre_plu_3:
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+fut_sin_1: за­ка­жу́
+fut_sin_2: за­ка́ж­ешь
+fut_sin_3: за­ка́ж­ет
+fut_plu_1: за­ка́ж­ем
+fut_plu_2: за­ка́­же­те
+fut_plu_3: за­ка́ж­ут
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: за­каз­а́л
+pas_fem: за­ка­за́­ла
+pas_neu: за­ка­за́­ло
+pas_plu: за­ка­за́­ли
 
 par_pre_act:
-par_pas_act:
+par_pas_act: за­каз­а́в­ший
 
 par_adv_pre:
-par_adv_pas:
+par_adv_pas: за­каз­а́в­ши, за­каз­а́в
 
 par_pre_pas:
-par_pas_pas:
+par_pas_pas: за­ка́з­ан­ный
 
-imp_sin:
-imp_plu:
+imp_sin: за­ка­жи́
+imp_plu: за­ка­жи́­те
 
 comment:
 usage:

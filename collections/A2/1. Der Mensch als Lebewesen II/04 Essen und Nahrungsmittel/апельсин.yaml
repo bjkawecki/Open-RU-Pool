@@ -1,28 +1,30 @@
 name: апельсин
-name_ac:
+name_ac: ап­ель­си́н
 wordcls: substantive
 translation:
+  - Orange
+  - Apfelsine
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: masculine
+dec_cls: "2"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: ап­ель­си́н
+sin_gen: ап­ель­си́­на
+sin_dat: ап­ель­си́­ну
+sin_acc: ап­ель­си́н
+sin_ins: ап­ель­си́­ном
+sin_pre: ап­ель­си́­не
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: ап­ель­си́­ны
+plu_gen: ап­ель­си́­нов
+plu_dat: ап­ель­си́­нам
+plu_acc: ап­ель­си́­ны
+plu_ins: ап­ель­си́­на­ми
+plu_pre: ап­ель­си́­нах
 
 partitive:
 locative:

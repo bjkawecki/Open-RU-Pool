@@ -1,44 +1,47 @@
 name: мягкий
-name_ac:
+name_ac: мя́г­кий
 wordcls: adjective
 translation:
+  - weich
+  - mild
+  - zart
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: мя́г­кий
+mas_gen: мя́г­ко­го
+mas_dat: мя́г­ко­му
+mas_acc: мя́г­кий
+mas_ins: мя́г­ким
+mas_pre: мя́г­ком
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: мя́г­кая
+fem_gen: мя́г­кой
+fem_dat: мя́г­кой
+fem_acc: мя́г­кую
+fem_ins: мя́г­кой
+fem_pre: мя́г­кой
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: мя́г­кое
+neu_gen: мя́г­ко­го
+neu_dat: мя́г­ко­му
+neu_acc: мя́г­кое
+neu_ins: мя́г­ким
+neu_pre: мя́г­ком
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: мя́г­кие
+plu_gen: мя́г­ких
+plu_dat: мя́г­ким
+plu_acc: мя́г­кие
+plu_ins: мя́г­ки­ми
+plu_pre: мя́г­ких
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: мя́­гок
+sho_fem: мяг­ка́
+sho_neu: мя́г­ко
+sho_plu: мя́г­ки
 
-compara:
+compara: мя́г­че
 superla:
 
 comment:

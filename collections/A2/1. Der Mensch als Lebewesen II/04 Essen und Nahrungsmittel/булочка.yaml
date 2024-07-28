@@ -2,27 +2,28 @@ name: булочка
 name_ac:
 wordcls: substantive
 translation:
+  - Brötchen
 
-genus:
-dec_cls:
-stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+genus: feminine
+dec_cls: "1"
+stress: root
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: бу́­лоч­ка
+sin_gen: бу́­лоч­ки
+sin_dat: бу́­лоч­ке
+sin_acc: бу́­лоч­ку
+sin_ins: бу́­лоч­кой
+sin_pre: бу́­лоч­ке
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: бу́­лоч­ки
+plu_gen: бу́­лоч­ек
+plu_dat: бу́­лоч­кам
+plu_acc: бу́­лоч­ки
+plu_ins: бу́­лоч­ка­ми
+plu_pre: бу́­лоч­ках
 
 partitive:
 locative:

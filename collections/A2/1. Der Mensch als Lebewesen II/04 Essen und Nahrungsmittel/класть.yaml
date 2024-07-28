@@ -1,26 +1,30 @@
 name: класть
-name_ac:
+name_ac: класть
 wordcls: verb
 translation:
+  - legen
+  - reinlegen
+  - auflegen
+  - drauflegen
 
-aspect:
-partner:
-con_cls:
+aspect: imperfective
+partner: положи́ть
+con_cls: e
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: кла­ду́
+pre_sin_2: кла­дёшь
+pre_sin_3: кла­дёт
+pre_plu_1: кла­дём
+pre_plu_2: кла­дё­те
+pre_plu_3: кла­ду́т
 
 fut_sin_1:
 fut_sin_2:
@@ -29,22 +33,22 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: клал
+pas_fem: кла́­ла
+pas_neu: кла́­ло
+pas_plu: кла́­ли
 
-par_pre_act:
-par_pas_act:
+par_pre_act: кла­ду́­щий
+par_pas_act: кла́в­ший
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: кла­дя́
+par_adv_pas: кла́в­ши, кла́в
 
-par_pre_pas:
+par_pre_pas: кла­до́­мый
 par_pas_pas:
 
-imp_sin:
-imp_plu:
+imp_sin: кла­ди́
+imp_plu: кла­ди́­те
 
 comment:
 usage:

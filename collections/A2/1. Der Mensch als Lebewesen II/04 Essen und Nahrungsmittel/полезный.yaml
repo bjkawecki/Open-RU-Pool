@@ -1,44 +1,47 @@
 name: полезный
-name_ac:
+name_ac: по­ле́з­ный
 wordcls: adjective
 translation:
+  - gesund
+  - nützlich
+  - bereichernd
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: по­ле́з­ный
+mas_gen: по­ле́з­но­го
+mas_dat: по­ле́з­но­му
+mas_acc: по­ле́з­ный
+mas_ins: по­ле́з­ным
+mas_pre: по­ле́з­ном
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: по­ле́з­ная
+fem_gen: по­ле́з­ной
+fem_dat: по­ле́з­ной
+fem_acc: по­ле́з­ную
+fem_ins: по­ле́з­ной
+fem_pre: по­ле́з­ной
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: по­ле́з­ное
+neu_gen: по­ле́з­но­го
+neu_dat: по­ле́з­но­му
+neu_acc: по­ле́з­ное
+neu_ins: по­ле́з­ным
+neu_pre: по­ле́з­ном
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: по­ле́з­ные
+plu_gen: по­ле́з­ных
+plu_dat: по­ле́з­ным
+plu_acc: по­ле́з­ные
+plu_ins: по­ле́з­ны­ми
+plu_pre: по­ле́з­ных
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: по­ле́з­ен
+sho_fem: по­ле́з­на
+sho_neu: по­ле́з­но
+sho_plu: по­ле́з­ны
 
-compara:
+compara: по­ле́з­нее
 superla:
 
 comment:

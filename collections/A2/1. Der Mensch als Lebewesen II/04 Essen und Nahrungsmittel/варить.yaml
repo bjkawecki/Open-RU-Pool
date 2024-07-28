@@ -1,26 +1,28 @@
 name: варить
-name_ac:
+name_ac: ва­ри́ть
 wordcls: verb
 translation:
+  - kochen
+  - zubereiten
 
-aspect:
-partner:
-con_cls:
+aspect: imperfective
+partner: сва­ри́ть
+con_cls: "i"
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-obj_case:
-verb_prepo:
-is_reflexive:
+obj_case: accusative
+verb_prepo: null
+is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+pre_sin_1: ва­рю́
+pre_sin_2: ва́­ришь
+pre_sin_3: ва́­рит
+pre_plu_1: ва́­рим
+pre_plu_2: ва́­ри­те
+pre_plu_3: ва́­рят
 
 fut_sin_1:
 fut_sin_2:
@@ -29,23 +31,23 @@ fut_plu_1:
 fut_plu_2:
 fut_plu_3:
 
-pas_mas:
-pas_fem:
-pas_neu:
-pas_plu:
+pas_mas: ва­ри́л
+pas_fem: ва­ри́­ла
+pas_neu: ва­ри́­ло
+pas_plu: ва­ри́­ли
 
-par_pre_act:
-par_pas_act:
+par_pre_act: ва́­ря­щий
+par_pas_act: ва­ри́в­ший
 
-par_adv_pre:
-par_adv_pas:
+par_adv_pre: ва­ря́
+par_adv_pas: ва­ри́в­ши, ва­ри́в
 
-par_pre_pas:
-par_pas_pas:
+par_pre_pas: ва­ри́­мый
+par_pas_pas: ва́­рен­ный
 
-imp_sin:
-imp_plu:
+imp_sin: ва­ри́
+imp_plu: ва­ри́­те
 
-comment:
+comment: mit Wasser
 usage:
 etymol:
