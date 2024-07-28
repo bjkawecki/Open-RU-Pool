@@ -1,9 +1,9 @@
 name: господин Петров
-name_ac: господи́н Петро́в
-wordcls: phrase
+name_accent: господи́н Петро́в
+wordclass: phrase
 translation:
   - Herr Petrow
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

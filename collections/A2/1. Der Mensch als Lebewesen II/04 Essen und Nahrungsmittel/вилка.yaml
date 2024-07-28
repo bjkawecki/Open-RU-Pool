@@ -1,6 +1,6 @@
 name: вилка
-name_ac: ви́л­ка
-wordcls: substantive
+name_accent: ви́л­ка
+wordclass: substantive
 translation:
   - Gabel
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

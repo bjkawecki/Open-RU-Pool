@@ -1,6 +1,6 @@
 name: современный
-name_ac: совреме́нный
-wordcls: adjective
+name_accent: совреме́нный
+wordclass: adjective
 translation:
   - aktuell
   - gegenwärtig
@@ -34,8 +34,8 @@ sho_mas: сов­ре­ме́н­ен
 sho_fem: сов­ре­ме́н­на
 sho_neu: сов­ре­ме́н­но
 sho_plu: сов­ре­ме́н­ны
-compara: сов­ре­ме́н­нее
-superla: самый совреме́нный
+comparative: сов­ре­ме́н­нее
+superlative: самый совреме́нный
 comment: null
 usage: null
-etymol: null
+etymology: null

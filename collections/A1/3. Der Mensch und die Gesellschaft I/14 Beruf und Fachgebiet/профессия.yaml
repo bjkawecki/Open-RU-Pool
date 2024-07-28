@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: профессия
-name_ac: профе́ссия
+name_accent: профе́ссия
 translation:
   - Beruf
   - Metier
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

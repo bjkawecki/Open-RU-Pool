@@ -1,6 +1,6 @@
 name: лимон
-name_ac: ли­мо́н
-wordcls: substantive
+name_accent: ли­мо́н
+wordclass: substantive
 translation:
   - Zitrone
   - Zitronenbaum
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

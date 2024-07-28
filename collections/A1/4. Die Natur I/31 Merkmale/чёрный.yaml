@@ -1,6 +1,6 @@
 name: чёрный
-name_ac: чёрный
-wordcls: adjective
+name_accent: чёрный
+wordclass: adjective
 translation:
   - schwarz
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: чё­рен
 sho_fem: чер­на́
 sho_neu: чер­но́
 sho_plu: чер­ны́
-compara: чер­не́е
-superla: самый чёрный
+comparative: чер­не́е
+superlative: самый чёрный
 comment: null
 usage: null
-etymol: null
+etymology: null

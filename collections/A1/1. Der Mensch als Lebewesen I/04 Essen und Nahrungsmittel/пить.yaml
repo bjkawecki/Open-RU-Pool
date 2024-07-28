@@ -1,41 +1,43 @@
 name: пить
-name_ac: пить
-wordcls: verb
+name_accent: пить
+wordclass: verb
 translation:
   - trinken
 aspect: imperfective
-partner: вы́пить
-con_cls: e
+aspect_partner: вы́пить
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: пью
-pre_sin_2: пь­ёшь
-pre_sin_3: пь­ёт
-pre_plu_1: пь­ём
-pre_plu_2: пь­ёте
-pre_plu_3: пь­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: пил
-pas_fem: пи­ла́
-pas_neu: пи́­ло
-pas_plu: пи́­ли
-par_pre_act: пь­ю́щий
-par_pas_act: пи́в­ший
-par_pre_pas: null
-par_pas_pas: пи́в­ши, пи́в
-par_adv_pre: null
-par_adv_pas: пи́­тый
-imp_sin: пей
-imp_plu: пе́й­те
+present_singular_1: пью
+present_singular_2: пь­ёшь
+present_singular_3: пь­ёт
+present_plural_1: пь­ём
+present_plural_2: пь­ёте
+present_plural_3: пь­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: пил
+past_feminine: пи­ла́
+past_neutral: пи́­ло
+past_plural: пи́­ли
+participle_active_present: пь­ю́щий
+participle_active_past: пи́в­ший
+participle_passive_present: null
+participle_passive_past: пи́в­ши, пи́в
+participle_adverbial_present: null
+participle_adverbial_passive: пи́­тый
+imperative_singular: пей
+imperative_plural: пе́й­те
 comment: null
 usage: null
-etymol: null
+etymology: null

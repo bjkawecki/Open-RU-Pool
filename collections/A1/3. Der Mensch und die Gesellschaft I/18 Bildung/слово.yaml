@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: слово
-name_ac: сло́во
+name_accent: сло́во
 translation:
   - Wort
 genus: neutral
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

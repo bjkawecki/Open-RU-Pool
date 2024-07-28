@@ -1,6 +1,6 @@
 name: больница
-name_ac: боль­ни́­ца
-wordcls: substantive
+name_accent: боль­ни́­ца
+wordclass: substantive
 translation:
   - Krankenhaus
 
@@ -35,4 +35,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

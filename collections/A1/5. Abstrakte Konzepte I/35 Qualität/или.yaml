@@ -1,9 +1,9 @@
 name: или
-name_ac: и́ли
-wordcls: conjunction
+name_accent: и́ли
+wordclass: conjunction
 translation:
   - oder
 
 comment: null
 usage: null
-etymol: null
+etymology: null

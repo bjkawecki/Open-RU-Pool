@@ -1,6 +1,6 @@
 name: тёмный
-name_ac: тёмный
-wordcls: adjective
+name_accent: тёмный
+wordclass: adjective
 translation:
   - dunkel
 
@@ -39,9 +39,9 @@ sho_fem: тем­на́
 sho_neu: тем­но́
 sho_plu: тем­ны́
 
-compara: тем­не́е
-superla:
+comparative: тем­не́е
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

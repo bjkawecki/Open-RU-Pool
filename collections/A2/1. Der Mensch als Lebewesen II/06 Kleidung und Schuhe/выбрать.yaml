@@ -1,51 +1,53 @@
 name: выбрать
-name_ac: вы́б­рать
-wordcls: verb
+name_accent: вы́б­рать
+wordclass: verb
 translation:
 
 aspect: perfective
-partner: вы­бир­а́ть
-con_cls: i
+aspect_partner: вы­бир­а́ть
+conjugation_class: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+present_singular_1:
+present_singular_2:
+present_singular_3:
+present_plural_1:
+present_plural_2:
+present_plural_3:
 
-fut_sin_1: вы́­бе­ру
-fut_sin_2: вы́­бер­ешь
-fut_sin_3: вы́­бер­ет
-fut_plu_1: вы́­бер­ем
-fut_plu_2: вы́­бе­ре­те
-fut_plu_3: вы́­бер­ут
+future_singular_1: вы́­бе­ру
+future_singular_2: вы́­бер­ешь
+future_singular_3: вы́­бер­ет
+future_plural_1: вы́­бер­ем
+future_plural_2: вы́­бе­ре­те
+future_plural_3: вы́­бер­ут
 
-pas_mas: вы́б­рал
-pas_fem: вы́б­ра­ла
-pas_neu: вы́б­ра­ло
-pas_plu: вы́б­ра­ли
+past_masculine: вы́б­рал
+past_feminine: вы́б­ра­ла
+past_neutral: вы́б­ра­ло
+past_plural: вы́б­ра­ли
 
-par_pre_act:
-par_pas_act: вы́б­ра­вший
+participle_active_present:
+participle_active_past: вы́б­ра­вший
 
-par_adv_pre:
-par_adv_pas: вы́б­ра­вши,вы́б­рав
+participle_adverbial_present:
+participle_adverbial_passive: вы́б­ра­вши,вы́б­рав
 
-par_pre_pas:
-par_pas_pas: вы́б­ран­ный
+participle_passive_present:
+participle_passive_past: вы́б­ран­ный
 
-imp_sin: вы́­бе­ри
-imp_plu: вы́­бе­ри­те
+imperative_singular: вы́­бе­ри
+imperative_plural: вы́­бе­ри­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

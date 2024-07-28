@@ -1,6 +1,6 @@
 name: интересный
-name_ac: интере́сный
-wordcls: adjective
+name_accent: интере́сный
+wordclass: adjective
 translation:
   - interessant
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: ин­те­ре́с­ен
 sho_fem: ин­те­ре́с­на
 sho_neu: ин­те­ре́с­но
 sho_plu: ин­те­ре́с­ны
-compara: ин­те­ре́с­нее
-superla: самый интере́сный
+comparative: ин­те­ре́с­нее
+superlative: самый интере́сный
 comment: null
 usage: null
-etymol: null
+etymology: null

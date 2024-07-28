@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: вокзал
-name_ac: вокза́л
+name_accent: вокза́л
 translation:
   - Bahnhof
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

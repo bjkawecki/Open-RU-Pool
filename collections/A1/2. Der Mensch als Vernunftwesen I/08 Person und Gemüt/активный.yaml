@@ -1,6 +1,6 @@
 name: активный
-name_ac: акти́вный
-wordcls: adjective
+name_accent: акти́вный
+wordclass: adjective
 translation:
   - aktiv
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: ак­ти́­вен
 sho_fem: ак­ти́­вна
 sho_neu: ак­ти́­вно
 sho_plu: ак­ти́­вны
-compara: ак­ти́­внее
-superla: самый акти́вный
+comparative: ак­ти́­внее
+superlative: самый акти́вный
 comment: null
 usage: null
-etymol: null
+etymology: null

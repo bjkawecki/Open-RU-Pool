@@ -1,9 +1,9 @@
 name: можно
-name_ac: мо́жно
-wordcls: adverb
+name_accent: мо́жно
+wordclass: adverb
 translation:
   - (man) kann
   - (man) darf
 comment: null
 usage: null
-etymol: null
+etymology: null

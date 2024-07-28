@@ -1,6 +1,6 @@
 name: сорок
-name_ac: со́рок
-wordcls: numeral
+name_accent: со́рок
+wordclass: numeral
 translation:
   - vierzig
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: женский
-name_ac: же́нс­кий
-wordcls: adjective
+name_accent: же́нс­кий
+wordclass: adjective
 translation:
   - Frauen-
   - Damen-
@@ -41,9 +41,9 @@ sho_fem: null
 sho_neu: null
 sho_plu: null
 
-compara: null
-superla: null
+comparative: null
+superlative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

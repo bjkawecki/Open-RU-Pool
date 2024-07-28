@@ -1,6 +1,6 @@
 name: живой
-name_ac: живо́й
-wordcls: adjective
+name_accent: живо́й
+wordclass: adjective
 translation:
   - lebend
   - lebndig
@@ -41,9 +41,9 @@ sho_fem: жи­ва́
 sho_neu: жи́­во
 sho_plu: жи́­вы
 
-compara: жи­ве́е
-superla: са́мый живо́й
+comparative: жи­ве́е
+superlative: са́мый живо́й
 
 comment: null
 usage: null
-etymol: null
+etymology: null

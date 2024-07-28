@@ -1,6 +1,6 @@
 name: лёгкий
-name_ac: лёгкий
-wordcls: adjective
+name_accent: лёгкий
+wordclass: adjective
 translation:
   - leicht
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: лёгок
 sho_fem: легка
 sho_neu: легко
 sho_plu: легки
-compara: легче
-superla: самый лёгкий
+comparative: легче
+superlative: самый лёгкий
 comment: null
 usage: null
-etymol: null
+etymology: null

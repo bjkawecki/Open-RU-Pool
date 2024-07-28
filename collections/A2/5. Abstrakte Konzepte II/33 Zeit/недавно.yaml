@@ -1,10 +1,10 @@
 name: недавно
-name_ac: неда́вно
-wordcls: adverb
+name_accent: неда́вно
+wordclass: adverb
 translation:
-- neulich
-- kürzlich
-- unlängst
+  - neulich
+  - kürzlich
+  - unlängst
 comment: null
 usage: null
-etymol: null
+etymology: null

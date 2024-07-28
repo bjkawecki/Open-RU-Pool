@@ -1,41 +1,43 @@
 name: есть
-name_ac: есть
-wordcls: verb
+name_accent: есть
+wordclass: verb
 translation:
   - essen
 aspect: imperfective
-partner: съесть
-con_cls: null
+aspect_partner: съесть
+conjugation_class: null
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: ем
-pre_sin_2: ешь
-pre_sin_3: ест
-pre_plu_1: ед­и́м
-pre_plu_2: еди́­те
-pre_plu_3: ед­я́т
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: ел
-pas_fem: е́ла
-pas_neu: е́ло
-pas_plu: е́ли
-par_pre_act: едя́­щий
-par_pas_act: е́в­ший
-par_pre_pas: едя́
-par_pas_pas: е́в­ши, е́в
-par_adv_pre: null
-par_adv_pas: е́д­ен­ный
-imp_sin: ешь
-imp_plu: е́шь­те
+present_singular_1: ем
+present_singular_2: ешь
+present_singular_3: ест
+present_plural_1: ед­и́м
+present_plural_2: еди́­те
+present_plural_3: ед­я́т
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: ел
+past_feminine: е́ла
+past_neutral: е́ло
+past_plural: е́ли
+participle_active_present: едя́­щий
+participle_active_past: е́в­ший
+participle_passive_present: едя́
+participle_passive_past: е́в­ши, е́в
+participle_adverbial_present: null
+participle_adverbial_passive: е́д­ен­ный
+imperative_singular: ешь
+imperative_plural: е́шь­те
 comment: null
 usage: null
-etymol: null
+etymology: null

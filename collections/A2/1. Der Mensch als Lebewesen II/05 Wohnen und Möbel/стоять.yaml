@@ -1,51 +1,53 @@
 name: стоять
-name_ac: сто­я́ть
-wordcls: verb
+name_accent: сто­я́ть
+wordclass: verb
 translation:
   - stehen
 aspect: imperfective
-partner: постоя́ть
-con_cls: i
+aspect_partner: постоя́ть
+conjugation_class: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1: стою́
-pre_sin_2: сто­и́шь
-pre_sin_3: сто­и́т
-pre_plu_1: сто­и́м
-pre_plu_2: сто­и́те
-pre_plu_3: сто­я́т
+present_singular_1: стою́
+present_singular_2: сто­и́шь
+present_singular_3: сто­и́т
+present_plural_1: сто­и́м
+present_plural_2: сто­и́те
+present_plural_3: сто­я́т
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
 
-pas_mas: сто­я́л
-pas_fem: сто­я́ла
-pas_neu: сто­я́ло
-pas_plu: сто­я́ли
+past_masculine: сто­я́л
+past_feminine: сто­я́ла
+past_neutral: сто­я́ло
+past_plural: сто­я́ли
 
-par_pre_act: сто­я́щий
-par_pas_act: сто­я́в­ший
+participle_active_present: сто­я́щий
+participle_active_past: сто­я́в­ший
 
-par_adv_pre: сто́я
-par_adv_pas: сто­я́в­ши, сто­я́в
+participle_adverbial_present: сто́я
+participle_adverbial_passive: сто­я́в­ши, сто­я́в
 
-par_pre_pas:
-par_pas_pas:
+participle_passive_present:
+participle_passive_past:
 
-imp_sin: стой
-imp_plu: сто́й­те
+imperative_singular: стой
+imperative_plural: сто́й­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

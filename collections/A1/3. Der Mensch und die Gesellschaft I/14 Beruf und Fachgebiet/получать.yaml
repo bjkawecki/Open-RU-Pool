@@ -1,42 +1,44 @@
 name: получать
-name_ac: получа́ть
-wordcls: verb
+name_accent: получа́ть
+wordclass: verb
 translation:
   - erhalten
   - bekommen
 aspect: imperfective
-partner: получи́ть
-con_cls: e
+aspect_partner: получи́ть
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: по­лу­ча́ю
-pre_sin_2: по­лу­ча́­ешь
-pre_sin_3: по­лу­ча́­ет
-pre_plu_1: по­лу­ча́­ем
-pre_plu_2: по­лу­ча́­ете
-pre_plu_3: по­лу­ча́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: по­луч­а́л
-pas_fem: по­лу­ча́­ла
-pas_neu: по­лу­ча́­ло
-pas_plu: по­лу­ча́­ли
-par_pre_act: по­лу­ча́­ющий
-par_pas_act: по­луч­а́в­ший
-par_pre_pas: по­лу­ча́я
-par_pas_pas: по­луч­а́в­ши, по­луч­а́в
-par_adv_pre: по­лу­ча́­емый
-par_adv_pas: null
-imp_sin: по­лу­ча́й
-imp_plu: по­лу­ча́й­те
+present_singular_1: по­лу­ча́ю
+present_singular_2: по­лу­ча́­ешь
+present_singular_3: по­лу­ча́­ет
+present_plural_1: по­лу­ча́­ем
+present_plural_2: по­лу­ча́­ете
+present_plural_3: по­лу­ча́­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: по­луч­а́л
+past_feminine: по­лу­ча́­ла
+past_neutral: по­лу­ча́­ло
+past_plural: по­лу­ча́­ли
+participle_active_present: по­лу­ча́­ющий
+participle_active_past: по­луч­а́в­ший
+participle_passive_present: по­лу­ча́я
+participle_passive_past: по­луч­а́в­ши, по­луч­а́в
+participle_adverbial_present: по­лу­ча́­емый
+participle_adverbial_passive: null
+imperative_singular: по­лу­ча́й
+imperative_plural: по­лу­ча́й­те
 comment: null
 usage: null
-etymol: null
+etymology: null

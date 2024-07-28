@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: спортсмен
-name_ac: спортсме́н
+name_accent: спортсме́н
 translation:
   - Sportler
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

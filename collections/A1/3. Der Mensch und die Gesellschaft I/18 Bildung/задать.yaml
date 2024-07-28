@@ -1,41 +1,43 @@
 name: задать
-name_ac: зада́ть
-wordcls: verb
+name_accent: зада́ть
+wordclass: verb
 translation:
   - aufgeben
 aspect: perfective
-partner: задава́ть
-con_cls: null
+aspect_partner: задава́ть
+conjugation_class: null
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: null
-pre_sin_2: null
-pre_sin_3: null
-pre_plu_1: null
-pre_plu_2: null
-pre_plu_3: null
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: за­да́л
-pas_fem: за­да­ла́
-pas_neu: за­да́­ло
-pas_plu: за­да́­ли
-par_pre_act: null
-par_pas_act: за­да́в­ший
-par_pre_pas: null
-par_pas_pas: за­да́в­ши, за­да́в
-par_adv_pre: null
-par_adv_pas: за́­дан­ный
-imp_sin: за­да́й
-imp_plu: за­да́й­те
+present_singular_1: null
+present_singular_2: null
+present_singular_3: null
+present_plural_1: null
+present_plural_2: null
+present_plural_3: null
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: за­да́л
+past_feminine: за­да­ла́
+past_neutral: за­да́­ло
+past_plural: за­да́­ли
+participle_active_present: null
+participle_active_past: за­да́в­ший
+participle_passive_present: null
+participle_passive_past: за­да́в­ши, за­да́в
+participle_adverbial_present: null
+participle_adverbial_passive: за́­дан­ный
+imperative_singular: за­да́й
+imperative_plural: за­да́й­те
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: утро
-name_ac: у́тро
+name_accent: у́тро
 translation:
   - Morgen
 genus: neutral
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

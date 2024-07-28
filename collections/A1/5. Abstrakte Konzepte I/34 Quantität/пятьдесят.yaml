@@ -1,6 +1,6 @@
 name: пятьдесят
-name_ac: пятьдеся́т
-wordcls: numeral
+name_accent: пятьдеся́т
+wordclass: numeral
 translation:
   - fünfzig
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

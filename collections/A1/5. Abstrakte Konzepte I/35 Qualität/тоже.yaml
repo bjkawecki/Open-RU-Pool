@@ -1,10 +1,10 @@
 name: тоже
-name_ac: то́же
-wordcls: adverb
+name_accent: то́же
+wordclass: adverb
 translation:
   - auch
   - ebenfalls
 
 comment: null
 usage: null
-etymol: null
+etymology: null

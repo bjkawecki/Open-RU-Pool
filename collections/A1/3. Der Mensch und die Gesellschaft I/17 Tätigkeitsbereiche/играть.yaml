@@ -1,41 +1,43 @@
 name: играть
-name_ac: игра́ть
-wordcls: verb
+name_accent: игра́ть
+wordclass: verb
 translation:
   - spielen
 aspect: imperfective
-partner: поигра́ть
-con_cls: e
+aspect_partner: поигра́ть
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: иг­ра́ю
-pre_sin_2: иг­ра́­ешь
-pre_sin_3: иг­ра́­ет
-pre_plu_1: иг­ра́­ем
-pre_plu_2: иг­ра́­ете
-pre_plu_3: иг­ра́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: иг­ра́л
-pas_fem: иг­ра́­ла
-pas_neu: иг­ра́­ло
-pas_plu: иг­ра́­ли
-par_pre_act: иг­ра́­ющий
-par_pas_act: иг­ра́­вший
-par_pre_pas: иг­ра́я
-par_pas_pas: иг­ра́­вши, иг­ра́в
-par_adv_pre: иг­ра́­емый
-par_adv_pas: и́г­ран­ный
-imp_sin: иг­ра́й
-imp_plu: иг­ра́й­те
+present_singular_1: иг­ра́ю
+present_singular_2: иг­ра́­ешь
+present_singular_3: иг­ра́­ет
+present_plural_1: иг­ра́­ем
+present_plural_2: иг­ра́­ете
+present_plural_3: иг­ра́­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: иг­ра́л
+past_feminine: иг­ра́­ла
+past_neutral: иг­ра́­ло
+past_plural: иг­ра́­ли
+participle_active_present: иг­ра́­ющий
+participle_active_past: иг­ра́­вший
+participle_passive_present: иг­ра́я
+participle_passive_past: иг­ра́­вши, иг­ра́в
+participle_adverbial_present: иг­ра́­емый
+participle_adverbial_passive: и́г­ран­ный
+imperative_singular: иг­ра́й
+imperative_plural: иг­ра́й­те
 comment: null
 usage: null
-etymol: null
+etymology: null

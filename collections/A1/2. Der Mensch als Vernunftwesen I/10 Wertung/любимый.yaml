@@ -1,9 +1,9 @@
 name: любимый
-name_ac: люби́мый
-wordcls: adjective
+name_accent: люби́мый
+wordclass: adjective
 translation:
-- geliebt
-- lieb
+  - geliebt
+  - lieb
 is_gradable: true
 mas_nom: люби́мый
 mas_gen: лю­би́­мо­го
@@ -33,8 +33,8 @@ sho_mas: лю­би́м
 sho_fem: лю­би́­ма
 sho_neu: лю­би́­мо
 sho_plu: лю­би́­мы
-compara: лю­би́­мее
-superla: самый люби́мый
+comparative: лю­би́­мее
+superlative: самый люби́мый
 comment: null
 usage: null
-etymol: null
+etymology: null

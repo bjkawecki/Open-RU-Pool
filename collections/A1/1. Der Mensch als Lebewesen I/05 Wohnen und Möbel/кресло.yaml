@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: кресло
-name_ac: кре́сло
+name_accent: кре́сло
 translation:
   - Sessel
 genus: neutral
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

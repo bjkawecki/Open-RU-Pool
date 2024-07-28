@@ -1,6 +1,6 @@
 name: предложный падёж
-name_ac: предло́жный падёж
-wordcls: compound
+name_accent: предло́жный падёж
+wordclass: compound
 translation:
   - Präpositiv
 
@@ -8,4 +8,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

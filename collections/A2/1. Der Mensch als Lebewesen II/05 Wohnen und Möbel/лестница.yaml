@@ -1,6 +1,6 @@
 name: лестница
-name_ac: ле́ст­ни­ца
-wordcls: substantive
+name_accent: ле́ст­ни­ца
+wordclass: substantive
 translation:
   - Treppe
   - Leiter
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

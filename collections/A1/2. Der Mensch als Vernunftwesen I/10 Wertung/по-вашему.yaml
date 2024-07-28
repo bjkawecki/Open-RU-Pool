@@ -1,9 +1,9 @@
 name: по-вашему
-name_ac: по-ва́шему
-wordcls: adverb
+name_accent: по-ва́шему
+wordclass: adverb
 translation:
-- ihrer Meinung nach
-- ihres Erachtens
+  - ihrer Meinung nach
+  - ihres Erachtens
 comment: null
 usage: null
-etymol: null
+etymology: null

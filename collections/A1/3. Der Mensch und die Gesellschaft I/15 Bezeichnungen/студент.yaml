@@ -1,10 +1,10 @@
-wordcls: substantive
+wordclass: substantive
 name: студент
-name_ac: студе́нт
+name_accent: студе́нт
 translation:
-- Student
+  - Student
 genus: masculine
-dec_cls: '2'
+dec_cls: "2"
 stress: root
 is_animate: true
 is_sin_tan: null
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

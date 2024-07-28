@@ -1,6 +1,6 @@
 name: падёж
-name_ac: падёж
-wordcls: substantive
+name_accent: падёж
+wordclass: substantive
 translation:
   - Kasus
   - Fall
@@ -38,4 +38,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

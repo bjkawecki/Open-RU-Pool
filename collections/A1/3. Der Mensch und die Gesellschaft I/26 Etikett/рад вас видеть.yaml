@@ -1,9 +1,9 @@
 name: рад вас видеть
-name_ac: рад вас ви́деть
-wordcls: phrase
+name_accent: рад вас ви́деть
+wordclass: phrase
 translation:
   - Ich freue mich, Sie zu sehen
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

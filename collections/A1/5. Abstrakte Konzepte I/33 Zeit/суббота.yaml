@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: суббота
-name_ac: суббо́та
+name_accent: суббо́та
 translation:
   - Samstag
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

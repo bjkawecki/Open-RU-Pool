@@ -1,6 +1,6 @@
 name: предложение
-name_ac: пред­ло­же́­ние
-wordcls: substantive
+name_accent: пред­ло­же́­ние
+wordclass: substantive
 translation:
   - Satz
   - Vorschlag
@@ -39,4 +39,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

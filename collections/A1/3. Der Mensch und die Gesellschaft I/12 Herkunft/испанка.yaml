@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: испанка
-name_ac: испа́нка
+name_accent: испа́нка
 translation:
   - Spanierin
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

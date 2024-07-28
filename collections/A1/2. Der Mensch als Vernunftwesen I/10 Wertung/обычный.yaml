@@ -1,9 +1,9 @@
 name: обычный
-name_ac: обы́чный
-wordcls: adverb
+name_accent: обы́чный
+wordclass: adverb
 translation:
   - gewöhnlich
   - üblicherweise
 comment: null
 usage: null
-etymol: null
+etymology: null

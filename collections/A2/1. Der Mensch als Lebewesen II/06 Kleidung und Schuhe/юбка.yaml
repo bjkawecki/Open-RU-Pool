@@ -1,6 +1,6 @@
 name: юбка
-name_ac: ю́б­ка
-wordcls: substantive
+name_accent: ю́б­ка
+wordclass: substantive
 translation:
   - Rock
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

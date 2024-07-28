@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: аптека
-name_ac: апте́ка
+name_accent: апте́ка
 translation:
   - Apotheke
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

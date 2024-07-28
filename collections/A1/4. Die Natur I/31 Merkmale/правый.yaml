@@ -1,6 +1,6 @@
 name: правый
-name_ac: пра́вый
-wordcls: adjective
+name_accent: пра́вый
+wordclass: adjective
 translation:
   - rechter
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: прав
 sho_fem: пра́­ва
 sho_neu: пра́­во
 sho_plu: пра́­вы
-compara: пра­ве́е
-superla: самый пра́вый
+comparative: пра­ве́е
+superlative: самый пра́вый
 comment: null
 usage: null
-etymol: null
+etymology: null

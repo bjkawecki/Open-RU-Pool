@@ -1,9 +1,9 @@
 name: извините
-name_ac: извини́те
-wordcls: phrase
+name_accent: извини́те
+wordclass: phrase
 translation:
   - Entschuldigen Sie
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

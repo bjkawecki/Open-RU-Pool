@@ -1,10 +1,10 @@
 name: Мне кажется что...
-name_ac:
-wordcls: phrase
+name_accent:
+wordclass: phrase
 translation:
 
 metaphrase:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

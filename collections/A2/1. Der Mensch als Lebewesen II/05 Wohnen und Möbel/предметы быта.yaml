@@ -1,8 +1,8 @@
 name: предметы быта
-name_ac: предме́ты бы́та
-wordcls: compound
+name_accent: предме́ты бы́та
+wordclass: compound
 translation:
   - Alltagsgegenstände
 comment: null
 usage: null
-etymol: null
+etymology: null

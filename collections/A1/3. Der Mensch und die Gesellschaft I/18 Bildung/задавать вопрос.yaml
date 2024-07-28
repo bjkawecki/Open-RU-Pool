@@ -1,9 +1,9 @@
 name: задавать вопрос
-name_ac: задава́ть вопро́с
-wordcls: phrase
+name_accent: задава́ть вопро́с
+wordclass: phrase
 translation:
   - eine Frage stellen
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

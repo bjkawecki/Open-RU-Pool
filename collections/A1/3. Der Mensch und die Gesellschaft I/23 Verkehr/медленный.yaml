@@ -1,6 +1,6 @@
 name: медленный
-name_ac: ме́дленный
-wordcls: adjective
+name_accent: ме́дленный
+wordclass: adjective
 translation:
   - langsam
 
@@ -39,9 +39,9 @@ sho_fem: ме́д­лен­на
 sho_neu: ме́д­лен­но
 sho_plu: ме́д­лен­ны
 
-compara: ме́дленнее
-superla: самый ме́дленный
+comparative: ме́дленнее
+superlative: самый ме́дленный
 
 comment: null
 usage: null
-etymol: null
+etymology: null

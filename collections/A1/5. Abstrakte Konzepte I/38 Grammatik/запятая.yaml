@@ -1,6 +1,6 @@
 name: запятая
-name_ac: за­пя­та́я
-wordcls: substantive
+name_accent: за­пя­та́я
+wordclass: substantive
 translation:
   - Komma
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

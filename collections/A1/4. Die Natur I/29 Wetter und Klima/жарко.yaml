@@ -1,6 +1,6 @@
 name: жаркий
-name_ac: жа́ркий
-wordcls: adjective
+name_accent: жа́ркий
+wordclass: adjective
 translation:
   - heiß
 
@@ -39,11 +39,11 @@ sho_fem: жар­ка́
 sho_neu: жа́р­ко
 sho_plu: жа́р­ки
 
-compara: жа́р­че
-superla: самый жаркий
+comparative: жа́р­че
+superlative: самый жаркий
 
 comment: In Bezug auf das Wetter und die Körpertemperatur.
 
 usage:
 
-etymol:
+etymology:

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: родной
-name_ac: род­но́й
+name_accent: род­но́й
 translation:
   - verwandt
   - Verwandter
@@ -40,9 +40,9 @@ sho_fem: null
 sho_neu: null
 sho_plu: null
 
-compara: null
-superla: null
+comparative: null
+superlative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

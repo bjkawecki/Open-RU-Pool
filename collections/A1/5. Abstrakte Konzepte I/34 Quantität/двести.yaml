@@ -1,6 +1,6 @@
 name: двести
-name_ac: две́сти
-wordcls: numeral
+name_accent: две́сти
+wordclass: numeral
 translation:
   - zweihundert
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

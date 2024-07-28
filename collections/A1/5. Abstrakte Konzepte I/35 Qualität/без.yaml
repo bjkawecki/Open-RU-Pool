@@ -1,6 +1,6 @@
 name: без
-name_ac: без
-wordcls: preposition
+name_accent: без
+wordclass: preposition
 translation:
   - ohne
 
@@ -10,4 +10,4 @@ prep_case: genitive
 
 comment: null
 usage: null
-etymol: null
+etymology: null

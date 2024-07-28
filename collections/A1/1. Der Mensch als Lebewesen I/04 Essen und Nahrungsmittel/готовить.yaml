@@ -1,42 +1,44 @@
 name: готовить
-name_ac: гото́вить
-wordcls: verb
+name_accent: гото́вить
+wordclass: verb
 translation:
   - vorbereiten
   - kochen
 aspect: imperfective
-partner: пригото́вить
-con_cls: i
+aspect_partner: пригото́вить
+conjugation_class: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: го­то́в­лю
-pre_sin_2: го­то́в­ишь
-pre_sin_3: го­то́в­ит
-pre_plu_1: го­то́в­им
-pre_plu_2: го­то́­ви­те
-pre_plu_3: го­то́в­ят
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: го­то́в­ил
-pas_fem: го­то́­ви­ла
-pas_neu: го­то́­ви­ло
-pas_plu: го­то́­ви­ли
-par_pre_act: го­то́­вя­щий
-par_pas_act: го­то́в­ив­ший
-par_pre_pas: го­то́­вя
-par_pas_pas: го­то́в­ив­ши, го­то́в­ив
-par_adv_pre: го­то́­ви­мый
-par_adv_pas: го­то́в­лен­ный
-imp_sin: го­то́вь
-imp_plu: го­то́вь­те
+present_singular_1: го­то́в­лю
+present_singular_2: го­то́в­ишь
+present_singular_3: го­то́в­ит
+present_plural_1: го­то́в­им
+present_plural_2: го­то́­ви­те
+present_plural_3: го­то́в­ят
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: го­то́в­ил
+past_feminine: го­то́­ви­ла
+past_neutral: го­то́­ви­ло
+past_plural: го­то́­ви­ли
+participle_active_present: го­то́­вя­щий
+participle_active_past: го­то́в­ив­ший
+participle_passive_present: го­то́­вя
+participle_passive_past: го­то́в­ив­ши, го­то́в­ив
+participle_adverbial_present: го­то́­ви­мый
+participle_adverbial_passive: го­то́в­лен­ный
+imperative_singular: го­то́вь
+imperative_plural: го­то́вь­те
 comment: null
 usage: null
-etymol: null
+etymology: null

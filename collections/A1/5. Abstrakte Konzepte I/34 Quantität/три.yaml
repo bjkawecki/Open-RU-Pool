@@ -1,6 +1,6 @@
 name: три
-name_ac: три
-wordcls: numeral
+name_accent: три
+wordclass: numeral
 translation:
   - drei
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

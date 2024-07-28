@@ -1,6 +1,6 @@
 name: шесть
-name_ac: шесть
-wordcls: numeral
+name_accent: шесть
+wordclass: numeral
 translation:
   - sechs
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

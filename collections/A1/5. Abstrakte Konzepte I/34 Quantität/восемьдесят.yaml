@@ -1,8 +1,8 @@
 name: восемьдесят
-name_ac: во́семьдесят
-wordcls: numeral
+name_accent: во́семьдесят
+wordclass: numeral
 translation:
-- achzig
+  - achzig
 num_type: cardinal
 dec_type: adjective
 mas_nom: null
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

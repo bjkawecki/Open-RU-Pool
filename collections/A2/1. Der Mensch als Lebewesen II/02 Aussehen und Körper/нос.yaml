@@ -1,6 +1,6 @@
 name: нос
-name_ac: нос
-wordcls: substantive
+name_accent: нос
+wordclass: substantive
 translation:
   - Nase
 
@@ -35,4 +35,4 @@ locative: null носу́
 
 comment: null
 usage: null
-etymol: null
+etymology: null

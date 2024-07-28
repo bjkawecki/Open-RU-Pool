@@ -1,6 +1,6 @@
 name: городской
-name_ac: го­родс­ко́й
-wordcls: adjective
+name_accent: го­родс­ко́й
+wordclass: adjective
 translation:
   - Stadt-
   - städtisch
@@ -33,9 +33,9 @@ sho_mas:
 sho_fem:
 sho_neu:
 sho_plu:
-compara:
-superla:
+comparative:
+superlative:
 comment: null
 usage: null
-etymol: null
+etymology: null
 sin_nom: городской

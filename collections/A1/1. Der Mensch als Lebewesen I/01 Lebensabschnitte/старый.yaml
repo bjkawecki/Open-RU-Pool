@@ -1,6 +1,6 @@
 name: старый
-name_ac: ста́рый
-wordcls: adjective
+name_accent: ста́рый
+wordclass: adjective
 translation:
   - alt
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: стар
 sho_fem: ста­ра́
 sho_neu: ста́­ро
 sho_plu: ста́­ры
-compara: ста­ре́е
-superla: самый ста́рый
+comparative: ста­ре́е
+superlative: самый ста́рый
 comment: null
 usage: null
-etymol: null
+etymology: null

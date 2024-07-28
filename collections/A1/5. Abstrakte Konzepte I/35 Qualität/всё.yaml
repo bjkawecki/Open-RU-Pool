@@ -1,6 +1,6 @@
 name: всё
-name_ac: всё
-wordcls: phrase
+name_accent: всё
+wordclass: phrase
 translation:
   - Das ist alles.
   - Das reicht.
@@ -10,4 +10,4 @@ metaphrase:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

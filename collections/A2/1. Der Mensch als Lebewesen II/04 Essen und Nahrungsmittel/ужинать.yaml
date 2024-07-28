@@ -1,41 +1,43 @@
 name: ужинать
-name_ac: у́жинать
-wordcls: verb
+name_accent: у́жинать
+wordclass: verb
 translation:
   - zu Abend essen
 aspect: imperfective
-partner: поу́жинать
-con_cls: e
+aspect_partner: поу́жинать
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: у́жи­наю
-pre_sin_2: у́жи­на­ешь
-pre_sin_3: у́жи­на­ет
-pre_plu_1: у́жи­на­ем
-pre_plu_2: у́жи­на­ете
-pre_plu_3: у́жи­на­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: у́жи­нал
-pas_fem: у́жи­на­ла
-pas_neu: у́жи­на­ло
-pas_plu: у́жи­на­ли
-par_pre_act: у́жи­на­ющий
-par_pas_act: у́жи­нав­ший
-par_pre_pas: у́жи­ная
-par_pas_pas: у́жи­нав­ши, у́жи­нав
-par_adv_pre: null
-par_adv_pas: null
-imp_sin: у́жи­най
-imp_plu: у́жи­най­те
+present_singular_1: у́жи­наю
+present_singular_2: у́жи­на­ешь
+present_singular_3: у́жи­на­ет
+present_plural_1: у́жи­на­ем
+present_plural_2: у́жи­на­ете
+present_plural_3: у́жи­на­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: у́жи­нал
+past_feminine: у́жи­на­ла
+past_neutral: у́жи­на­ло
+past_plural: у́жи­на­ли
+participle_active_present: у́жи­на­ющий
+participle_active_past: у́жи­нав­ший
+participle_passive_present: у́жи­ная
+participle_passive_past: у́жи­нав­ши, у́жи­нав
+participle_adverbial_present: null
+participle_adverbial_passive: null
+imperative_singular: у́жи­най
+imperative_plural: у́жи­най­те
 comment: null
 usage: null
-etymol: null
+etymology: null

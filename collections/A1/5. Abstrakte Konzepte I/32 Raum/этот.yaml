@@ -1,6 +1,6 @@
 name: этот
-name_ac: э́тот
-wordcls: pronoun
+name_accent: э́тот
+wordclass: pronoun
 translation:
   - dieser
 
@@ -45,4 +45,4 @@ plu_pre: э́тих
 
 comment: null
 usage: null
-etymol: null
+etymology: null

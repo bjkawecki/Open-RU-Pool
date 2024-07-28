@@ -1,8 +1,8 @@
 name: городской транспорт
-name_ac: городско́й тра́нспорт
-wordcls: compound
+name_accent: городско́й тра́нспорт
+wordclass: compound
 translation:
   - Nahverkehr
 comment: null
 usage: null
-etymol: null
+etymology: null

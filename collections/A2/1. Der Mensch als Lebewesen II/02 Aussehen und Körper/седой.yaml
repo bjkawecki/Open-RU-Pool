@@ -1,6 +1,6 @@
 name: седой
-name_ac: се­до́й
-wordcls: adjective
+name_accent: се­до́й
+wordclass: adjective
 translation:
   - grauhaarig
   - weißhaarig
@@ -40,9 +40,9 @@ sho_fem: се­да́
 sho_neu: се́­до
 sho_plu: се́­ды
 
-compara: се­де́е
-superla:
+comparative: се­де́е
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

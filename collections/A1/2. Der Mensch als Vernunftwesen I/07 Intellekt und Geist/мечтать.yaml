@@ -1,41 +1,43 @@
 name: мечтать
-name_ac: мечта́ть
-wordcls: verb
+name_accent: мечта́ть
+wordclass: verb
 translation:
   - träumen
 aspect: imperfective
-partner: null
-con_cls: e
+aspect_partner: null
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: о чём-либо
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: о чём-либо
 is_reflexive: null
-pre_sin_1: меч­та́ю
-pre_sin_2: меч­та́­ешь
-pre_sin_3: меч­та́­ет
-pre_plu_1: меч­та́­ем
-pre_plu_2: меч­та́­ете
-pre_plu_3: меч­та́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: меч­та́л
-pas_fem: меч­та́­ла
-pas_neu: меч­та́­ло
-pas_plu: меч­та́­ли
-par_pre_act: меч­та́­ющий
-par_pas_act: меч­та́­вший
-par_pre_pas: меч­та́я
-par_pas_pas: меч­та́­вши, меч­та́в
-par_adv_pre: null
-par_adv_pas: null
-imp_sin: меч­та́й
-imp_plu: меч­та́й­те
+present_singular_1: меч­та́ю
+present_singular_2: меч­та́­ешь
+present_singular_3: меч­та́­ет
+present_plural_1: меч­та́­ем
+present_plural_2: меч­та́­ете
+present_plural_3: меч­та́­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: меч­та́л
+past_feminine: меч­та́­ла
+past_neutral: меч­та́­ло
+past_plural: меч­та́­ли
+participle_active_present: меч­та́­ющий
+participle_active_past: меч­та́­вший
+participle_passive_present: меч­та́я
+participle_passive_past: меч­та́­вши, меч­та́в
+participle_adverbial_present: null
+participle_adverbial_passive: null
+imperative_singular: меч­та́й
+imperative_plural: меч­та́й­те
 comment: null
 usage: null
-etymol: null
+etymology: null

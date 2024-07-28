@@ -1,6 +1,6 @@
 name: водить машину
-name_ac: води́ть маши́ну
-wordcls: phrase
+name_accent: води́ть маши́ну
+wordclass: phrase
 translation:
   - Auto fahren
 
@@ -8,4 +8,4 @@ metaphrase:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

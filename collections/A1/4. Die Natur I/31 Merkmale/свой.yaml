@@ -1,6 +1,6 @@
 name: свой
-name_ac: свой
-wordcls: pronoun
+name_accent: свой
+wordclass: pronoun
 translation:
   - eigener
 pro_type: possessive
@@ -37,4 +37,4 @@ plu_ins: сво­и́ми
 plu_pre: сво­и́х
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: зимний
-name_ac: зи́м­ний
-wordcls: adjective
+name_accent: зи́м­ний
+wordclass: adjective
 translation:
   - Winter-
   - winterlich
@@ -40,9 +40,9 @@ sho_fem: зи́м­ня
 sho_neu: зи́м­не
 sho_plu: зи́м­ни
 
-compara: зи́м­нее
-superla:
+comparative: зи́м­нее
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

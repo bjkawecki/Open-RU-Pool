@@ -1,6 +1,6 @@
 name: богатый
-name_ac: бога́тый
-wordcls: adjective
+name_accent: бога́тый
+wordclass: adjective
 translation:
   - reich
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: бо­га́т
 sho_fem: бо­га́­та
 sho_neu: бо­га́­то
 sho_plu: бо­га́­ты
-compara: бо­га́­че
-superla: самый бога́тый
+comparative: бо­га́­че
+superlative: самый бога́тый
 comment: null
 usage: null
-etymol: null
+etymology: null

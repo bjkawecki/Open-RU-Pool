@@ -1,6 +1,6 @@
 name: две
-name_ac: две
-wordcls: numeral
+name_accent: две
+wordclass: numeral
 translation:
   - zwei
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: weiblich
 usage: null
-etymol: null
+etymology: null

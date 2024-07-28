@@ -1,6 +1,6 @@
 name: рот
-name_ac: рот
-wordcls: substantive
+name_accent: рот
+wordclass: substantive
 translation:
   - Mund
 
@@ -35,4 +35,4 @@ locative: null во рту
 
 comment: null
 usage: null
-etymol: null
+etymology: null

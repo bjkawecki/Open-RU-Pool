@@ -1,8 +1,8 @@
 name: долго
-name_ac: до́лго
-wordcls: adverb
+name_accent: до́лго
+wordclass: adverb
 translation:
-- lange
+  - lange
 comment: null
 usage: null
-etymol: null
+etymology: null

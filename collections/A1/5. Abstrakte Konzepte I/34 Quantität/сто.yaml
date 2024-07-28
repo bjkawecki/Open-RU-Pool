@@ -1,6 +1,6 @@
 name: сто
-name_ac: сто
-wordcls: numeral
+name_accent: сто
+wordclass: numeral
 translation:
   - hundert
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

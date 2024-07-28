@@ -1,6 +1,6 @@
 name: анкета
-name_ac: ан­ке́­та
-wordcls: substantive
+name_accent: ан­ке́­та
+wordclass: substantive
 translation:
   - Fragebogen
   - Umfrage
@@ -38,4 +38,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

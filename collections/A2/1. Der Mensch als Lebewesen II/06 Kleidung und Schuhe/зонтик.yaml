@@ -1,6 +1,6 @@
 name: зонтик
-name_ac: зо́н­тик
-wordcls: substantive
+name_accent: зо́н­тик
+wordclass: substantive
 translation:
   - Schirm
   - Regenschirm
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

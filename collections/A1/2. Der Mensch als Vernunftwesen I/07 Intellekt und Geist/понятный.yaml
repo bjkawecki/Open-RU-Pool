@@ -1,6 +1,6 @@
 name: понятный
-name_ac: поня́тный
-wordcls: adjective
+name_accent: поня́тный
+wordclass: adjective
 translation:
   - verständlich
   - begreifbar
@@ -40,9 +40,9 @@ sho_fem: по­ня́т­на
 sho_neu: по­ня́т­но
 sho_plu: по­ня́т­ны
 
-compara: по­ня́т­нее
-superla: самый по­ня́т­ный
+comparative: по­ня́т­нее
+superlative: самый по­ня́т­ный
 
 comment: null
 usage: null
-etymol: null
+etymology: null

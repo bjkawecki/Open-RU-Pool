@@ -1,6 +1,6 @@
 name: род
-name_ac: род
-wordcls: substantive
+name_accent: род
+wordclass: substantive
 translation:
   - Geschlecht
   - Art
@@ -39,4 +39,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

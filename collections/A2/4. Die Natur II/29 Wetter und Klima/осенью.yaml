@@ -1,8 +1,8 @@
 name: осенью
-name_ac: о́сенью
-wordcls: adverb
+name_accent: о́сенью
+wordclass: adverb
 translation:
-- im Herbst
+  - im Herbst
 comment: null
 usage: null
-etymol: null
+etymology: null

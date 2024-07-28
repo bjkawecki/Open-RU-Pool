@@ -1,9 +1,9 @@
 name: до свидания
-name_ac: до свида́ния
-wordcls: phrase
+name_accent: до свида́ния
+wordclass: phrase
 translation:
   - Auf Wiedersehen
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

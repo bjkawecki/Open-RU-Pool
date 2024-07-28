@@ -1,9 +1,9 @@
 name: да
-name_ac: да
-wordcls: particle
+name_accent: да
+wordclass: particle
 translation:
   - ja
 
 comment: null
 usage: null
-etymol: null
+etymology: null

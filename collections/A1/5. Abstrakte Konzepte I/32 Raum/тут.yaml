@@ -1,8 +1,8 @@
 name: тут
-name_ac: тут
-wordcls: adverb
+name_accent: тут
+wordclass: adverb
 translation:
   - hier
 comment: null
 usage: colloquial
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: фабрика
-name_ac: фа́брика
-wordcls: substantive
+name_accent: фа́брика
+wordclass: substantive
 translation:
   - Fabrik
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

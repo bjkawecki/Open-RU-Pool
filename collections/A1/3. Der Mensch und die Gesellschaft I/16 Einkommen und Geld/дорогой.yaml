@@ -1,6 +1,6 @@
 name: дорогой
-name_ac: дорого́й
-wordcls: adjective
+name_accent: дорого́й
+wordclass: adjective
 translation:
   - teuer
   - lieb
@@ -34,8 +34,8 @@ sho_mas: до́­рог
 sho_fem: до­ро­га́
 sho_neu: до́­ро­го
 sho_plu: до́­ро­ги
-compara: до­ро́­же
-superla: самый дорогой
+comparative: до­ро́­же
+superlative: самый дорогой
 comment: null
 usage: null
-etymol: null
+etymology: null

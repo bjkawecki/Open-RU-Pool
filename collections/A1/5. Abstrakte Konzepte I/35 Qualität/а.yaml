@@ -1,10 +1,10 @@
 name: а
-name_ac: а
-wordcls: conjunction
+name_accent: а
+wordclass: conjunction
 translation:
   - und
   - aber
 
 comment: null
 usage: null
-etymol: null
+etymology: null

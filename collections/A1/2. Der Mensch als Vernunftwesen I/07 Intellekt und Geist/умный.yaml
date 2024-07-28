@@ -1,6 +1,6 @@
 name: умный
-name_ac: у́мный
-wordcls: adjective
+name_accent: у́мный
+wordclass: adjective
 translation:
   - schlau
   - intelligent
@@ -34,8 +34,8 @@ sho_mas: ум­ён
 sho_fem: ум­на́
 sho_neu: ум­но́
 sho_plu: ум­ны́
-compara: ум­не́е
-superla: самый у́мный
+comparative: ум­не́е
+superlative: самый у́мный
 comment: null
 usage: null
-etymol: null
+etymology: null

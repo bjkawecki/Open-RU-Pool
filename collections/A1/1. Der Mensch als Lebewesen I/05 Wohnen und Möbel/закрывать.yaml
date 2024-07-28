@@ -1,42 +1,44 @@
 name: закрывать
-name_ac: закрыва́ть
-wordcls: verb
+name_accent: закрыва́ть
+wordclass: verb
 translation:
   - schließen
   - verdecken
 aspect: imperfective
-partner: закры́ть
-con_cls: e
+aspect_partner: закры́ть
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: зак­ры­ва́ю
-pre_sin_2: зак­ры­ва́­ешь
-pre_sin_3: зак­ры­ва́­ет
-pre_plu_1: зак­ры­ва́­ем
-pre_plu_2: зак­ры­ва́­ете
-pre_plu_3: зак­ры­ва́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: зак­ры­ва́л
-pas_fem: зак­ры­ва́­ла
-pas_neu: зак­ры­ва́­ло
-pas_plu: зак­ры­ва́­ли
-par_pre_act: зак­ры­ва́­ющий
-par_pas_act: зак­ры­ва́в­ший
-par_pre_pas: зак­ры­ва́я
-par_pas_pas: зак­ры­ва́в­ши, зак­ры­ва́в
-par_adv_pre: зак­ры­ва́­емый
-par_adv_pas: зак­ры­ва́й
-imp_sin: зак­ры­ва́й
-imp_plu: зак­ры­ва́й­те
+present_singular_1: зак­ры­ва́ю
+present_singular_2: зак­ры­ва́­ешь
+present_singular_3: зак­ры­ва́­ет
+present_plural_1: зак­ры­ва́­ем
+present_plural_2: зак­ры­ва́­ете
+present_plural_3: зак­ры­ва́­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: зак­ры­ва́л
+past_feminine: зак­ры­ва́­ла
+past_neutral: зак­ры­ва́­ло
+past_plural: зак­ры­ва́­ли
+participle_active_present: зак­ры­ва́­ющий
+participle_active_past: зак­ры­ва́в­ший
+participle_passive_present: зак­ры­ва́я
+participle_passive_past: зак­ры­ва́в­ши, зак­ры­ва́в
+participle_adverbial_present: зак­ры­ва́­емый
+participle_adverbial_passive: зак­ры­ва́й
+imperative_singular: зак­ры­ва́й
+imperative_plural: зак­ры­ва́й­те
 comment: null
 usage: null
-etymol: null
+etymology: null

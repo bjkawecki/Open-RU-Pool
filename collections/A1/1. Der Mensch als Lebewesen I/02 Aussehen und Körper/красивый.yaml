@@ -1,6 +1,6 @@
 name: красивый
-name_ac: краси́вый
-wordcls: adjective
+name_accent: краси́вый
+wordclass: adjective
 translation:
   - schön
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: кра­си́в
 sho_fem: кра­си́­ва
 sho_neu: кра­си́­во
 sho_plu: кра­си́­вы
-compara: кра­си́­вее
-superla: самый краси́вый
+comparative: кра­си́­вее
+superlative: самый краси́вый
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: учёный
-name_ac: учёный
+name_accent: учёный
 translation:
   - Wissenschaftler
   - Gelehrter
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

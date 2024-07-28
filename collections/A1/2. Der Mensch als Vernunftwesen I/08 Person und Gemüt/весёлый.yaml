@@ -1,6 +1,6 @@
 name: весёлый
-name_ac: весёлый
-wordcls: adjective
+name_accent: весёлый
+wordclass: adjective
 translation:
   - fröhlich
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: ве́­сел
 sho_fem: ве­се­ла́
 sho_neu: ве́­се­ло
 sho_plu: ве́­се­лы
-compara: ве­се­ле́е
-superla: самый весёлый
+comparative: ве­се­ле́е
+superlative: самый весёлый
 comment: null
 usage: null
-etymol: null
+etymology: null

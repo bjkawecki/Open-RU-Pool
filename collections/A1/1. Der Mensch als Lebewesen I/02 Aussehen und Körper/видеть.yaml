@@ -1,52 +1,54 @@
 name: видеть
-name_ac: ви́­деть
-wordcls: verb
+name_accent: ви́­деть
+wordclass: verb
 translation:
   - sehen
 
 aspect: уви́­деть
-partner: imperfective
-con_cls: i
+aspect_partner: imperfective
+conjugation_class: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1: ви́­жу
-pre_sin_2: ви́­дишь
-pre_sin_3: ви́­дит
-pre_plu_1: ви́­дим
-pre_plu_2: ви́­ди­те
-pre_plu_3: ви́­дят
+present_singular_1: ви́­жу
+present_singular_2: ви́­дишь
+present_singular_3: ви́­дит
+present_plural_1: ви́­дим
+present_plural_2: ви́­ди­те
+present_plural_3: ви́­дят
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
 
-pas_mas: ви́­дел
-pas_fem: ви́­де­ла
-pas_neu: ви́­де­ло
-pas_plu: ви́­де­ли
+past_masculine: ви́­дел
+past_feminine: ви́­де­ла
+past_neutral: ви́­де­ло
+past_plural: ви́­де­ли
 
-par_pre_act: ви́­дя­щий
-par_pas_act: ви́­дев­ший
+participle_active_present: ви́­дя­щий
+participle_active_past: ви́­дев­ший
 
-par_pre_pas: ви́­ди­мый
-par_pas_pas: ви́­ден­ный
+participle_passive_present: ви́­ди­мый
+participle_passive_past: ви́­ден­ный
 
-par_adv_pre: ви́­дя
-par_adv_pas: ви́­дев­ши, ви́­дев
+participle_adverbial_present: ви́­дя
+participle_adverbial_passive: ви́­дев­ши, ви́­дев
 
-imp_sin: в­и́дь
-imp_plu: в­и́дь­те
+imperative_singular: в­и́дь
+imperative_plural: в­и́дь­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

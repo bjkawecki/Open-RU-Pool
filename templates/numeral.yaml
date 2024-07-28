@@ -1,5 +1,5 @@
-name_ac:
-wordcls: numeral
+name_accent:
+wordclass: numeral
 translation:
 
 num_type:
@@ -42,4 +42,4 @@ plu_pre:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

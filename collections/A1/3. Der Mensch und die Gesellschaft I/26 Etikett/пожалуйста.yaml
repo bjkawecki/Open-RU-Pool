@@ -1,10 +1,10 @@
 name: пожалуйста
-name_ac: пожа́луйста
-wordcls: phrase
+name_accent: пожа́луйста
+wordclass: phrase
 translation:
   - bitte
   - bittesehr
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

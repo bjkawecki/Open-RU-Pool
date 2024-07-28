@@ -1,6 +1,6 @@
 name: аппетит
-name_ac: ап­пе­ти́т
-wordcls: substantive
+name_accent: ап­пе­ти́т
+wordclass: substantive
 translation:
   - Appetit
 genus: masculine
@@ -29,4 +29,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

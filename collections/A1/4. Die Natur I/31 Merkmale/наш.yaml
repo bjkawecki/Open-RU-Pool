@@ -1,6 +1,6 @@
 name: наш
-name_ac: наш
-wordcls: pronoun
+name_accent: наш
+wordclass: pronoun
 translation:
   - unser
 pro_type: possessive
@@ -37,4 +37,4 @@ plu_ins: на́­ши­ми
 plu_pre: на́­ших
 comment: null
 usage: null
-etymol: null
+etymology: null

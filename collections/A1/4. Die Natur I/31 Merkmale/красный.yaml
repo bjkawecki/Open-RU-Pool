@@ -1,6 +1,6 @@
 name: красный
-name_ac: кра́сный
-wordcls: adjective
+name_accent: кра́сный
+wordclass: adjective
 translation:
   - rot
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: кра́­сен
 sho_fem: крас­на́
 sho_neu: кра́с­но
 sho_plu: кра́с­ны
-compara: крас­не́е
-superla: самый кра́сный
+comparative: крас­не́е
+superlative: самый кра́сный
 comment: null
 usage: null
-etymol: null
+etymology: null

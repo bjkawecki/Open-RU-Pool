@@ -1,6 +1,6 @@
 name: статья
-name_ac: статья́
-wordcls: substantive
+name_accent: статья́
+wordclass: substantive
 translation:
   - Artikel
   - Aufsatz
@@ -27,4 +27,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

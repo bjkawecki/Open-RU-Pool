@@ -1,9 +1,9 @@
 name: больно
-name_ac: бо́льно
-wordcls: adverb
+name_accent: бо́льно
+wordclass: adverb
 translation:
   - schmerzhaft
 
 comment: null
 usage: null
-etymol: null
+etymology: null

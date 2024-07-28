@@ -1,6 +1,6 @@
 name: девятнадцать
-name_ac: девятна́дцать
-wordcls: numeral
+name_accent: девятна́дцать
+wordclass: numeral
 translation:
   - neunzehn
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

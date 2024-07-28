@@ -1,6 +1,6 @@
 name: вид
-name_ac:
-wordcls: substantive
+name_accent:
+wordclass: substantive
 translation:
   - Aspekt
   - Aktionsart
@@ -38,4 +38,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: четыреста
-name_ac: четы́реста
-wordcls: numeral
+name_accent: четы́реста
+wordclass: numeral
 translation:
   - vierhundert
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

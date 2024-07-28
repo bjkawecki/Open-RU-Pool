@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: Ливия
-name_ac: Ли́вия
+name_accent: Ли́вия
 translation:
   - Libyen
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

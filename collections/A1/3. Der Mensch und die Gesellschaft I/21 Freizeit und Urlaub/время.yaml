@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: время
-name_ac: вре́мя
+name_accent: вре́мя
 translation:
   - Zeit
 genus: neutral
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

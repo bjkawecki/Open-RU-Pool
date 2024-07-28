@@ -1,6 +1,6 @@
 name: апельсин
-name_ac: ап­ель­си́н
-wordcls: substantive
+name_accent: ап­ель­си́н
+wordclass: substantive
 translation:
   - Orange
   - Apfelsine
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

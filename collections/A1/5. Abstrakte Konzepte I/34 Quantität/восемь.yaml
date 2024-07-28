@@ -1,6 +1,6 @@
 name: восемь
-name_ac: во́семь
-wordcls: numeral
+name_accent: во́семь
+wordclass: numeral
 translation:
   - acht
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

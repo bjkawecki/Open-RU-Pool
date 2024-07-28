@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: русская
-name_ac: ру́сская
+name_accent: ру́сская
 translation:
   - Russin
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

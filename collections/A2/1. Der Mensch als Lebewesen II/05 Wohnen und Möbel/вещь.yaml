@@ -1,6 +1,6 @@
 name: вещь
-name_ac: вещь
-wordcls: substantive
+name_accent: вещь
+wordclass: substantive
 translation:
   - Sache
   - Ding
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

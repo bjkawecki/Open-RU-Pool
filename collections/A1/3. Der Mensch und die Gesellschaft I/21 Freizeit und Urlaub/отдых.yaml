@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: отдых
-name_ac: о́тдых
+name_accent: о́тдых
 translation:
   - Urlaub
   - Erholung
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: чей
-name_ac: чей
-wordcls: pronoun
+name_accent: чей
+wordclass: pronoun
 translation:
   - wessen
 pro_type: interrogative
@@ -37,4 +37,4 @@ plu_ins: чь­и́ми
 plu_pre: чь­их
 comment: null
 usage: null
-etymol: null
+etymology: null

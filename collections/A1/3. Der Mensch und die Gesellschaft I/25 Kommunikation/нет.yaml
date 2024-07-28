@@ -1,11 +1,11 @@
 name: нет
-name_ac: нет
+name_accent: нет
 publ_id: particle
-wordcls:
+wordclass:
 translation:
   - nein
   - kein
 
 comment: null
 usage: null
-etymol: null
+etymology: null

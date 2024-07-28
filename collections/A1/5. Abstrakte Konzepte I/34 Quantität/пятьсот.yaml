@@ -1,6 +1,6 @@
 name: пятьсот
-name_ac: пятьсо́т
-wordcls: numeral
+name_accent: пятьсо́т
+wordclass: numeral
 translation:
   - fünfhundert
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

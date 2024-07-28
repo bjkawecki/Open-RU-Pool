@@ -1,6 +1,6 @@
 name: звонить по телефону
-name_ac: звони́ть по теле́фону
-wordcls: phrase
+name_accent: звони́ть по теле́фону
+wordclass: phrase
 translation:
   - anrufen
   - telefonieren
@@ -9,4 +9,4 @@ metaphrase:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

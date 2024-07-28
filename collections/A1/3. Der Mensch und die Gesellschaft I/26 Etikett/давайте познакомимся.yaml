@@ -1,9 +1,9 @@
 name: давайте познакомимся
-name_ac: дава́йте познако́мимся
-wordcls: phrase
+name_accent: дава́йте познако́мимся
+wordclass: phrase
 translation:
   - Stellen wir uns einander vor
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

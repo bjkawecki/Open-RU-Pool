@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: москвичи
-name_ac: москвичи́
+name_accent: москвичи́
 translation:
   - Moskauer
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: Plural
 usage: null
-etymol: null
+etymology: null

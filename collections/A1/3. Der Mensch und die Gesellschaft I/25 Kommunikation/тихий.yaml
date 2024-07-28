@@ -1,6 +1,6 @@
 name: тихий
-name_ac: ти́хий
-wordcls: adverb
+name_accent: ти́хий
+wordclass: adverb
 translation:
   - leise
 
@@ -39,9 +39,9 @@ sho_fem: ти­ха́
 sho_neu: ти́­хо
 sho_plu: ти́­хи
 
-compara: ти́­ше
-superla: самый ти́­хий
+comparative: ти́­ше
+superlative: самый ти́­хий
 
 comment: null
 usage: null
-etymol: null
+etymology: null

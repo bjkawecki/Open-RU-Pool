@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: инженер
-name_ac: инжене́р
+name_accent: инжене́р
 translation:
   - Ingenieur
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

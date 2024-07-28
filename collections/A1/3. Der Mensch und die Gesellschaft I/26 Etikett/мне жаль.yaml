@@ -1,10 +1,10 @@
 name: мне жаль
-name_ac: мне жаль
-wordcls: phrase
+name_accent: мне жаль
+wordclass: phrase
 translation:
   - Es tut mir leid.
 metaphrase:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

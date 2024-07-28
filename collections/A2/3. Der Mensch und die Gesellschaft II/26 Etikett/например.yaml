@@ -1,8 +1,8 @@
 name: например
-name_ac:
-wordcls: adverb
+name_accent:
+wordclass: adverb
 translation:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

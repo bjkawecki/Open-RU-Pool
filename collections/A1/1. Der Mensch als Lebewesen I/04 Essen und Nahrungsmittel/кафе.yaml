@@ -1,6 +1,6 @@
 name: кафе
-name_ac: ка­фе́
-wordcls: substantive
+name_accent: ка­фе́
+wordclass: substantive
 translation:
   - Café
 
@@ -35,4 +35,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null French
+etymology: null French

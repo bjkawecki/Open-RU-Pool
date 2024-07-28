@@ -1,6 +1,6 @@
 name: серьёзный
-name_ac: серьёзный
-wordcls: adjective
+name_accent: серьёзный
+wordclass: adjective
 translation:
   - ernst
   - seriös
@@ -33,8 +33,8 @@ sho_mas: серь­ёз­ен
 sho_fem: серь­ёз­на
 sho_neu: серь­ёз­но
 sho_plu: серь­ёз­ны
-compara: серь­ёз­нее
-superla: самый серьёзный
+comparative: серь­ёз­нее
+superlative: самый серьёзный
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: лифт
-name_ac: лифт
-wordcls: substantive
+name_accent: лифт
+wordclass: substantive
 translation:
   - Aufzug
   - Fahrstuhl
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

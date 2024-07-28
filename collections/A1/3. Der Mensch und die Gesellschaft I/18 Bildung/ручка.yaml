@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: ручка
-name_ac: ру́чка
+name_accent: ру́чка
 translation:
   - Füller
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

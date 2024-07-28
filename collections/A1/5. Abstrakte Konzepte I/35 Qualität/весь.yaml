@@ -1,6 +1,6 @@
 name: весь
-name_ac: весь
-wordcls: pronoun
+name_accent: весь
+wordclass: pronoun
 translation:
   - alle
   - ganzer
@@ -48,4 +48,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

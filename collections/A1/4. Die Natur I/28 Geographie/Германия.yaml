@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: Германия
-name_ac: Герма́ния
+name_accent: Герма́ния
 translation:
   - Deutschland
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

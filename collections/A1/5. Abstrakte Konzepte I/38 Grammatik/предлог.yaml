@@ -1,6 +1,6 @@
 name: предлог
-name_ac: пред­ло́г
-wordcls: substantive
+name_accent: пред­ло́г
+wordclass: substantive
 translation:
   - Präposition
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: магазин
-name_ac: магази́н
-wordcls: substantive
+name_accent: магази́н
+wordclass: substantive
 translation:
   - Geschäft
   - Laden
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

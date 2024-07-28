@@ -1,6 +1,6 @@
 name: семьсот
-name_ac: семьсо́т
-wordcls: numeral
+name_accent: семьсо́т
+wordclass: numeral
 translation:
   - siebenhundert
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

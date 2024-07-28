@@ -1,8 +1,8 @@
 name: скоро
-name_ac: ско́ро
-wordcls: adverb
+name_accent: ско́ро
+wordclass: adverb
 translation:
-- bald
+  - bald
 comment: null
 usage: null
-etymol: null
+etymology: null

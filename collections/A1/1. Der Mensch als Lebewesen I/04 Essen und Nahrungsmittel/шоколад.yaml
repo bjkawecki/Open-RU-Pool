@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: шоколад
-name_ac: шокола́д
+name_accent: шокола́д
 translation:
   - Schokolade
 genus: masculine
@@ -25,4 +25,4 @@ partitive: шо­ко­ла́­ду
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

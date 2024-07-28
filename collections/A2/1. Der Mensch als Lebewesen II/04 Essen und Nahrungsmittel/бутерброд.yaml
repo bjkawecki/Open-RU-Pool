@@ -1,6 +1,6 @@
 name: бутерброд
-name_ac: бу­терб­ро́д
-wordcls: substantive
+name_accent: бу­терб­ро́д
+wordclass: substantive
 translation:
   - belegtes Brot
   - Stulle
@@ -32,4 +32,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: быть замужем
-name_ac: быть заму́жем
-wordcls: phrase
+name_accent: быть заму́жем
+wordclass: phrase
 translation:
   - verheiratet sein
 
@@ -8,4 +8,4 @@ metaphrase:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

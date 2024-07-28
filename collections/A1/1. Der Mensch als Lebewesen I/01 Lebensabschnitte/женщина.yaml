@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: женщина
-name_ac: же́нщина
+name_accent: же́нщина
 translation:
   - Frau
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

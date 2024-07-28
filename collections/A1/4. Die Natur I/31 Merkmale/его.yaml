@@ -1,6 +1,6 @@
 name: его
-name_ac: его́
-wordcls: pronoun
+name_accent: его́
+wordclass: pronoun
 translation:
   - sein
 pro_type: possessive
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

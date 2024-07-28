@@ -1,41 +1,43 @@
 name: умереть
-name_ac: умере́ть
-wordcls: verb
+name_accent: умере́ть
+wordclass: verb
 translation:
   - sterben
 aspect: perfective
-partner: уми­ра́ть
-con_cls: e
+aspect_partner: уми­ра́ть
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: ум­ру́
-pre_sin_2: ум­рёшь
-pre_sin_3: ум­рёт
-pre_plu_1: ум­рём
-pre_plu_2: ум­рё­те
-pre_plu_3: ум­ру́т
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: у́м­ер
-pas_fem: ум­ер­ла́
-pas_neu: у́м­ер­ло
-pas_plu: у́м­ер­ли
-par_pre_act: ум­е́р­ший
-par_pas_act: ум­е́р­ши, уме­ре́в
-par_pre_pas: null
-par_pas_pas: null
-par_adv_pre: null
-par_adv_pas: null
-imp_sin: ум­ри́
-imp_plu: ум­ри́­те
+present_singular_1: ум­ру́
+present_singular_2: ум­рёшь
+present_singular_3: ум­рёт
+present_plural_1: ум­рём
+present_plural_2: ум­рё­те
+present_plural_3: ум­ру́т
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: у́м­ер
+past_feminine: ум­ер­ла́
+past_neutral: у́м­ер­ло
+past_plural: у́м­ер­ли
+participle_active_present: ум­е́р­ший
+participle_active_past: ум­е́р­ши, уме­ре́в
+participle_passive_present: null
+participle_passive_past: null
+participle_adverbial_present: null
+participle_adverbial_passive: null
+imperative_singular: ум­ри́
+imperative_plural: ум­ри́­те
 comment: null
 usage: null
-etymol: null
+etymology: null

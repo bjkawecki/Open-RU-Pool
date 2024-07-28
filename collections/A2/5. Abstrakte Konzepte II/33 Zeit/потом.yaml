@@ -1,10 +1,10 @@
 name: потом
-name_ac: пото́м
-wordcls: adverb
+name_accent: пото́м
+wordclass: adverb
 translation:
-- danach
-- nachher
-- später
+  - danach
+  - nachher
+  - später
 comment: null
 usage: null
-etymol: null
+etymology: null

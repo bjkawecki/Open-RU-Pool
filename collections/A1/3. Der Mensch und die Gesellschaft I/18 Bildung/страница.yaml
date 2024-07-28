@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: страница
-name_ac: страни́ца
+name_accent: страни́ца
 translation:
   - Seite
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

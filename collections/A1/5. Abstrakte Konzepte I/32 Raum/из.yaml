@@ -1,10 +1,10 @@
 name: из
-name_ac: из
-wordcls: preposition
+name_accent: из
+wordclass: preposition
 translation:
   - aus
 prep_type: directional
 prep_case: genitive
 comment: null
 usage: null
-etymol: null
+etymology: null

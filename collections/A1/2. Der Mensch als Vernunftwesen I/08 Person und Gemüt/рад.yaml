@@ -1,9 +1,9 @@
 name: рад
-name_ac: рад
-wordcls: adverb
+name_accent: рад
+wordclass: adverb
 translation:
   - froh
   - erfreut
 comment: Kurzform männlich
 usage: null
-etymol: null
+etymology: null

@@ -1,9 +1,9 @@
 name: молодой человек
-name_ac: молодой челове́к
-wordcls: compound
+name_accent: молодой челове́к
+wordclass: compound
 translation:
   - junger Mann
   - Freund
 comment: null
 usage: null
-etymol: null
+etymology: null

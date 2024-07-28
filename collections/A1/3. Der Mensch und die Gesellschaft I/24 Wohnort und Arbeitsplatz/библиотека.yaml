@@ -1,6 +1,6 @@
 name: библиотека
-name_ac: библиоте́ка
-wordcls: substantive
+name_accent: библиоте́ка
+wordclass: substantive
 translation:
   - Bibliothek
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

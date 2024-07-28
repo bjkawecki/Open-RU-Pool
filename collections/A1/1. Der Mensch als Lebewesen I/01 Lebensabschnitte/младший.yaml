@@ -1,6 +1,6 @@
 name: младший
-name_ac: мла́дший
-wordcls: adjective
+name_accent: мла́дший
+wordclass: adjective
 translation:
   - jüngerer
 is_gradable: null
@@ -32,8 +32,8 @@ sho_mas: null
 sho_fem: null
 sho_neu: null
 sho_plu: null
-compara: null
-superla: null
+comparative: null
+superlative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

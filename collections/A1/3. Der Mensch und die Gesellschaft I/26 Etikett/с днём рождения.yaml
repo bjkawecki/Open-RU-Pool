@@ -1,9 +1,9 @@
 name: с днём рождения
-name_ac: с днём рожде́ния
-wordcls: phrase
+name_accent: с днём рожде́ния
+wordclass: phrase
 translation:
   - Glückwunsch zum Geburtstag!
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

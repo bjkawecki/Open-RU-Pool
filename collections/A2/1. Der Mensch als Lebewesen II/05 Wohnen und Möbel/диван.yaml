@@ -1,6 +1,6 @@
 name: диван
-name_ac: ди­ва́н
-wordcls: substantive
+name_accent: ди­ва́н
+wordclass: substantive
 translation:
   - Sofa
   - Diwan
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

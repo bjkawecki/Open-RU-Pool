@@ -1,9 +1,9 @@
 name: господа
-name_ac: господа́
-wordcls: phrase
+name_accent: господа́
+wordclass: phrase
 translation:
   - Meine Herrschaften
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

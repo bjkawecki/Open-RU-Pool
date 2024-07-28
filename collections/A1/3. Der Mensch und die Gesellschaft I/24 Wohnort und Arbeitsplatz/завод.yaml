@@ -1,6 +1,6 @@
 name: завод
-name_ac: заво́д
-wordcls: substantive
+name_accent: заво́д
+wordclass: substantive
 translation:
   - Betrieb
   - Werk
@@ -27,4 +27,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

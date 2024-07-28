@@ -1,8 +1,8 @@
 name: городской парк
-name_ac: городско́й парк
-wordcls: compound
+name_accent: городско́й парк
+wordclass: compound
 translation:
   - Stadtpark
 comment: null
 usage: null
-etymol: null
+etymology: null

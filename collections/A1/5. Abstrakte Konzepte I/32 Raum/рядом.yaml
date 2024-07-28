@@ -1,9 +1,9 @@
 name: рядом
-name_ac: ря́дом
-wordcls: adverb
+name_accent: ря́дом
+wordclass: adverb
 translation:
   - nebenan
   - in der Nähe
 comment: null
 usage: null
-etymol: null
+etymology: null

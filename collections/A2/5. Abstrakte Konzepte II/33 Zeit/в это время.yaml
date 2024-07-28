@@ -1,10 +1,10 @@
 name: в это время
-name_ac: в э́то вре́мя
-wordcls: phrase
+name_accent: в э́то вре́мя
+wordclass: phrase
 translation:
-- zum jetzigen Zeitpunkt
-- zur Zeit
+  - zum jetzigen Zeitpunkt
+  - zur Zeit
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

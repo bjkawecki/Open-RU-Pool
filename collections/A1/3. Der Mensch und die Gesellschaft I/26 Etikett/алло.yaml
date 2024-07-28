@@ -1,9 +1,9 @@
 name: алло
-name_ac: алло́
-wordcls: phrase
+name_accent: алло́
+wordclass: phrase
 translation:
   - Hallo
 metaphrase: null
 comment: Begrüßung am Telefon
 usage: null
-etymol: null
+etymology: null

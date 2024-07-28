@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: четверг
-name_ac: четве́рг
+name_accent: четве́рг
 translation:
   - Donnerstag
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

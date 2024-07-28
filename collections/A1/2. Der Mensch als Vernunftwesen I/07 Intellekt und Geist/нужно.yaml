@@ -1,10 +1,10 @@
 name: нужно
-name_ac: ну́жно
-wordcls: adverb
+name_accent: ну́жно
+wordclass: adverb
 translation:
   - (man) muss
   - (man) soll
   - (man) braucht
 comment: null
 usage: formal
-etymol: null
+etymology: null

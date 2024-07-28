@@ -1,6 +1,6 @@
 name: коридор
-name_ac: ко­рид­о́р
-wordcls: substantive
+name_accent: ко­рид­о́р
+wordclass: substantive
 translation:
   - Gang
   - Flur
@@ -32,4 +32,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

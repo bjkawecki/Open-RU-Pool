@@ -1,6 +1,6 @@
 name: первый
-name_ac: пе́рвый
-wordcls: numeral
+name_accent: пе́рвый
+wordclass: numeral
 translation:
   - erster
 
@@ -35,4 +35,4 @@ plu_pre: пе́р­вых
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: имя
-name_ac: и́мя
-wordcls: substantive
+name_accent: и́мя
+wordclass: substantive
 translation:
   - Name
   - Vorname
@@ -38,4 +38,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

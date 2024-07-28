@@ -1,6 +1,6 @@
 name: средний род
-name_ac: сре́дний род
-wordcls: compound
+name_accent: сре́дний род
+wordclass: compound
 translation:
   - Neutrum
   - sächliches Geschlecht
@@ -9,4 +9,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

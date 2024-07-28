@@ -1,6 +1,6 @@
 name: белый
-name_ac: бе́лый
-wordcls: adjective
+name_accent: бе́лый
+wordclass: adjective
 translation:
   - weiß
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: бел
 sho_fem: бе­ла́
 sho_neu: бе́­ло
 sho_plu: бе́­лы
-compara: бе­ле́е
-superla: самый бе́лый
+comparative: бе­ле́е
+superlative: самый бе́лый
 comment: null
 usage: null
-etymol: null
+etymology: null

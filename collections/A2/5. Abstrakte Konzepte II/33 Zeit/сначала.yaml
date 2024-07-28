@@ -1,10 +1,10 @@
 name: сначала
-name_ac: снача́ла
-wordcls: adverb
+name_accent: снача́ла
+wordclass: adverb
 translation:
-- zuerst
-- zuvor
-- als Erstes
+  - zuerst
+  - zuvor
+  - als Erstes
 comment: null
 usage: null
-etymol: null
+etymology: null

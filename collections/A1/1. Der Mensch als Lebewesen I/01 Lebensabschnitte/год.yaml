@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: год
-name_ac: год
+name_accent: год
 translation:
   - Jahr
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: в го­ду́
 comment: null
 usage: null
-etymol: null
+etymology: null

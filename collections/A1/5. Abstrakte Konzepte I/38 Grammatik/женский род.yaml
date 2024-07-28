@@ -1,6 +1,6 @@
 name: женский род
-name_ac: же́нский род
-wordcls: compound
+name_accent: же́нский род
+wordclass: compound
 translation:
   - Femininum
   - weibliches Geschlecht
@@ -9,4 +9,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

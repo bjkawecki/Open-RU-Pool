@@ -1,10 +1,10 @@
 name: давно
-name_ac: давно́
-wordcls: adverb
+name_accent: давно́
+wordclass: adverb
 translation:
   - seit langem
   - vor langer Zeit
   - längst
 comment: null
 usage: null
-etymol: null
+etymology: null

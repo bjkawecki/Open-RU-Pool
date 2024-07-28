@@ -1,9 +1,9 @@
 name: по-твоему
-name_ac: по-тво́ему
-wordcls: adverb
+name_accent: по-тво́ему
+wordclass: adverb
 translation:
-- deiner Meinung nach
-- deines Erachtens
+  - deiner Meinung nach
+  - deines Erachtens
 comment: null
 usage: null
-etymol: null
+etymology: null

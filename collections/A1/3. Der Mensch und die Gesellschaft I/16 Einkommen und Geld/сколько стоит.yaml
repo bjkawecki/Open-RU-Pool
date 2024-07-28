@@ -1,9 +1,9 @@
 name: сколько стоит
-name_ac: ско́лько сто́ит
-wordcls: phrase
+name_accent: ско́лько сто́ит
+wordclass: phrase
 translation:
   - Wie viel kostet es?
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

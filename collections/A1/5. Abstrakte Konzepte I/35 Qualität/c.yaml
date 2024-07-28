@@ -1,6 +1,6 @@
 name: c
-name_ac: c
-wordcls: preposition
+name_accent: c
+wordclass: preposition
 translation:
   - mit
 
@@ -12,4 +12,4 @@ comment: Aus 'с' wird 'со', um bestimmte Konsonantenhäufungen zu vermeiden.
 
 usage:
 
-etymol:
+etymology:

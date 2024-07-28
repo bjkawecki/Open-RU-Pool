@@ -1,6 +1,6 @@
 name: смелый
-name_ac: сме́лый
-wordcls: adjective
+name_accent: сме́лый
+wordclass: adjective
 translation:
   - kühn
   - beherzt
@@ -34,8 +34,8 @@ sho_mas: смел
 sho_fem: сме­ла́
 sho_neu: сме́­ло
 sho_plu: сме́­лы
-compara: сме­ле́е
-superla: самый сме́лый
+comparative: сме­ле́е
+superlative: самый сме́лый
 comment: null
 usage: null
-etymol: null
+etymology: null

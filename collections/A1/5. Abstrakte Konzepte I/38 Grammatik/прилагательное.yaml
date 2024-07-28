@@ -1,6 +1,6 @@
 name: прилагательное
-name_ac: прилага́тельное
-wordcls: substantive
+name_accent: прилага́тельное
+wordclass: substantive
 translation:
   - Adjektiv
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

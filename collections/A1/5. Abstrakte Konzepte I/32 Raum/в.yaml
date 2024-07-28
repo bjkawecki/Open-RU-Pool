@@ -1,10 +1,10 @@
 name: в
-name_ac: в
-wordcls: preposition
+name_accent: в
+wordclass: preposition
 translation:
   - in
 prep_type: directional
 prep_case: accusative
 comment: Aus 'в' wird 'во', um bestimmte Konsonantenhäufungen zu vermeiden.
 usage: null
-etymol: null
+etymology: null

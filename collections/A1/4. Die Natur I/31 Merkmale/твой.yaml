@@ -1,6 +1,6 @@
 name: твой
-name_ac: твой
-wordcls: pronoun
+name_accent: твой
+wordclass: pronoun
 translation:
   - dein
 pro_type: possessive
@@ -37,4 +37,4 @@ plu_ins: тво­и́ми
 plu_pre: тво­и́х
 comment: null
 usage: null
-etymol: null
+etymology: null

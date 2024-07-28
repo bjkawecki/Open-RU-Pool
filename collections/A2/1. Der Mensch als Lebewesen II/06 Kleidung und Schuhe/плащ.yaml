@@ -1,6 +1,6 @@
 name: плащ
-name_ac: плащ
-wordcls: substantive
+name_accent: плащ
+wordclass: substantive
 translation:
   - Regenmantel
   - Trenchcoat
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

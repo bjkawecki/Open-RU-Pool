@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: часы
-name_ac: часы́
+name_accent: часы́
 translation:
   - Uhr
 genus: none
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

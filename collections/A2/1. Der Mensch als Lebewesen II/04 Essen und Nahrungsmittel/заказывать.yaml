@@ -1,53 +1,55 @@
 name: заказывать
-name_ac: за­ка́­зы­вать
-wordcls: verb
+name_accent: за­ка́­зы­вать
+wordclass: verb
 translation:
   - bestellen
   - reservieren
   - beauftragen
 aspect: imperfective
-partner: за­каз­а́ть
-con_cls: e
+aspect_partner: за­каз­а́ть
+conjugation_class: e
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
 
-pre_sin_1: за­ка́­зы­ваю
-pre_sin_2: за­ка́­зы­ва­ешь
-pre_sin_3: за­ка́­зы­ва­ет
-pre_plu_1: за­ка́­зы­ва­ем
-pre_plu_2: за­ка́­зы­ва­ете
-pre_plu_3: за­ка́­зы­ва­ют
+present_singular_1: за­ка́­зы­ваю
+present_singular_2: за­ка́­зы­ва­ешь
+present_singular_3: за­ка́­зы­ва­ет
+present_plural_1: за­ка́­зы­ва­ем
+present_plural_2: за­ка́­зы­ва­ете
+present_plural_3: за­ка́­зы­ва­ют
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
 
-pas_mas: за­ка́­зы­вал
-pas_fem: за­ка́­зы­ва­ла
-pas_neu: за­ка́­зы­ва­ло
-pas_plu: за­ка́­зы­ва­ли
+past_masculine: за­ка́­зы­вал
+past_feminine: за­ка́­зы­ва­ла
+past_neutral: за­ка́­зы­ва­ло
+past_plural: за­ка́­зы­ва­ли
 
-par_pre_act: за­ка́­зы­ва­ющий
-par_pas_act: за­ка́­зы­вав­ший
+participle_active_present: за­ка́­зы­ва­ющий
+participle_active_past: за­ка́­зы­вав­ший
 
-par_adv_pre: за­ка́­зы­вая
-par_adv_pas: заказывавши, заказывав
+participle_adverbial_present: за­ка́­зы­вая
+participle_adverbial_passive: заказывавши, заказывав
 
-par_pre_pas: за­ка́­зы­ва­емый
-par_pas_pas:
+participle_passive_present: за­ка́­зы­ва­емый
+participle_passive_past:
 
-imp_sin: за­ка́­зы­вай
-imp_plu: за­ка́­зы­вай­те
+imperative_singular: за­ка́­зы­вай
+imperative_plural: за­ка́­зы­вай­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

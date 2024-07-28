@@ -1,6 +1,6 @@
 name: народный
-name_ac: наро́дный
-wordcls: adjective
+name_accent: наро́дный
+wordclass: adjective
 translation:
   - volkstümlich
   - Volks-
@@ -33,8 +33,8 @@ sho_mas: на­ро́д­ен
 sho_fem: на­ро́д­на
 sho_neu: на­ро́д­но
 sho_plu: на­ро́д­ны
-compara: на­ро́д­нее
-superla: самый наро́дный
+comparative: на­ро́д­нее
+superlative: самый наро́дный
 comment: null
 usage: null
-etymol: null
+etymology: null

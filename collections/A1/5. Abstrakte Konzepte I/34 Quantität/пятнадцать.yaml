@@ -1,6 +1,6 @@
 name: пятнадцать
-name_ac: пятна́дцать
-wordcls: numeral
+name_accent: пятна́дцать
+wordclass: numeral
 translation:
   - fünfzehn
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

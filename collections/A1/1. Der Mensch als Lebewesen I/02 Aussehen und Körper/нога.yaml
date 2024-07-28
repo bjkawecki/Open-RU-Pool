@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: нога
-name_ac: нога́
+name_accent: нога́
 translation:
   - Bein
   - Fuß
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: учитель
-name_ac: учи́тель
+name_accent: учи́тель
 translation:
   - Lehrer
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: in der Schule
 usage: null
-etymol: null
+etymology: null

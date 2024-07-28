@@ -1,6 +1,6 @@
 name: тринадцать
-name_ac: трина́дцать
-wordcls: numeral
+name_accent: трина́дцать
+wordclass: numeral
 translation:
   - dreizehn
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

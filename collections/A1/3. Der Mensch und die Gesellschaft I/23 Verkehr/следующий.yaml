@@ -1,6 +1,6 @@
 name: следующий
-name_ac: сле́дующий
-wordcls: adjective
+name_accent: сле́дующий
+wordclass: adjective
 translation:
   - nächster
   - Nach-
@@ -34,8 +34,8 @@ sho_mas: сле́­ду­ющ
 sho_fem: сле́­ду­юща
 sho_neu: сле́­ду­юще
 sho_plu: сле́­ду­ющи
-compara: сле́­ду­ющее
-superla: самый сле́дующий
+comparative: сле́­ду­ющее
+superlative: самый сле́дующий
 comment: null
 usage: null
-etymol: null
+etymology: null

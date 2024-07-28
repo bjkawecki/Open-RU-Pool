@@ -1,6 +1,6 @@
 name: местоимение
-name_ac: мес­то­име́­ние
-wordcls: substantive
+name_accent: мес­то­име́­ние
+wordclass: substantive
 translation:
   - Pronomen
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

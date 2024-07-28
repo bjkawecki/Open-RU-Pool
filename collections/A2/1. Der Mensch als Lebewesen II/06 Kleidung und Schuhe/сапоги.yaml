@@ -1,6 +1,6 @@
 name: сапог
-name_ac: сапо́г
-wordcls: substantive
+name_accent: сапо́г
+wordclass: substantive
 translation:
   - Stiefel
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

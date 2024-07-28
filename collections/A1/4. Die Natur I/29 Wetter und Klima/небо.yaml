@@ -1,6 +1,6 @@
 name: небо
-name_ac: не́­бо
-wordcls: substantive
+name_accent: не́­бо
+wordclass: substantive
 translation:
   - Himmel
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

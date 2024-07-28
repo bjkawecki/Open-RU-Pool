@@ -1,6 +1,6 @@
 name: национальный
-name_ac: национа́льный
-wordcls: adjective
+name_accent: национа́льный
+wordclass: adjective
 translation:
   - national
   - Länder-
@@ -33,8 +33,8 @@ sho_mas: на­ци­она́­лен
 sho_fem: на­ци­он­а́ль­на
 sho_neu: на­ци­он­а́ль­но
 sho_plu: на­ци­он­а́ль­ны
-compara: на­ци­он­а́ль­нее
-superla: самый национа́льный
+comparative: на­ци­он­а́ль­нее
+superlative: самый национа́льный
 comment: null
 usage: null
-etymol: null
+etymology: null

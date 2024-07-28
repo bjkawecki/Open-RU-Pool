@@ -1,6 +1,6 @@
 name: пирожок
-name_ac: пи­рож­о́к
-wordcls: substantive
+name_accent: пи­рож­о́к
+wordclass: substantive
 translation:
   - Küchlein
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

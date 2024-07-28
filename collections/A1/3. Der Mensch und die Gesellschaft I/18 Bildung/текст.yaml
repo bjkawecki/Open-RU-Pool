@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: текст
-name_ac: текст
+name_accent: текст
 translation:
   - Text
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

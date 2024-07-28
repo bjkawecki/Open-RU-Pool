@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: рис
-name_ac: рис
+name_accent: рис
 translation:
   - Reis
 genus: masculine
@@ -25,4 +25,4 @@ partitive: ри́­су
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

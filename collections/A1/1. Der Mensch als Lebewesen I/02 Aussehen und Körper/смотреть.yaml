@@ -1,42 +1,44 @@
 name: смотреть
-name_ac: смотре́ть
-wordcls: verb
+name_accent: смотре́ть
+wordclass: verb
 translation:
   - schauen
   - anschauen
 aspect: imperfective
-partner: посмотре́ть
-con_cls: i
+aspect_partner: посмотре́ть
+conjugation_class: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: смот­рю́
-pre_sin_2: смо́т­ришь
-pre_sin_3: смо́т­рит
-pre_plu_1: смо́т­рим
-pre_plu_2: смо́т­ри­те
-pre_plu_3: смо́т­рят
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: смот­ре́л
-pas_fem: смот­ре́­ла
-pas_neu: смот­ре́­ло
-pas_plu: смот­ре́­ли
-par_pre_act: смот­ря́­щий
-par_pas_act: смот­ре́­вший
-par_pre_pas: смот­ря́
-par_pas_pas: смот­ре́­вши, смот­ре́в
-par_adv_pre: смот­ри́­мый
-par_adv_pas: смо́т­рен­ный
-imp_sin: смот­ри́
-imp_plu: смот­ри́­те
+present_singular_1: смот­рю́
+present_singular_2: смо́т­ришь
+present_singular_3: смо́т­рит
+present_plural_1: смо́т­рим
+present_plural_2: смо́т­ри­те
+present_plural_3: смо́т­рят
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: смот­ре́л
+past_feminine: смот­ре́­ла
+past_neutral: смот­ре́­ло
+past_plural: смот­ре́­ли
+participle_active_present: смот­ря́­щий
+participle_active_past: смот­ре́­вший
+participle_passive_present: смот­ря́
+participle_passive_past: смот­ре́­вши, смот­ре́в
+participle_adverbial_present: смот­ри́­мый
+participle_adverbial_passive: смо́т­рен­ный
+imperative_singular: смот­ри́
+imperative_plural: смот­ри́­те
 comment: null
 usage: null
-etymol: null
+etymology: null

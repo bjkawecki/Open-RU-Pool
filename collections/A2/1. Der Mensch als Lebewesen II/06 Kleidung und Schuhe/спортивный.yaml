@@ -1,6 +1,6 @@
 name: спортивный
-name_ac: спор­ти́­вный
-wordcls: adjective
+name_accent: спор­ти́­вный
+wordclass: adjective
 translation:
   - sportlich
 
@@ -39,9 +39,9 @@ sho_fem: спор­ти́­вна
 sho_neu: спор­ти́­вно
 sho_plu: спор­ти́­вны
 
-compara: спор­ти́­внее
-superla:
+comparative: спор­ти́­внее
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

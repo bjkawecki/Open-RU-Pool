@@ -1,6 +1,6 @@
 name: грипп
-name_ac: грипп
-wordcls: substantive
+name_accent: грипп
+wordclass: substantive
 translation:
   - Grippe
 
@@ -35,4 +35,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

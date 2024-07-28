@@ -1,9 +1,9 @@
 name: моя фамилия
-name_ac: моя́ фами́лия
-wordcls: phrase
+name_accent: моя́ фами́лия
+wordclass: phrase
 translation:
   - Mein Nachname ist
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

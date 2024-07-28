@@ -1,6 +1,6 @@
 name: серый
-name_ac: се́рый
-wordcls: adjective
+name_accent: се́рый
+wordclass: adjective
 translation:
   - grau
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: сер
 sho_fem: се­ра́
 sho_neu: се́­ро
 sho_plu: се́­ры
-compara: се­ре́е
-superla: самый се́рый
+comparative: се­ре́е
+superlative: самый се́рый
 comment: null
 usage: null
-etymol: null
+etymology: null

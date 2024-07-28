@@ -1,6 +1,6 @@
 name: десять
-name_ac: де́сять
-wordcls: numeral
+name_accent: де́сять
+wordclass: numeral
 translation:
   - zehn
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

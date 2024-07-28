@@ -1,9 +1,9 @@
 name: великий
-name_ac: вели́кий
-wordcls: adjective
+name_accent: вели́кий
+wordclass: adjective
 translation:
-- groß
-- erhaben
+  - groß
+  - erhaben
 is_gradable: true
 mas_nom: ве́ликий
 mas_gen: ве­ли́­ко­го
@@ -33,8 +33,8 @@ sho_mas: ве­ли́к
 sho_fem: ве­ли́­ка
 sho_neu: ве­ли́­ко
 sho_plu: ве­ли́­ки
-compara: null
-superla: самый ве́ликий
+comparative: null
+superlative: самый ве́ликий
 comment: null
 usage: null
-etymol: null
+etymology: null

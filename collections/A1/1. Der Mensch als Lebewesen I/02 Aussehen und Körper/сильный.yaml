@@ -1,6 +1,6 @@
 name: сильный
-name_ac: си́льный
-wordcls: adjective
+name_accent: си́льный
+wordclass: adjective
 translation:
   - stark
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: си­лён
 sho_fem: силь­на́
 sho_neu: си́ль­но
 sho_plu: силь­ны́
-compara: силь­не́е
-superla: самый си́льный
+comparative: силь­не́е
+superlative: самый си́льный
 comment: null
 usage: null
-etymol: null
+etymology: null

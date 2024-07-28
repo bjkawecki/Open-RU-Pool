@@ -1,9 +1,9 @@
 name: очень
-name_ac: о́чень
-wordcls: adverb
+name_accent: о́чень
+wordclass: adverb
 translation:
   - sehr
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: вопросительный знак
-name_ac: вопроси́тельный знак
-wordcls: compound
+name_accent: вопроси́тельный знак
+wordclass: compound
 translation:
   - Fragezeichen
 
@@ -8,4 +8,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: этаж
-name_ac: эта́ж
+name_accent: эта́ж
 translation:
   - Stock
   - Etage
@@ -27,4 +27,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

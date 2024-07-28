@@ -1,10 +1,10 @@
 name: с удовольствием
-name_ac: с удово́льствием
-wordcls: phrase
+name_accent: с удово́льствием
+wordclass: phrase
 translation:
   - gerne
   - mit Vergnügen
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

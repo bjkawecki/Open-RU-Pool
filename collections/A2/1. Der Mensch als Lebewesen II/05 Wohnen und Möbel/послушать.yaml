@@ -1,51 +1,53 @@
 name: послушать
-name_ac: пос­лу́­шать
-wordcls: verb
+name_accent: пос­лу́­шать
+wordclass: verb
 translation:
   - zuhören
 aspect: perfective
-partner: слу́шать
-con_cls: e
+aspect_partner: слу́шать
+conjugation_class: e
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+present_singular_1:
+present_singular_2:
+present_singular_3:
+present_plural_1:
+present_plural_2:
+present_plural_3:
 
-fut_sin_1: пос­лу́­шаю
-fut_sin_2: пос­лу́­ша­ешь
-fut_sin_3: пос­лу́­ша­ет
-fut_plu_1: пос­лу́­ша­ем
-fut_plu_2: пос­лу́­ша­ете
-fut_plu_3: пос­лу́­ша­ют
+future_singular_1: пос­лу́­шаю
+future_singular_2: пос­лу́­ша­ешь
+future_singular_3: пос­лу́­ша­ет
+future_plural_1: пос­лу́­ша­ем
+future_plural_2: пос­лу́­ша­ете
+future_plural_3: пос­лу́­ша­ют
 
-pas_mas: пос­лу́­шал
-pas_fem: пос­лу́­ша­ла
-pas_neu: пос­лу́­ша­ло
-pas_plu: пос­лу́­ша­ли
+past_masculine: пос­лу́­шал
+past_feminine: пос­лу́­ша­ла
+past_neutral: пос­лу́­ша­ло
+past_plural: пос­лу́­ша­ли
 
-par_pre_act:
-par_pas_act: пос­лу́­шав­ший
+participle_active_present:
+participle_active_past: пос­лу́­шав­ший
 
-par_adv_pre:
-par_adv_pas: пос­лу́­шав­ши, пос­лу́­шав
+participle_adverbial_present:
+participle_adverbial_passive: пос­лу́­шав­ши, пос­лу́­шав
 
-par_pre_pas:
-par_pas_pas: пос­лу́­шан­ный
+participle_passive_present:
+participle_passive_past: пос­лу́­шан­ный
 
-imp_sin: пос­лу́­шай
-imp_plu: пос­лу́­шай­те
+imperative_singular: пос­лу́­шай
+imperative_plural: пос­лу́­шай­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

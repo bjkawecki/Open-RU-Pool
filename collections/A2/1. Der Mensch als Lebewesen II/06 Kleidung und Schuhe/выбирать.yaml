@@ -1,53 +1,55 @@
 name: выбирать
-name_ac: вы­бир­а́ть
-wordcls: verb
+name_accent: вы­бир­а́ть
+wordclass: verb
 translation:
   - wählen
   - auswählen
 
 aspect: imperfective
-partner: вы́брать
-con_cls: e
+aspect_partner: вы́брать
+conjugation_class: e
 
 is_motion_verb: false
 motion_partner: null
 direction: nulll
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1: вы­би­ра́ю
-pre_sin_2: вы­би­ра́­ешь
-pre_sin_3: вы­би­ра́­ет
-pre_plu_1: вы­би­ра́­ем
-pre_plu_2: вы­би­ра́­ете
-pre_plu_3: вы­би­ра́­ют
+present_singular_1: вы­би­ра́ю
+present_singular_2: вы­би­ра́­ешь
+present_singular_3: вы­би­ра́­ет
+present_plural_1: вы­би­ра́­ем
+present_plural_2: вы­би­ра́­ете
+present_plural_3: вы­би­ра́­ют
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
 
-pas_mas: вы­бир­а́л
-pas_fem: вы­би­ра́­ла
-pas_neu: вы­би­ра́­ло
-pas_plu: вы­би­ра́­ли
+past_masculine: вы­бир­а́л
+past_feminine: вы­би­ра́­ла
+past_neutral: вы­би­ра́­ло
+past_plural: вы­би­ра́­ли
 
-par_pre_act: вы­би­ра́­ющий
-par_pas_act: вы­бир­а́в­ший
+participle_active_present: вы­би­ра́­ющий
+participle_active_past: вы­бир­а́в­ший
 
-par_adv_pre: вы­би­ра́я
-par_adv_pas: вы­бир­а́в­ши, вы­бир­а́в
+participle_adverbial_present: вы­би­ра́я
+participle_adverbial_passive: вы­бир­а́в­ши, вы­бир­а́в
 
-par_pre_pas: вы­би­ра́­емый
-par_pas_pas:
+participle_passive_present: вы­би­ра́­емый
+participle_passive_past:
 
-imp_sin: вы­би­ра́й
-imp_plu: вы­би­ра́й­те
+imperative_singular: вы­би­ра́й
+imperative_plural: вы­би­ра́й­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

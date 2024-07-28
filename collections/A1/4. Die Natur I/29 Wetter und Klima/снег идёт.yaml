@@ -1,9 +1,9 @@
 name: снег идёт
-name_ac: снег идёт
-wordcls: phrase
+name_accent: снег идёт
+wordclass: phrase
 translation:
   - es schneit
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

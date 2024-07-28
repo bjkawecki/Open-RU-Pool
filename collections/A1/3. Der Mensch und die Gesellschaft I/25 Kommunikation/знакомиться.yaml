@@ -1,53 +1,55 @@
 name: знакомиться
-name_ac: зна­ко́м­ить­ся
-wordcls: verb
+name_accent: зна­ко́м­ить­ся
+wordclass: verb
 translation:
   - sich kennenlernen
   - eine Bekanntschaft machen
 
 aspect: imperfective
-partner: позна­ко́м­ить­ся
-con_cls: i
+aspect_partner: позна­ко́м­ить­ся
+conjugation_class: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: instrumental
-verb_prepo: с
+direct_object_case: instrumental
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: с
 is_reflexive: true
 
-pre_sin_1: зна­ко́м­люсь
-pre_sin_2: зна­ко́м­ишь­ся
-pre_sin_3: зна­ко́м­ит­ся
-pre_plu_1: зна­ко́м­им­ся
-pre_plu_2: зна­ко́­ми­тесь
-pre_plu_3: зна­ко́м­ят­ся
+present_singular_1: зна­ко́м­люсь
+present_singular_2: зна­ко́м­ишь­ся
+present_singular_3: зна­ко́м­ит­ся
+present_plural_1: зна­ко́м­им­ся
+present_plural_2: зна­ко́­ми­тесь
+present_plural_3: зна­ко́м­ят­ся
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
 
-pas_mas: зна­ко́м­ил­ся
-pas_fem: зна­ко́­ми­лась
-pas_neu: зна­ко́­ми­лось
-pas_plu: зна­ко́­ми­лись
+past_masculine: зна­ко́м­ил­ся
+past_feminine: зна­ко́­ми­лась
+past_neutral: зна­ко́­ми­лось
+past_plural: зна­ко́­ми­лись
 
-par_pre_act: зна­ко́­мя­щий­ся
-par_pas_act: зна­ко́м­ив­ший­ся
+participle_active_present: зна­ко́­мя­щий­ся
+participle_active_past: зна­ко́м­ив­ший­ся
 
-par_pre_pas: null
-par_pas_pas: null
+participle_passive_present: null
+participle_passive_past: null
 
-par_adv_pre: зна­ко́м­ясь
-par_adv_pas: зна­ко́м­ив­шись
+participle_adverbial_present: зна­ко́м­ясь
+participle_adverbial_passive: зна­ко́м­ив­шись
 
-imp_sin: зна­ко́мь­ся
-imp_plu: зна­ко́мь­тесь
+imperative_singular: зна­ко́мь­ся
+imperative_plural: зна­ко́мь­тесь
 
 comment: null
 usage: null
-etymol: null
+etymology: null

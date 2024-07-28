@@ -1,9 +1,9 @@
 name: но
-name_ac: но
-wordcls: conjunction
+name_accent: но
+wordclass: conjunction
 translation:
   - aber
 
 comment: null
 usage: null
-etymol: null
+etymology: null

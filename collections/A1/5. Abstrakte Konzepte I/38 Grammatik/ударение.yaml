@@ -1,6 +1,6 @@
 name: ударение
-name_ac: уда­ре́­ние
-wordcls: substantive
+name_accent: уда­ре́­ние
+wordclass: substantive
 translation:
   - Betonung
   - Akzent
@@ -38,4 +38,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

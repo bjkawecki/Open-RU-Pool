@@ -1,6 +1,6 @@
 name: иностранный
-name_ac: иностра́нный
-wordcls: adjective
+name_accent: иностра́нный
+wordclass: adjective
 translation:
   - ausländisch
   - fremd
@@ -34,8 +34,8 @@ sho_mas: ин­ост­ра́­нен
 sho_fem: ин­ост­ра́н­на
 sho_neu: ин­ост­ра́н­но
 sho_plu: ин­ост­ра́н­ны
-compara: ин­ост­ра́н­нее
-superla: самый иностра́нный
+comparative: ин­ост­ра́н­нее
+superlative: самый иностра́нный
 comment: null
 usage: null
-etymol: null
+etymology: null

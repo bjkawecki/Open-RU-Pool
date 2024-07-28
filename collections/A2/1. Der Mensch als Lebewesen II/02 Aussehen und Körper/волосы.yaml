@@ -1,6 +1,6 @@
 name: волосы
-name_ac: во́лосы
-wordcls: substantive
+name_accent: во́лосы
+wordclass: substantive
 translation:
   - Haare
   - Haar
@@ -35,4 +35,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

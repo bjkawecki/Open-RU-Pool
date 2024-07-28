@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: Швейцария
-name_ac: Швейца́рия
+name_accent: Швейца́рия
 translation:
   - Schweiz
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

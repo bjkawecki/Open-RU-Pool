@@ -1,9 +1,9 @@
 name: фильм идёт
-name_ac: фильм идёт
-wordcls: phrase
+name_accent: фильм идёт
+wordclass: phrase
 translation:
   - der Film läuft
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

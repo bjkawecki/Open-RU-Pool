@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: радио
-name_ac: ра́дио
+name_accent: ра́дио
 translation:
   - Radio
 genus: neutral
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

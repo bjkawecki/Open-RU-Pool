@@ -1,6 +1,6 @@
 name: кавычка
-name_ac: ка­вы́ч­ка
-wordcls: substantive
+name_accent: ка­вы́ч­ка
+wordclass: substantive
 translation:
   - Anführungszeichen
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

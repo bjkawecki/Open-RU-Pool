@@ -1,6 +1,6 @@
 name: ваш
-name_ac: ваш
-wordcls: pronoun
+name_accent: ваш
+wordclass: pronoun
 translation:
   - ihr
   - Ihr
@@ -38,4 +38,4 @@ plu_ins: ва́­ши­ми
 plu_pre: ва́­ших
 comment: 2. Person Plural
 usage: null
-etymol: null
+etymology: null

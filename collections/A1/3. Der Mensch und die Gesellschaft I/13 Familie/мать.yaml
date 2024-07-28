@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: мать
-name_ac: мать
+name_accent: мать
 translation:
   - Mutter
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

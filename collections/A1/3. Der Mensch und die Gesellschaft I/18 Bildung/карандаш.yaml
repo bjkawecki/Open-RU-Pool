@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: карандаш
-name_ac: каранда́ш
+name_accent: каранда́ш
 translation:
   - Bleistift
   - Stift
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

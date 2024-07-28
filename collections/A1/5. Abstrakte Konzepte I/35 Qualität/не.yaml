@@ -1,9 +1,9 @@
 name: не
-name_ac: не
-wordcls: particle
+name_accent: не
+wordclass: particle
 translation:
   - nicht
 
 comment: null
 usage: null
-etymol: null
+etymology: null

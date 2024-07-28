@@ -1,6 +1,6 @@
 name: молодёжь
-name_ac: молодёжь
-wordcls: substantive
+name_accent: молодёжь
+wordclass: substantive
 translation:
   - Jugendliche
   - Jugend
@@ -36,4 +36,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

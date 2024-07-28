@@ -1,6 +1,6 @@
 name: машина
-name_ac: маши́на
-wordcls: substantive
+name_accent: маши́на
+wordclass: substantive
 translation:
   - Auto
   - Maschine
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

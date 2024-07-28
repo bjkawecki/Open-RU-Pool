@@ -1,6 +1,6 @@
 name: модный
-name_ac: мо́д­ный
-wordcls: adjective
+name_accent: мо́д­ный
+wordclass: adjective
 translation:
   - modern
   - modisch
@@ -41,9 +41,9 @@ sho_fem: мо́д­на
 sho_neu: мо́д­но
 sho_plu: мо́д­ны
 
-compara: мод­не́е
-superla:
+comparative: мод­не́е
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: фамилия
-name_ac: фа­ми́­лия
-wordcls: substantive
+name_accent: фа­ми́­лия
+wordclass: substantive
 translation:
   - Familienname
   - Nachname
@@ -38,4 +38,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

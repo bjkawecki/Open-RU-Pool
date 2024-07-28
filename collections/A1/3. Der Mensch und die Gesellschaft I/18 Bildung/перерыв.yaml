@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: перерыв
-name_ac: переры́в
+name_accent: переры́в
 translation:
   - Pause
   - Unterbrechung
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

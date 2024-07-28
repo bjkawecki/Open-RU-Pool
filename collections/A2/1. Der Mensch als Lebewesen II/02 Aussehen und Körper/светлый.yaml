@@ -1,6 +1,6 @@
 name: светлый
-name_ac:
-wordcls: adjective
+name_accent:
+wordclass: adjective
 translation:
   - hell
   - klar
@@ -40,9 +40,9 @@ sho_fem: свет­ла́
 sho_neu: свет­ло́
 sho_plu: свет­лы́
 
-compara: свет­ле́е
-superla:
+comparative: свет­ле́е
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

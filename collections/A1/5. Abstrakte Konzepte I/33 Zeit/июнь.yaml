@@ -1,6 +1,6 @@
 name: июнь
-name_ac: ию́нь
-wordcls: substantive
+name_accent: ию́нь
+wordclass: substantive
 translation:
   - Juni
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

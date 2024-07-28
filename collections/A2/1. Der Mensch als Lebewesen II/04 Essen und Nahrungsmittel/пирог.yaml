@@ -1,6 +1,6 @@
 name: пирог
-name_ac: пи­ро́г
-wordcls: substantive
+name_accent: пи­ро́г
+wordclass: substantive
 translation:
   - Kuchen
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

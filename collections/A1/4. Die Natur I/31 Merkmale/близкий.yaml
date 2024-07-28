@@ -1,6 +1,6 @@
 name: близкий
-name_ac: бли́зкий
-wordcls: adjective
+name_accent: бли́зкий
+wordclass: adjective
 translation:
   - nah
 
@@ -39,11 +39,11 @@ sho_fem: близ­ка́
 sho_neu: бли́з­ко
 sho_plu: бли́з­ки
 
-compara: бли́­же
-superla: самый бли́з­кий
+comparative: бли́­же
+superlative: самый бли́з­кий
 
 comment: null
 
 usage: null
 
-etymol: null
+etymology: null

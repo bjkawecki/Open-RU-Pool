@@ -1,6 +1,6 @@
 name: семь
-name_ac: семь
-wordcls: numeral
+name_accent: семь
+wordclass: numeral
 translation:
   - sieben
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

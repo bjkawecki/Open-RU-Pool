@@ -1,6 +1,6 @@
 name: винительный падёж
-name_ac: вини́тельный падёж
-wordcls: compound
+name_accent: вини́тельный падёж
+wordclass: compound
 translation:
   - Akkusativ
 
@@ -8,4 +8,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

@@ -1,6 +1,6 @@
 name: дата
-name_ac: да́та
-wordcls: substantive
+name_accent: да́та
+wordclass: substantive
 translation:
   - Datum
   - Zeitpunkt
@@ -37,4 +37,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

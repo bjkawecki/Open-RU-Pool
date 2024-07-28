@@ -1,9 +1,9 @@
 name: минуточку
-name_ac: мину́точку
-wordcls: phrase
+name_accent: мину́точку
+wordclass: phrase
 translation:
   - Einen Moment, bitte!
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

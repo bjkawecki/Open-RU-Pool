@@ -1,6 +1,6 @@
 name: термин
-name_ac: те́р­мин
-wordcls: substantive
+name_accent: те́р­мин
+wordclass: substantive
 translation:
   - Fachwort
   - Bezeichnung
@@ -39,4 +39,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

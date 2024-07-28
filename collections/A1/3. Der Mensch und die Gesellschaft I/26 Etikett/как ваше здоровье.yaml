@@ -1,9 +1,9 @@
 name: как ваше здоровье
-name_ac: как ва́ше здоро́вье
-wordcls: phrase
+name_accent: как ва́ше здоро́вье
+wordclass: phrase
 translation:
   - Wie ist Ihre Gesundheit
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

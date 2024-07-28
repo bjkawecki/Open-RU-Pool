@@ -1,6 +1,6 @@
 name: жёлтый
-name_ac: жёлтый
-wordcls: adjective
+name_accent: жёлтый
+wordclass: adjective
 translation:
   - gelb
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: жёлт
 sho_fem: жел­та́
 sho_neu: жёл­то
 sho_plu: жёл­ты
-compara: жел­те́е
-superla: самый жёлтый
+comparative: жел­те́е
+superlative: самый жёлтый
 comment: null
 usage: null
-etymol: null
+etymology: null

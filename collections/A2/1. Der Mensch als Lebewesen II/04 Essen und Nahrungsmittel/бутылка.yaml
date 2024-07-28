@@ -1,6 +1,6 @@
 name: бутылка
-name_ac: бу­ты́л­ка
-wordcls: substantive
+name_accent: бу­ты́л­ка
+wordclass: substantive
 translation:
   - Flasche
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: полезный
-name_ac: по­ле́з­ный
-wordcls: adjective
+name_accent: по­ле́з­ный
+wordclass: adjective
 translation:
   - gesund
   - nützlich
@@ -41,9 +41,9 @@ sho_fem: по­ле́з­на
 sho_neu: по­ле́з­но
 sho_plu: по­ле́з­ны
 
-compara: по­ле́з­нее
-superla:
+comparative: по­ле́з­нее
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

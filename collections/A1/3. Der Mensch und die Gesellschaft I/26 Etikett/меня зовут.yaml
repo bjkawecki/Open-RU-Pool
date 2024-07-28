@@ -1,9 +1,9 @@
 name: меня зовут
-name_ac: меня́ зову́т
-wordcls: phrase
+name_accent: меня́ зову́т
+wordclass: phrase
 translation:
   - Ich heiße
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

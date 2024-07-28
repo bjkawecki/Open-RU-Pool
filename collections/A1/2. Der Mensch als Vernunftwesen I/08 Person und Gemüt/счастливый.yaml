@@ -1,6 +1,6 @@
 name: счастливый
-name_ac: счастли́вый
-wordcls: adjective
+name_accent: счастли́вый
+wordclass: adjective
 translation:
   - glücklich
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: сча̀ст­ли́в
 sho_fem: сча̀ст­ли́­ва
 sho_neu: сча̀ст­ли́­во
 sho_plu: сча̀ст­ли́­вы
-compara: счаст­ли́­вее
-superla: самый сча́стливый
+comparative: счаст­ли́­вее
+superlative: самый сча́стливый
 comment: null
 usage: null
-etymol: null
+etymology: null

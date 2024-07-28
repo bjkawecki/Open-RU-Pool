@@ -1,8 +1,8 @@
 name: каждый
-name_ac: ка́ждый
-wordcls: pronoun
+name_accent: ка́ждый
+wordclass: pronoun
 translation:
-- jeder
+  - jeder
 pro_type: indefinite
 dec_type: adjective
 mas_nom: ка́ждый
@@ -37,4 +37,4 @@ plu_ins: ка́ж­ды­ми
 plu_pre: ка́ж­дых
 comment: null
 usage: null
-etymol: null
+etymology: null

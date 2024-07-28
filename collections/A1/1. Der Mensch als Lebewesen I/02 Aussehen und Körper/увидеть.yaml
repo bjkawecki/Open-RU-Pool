@@ -1,53 +1,55 @@
 name: увидеть
-name_ac: уви́­деть
-wordcls: verb
+name_accent: уви́­деть
+wordclass: verb
 translation:
   - sehen
   - erblicken
 
 aspect: ви́­деть
-partner: perfective
-con_cls: i
+aspect_partner: perfective
+conjugation_class: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1: null
-pre_sin_2: null
-pre_sin_3: null
-pre_plu_1: null
-pre_plu_2: null
-pre_plu_3: null
+present_singular_1: null
+present_singular_2: null
+present_singular_3: null
+present_plural_1: null
+present_plural_2: null
+present_plural_3: null
 
-fut_sin_1: уви́­жу
-fut_sin_2: уви́­дишь
-fut_sin_3: уви́­дит
-fut_plu_1: уви́­дим
-fut_plu_2: уви́­ди­те
-fut_plu_3: уви́­дят
+future_singular_1: уви́­жу
+future_singular_2: уви́­дишь
+future_singular_3: уви́­дит
+future_plural_1: уви́­дим
+future_plural_2: уви́­ди­те
+future_plural_3: уви́­дят
 
-pas_mas: уви́­дел
-pas_fem: уви́­де­ла
-pas_neu: уви́­де­ло
-pas_plu: уви́­де­ли
+past_masculine: уви́­дел
+past_feminine: уви́­де­ла
+past_neutral: уви́­де­ло
+past_plural: уви́­де­ли
 
-par_pre_act: null
-par_pas_act: уви́­дев­ший
+participle_active_present: null
+participle_active_past: уви́­дев­ший
 
-par_pre_pas: null
-par_pas_pas: уви́­ден­ный
+participle_passive_present: null
+participle_passive_past: уви́­ден­ный
 
-par_adv_pre: null
-par_adv_pas: уви́­дев­ши, уви́­дев
+participle_adverbial_present: null
+participle_adverbial_passive: уви́­дев­ши, уви́­дев
 
-imp_sin: ув­и́дь
-imp_plu: ув­и́дь­те
+imperative_singular: ув­и́дь
+imperative_plural: ув­и́дь­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,51 +1,53 @@
 name: спать
-name_ac: спать
-wordcls: verb
+name_accent: спать
+wordclass: verb
 translation:
   - schlafen
 aspect: imperfective
-partner: проспать
-con_cls: i
+aspect_partner: проспать
+conjugation_class: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1: сплю
-pre_sin_2: спишь
-pre_sin_3: спит
-pre_plu_1: спим
-pre_plu_2: спи́­те
-pre_plu_3: спят
+present_singular_1: сплю
+present_singular_2: спишь
+present_singular_3: спит
+present_plural_1: спим
+present_plural_2: спи́­те
+present_plural_3: спят
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
 
-pas_mas: спал
-pas_fem: спа­ла́
-pas_neu: спа́­ло
-pas_plu: спа́­ли
+past_masculine: спал
+past_feminine: спа­ла́
+past_neutral: спа́­ло
+past_plural: спа́­ли
 
-par_pre_act: спя́­щий
-par_pas_act: спа́в­ший
+participle_active_present: спя́­щий
+participle_active_past: спа́в­ший
 
-par_pre_pas:
-par_pas_pas:
+participle_passive_present:
+participle_passive_past:
 
-par_adv_pre: спя
-par_adv_pas: спа́в­ши, спа́в
+participle_adverbial_present: спя
+participle_adverbial_passive: спа́в­ши, спа́в
 
-imp_sin: спи
-imp_plu: спи́­те
+imperative_singular: спи
+imperative_plural: спи́­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

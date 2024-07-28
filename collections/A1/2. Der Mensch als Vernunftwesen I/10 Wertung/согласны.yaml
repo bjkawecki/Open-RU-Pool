@@ -1,8 +1,8 @@
 name: согласны
-name_ac: согла́сны
-wordcls: adverb
+name_accent: согла́сны
+wordclass: adverb
 translation:
-- einverstanden
+  - einverstanden
 comment: Kurzform Plural
 usage: null
-etymol: null
+etymology: null

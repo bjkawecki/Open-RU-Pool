@@ -1,9 +1,9 @@
 name: дорогой друг
-name_ac: дорого́й друг
-wordcls: phrase
+name_accent: дорого́й друг
+wordclass: phrase
 translation:
   - Lieber Freund
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

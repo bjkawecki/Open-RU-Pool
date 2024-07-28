@@ -1,6 +1,6 @@
 name: администрация
-name_ac: ад­ми­нист­ра́­ция
-wordcls: substantive
+name_accent: ад­ми­нист­ра́­ция
+wordclass: substantive
 translation:
   - Verwaltung
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

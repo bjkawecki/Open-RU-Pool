@@ -1,9 +1,9 @@
 name: осторожно
-name_ac: осторо́жно
-wordcls: adverb
+name_accent: осторо́жно
+wordclass: adverb
 translation:
   - vorsichtig
   - sachte
 comment: null
 usage: null
-etymol: null
+etymology: null

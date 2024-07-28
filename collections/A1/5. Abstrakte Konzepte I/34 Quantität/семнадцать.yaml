@@ -1,6 +1,6 @@
 name: семнадцать
-name_ac: семна́дцать
-wordcls: numeral
+name_accent: семна́дцать
+wordclass: numeral
 translation:
   - siebzehn
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

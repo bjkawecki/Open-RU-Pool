@@ -1,9 +1,9 @@
 name: нельзя
-name_ac: нельзя́
-wordcls: adverb
+name_accent: нельзя́
+wordclass: adverb
 translation:
-- (man) darf nicht
-- (man) kann nicht
+  - (man) darf nicht
+  - (man) kann nicht
 comment: null
 usage: null
-etymol: null
+etymology: null

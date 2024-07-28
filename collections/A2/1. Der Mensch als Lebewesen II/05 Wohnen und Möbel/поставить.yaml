@@ -1,52 +1,54 @@
 name: поставить
-name_ac: пос­та́­вить
-wordcls: verb
+name_accent: пос­та́­вить
+wordclass: verb
 translation:
   - stellen
   - aufstellen
 aspect: perfective
-partner: с­та́­вить
-con_cls: i
+aspect_partner: с­та́­вить
+conjugation_class: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+present_singular_1:
+present_singular_2:
+present_singular_3:
+present_plural_1:
+present_plural_2:
+present_plural_3:
 
-fut_sin_1: пос­та́­влю
-fut_sin_2: пос­та́­вишь
-fut_sin_3: пос­та́­вит
-fut_plu_1: пос­та́­вим
-fut_plu_2: пос­та́­ви­те
-fut_plu_3: пос­та́­вят
+future_singular_1: пос­та́­влю
+future_singular_2: пос­та́­вишь
+future_singular_3: пос­та́­вит
+future_plural_1: пос­та́­вим
+future_plural_2: пос­та́­ви­те
+future_plural_3: пос­та́­вят
 
-pas_mas: пос­та́­вил
-pas_fem: пос­та́­ви­ла
-pas_neu: пос­та́­ви­ло
-pas_plu: пос­та́­ви­ли
+past_masculine: пос­та́­вил
+past_feminine: пос­та́­ви­ла
+past_neutral: пос­та́­ви­ло
+past_plural: пос­та́­ви­ли
 
-par_pre_act:
-par_pas_act: пос­та́­вив­ший
+participle_active_present:
+participle_active_past: пос­та́­вив­ший
 
-par_adv_pre:
-par_adv_pas: пос­та́­вив­ши, пос­та́­вив
+participle_adverbial_present:
+participle_adverbial_passive: пос­та́­вив­ши, пос­та́­вив
 
-par_pre_pas:
-par_pas_pas: пос­та́­влен­ный
+participle_passive_present:
+participle_passive_past: пос­та́­влен­ный
 
-imp_sin: пос­та́вь
-imp_plu: пос­та́вь­те
+imperative_singular: пос­та́вь
+imperative_plural: пос­та́вь­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: компьютер
-name_ac: компь­ю́т­ер
-wordcls: substantive
+name_accent: компь­ю́т­ер
+wordclass: substantive
 translation:
   - Computer
   - Rechner
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

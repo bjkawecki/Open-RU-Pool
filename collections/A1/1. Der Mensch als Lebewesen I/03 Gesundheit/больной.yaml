@@ -1,6 +1,6 @@
 name: больной
-name_ac: больной
-wordcls: adjective
+name_accent: больной
+wordclass: adjective
 translation:
   - krank
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: бо́­лен
 sho_fem: боль­на́
 sho_neu: боль­но́
 sho_plu: боль­ны́
-compara: боль­не́е
-superla: самый бо́лный
+comparative: боль­не́е
+superlative: самый бо́лный
 comment: null
 usage: null
-etymol: null
+etymology: null

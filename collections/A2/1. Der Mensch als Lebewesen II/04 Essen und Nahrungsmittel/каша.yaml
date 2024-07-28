@@ -1,6 +1,6 @@
 name: каша
-name_ac: ка́­ша
-wordcls: substantive
+name_accent: ка́­ша
+wordclass: substantive
 translation:
   - Brei
   - Grütze
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

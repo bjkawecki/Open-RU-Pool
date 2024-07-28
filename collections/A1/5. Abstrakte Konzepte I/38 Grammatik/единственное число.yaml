@@ -1,6 +1,6 @@
 name: единственное число
-name_ac: еди́нственное число́
-wordcls: compound
+name_accent: еди́нственное число́
+wordclass: compound
 translation:
   - Singular
   - Einzahl
@@ -9,4 +9,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

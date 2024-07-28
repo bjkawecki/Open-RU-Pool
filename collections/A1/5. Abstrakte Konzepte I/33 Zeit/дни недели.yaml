@@ -1,8 +1,8 @@
 name: дни недели
-name_ac: дни неде́ли
-wordcls: compound
+name_accent: дни неде́ли
+wordclass: compound
 translation:
   - Wochentage
 comment: null
 usage: null
-etymol: null
+etymology: null

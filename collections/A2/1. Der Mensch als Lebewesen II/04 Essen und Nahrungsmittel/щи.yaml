@@ -1,6 +1,6 @@
 name: щи
-name_ac: щи
-wordcls: substantive
+name_accent: щи
+wordclass: substantive
 translation:
   - Kohlsuppe
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

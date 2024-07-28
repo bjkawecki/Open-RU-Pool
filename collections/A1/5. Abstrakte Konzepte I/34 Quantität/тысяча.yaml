@@ -1,6 +1,6 @@
 name: тысяча
-name_ac: ты́сяча
-wordcls: numeral
+name_accent: ты́сяча
+wordclass: numeral
 translation:
   - tausend
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: ты́­ся­ча­ми
 plu_pre: ты́­сяч­ах
 comment: null
 usage: null
-etymol: null
+etymology: null

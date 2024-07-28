@@ -1,6 +1,6 @@
 name: гостиница
-name_ac: гости́ница
-wordcls: substantive
+name_accent: гости́ница
+wordclass: substantive
 translation:
   - Hotel
   - Gasthof
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,10 +1,10 @@
 name: вместе
-name_ac: вме́сте
-wordcls: adverb
+name_accent: вме́сте
+wordclass: adverb
 translation:
   - zusammen
   - miteinander
 
 comment: null
 usage: null
-etymol: null
+etymology: null

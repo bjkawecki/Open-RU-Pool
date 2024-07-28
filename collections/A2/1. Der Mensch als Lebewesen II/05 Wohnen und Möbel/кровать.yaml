@@ -1,6 +1,6 @@
 name: кровать
-name_ac: кро­ва́ть
-wordcls: substantive
+name_accent: кро­ва́ть
+wordclass: substantive
 translation:
   - Bett
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,9 +1,9 @@
 name: вдруг
-name_ac: вдруг
-wordcls: adverb
+name_accent: вдруг
+wordclass: adverb
 translation:
   - plötzlich
   - auf einmal
 comment: null
 usage: null
-etymol: null
+etymology: null

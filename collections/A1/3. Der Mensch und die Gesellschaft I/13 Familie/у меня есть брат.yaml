@@ -1,7 +1,7 @@
 name: У меня есть брат
 
-name_ac: У мен́я есть брат
-wordcls: phrase
+name_accent: У мен́я есть брат
+wordclass: phrase
 translation:
   - Ich habe einen Bruder.
 
@@ -9,4 +9,4 @@ metaphrase: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: игрушка
-name_ac: иг­ру́­шка
-wordcls: substantive
+name_accent: иг­ру́­шка
+wordclass: substantive
 translation:
 
 genus: feminine
@@ -29,4 +29,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

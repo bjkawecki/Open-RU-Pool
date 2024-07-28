@@ -1,6 +1,6 @@
 name: спокойный
-name_ac: споко́йный
-wordcls: adjective
+name_accent: споко́йный
+wordclass: adjective
 translation:
   - ruhig
   - still
@@ -40,9 +40,9 @@ sho_fem: спо­ко́й­на
 sho_neu: спо­ко́й­но
 sho_plu: спо­ко́й­ны
 
-compara: спо­ко́й­нее
-superla: самый споко́йный
+comparative: спо­ко́й­нее
+superlative: самый споко́йный
 
 comment: null
 usage: null
-etymol: null
+etymology: null

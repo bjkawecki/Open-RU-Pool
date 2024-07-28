@@ -1,6 +1,6 @@
 name: домашний
-name_ac: до­ма́ш­ний
-wordcls: adjective
+name_accent: до­ма́ш­ний
+wordclass: adjective
 translation:
   - heimisch
   - Haus-
@@ -41,9 +41,9 @@ sho_fem: до­ма́ш­ня
 sho_neu: до­ма́ш­не
 sho_plu: до­ма́ш­ни
 
-compara: до­ма́ш­нее
-superla:
+comparative: до­ма́ш­нее
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,8 +1,8 @@
 name: правы
-name_ac: пра́вы
-wordcls: adverb
+name_accent: пра́вы
+wordclass: adverb
 translation:
-- recht
+  - recht
 comment: Kurzform Plural
 usage: null
-etymol: null
+etymology: null

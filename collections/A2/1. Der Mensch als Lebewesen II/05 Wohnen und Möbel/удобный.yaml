@@ -1,6 +1,6 @@
 name: удобный
-name_ac: уд­о́б­ный
-wordcls: adjective
+name_accent: уд­о́б­ный
+wordclass: adjective
 translation:
   - bequem
   - geeignet
@@ -41,9 +41,9 @@ sho_fem: уд­о́б­на
 sho_neu: уд­о́б­но
 sho_plu: уд­о́б­ны
 
-compara: уд­о́б­нее
-superla:
+comparative: уд­о́б­нее
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

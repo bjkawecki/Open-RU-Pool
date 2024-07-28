@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: литература
-name_ac: литерату́ра
+name_accent: литерату́ра
 translation:
   - Literatur
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

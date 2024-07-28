@@ -1,6 +1,6 @@
 name: тарелка
-name_ac: та­ре́л­ка
-wordcls: substantive
+name_accent: та­ре́л­ка
+wordclass: substantive
 translation:
   - Teller
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

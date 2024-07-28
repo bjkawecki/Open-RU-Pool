@@ -1,6 +1,6 @@
 name: синий
-name_ac: си́ний
-wordcls: adjective
+name_accent: си́ний
+wordclass: adjective
 translation:
   - dunkelblau
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: синь
 sho_fem: си­ня́
 sho_neu: си́­не
 sho_plu: си́­ни
-compara: си­не́е
-superla: самый си́ний
+comparative: си­не́е
+superlative: самый си́ний
 comment: null
 usage: null
-etymol: null
+etymology: null

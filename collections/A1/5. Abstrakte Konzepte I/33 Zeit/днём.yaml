@@ -1,8 +1,8 @@
 name: днём
-name_ac: днём
-wordcls: adverb
+name_accent: днём
+wordclass: adverb
 translation:
   - tagsüber
 comment: null
 usage: null
-etymol: null
+etymology: null

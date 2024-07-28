@@ -1,6 +1,6 @@
 name: коричневый
-name_ac: кори́чневый
-wordcls: adjective
+name_accent: кори́чневый
+wordclass: adjective
 translation:
   - braun
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: ко­ри́ч­нев
 sho_fem: ко­ри́ч­не­ва
 sho_neu: ко­ри́ч­не­во
 sho_plu: ко­ри́ч­не­вы
-compara: ко­ри́ч­не­вее
-superla: самый кори́чневый
+comparative: ко­ри́ч­не­вее
+superlative: самый кори́чневый
 comment: null
 usage: null
-etymol: null
+etymology: null

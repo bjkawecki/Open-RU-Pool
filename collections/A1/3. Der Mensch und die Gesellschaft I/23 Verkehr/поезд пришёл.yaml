@@ -1,9 +1,9 @@
 name: поезд пришёл
-name_ac: по́езд пришёл
-wordcls: phrase
+name_accent: по́езд пришёл
+wordclass: phrase
 translation:
   - der Zug ist angekommen
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

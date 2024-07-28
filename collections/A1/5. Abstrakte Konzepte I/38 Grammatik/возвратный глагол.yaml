@@ -1,6 +1,6 @@
 name: возвратный глагол
-name_ac: возвра́тный глаго́л
-wordcls: compound
+name_accent: возвра́тный глаго́л
+wordclass: compound
 translation:
   - reflexives Verb
 
@@ -8,4 +8,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: копейка
-name_ac: копе́йка
+name_accent: копе́йка
 translation:
   - Kopeke
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

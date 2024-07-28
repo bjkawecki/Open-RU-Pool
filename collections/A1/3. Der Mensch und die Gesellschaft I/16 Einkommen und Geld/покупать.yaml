@@ -1,41 +1,43 @@
 name: покупать
-name_ac: покупа́ть
-wordcls: verb
+name_accent: покупа́ть
+wordclass: verb
 translation:
   - kaufen
 aspect: imperfective
-partner: купи́ть
-con_cls: e
+aspect_partner: купи́ть
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: по­ку­па́ю
-pre_sin_2: по­ку­па́­ешь
-pre_sin_3: по­ку­па́­ет
-pre_plu_1: по­ку­па́­ем
-pre_plu_2: по­ку­па́­ете
-pre_plu_3: по­ку­па́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: по­куп­а́л
-pas_fem: по­ку­па́­ла
-pas_neu: по­ку­па́­ло
-pas_plu: по­ку­па́­ли
-par_pre_act: по­ку­па́­ющий
-par_pas_act: по­куп­а́в­ший
-par_pre_pas: по­ку­па́я
-par_pas_pas: по­куп­а́в­ши, по­куп­а́в
-par_adv_pre: по­ку­па́­емый
-par_adv_pas: null
-imp_sin: по­ку­па́й
-imp_plu: по­ку­па́й­те
+present_singular_1: по­ку­па́ю
+present_singular_2: по­ку­па́­ешь
+present_singular_3: по­ку­па́­ет
+present_plural_1: по­ку­па́­ем
+present_plural_2: по­ку­па́­ете
+present_plural_3: по­ку­па́­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: по­куп­а́л
+past_feminine: по­ку­па́­ла
+past_neutral: по­ку­па́­ло
+past_plural: по­ку­па́­ли
+participle_active_present: по­ку­па́­ющий
+participle_active_past: по­куп­а́в­ший
+participle_passive_present: по­ку­па́я
+participle_passive_past: по­куп­а́в­ши, по­куп­а́в
+participle_adverbial_present: по­ку­па́­емый
+participle_adverbial_passive: null
+imperative_singular: по­ку­па́й
+imperative_plural: по­ку­па́й­те
 comment: null
 usage: null
-etymol: null
+etymology: null

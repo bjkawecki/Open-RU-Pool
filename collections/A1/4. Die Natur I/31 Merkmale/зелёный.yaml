@@ -1,6 +1,6 @@
 name: зелёный
-name_ac: зелёный
-wordcls: adjective
+name_accent: зелёный
+wordclass: adjective
 translation:
   - grün
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: зе́­лен
 sho_fem: зе­ле­на́
 sho_neu: зе́­ле­но
 sho_plu: зе́­ле­ны
-compara: зе­ле­не́е
-superla: самый зелёный
+comparative: зе­ле­не́е
+superlative: самый зелёный
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: мыло
-name_ac: мы́­ло
-wordcls: substantive
+name_accent: мы́­ло
+wordclass: substantive
 translation:
   - Seife
 genus: neutral
@@ -29,4 +29,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

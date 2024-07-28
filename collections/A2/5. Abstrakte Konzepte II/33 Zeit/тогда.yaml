@@ -1,8 +1,8 @@
 name: тогда
-name_ac: тогда́
-wordcls: adverb
+name_accent: тогда́
+wordclass: adverb
 translation:
-- damals
+  - damals
 comment: null
 usage: null
-etymol: null
+etymology: null

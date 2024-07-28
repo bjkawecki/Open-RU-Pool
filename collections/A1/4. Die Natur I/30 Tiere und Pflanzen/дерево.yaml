@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: дерево
-name_ac: де́рево
+name_accent: де́рево
 translation:
   - Baum
   - Holz
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

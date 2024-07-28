@@ -1,6 +1,6 @@
 name: горячий
-name_ac: горя́чий
-wordcls: adjective
+name_accent: горя́чий
+wordclass: adjective
 translation:
   - heiß
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: го­ря́ч
 sho_fem: го­ря­ча́
 sho_neu: го­ря­чо́
 sho_plu: го­ря­чи́
-compara: го­ря́­чее
-superla: самый горя́чий
+comparative: го­ря́­чее
+superlative: самый горя́чий
 comment: null
 usage: null
-etymol: null
+etymology: null

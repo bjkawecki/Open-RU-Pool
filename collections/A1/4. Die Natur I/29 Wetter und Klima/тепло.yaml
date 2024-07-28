@@ -1,8 +1,8 @@
 name: тепло
-name_ac: тепло́
-wordcls: adverb
+name_accent: тепло́
+wordclass: adverb
 translation:
   - warm
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: километр
-name_ac: киломе́тр
+name_accent: киломе́тр
 translation:
   - Kilometer
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: её
-name_ac: её
-wordcls: pronoun
+name_accent: её
+wordclass: pronoun
 translation:
   - ihr
 pro_type: possessive
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: Singular weiblich
 usage: null
-etymol: null
+etymology: null

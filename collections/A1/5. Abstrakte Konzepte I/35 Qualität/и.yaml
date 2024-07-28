@@ -1,9 +1,9 @@
 name: и
-name_ac: и
-wordcls: conjunction
+name_accent: и
+wordclass: conjunction
 translation:
   - und
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: грамматика
-name_ac: грам­ма́­ти­ка
-wordcls: substantive
+name_accent: грам­ма́­ти­ка
+wordclass: substantive
 translation:
   - Grammatik
   - Sprachlehre
@@ -38,4 +38,4 @@ comment: null
 
 usage: null
 
-etymol: null
+etymology: null

@@ -1,9 +1,9 @@
 name: как вы себя чувствуете
-name_ac: как вы себя́ чу́вствуете
-wordcls: phrase
+name_accent: как вы себя́ чу́вствуете
+wordclass: phrase
 translation:
   - Wie fühlen Sie sich
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

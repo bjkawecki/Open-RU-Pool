@@ -1,6 +1,6 @@
 name: конфета
-name_ac: кон­фе́­та
-wordcls: substantive
+name_accent: кон­фе́­та
+wordclass: substantive
 translation:
   - Bonbon
   - Konfekt
@@ -32,4 +32,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

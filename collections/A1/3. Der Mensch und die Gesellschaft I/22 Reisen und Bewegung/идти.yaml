@@ -1,41 +1,43 @@
 name: идти
-name_ac: идти́
-wordcls: verb
+name_accent: идти́
+wordclass: verb
 translation:
   - gehen
 aspect: imperfective
-partner: пойти́
-con_cls: e
+aspect_partner: пойти́
+conjugation_class: e
 is_motion_verb: true
 motion_partner: ходить
 direction: uni
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: иду́
-pre_sin_2: ид­ёшь
-pre_sin_3: ид­ёт
-pre_plu_1: ид­ём
-pre_plu_2: идё­те
-pre_plu_3: ид­у́т
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: шёл
-pas_fem: шла
-pas_neu: шло
-pas_plu: шли
-par_pre_act: иду́­щий
-par_pas_act: ше́д­ший
-par_pre_pas: идя́
-par_pas_pas: ше́д­ши
-par_adv_pre: null
-par_adv_pas: null
-imp_sin: иди́
-imp_plu: иди́­те
+present_singular_1: иду́
+present_singular_2: ид­ёшь
+present_singular_3: ид­ёт
+present_plural_1: ид­ём
+present_plural_2: идё­те
+present_plural_3: ид­у́т
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: шёл
+past_feminine: шла
+past_neutral: шло
+past_plural: шли
+participle_active_present: иду́­щий
+participle_active_past: ше́д­ший
+participle_passive_present: идя́
+participle_passive_past: ше́д­ши
+participle_adverbial_present: null
+participle_adverbial_passive: null
+imperative_singular: иди́
+imperative_plural: иди́­те
 comment: null
 usage: null
-etymol: null
+etymology: null

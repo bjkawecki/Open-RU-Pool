@@ -1,41 +1,43 @@
 name: любить
-name_ac: люби́ть
-wordcls: verb
+name_accent: люби́ть
+wordclass: verb
 translation:
   - lieben
 aspect: imperfective
-partner: null
-con_cls: i
+aspect_partner: null
+conjugation_class: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: люб­лю́
-pre_sin_2: лю́­бишь
-pre_sin_3: лю́­бит
-pre_plu_1: лю́­бим
-pre_plu_2: лю́­би­те
-pre_plu_3: лю́­бят
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: лю­би́л
-pas_fem: лю­би́­ла
-pas_neu: лю­би́­ло
-pas_plu: лю­би́­ли
-par_pre_act: лю́­бя­щий
-par_pas_act: лю­би́в­ший
-par_pre_pas: лю­бя́
-par_pas_pas: лю­би́в­ши, лю­би́в
-par_adv_pre: лю­би́­мый
-par_adv_pas: лю́б­лен­ный
-imp_sin: лю­би́
-imp_plu: лю­би́­те
+present_singular_1: люб­лю́
+present_singular_2: лю́­бишь
+present_singular_3: лю́­бит
+present_plural_1: лю́­бим
+present_plural_2: лю́­би­те
+present_plural_3: лю́­бят
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: лю­би́л
+past_feminine: лю­би́­ла
+past_neutral: лю­би́­ло
+past_plural: лю­би́­ли
+participle_active_present: лю́­бя­щий
+participle_active_past: лю­би́в­ший
+participle_passive_present: лю­бя́
+participle_passive_past: лю­би́в­ши, лю­би́в
+participle_adverbial_present: лю­би́­мый
+participle_adverbial_passive: лю́б­лен­ный
+imperative_singular: лю­би́
+imperative_plural: лю­би́­те
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: один
-name_ac: оди́н
-wordcls: numeral
+name_accent: оди́н
+wordclass: numeral
 translation:
   - ein
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: од­ни́­ми
 plu_pre: од­ни́х
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: они
-name_ac: они́
-wordcls: pronoun
+name_accent: они́
+wordclass: pronoun
 translation:
   - sie
 
@@ -45,4 +45,4 @@ plu_pre: о ни́х
 
 comment: null
 usage: null
-etymol: null
+etymology: null

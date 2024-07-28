@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: дверь
-name_ac: дверь
+name_accent: дверь
 translation:
   - Tür
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: в/на две­ри́
 comment: null
 usage: null
-etymol: null
+etymology: null

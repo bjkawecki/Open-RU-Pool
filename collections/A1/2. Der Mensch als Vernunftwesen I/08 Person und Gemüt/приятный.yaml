@@ -1,6 +1,6 @@
 name: приятный
-name_ac: прия́тный
-wordcls: adjective
+name_accent: прия́тный
+wordclass: adjective
 translation:
   - angenehm
 
@@ -39,9 +39,9 @@ sho_fem: при­я́т­на
 sho_neu: при­я́т­но
 sho_plu: при­я́т­ны
 
-compara: при­я́т­нее
-superla: самый при­я́т­ный
+comparative: при­я́т­нее
+superlative: самый при­я́т­ный
 
 comment: null
 usage: null
-etymol: null
+etymology: null

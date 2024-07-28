@@ -1,6 +1,6 @@
 name: ребёнок
-name_ac: ребёнок
-wordcls: substantive
+name_accent: ребёнок
+wordclass: substantive
 translation:
   - Kind
 
@@ -35,4 +35,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

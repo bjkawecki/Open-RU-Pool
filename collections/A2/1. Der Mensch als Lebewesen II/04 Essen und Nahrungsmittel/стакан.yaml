@@ -1,6 +1,6 @@
 name: стакан
-name_ac: ста­ка́н
-wordcls: substantive
+name_accent: ста­ка́н
+wordclass: substantive
 translation:
   - Glas
   - Trinkglas
@@ -32,4 +32,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

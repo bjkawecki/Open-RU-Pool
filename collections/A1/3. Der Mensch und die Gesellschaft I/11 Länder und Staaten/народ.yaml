@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: народ
-name_ac: наро́д
+name_accent: наро́д
 translation:
   - Volk
 genus: masculine
@@ -25,4 +25,4 @@ partitive: на­ро́­ду
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

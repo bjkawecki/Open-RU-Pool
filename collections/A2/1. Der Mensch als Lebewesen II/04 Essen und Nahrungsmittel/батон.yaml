@@ -1,6 +1,6 @@
 name: батон
-name_ac: ба­то́н
-wordcls: substantive
+name_accent: ба­то́н
+wordclass: substantive
 translation:
   - Weißbrot
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

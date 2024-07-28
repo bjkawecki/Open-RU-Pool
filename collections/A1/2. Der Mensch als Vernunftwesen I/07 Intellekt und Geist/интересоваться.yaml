@@ -1,41 +1,43 @@
 name: интересоваться
-name_ac: интересова́ться
-wordcls: verb
+name_accent: интересова́ться
+wordclass: verb
 translation:
   - sich interessieren
 aspect: imperfective
-partner: заинтере́соваться
-con_cls: e
+aspect_partner: заинтере́соваться
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: instrumental
-verb_prepo: null
+direct_object_case: instrumental
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: true
-pre_sin_1: ин­те­ре­су́­юсь
-pre_sin_2: ин­те­ре­су́­ешь­ся
-pre_sin_3: ин­те­ре­су́­ет­ся
-pre_plu_1: ин­те­ре­су́­ем­ся
-pre_plu_2: ин­те­ре­су́­ет­есь
-pre_plu_3: ин­те­ре­су́­ют­ся
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: ин­те­ре­со­ва́л­ся
-pas_fem: ин­те­ре­со­ва́л­ась
-pas_neu: ин­те­ре­со­ва́л­ось
-pas_plu: ин­те­ре­со­ва́л­ись
-par_pre_act: ин­те­ре­су́­ющий­ся
-par_pas_act: ин­те­ре­со­ва́в­ший­ся
-par_pre_pas: ин­те­ре­су́­ясь
-par_pas_pas: ин­те­ре­со­ва́в­шись
-par_adv_pre: null
-par_adv_pas: null
-imp_sin: ин­те­ре­су́й­ся
-imp_plu: ин­те­ре­су́й­тесь
+present_singular_1: ин­те­ре­су́­юсь
+present_singular_2: ин­те­ре­су́­ешь­ся
+present_singular_3: ин­те­ре­су́­ет­ся
+present_plural_1: ин­те­ре­су́­ем­ся
+present_plural_2: ин­те­ре­су́­ет­есь
+present_plural_3: ин­те­ре­су́­ют­ся
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: ин­те­ре­со­ва́л­ся
+past_feminine: ин­те­ре­со­ва́л­ась
+past_neutral: ин­те­ре­со­ва́л­ось
+past_plural: ин­те­ре­со­ва́л­ись
+participle_active_present: ин­те­ре­су́­ющий­ся
+participle_active_past: ин­те­ре­со­ва́в­ший­ся
+participle_passive_present: ин­те­ре­су́­ясь
+participle_passive_past: ин­те­ре­со­ва́в­шись
+participle_adverbial_present: null
+participle_adverbial_passive: null
+imperative_singular: ин­те­ре­су́й­ся
+imperative_plural: ин­те­ре­су́й­тесь
 comment: null
 usage: null
-etymol: null
+etymology: null

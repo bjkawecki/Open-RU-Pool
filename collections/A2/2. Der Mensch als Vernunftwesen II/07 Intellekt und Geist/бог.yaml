@@ -1,32 +1,32 @@
 name: бог
-name_ac:
-wordcls: substantive
+name_accent: бог
+wordclass: substantive
 translation:
-
+  - Gott
 genus:
-dec_cls:
-stress:
-is_animate: false
+dec_cls: "2"
+stress: shifting
+is_animate: true
 is_sin_tan: null
 is_plu_tan: null
 
-sin_nom:
-sin_gen:
-sin_dat:
-sin_acc:
-sin_ins:
-sin_pre:
+sin_nom: бог
+sin_gen: бо́­га
+sin_dat: бо́­гу
+sin_acc: бо́­га
+sin_ins: бо́­гом
+sin_pre: бо́­ге
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: бо́­ги
+plu_gen: бо­го́в
+plu_dat: бо­га́м
+plu_acc: бо­го́в
+plu_ins: бо­га́­ми
+plu_pre: бо­га́х
 
 partitive: null
 locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

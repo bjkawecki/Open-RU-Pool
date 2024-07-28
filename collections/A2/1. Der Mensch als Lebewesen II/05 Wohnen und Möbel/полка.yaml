@@ -1,6 +1,6 @@
 name: полка
-name_ac: по́л­ка
-wordcls: substantive
+name_accent: по́л­ка
+wordclass: substantive
 translation:
   - Regal
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

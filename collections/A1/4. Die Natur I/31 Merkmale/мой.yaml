@@ -1,6 +1,6 @@
 name: мой
-name_ac: мой
-wordcls: pronoun
+name_accent: мой
+wordclass: pronoun
 translation:
   - mein
 pro_type: possessive
@@ -37,4 +37,4 @@ plu_ins: мо­и́ми
 plu_pre: мо­и́х
 comment: null
 usage: null
-etymol: null
+etymology: null

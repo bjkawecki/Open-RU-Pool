@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: сыр
-name_ac: сыр
+name_accent: сыр
 translation:
   - Käse
 genus: masculine
@@ -25,4 +25,4 @@ partitive: сы́­ру
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

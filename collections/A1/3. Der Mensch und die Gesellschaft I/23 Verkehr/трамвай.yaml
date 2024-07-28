@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: трамвай
-name_ac: трамва́й
+name_accent: трамва́й
 translation:
   - Straßenbahn
   - Tram
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

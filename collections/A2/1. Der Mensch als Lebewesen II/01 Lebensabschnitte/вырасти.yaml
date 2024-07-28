@@ -1,52 +1,54 @@
 name: вырасти
-name_ac: вы́­рас­ти
-wordcls: verb
+name_accent: вы́­рас­ти
+wordclass: verb
 translation:
   - aufwachsen
   - groß werden
 aspect: perfective
-partner: расти́
-con_cls: e
+aspect_partner: расти́
+conjugation_class: e
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
 
-pre_sin_1: null
-pre_sin_2: null
-pre_sin_3: null
-pre_plu_1: null
-pre_plu_2: null
-pre_plu_3: null
+present_singular_1: null
+present_singular_2: null
+present_singular_3: null
+present_plural_1: null
+present_plural_2: null
+present_plural_3: null
 
-fut_sin_1: вы́­рас­ту
-fut_sin_2: вы́­рас­тешь
-fut_sin_3: вы́­рас­тет
-fut_plu_1: вы́­рас­тем
-fut_plu_2: вы́­рас­те­те
-fut_plu_3: вы́­рас­тут
+future_singular_1: вы́­рас­ту
+future_singular_2: вы́­рас­тешь
+future_singular_3: вы́­рас­тет
+future_plural_1: вы́­рас­тем
+future_plural_2: вы́­рас­те­те
+future_plural_3: вы́­рас­тут
 
-pas_mas: вы́­рос
-pas_fem: вы́­рос­ла
-pas_neu: вы́­рос­ло
-pas_plu: вы́­рос­ли
+past_masculine: вы́­рос
+past_feminine: вы́­рос­ла
+past_neutral: вы́­рос­ло
+past_plural: вы́­рос­ли
 
-par_pre_act: null
-par_pas_act: вы́­рос­ший
+participle_active_present: null
+participle_active_past: вы́­рос­ший
 
-par_pre_pas: null
-par_pas_pas: null
+participle_passive_present: null
+participle_passive_past: null
 
-par_adv_pre: null
-par_adv_pas: вы́­рос­ши
+participle_adverbial_present: null
+participle_adverbial_passive: вы́­рос­ши
 
-imp_sin: вы́­рас­ти
-imp_plu: вы́­рас­ти­те
+imperative_singular: вы́­рас­ти
+imperative_plural: вы́­рас­ти­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

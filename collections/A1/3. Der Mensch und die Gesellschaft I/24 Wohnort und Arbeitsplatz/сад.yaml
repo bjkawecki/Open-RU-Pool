@@ -1,6 +1,6 @@
 name: сад
-name_ac: сад
-wordcls: substantive
+name_accent: сад
+wordclass: substantive
 translation:
   - Garten
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: в са­ду́
 comment: null
 usage: null
-etymol: null
+etymology: null

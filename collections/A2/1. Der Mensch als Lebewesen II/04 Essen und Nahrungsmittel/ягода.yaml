@@ -1,6 +1,6 @@
 name: ягода
-name_ac: я́го­да
-wordcls: substantive
+name_accent: я́го­да
+wordclass: substantive
 translation:
   - Beere
 genus: feminine
@@ -29,4 +29,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

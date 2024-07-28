@@ -1,9 +1,9 @@
 name: везде
-name_ac: везде́
-wordcls: adverb
+name_accent: везде́
+wordclass: adverb
 translation:
   - überall
 
 comment: null
 usage: null
-etymol: null
+etymology: null

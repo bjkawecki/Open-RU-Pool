@@ -1,6 +1,6 @@
 name: новый
-name_ac: но́вый
-wordcls: adjective
+name_accent: но́вый
+wordclass: adjective
 translation:
   - neu
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: нов
 sho_fem: но­ва́
 sho_neu: но́­во
 sho_plu: но́­вы
-compara: но­ве́е
-superla: самый но́вый
+comparative: но­ве́е
+superlative: самый но́вый
 comment: null
 usage: null
-etymol: null
+etymology: null

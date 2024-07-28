@@ -1,6 +1,6 @@
 name: лекарство
-name_ac: ле­ка́рс­тво
-wordcls: substantive
+name_accent: ле­ка́рс­тво
+wordclass: substantive
 translation:
   - Medikament
   - Heilmittel
@@ -32,4 +32,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

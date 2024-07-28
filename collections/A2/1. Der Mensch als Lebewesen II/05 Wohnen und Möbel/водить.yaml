@@ -1,54 +1,56 @@
 name: водить
-name_ac: во­ди́ть
-wordcls: verb
+name_accent: во­ди́ть
+wordclass: verb
 translation:
   - (etw) fahren
   - (jmdn) führen
   - (jmdn) mitnehmen
 
 aspect: imperfective
-partner: сво­ди́ть
-con_cls: i
+aspect_partner: сво­ди́ть
+conjugation_class: i
 
 is_motion_verb: true
 motion_partner: вести́
 direction: multi
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1: во­жу́
-pre_sin_2: во́­дишь
-pre_sin_3: во́­дит
-pre_plu_1: во́­дим
-pre_plu_2: во́­ди­те
-pre_plu_3: во́­дят
+present_singular_1: во­жу́
+present_singular_2: во́­дишь
+present_singular_3: во́­дит
+present_plural_1: во́­дим
+present_plural_2: во́­ди­те
+present_plural_3: во́­дят
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
 
-pas_mas: во­ди́л
-pas_fem: во­ди́­ла
-pas_neu: во­ди́­ло
-pas_plu: во­ди́­ли
+past_masculine: во­ди́л
+past_feminine: во­ди́­ла
+past_neutral: во­ди́­ло
+past_plural: во­ди́­ли
 
-par_pre_act: во­дя́­щий
-par_pas_act: во­ди́в­ший
+participle_active_present: во­дя́­щий
+participle_active_past: во­ди́в­ший
 
-par_adv_pre: во­дя́
-par_adv_pas: во­ди́в­ши, во­ди́в
+participle_adverbial_present: во­дя́
+participle_adverbial_passive: во­ди́в­ши, во­ди́в
 
-par_pre_pas: во­ди́­мый
-par_pas_pas: во́­жен­ный
+participle_passive_present: во­ди́­мый
+participle_passive_past: во́­жен­ный
 
-imp_sin: во­ди́
-imp_plu: во­ди́­те
+imperative_singular: во­ди́
+imperative_plural: во­ди́­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,9 +1,9 @@
 name: настоящее время
 
-name_ac:
-wordcls: compound
+name_accent:
+wordclass: compound
 translation:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

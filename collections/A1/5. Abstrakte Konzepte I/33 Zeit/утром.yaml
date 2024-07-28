@@ -1,8 +1,8 @@
 name: утром
-name_ac: у́тром
-wordcls: adverb
+name_accent: у́тром
+wordclass: adverb
 translation:
   - morgens
 comment: null
 usage: null
-etymol: null
+etymology: null

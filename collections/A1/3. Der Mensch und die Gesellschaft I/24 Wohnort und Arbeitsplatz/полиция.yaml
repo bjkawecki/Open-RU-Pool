@@ -1,6 +1,6 @@
 name: полиция
-name_ac: поли́ция
-wordcls: substantive
+name_accent: поли́ция
+wordclass: substantive
 translation:
   - Polizei
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

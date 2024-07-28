@@ -1,53 +1,55 @@
 name: познакомиться
-name_ac: позна­ко́м­ить­ся
-wordcls: verb
+name_accent: позна­ко́м­ить­ся
+wordclass: verb
 translation:
   - sich kennenlernen
   - eine Bekanntschaft machen
 
 aspect: imperfective
-partner: позна­ко́м­ить­ся
-con_cls: i
+aspect_partner: позна­ко́м­ить­ся
+conjugation_class: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: instrumental
-verb_prepo: с
+direct_object_case: instrumental
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: с
 is_reflexive: true
 
-pre_sin_1: null
-pre_sin_2: null
-pre_sin_3: null
-pre_plu_1: null
-pre_plu_2: null
-pre_plu_3: null
+present_singular_1: null
+present_singular_2: null
+present_singular_3: null
+present_plural_1: null
+present_plural_2: null
+present_plural_3: null
 
-fut_sin_1: поз­на­ко́м­люсь
-fut_sin_2: поз­на­ко́м­ишь­ся
-fut_sin_3: поз­на­ко́м­ит­ся
-fut_plu_1: поз­на­ко́м­им­ся
-fut_plu_2: поз­на­ко́­ми­тесь
-fut_plu_3: поз­на­ко́м­ят­ся
+future_singular_1: поз­на­ко́м­люсь
+future_singular_2: поз­на­ко́м­ишь­ся
+future_singular_3: поз­на­ко́м­ит­ся
+future_plural_1: поз­на­ко́м­им­ся
+future_plural_2: поз­на­ко́­ми­тесь
+future_plural_3: поз­на­ко́м­ят­ся
 
-pas_mas: позна­ко́м­ил­ся
-pas_fem: позна­ко́­ми­лась
-pas_neu: позна­ко́­ми­лось
-pas_plu: позна­ко́­ми­лись
+past_masculine: позна­ко́м­ил­ся
+past_feminine: позна­ко́­ми­лась
+past_neutral: позна­ко́­ми­лось
+past_plural: позна­ко́­ми­лись
 
-par_pre_act: null
-par_pas_act: поз­на­ко́м­ив­ший­ся
+participle_active_present: null
+participle_active_past: поз­на­ко́м­ив­ший­ся
 
-par_pre_pas: null
-par_pas_pas: null
+participle_passive_present: null
+participle_passive_past: null
 
-par_adv_pre: зна­ко́м­ясь
-par_adv_pas: поз­на­ко́м­ив­шись
+participle_adverbial_present: зна­ко́м­ясь
+participle_adverbial_passive: поз­на­ко́м­ив­шись
 
-imp_sin: поз­на­ко́мь­ся
-imp_plu: поз­на­ко́мь­тесь
+imperative_singular: поз­на­ко́мь­ся
+imperative_plural: поз­на­ко́мь­тесь
 
 comment: null
 usage: null
-etymol: null
+etymology: null

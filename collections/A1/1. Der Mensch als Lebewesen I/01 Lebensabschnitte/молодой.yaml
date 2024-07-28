@@ -1,6 +1,6 @@
 name: молодой
-name_ac: молодой
-wordcls: adjective
+name_accent: молодой
+wordclass: adjective
 translation:
   - jung
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: мо́­лод
 sho_fem: мо­ло­да́
 sho_neu: мо́­ло­до
 sho_plu: мо́­ло­ды
-compara: мо­ло́­же
-superla: самый молодой
+comparative: мо­ло́­же
+superlative: самый молодой
 comment: null
 usage: null
-etymol: null
+etymology: null

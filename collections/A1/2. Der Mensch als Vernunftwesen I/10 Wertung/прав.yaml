@@ -1,8 +1,8 @@
 name: прав
-name_ac: прав
-wordcls: adverb
+name_accent: прав
+wordclass: adverb
 translation:
-- recht
+  - recht
 comment: Kurzform männlich
 usage: null
-etymol: null
+etymology: null

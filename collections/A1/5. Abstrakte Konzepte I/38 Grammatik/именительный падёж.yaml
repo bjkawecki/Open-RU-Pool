@@ -1,6 +1,6 @@
 name: именительный падёж
-name_ac: имени́тельный падёж
-wordcls: compound
+name_accent: имени́тельный падёж
+wordclass: compound
 translation:
   - Nominativ
 
@@ -8,4 +8,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

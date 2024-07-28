@@ -1,9 +1,9 @@
 name: извините, вы не знаете
-name_ac: извини́те, вы не зна́ете
-wordcls: phrase
+name_accent: извини́те, вы не зна́ете
+wordclass: phrase
 translation:
   - Entschuldigen Sie, wissen Sie…?
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

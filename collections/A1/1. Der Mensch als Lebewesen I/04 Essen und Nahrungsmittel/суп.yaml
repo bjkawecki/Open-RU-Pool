@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: суп
-name_ac: суп
+name_accent: суп
 translation:
   - Suppe
 genus: masculine
@@ -25,4 +25,4 @@ partitive: су́­пу
 locative: в супу
 comment: null
 usage: null
-etymol: null
+etymology: null

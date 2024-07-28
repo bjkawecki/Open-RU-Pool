@@ -1,6 +1,6 @@
 name: весенний
-name_ac: ве­се́н­ний
-wordcls: adjective
+name_accent: ве­се́н­ний
+wordclass: adjective
 translation:
   - Frühlings-
   - frühlingshaft
@@ -40,9 +40,9 @@ sho_fem:
 sho_neu:
 sho_plu:
 
-compara:
-superla:
+comparative:
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

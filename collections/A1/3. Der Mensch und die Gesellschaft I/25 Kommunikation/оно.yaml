@@ -1,6 +1,6 @@
 name: оно
-name_ac: оно́
-wordcls: pronoun
+name_accent: оно́
+wordclass: pronoun
 translation:
   - es
 
@@ -45,4 +45,4 @@ plu_pre:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

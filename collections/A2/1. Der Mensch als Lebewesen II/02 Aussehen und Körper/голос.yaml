@@ -1,6 +1,6 @@
 name: голос
-name_ac: го́­лос
-wordcls: substantive
+name_accent: го́­лос
+wordclass: substantive
 translation:
   - Stimme
 
@@ -35,4 +35,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

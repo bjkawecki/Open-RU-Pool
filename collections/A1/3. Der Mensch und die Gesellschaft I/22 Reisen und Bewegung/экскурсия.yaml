@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: экскурсия
-name_ac: экску́рсия
+name_accent: экску́рсия
 translation:
   - Ausflug
   - Exkursion
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

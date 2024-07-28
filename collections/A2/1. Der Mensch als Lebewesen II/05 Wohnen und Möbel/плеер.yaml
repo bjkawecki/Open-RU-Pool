@@ -1,6 +1,6 @@
 name: плеер
-name_ac: пле́­ер
-wordcls: substantive
+name_accent: пле́­ер
+wordclass: substantive
 translation:
   - Musikplayer
   - Player
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

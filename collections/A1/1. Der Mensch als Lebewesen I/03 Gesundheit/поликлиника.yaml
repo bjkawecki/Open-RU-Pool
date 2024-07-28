@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: поликлиника
-name_ac: поликли́ника
+name_accent: поликли́ника
 translation:
   - Poliklinik
   - Stadtklinik
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

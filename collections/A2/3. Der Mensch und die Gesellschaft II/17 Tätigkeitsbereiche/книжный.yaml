@@ -1,6 +1,6 @@
 name: книжный
-name_ac:
-wordcls: adjective
+name_accent:
+wordclass: adjective
 translation:
 
 is_gradable:
@@ -38,9 +38,9 @@ sho_fem:
 sho_neu:
 sho_plu:
 
-compara:
-superla:
+comparative:
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

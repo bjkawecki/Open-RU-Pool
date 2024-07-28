@@ -1,6 +1,6 @@
 name: здоровый
-name_ac: здоро́вый
-wordcls: adjective
+name_accent: здоро́вый
+wordclass: adjective
 translation:
   - gesund
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: здо­ро́в
 sho_fem: здо­ро́­ва
 sho_neu: здо­ро́­во
 sho_plu: здо­ро́­вы
-compara: здо­ро­ве́е
-superla: самый здоро́вый
+comparative: здо­ро­ве́е
+superlative: самый здоро́вый
 comment: null
 usage: null
-etymol: null
+etymology: null

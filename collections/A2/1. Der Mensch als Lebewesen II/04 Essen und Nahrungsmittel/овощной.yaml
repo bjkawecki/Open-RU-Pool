@@ -1,6 +1,6 @@
 name: овощной
-name_ac: ов­ощ­но́й
-wordcls: adjective
+name_accent: ов­ощ­но́й
+wordclass: adjective
 translation:
   - Gemüse-
 
@@ -39,9 +39,9 @@ sho_fem: null
 sho_neu: null
 sho_plu: null
 
-compara: null
-superla: null
+comparative: null
+superlative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

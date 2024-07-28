@@ -1,9 +1,9 @@
 name: стоить дёшево
-name_ac: сто́ить дёшево
-wordcls: phrase
+name_accent: сто́ить дёшево
+wordclass: phrase
 translation:
   - günstig kosten
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

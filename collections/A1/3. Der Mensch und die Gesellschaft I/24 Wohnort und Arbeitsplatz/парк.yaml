@@ -1,6 +1,6 @@
 name: парк
-name_ac: парк
-wordcls: substantive
+name_accent: парк
+wordclass: substantive
 translation:
   - Park
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

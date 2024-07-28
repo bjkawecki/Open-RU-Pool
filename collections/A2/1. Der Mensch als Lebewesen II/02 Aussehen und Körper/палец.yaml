@@ -1,6 +1,6 @@
 name: палец
-name_ac: па́­лец
-wordcls: substantive
+name_accent: па́­лец
+wordclass: substantive
 translation:
   - Finger
   - Zeh
@@ -35,4 +35,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: левый
-name_ac: ле́вый
-wordcls: adjective
+name_accent: ле́вый
+wordclass: adjective
 translation:
   - linker
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: лев
 sho_fem: ле́­ва
 sho_neu: ле́­во
 sho_plu: ле́­вы
-compara: ле­ве́е
-superla: самый ле́вый
+comparative: ле­ве́е
+superlative: самый ле́вый
 comment: null
 usage: null
-etymol: null
+etymology: null

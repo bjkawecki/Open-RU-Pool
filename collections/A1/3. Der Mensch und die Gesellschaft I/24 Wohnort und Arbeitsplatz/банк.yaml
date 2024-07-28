@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: банк
-name_ac: банк
+name_accent: банк
 translation:
   - Bank
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

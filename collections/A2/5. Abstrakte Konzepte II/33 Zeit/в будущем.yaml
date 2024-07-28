@@ -1,9 +1,9 @@
 name: в будущем
-name_ac: в бу́дущем
-wordcls: phrase
+name_accent: в бу́дущем
+wordclass: phrase
 translation:
-- in Zukunft
+  - in Zukunft
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

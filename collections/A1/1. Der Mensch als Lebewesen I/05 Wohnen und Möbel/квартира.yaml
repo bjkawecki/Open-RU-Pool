@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: квартира
-name_ac: кварти́ра
+name_accent: кварти́ра
 translation:
   - Wohnung
   - Quartier
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

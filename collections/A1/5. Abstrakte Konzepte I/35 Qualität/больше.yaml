@@ -1,9 +1,9 @@
 name: больше
-name_ac: бо́льше
-wordcls: adverb
+name_accent: бо́льше
+wordclass: adverb
 translation:
   - mehr
 
 comment: null
 usage: null
-etymol: null
+etymology: null

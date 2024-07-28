@@ -1,6 +1,6 @@
 name: какой
-name_ac: како́й
-wordcls: pronoun
+name_accent: како́й
+wordclass: pronoun
 translation:
   - welcher
 pro_type: interrogative
@@ -37,4 +37,4 @@ plu_ins: ка­ки́­ми
 plu_pre: ка­ки́х
 comment: null
 usage: null
-etymol: null
+etymology: null

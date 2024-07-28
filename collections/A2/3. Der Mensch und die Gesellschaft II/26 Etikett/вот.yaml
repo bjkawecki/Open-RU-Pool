@@ -1,8 +1,8 @@
 name: вот
-name_ac:
-wordcls: particle
+name_accent:
+wordclass: particle
 translation:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,8 +1,8 @@
 name: время суток
-name_ac: вре́мя су́ток
-wordcls: compound
+name_accent: вре́мя су́ток
+wordclass: compound
 translation:
   - Tageszeit
 comment: null
 usage: null
-etymol: null
+etymology: null

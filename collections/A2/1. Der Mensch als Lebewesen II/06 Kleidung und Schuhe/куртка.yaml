@@ -1,6 +1,6 @@
 name: куртка
-name_ac: ку́рт­ка
-wordcls: verb
+name_accent: ку́рт­ка
+wordclass: verb
 translation:
   - Jacke
 
@@ -31,4 +31,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

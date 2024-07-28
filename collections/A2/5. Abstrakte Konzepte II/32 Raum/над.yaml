@@ -1,6 +1,6 @@
 name: над
-name_ac:
-wordcls: preposition
+name_accent:
+wordclass: preposition
 translation:
 
 prep_type:
@@ -9,4 +9,4 @@ prep_case:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

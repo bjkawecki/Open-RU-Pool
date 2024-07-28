@@ -1,6 +1,6 @@
 name: давай
-name_ac: дава́й
-wordcls: phrase
+name_accent: дава́й
+wordclass: phrase
 translation:
   - Lass uns...
   - Los geht's.
@@ -11,4 +11,4 @@ comment: Eine äußerst produktive Formel, um Aufforderungen einzuleiten.
 
 usage:
 
-etymol:
+etymology:

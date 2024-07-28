@@ -1,6 +1,6 @@
 name: высокий
-name_ac: высо́кий
-wordcls: adjective
+name_accent: высо́кий
+wordclass: adjective
 translation:
   - hoch
   - hochgewachsen
@@ -34,8 +34,8 @@ sho_mas: вы­со́к
 sho_fem: вы­со­ка́
 sho_neu: вы́­со­ко
 sho_plu: вы́­со­ки
-compara: вы́­ше
-superla: самый высо́кий
+comparative: вы́­ше
+superlative: самый высо́кий
 comment: null
 usage: null
-etymol: null
+etymology: null

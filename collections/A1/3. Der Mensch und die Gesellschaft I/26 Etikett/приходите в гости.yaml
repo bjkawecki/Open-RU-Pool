@@ -1,9 +1,9 @@
 name: приходите в гости
-name_ac: приходи́те в го́сти
-wordcls: phrase
+name_accent: приходи́те в го́сти
+wordclass: phrase
 translation:
   - Kommen Sie zu Besuch
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

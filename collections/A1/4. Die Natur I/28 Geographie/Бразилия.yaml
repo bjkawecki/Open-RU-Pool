@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: Бразилия
-name_ac: Брази́лия
+name_accent: Брази́лия
 translation:
   - Brasilien
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

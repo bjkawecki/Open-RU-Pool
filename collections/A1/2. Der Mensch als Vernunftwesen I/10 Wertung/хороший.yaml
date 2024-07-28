@@ -1,8 +1,8 @@
 name: хороший
-name_ac: хоро́ший
-wordcls: adjective
+name_accent: хоро́ший
+wordclass: adjective
 translation:
-- gut
+  - gut
 is_gradable: true
 mas_nom: хоро́ший
 mas_gen: хо­ро́­ше­го
@@ -32,8 +32,8 @@ sho_mas: хо­ро́ш
 sho_fem: хо­ро­ша́
 sho_neu: хо­ро­шо́
 sho_plu: хо­ро­ши́
-compara: лу́ч­ше
-superla: самый хоро́ший
+comparative: лу́ч­ше
+superlative: самый хоро́ший
 comment: null
 usage: null
-etymol: null
+etymology: null

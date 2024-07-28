@@ -1,6 +1,6 @@
 name: глагол
-name_ac: гла­го́л
-wordcls: substantive
+name_accent: гла­го́л
+wordclass: substantive
 translation:
   - Verb
   - Zeitwort
@@ -38,4 +38,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

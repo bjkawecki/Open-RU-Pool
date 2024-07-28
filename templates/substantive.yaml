@@ -1,5 +1,5 @@
-name_ac:
-wordcls: substantive
+name_accent:
+wordclass: substantive
 translation:
 
 genus:
@@ -28,4 +28,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

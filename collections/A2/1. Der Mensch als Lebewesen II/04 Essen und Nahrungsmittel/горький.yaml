@@ -1,6 +1,6 @@
 name: горький
-name_ac: го́рь­кий
-wordcls: adjective
+name_accent: го́рь­кий
+wordclass: adjective
 translation:
   - bitter
   - herb
@@ -40,9 +40,9 @@ sho_fem: горь­ка́
 sho_neu: го́рь­ко
 sho_plu: го́рь­ки
 
-compara: го́р­че
-superla:
+comparative: го́р­че
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

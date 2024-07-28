@@ -1,6 +1,6 @@
 name: громкий
-name_ac: гро́мкий
-wordcls: adjective
+name_accent: гро́мкий
+wordclass: adjective
 translation:
   - laut
 
@@ -39,9 +39,9 @@ sho_fem: гром­ка́
 sho_neu: гро́м­ко
 sho_plu: гро́м­ки
 
-compara: гро́м­че
-superla: самый гро́мкий
+comparative: гро́м­че
+superlative: самый гро́мкий
 
 comment: null
 usage: null
-etymol: null
+etymology: null

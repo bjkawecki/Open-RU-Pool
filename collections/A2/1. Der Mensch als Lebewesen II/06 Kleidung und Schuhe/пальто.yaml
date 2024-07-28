@@ -1,6 +1,6 @@
 name: пальто
-name_ac: пальто́
-wordcls: substantive
+name_accent: пальто́
+wordclass: substantive
 translation:
   - Mantel
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

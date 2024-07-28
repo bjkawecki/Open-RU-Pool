@@ -1,9 +1,9 @@
 name: доброе утро
-name_ac: до́брое у́тро
-wordcls: phrase
+name_accent: до́брое у́тро
+wordclass: phrase
 translation:
   - Guten Morgen
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

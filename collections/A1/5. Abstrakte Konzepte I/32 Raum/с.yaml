@@ -1,10 +1,10 @@
 name: с
-name_ac: с
-wordcls: preposition
+name_accent: с
+wordclass: preposition
 translation:
   - mit
 prep_type: modal
 prep_case: instrumental
 comment: null
 usage: null
-etymol: null
+etymology: null

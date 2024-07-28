@@ -1,9 +1,9 @@
 name: с праздником
-name_ac: с пра́здником
-wordcls: phrase
+name_accent: с пра́здником
+wordclass: phrase
 translation:
   - Glückwunsch!
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

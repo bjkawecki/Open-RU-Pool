@@ -1,10 +1,10 @@
 name: только
-name_ac: то́лько
-wordcls: adverb
+name_accent: то́лько
+wordclass: adverb
 translation:
   - nur
   - allein
 
 comment: null
 usage: null
-etymol: null
+etymology: null

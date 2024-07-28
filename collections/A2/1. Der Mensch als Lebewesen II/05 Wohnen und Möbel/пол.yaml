@@ -1,6 +1,6 @@
 name: пол
-name_ac: пол
-wordcls: substantive
+name_accent: пол
+wordclass: substantive
 translation:
   - Boden
   - Fußboden
@@ -31,4 +31,4 @@ locative: полу́
 
 comment: null
 usage: null
-etymol: null
+etymology: null

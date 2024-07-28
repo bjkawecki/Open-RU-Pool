@@ -1,6 +1,6 @@
 name: фирма
-name_ac: фи́рма
-wordcls: substantive
+name_accent: фи́рма
+wordclass: substantive
 translation:
   - Firma
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

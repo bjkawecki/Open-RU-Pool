@@ -1,42 +1,44 @@
 name: продолжать
-name_ac: продолжа́ть
-wordcls: verb
+name_accent: продолжа́ть
+wordclass: verb
 translation:
   - fortsetzen
   - weitermachen
 aspect: imperfective
-partner: продо́лжить
-con_cls: e
+aspect_partner: продо́лжить
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: про­дол­жа́ю
-pre_sin_2: про­дол­жа́­ешь
-pre_sin_3: про­дол­жа́­ет
-pre_plu_1: про­дол­жа́­ем
-pre_plu_2: про­дол­жа́­ете
-pre_plu_3: про­дол­жа́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: про­дол­жа́л
-pas_fem: про­дол­жа́­ла
-pas_neu: про­дол­жа́­ло
-pas_plu: про­дол­жа́­ли
-par_pre_act: про­дол­жа́­ющий
-par_pas_act: про­дол­жа́­вший
-par_pre_pas: про­дол­жа́я
-par_pas_pas: про­дол­жа́­вши, про­дол­жа́в
-par_adv_pre: про­дол­жа́­емый
-par_adv_pas: null
-imp_sin: про­дол­жа́й
-imp_plu: про­дол­жа́й­те
+present_singular_1: про­дол­жа́ю
+present_singular_2: про­дол­жа́­ешь
+present_singular_3: про­дол­жа́­ет
+present_plural_1: про­дол­жа́­ем
+present_plural_2: про­дол­жа́­ете
+present_plural_3: про­дол­жа́­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: про­дол­жа́л
+past_feminine: про­дол­жа́­ла
+past_neutral: про­дол­жа́­ло
+past_plural: про­дол­жа́­ли
+participle_active_present: про­дол­жа́­ющий
+participle_active_past: про­дол­жа́­вший
+participle_passive_present: про­дол­жа́я
+participle_passive_past: про­дол­жа́­вши, про­дол­жа́в
+participle_adverbial_present: про­дол­жа́­емый
+participle_adverbial_passive: null
+imperative_singular: про­дол­жа́й
+imperative_plural: про­дол­жа́й­те
 comment: null
 usage: null
-etymol: null
+etymology: null

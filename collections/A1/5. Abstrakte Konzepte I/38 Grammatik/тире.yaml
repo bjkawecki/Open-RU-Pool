@@ -1,6 +1,6 @@
 name: тире
-name_ac: тире́
-wordcls: substantive
+name_accent: тире́
+wordclass: substantive
 translation:
   - Gedankenstrich
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

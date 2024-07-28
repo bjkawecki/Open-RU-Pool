@@ -1,6 +1,6 @@
 name: тёплый
-name_ac: тёп­лый
-wordcls: adjective
+name_accent: тёп­лый
+wordclass: adjective
 translation:
   - warm
 
@@ -39,11 +39,11 @@ sho_fem: теп­ла́
 sho_neu: теп­ло́
 sho_plu: теп­лы́
 
-compara: теп­ле́е
-superla: самый тёплый
+comparative: теп­ле́е
+superlative: самый тёплый
 
 comment: null
 
 usage: null
 
-etymol: null
+etymology: null

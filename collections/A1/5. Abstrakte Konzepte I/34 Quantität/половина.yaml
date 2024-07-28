@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: половина
-name_ac: полови́на
+name_accent: полови́на
 translation:
   - Hälfte
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

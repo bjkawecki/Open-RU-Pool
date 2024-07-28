@@ -1,6 +1,6 @@
 name: ухо
-name_ac: у́хо
-wordcls: substantive
+name_accent: у́хо
+wordclass: substantive
 translation:
   - Ohr
 
@@ -37,4 +37,4 @@ comment: "Plural: у́ши"
 
 usage:
 
-etymol:
+etymology:

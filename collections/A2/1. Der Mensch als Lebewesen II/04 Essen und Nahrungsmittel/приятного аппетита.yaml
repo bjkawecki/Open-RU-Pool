@@ -1,6 +1,6 @@
 name: приятного аппетита
-name_ac: прия́тного аппети́та
-wordcls: phrase
+name_accent: прия́тного аппети́та
+wordclass: phrase
 translation:
   - Guten Appetit
 
@@ -8,4 +8,4 @@ metaphrase:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

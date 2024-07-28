@@ -1,6 +1,6 @@
 name: низкий
-name_ac: ни́з­кий
-wordcls: adjective
+name_accent: ни́з­кий
+wordclass: adjective
 translation:
   - niedrig
   - nieder
@@ -41,9 +41,9 @@ sho_fem: низ­ка́
 sho_neu: ни́з­ко
 sho_plu: ни́з­ки
 
-compara: ни́­же
-superla: са́мый ни́з­кий
+comparative: ни́­же
+superlative: са́мый ни́з­кий
 
 comment: null
 usage: null
-etymol: null
+etymology: null

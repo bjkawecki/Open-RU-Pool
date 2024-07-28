@@ -1,6 +1,6 @@
 name: она
-name_ac: она́
-wordcls: pronoun
+name_accent: она́
+wordclass: pronoun
 translation:
   - sie
 
@@ -45,4 +45,4 @@ plu_pre:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

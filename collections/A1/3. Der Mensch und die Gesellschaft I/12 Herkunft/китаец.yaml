@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: китаец
-name_ac: кита́ец
+name_accent: кита́ец
 translation:
   - Chinese
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,10 +1,10 @@
 name: нормально
-name_ac: норма́льно
-wordcls: adverb
+name_accent: норма́льно
+wordclass: adverb
 translation:
   - in Ordnung
   - normal
   - okay
 comment: Gängige Antwort auf die Frage nach dem eigenen Befinden.
 usage: null
-etymol: null
+etymology: null

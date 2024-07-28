@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: одежда
-name_ac: оде́жда
+name_accent: оде́жда
 translation:
   - Kleidung
   - Kleider
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: столовая
-name_ac: столо́вая
+name_accent: столо́вая
 translation:
   - Kantine
   - Esszimmer
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

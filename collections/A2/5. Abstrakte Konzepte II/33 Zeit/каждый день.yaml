@@ -1,9 +1,9 @@
 name: каждый день
-name_ac: ка́ждый день
-wordcls: phrase
+name_accent: ка́ждый день
+wordclass: phrase
 translation:
-- jeden Tag
+  - jeden Tag
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

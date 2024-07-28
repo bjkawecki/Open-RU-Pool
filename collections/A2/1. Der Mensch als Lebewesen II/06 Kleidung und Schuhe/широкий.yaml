@@ -1,6 +1,6 @@
 name: широкий
-name_ac: ши­ро́­кий
-wordcls: adjective
+name_accent: ши­ро́­кий
+wordclass: adjective
 translation:
   - weit
   - breit
@@ -40,9 +40,9 @@ sho_fem: ши­ро­ка́
 sho_neu: ши́­ро­ко
 sho_plu: ши́­ро­ки
 
-compara: ши́­ре
-superla:
+comparative: ши́­ре
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: мягкий
-name_ac: мя́г­кий
-wordcls: adjective
+name_accent: мя́г­кий
+wordclass: adjective
 translation:
   - weich
   - mild
@@ -41,9 +41,9 @@ sho_fem: мяг­ка́
 sho_neu: мя́г­ко
 sho_plu: мя́г­ки
 
-compara: мя́г­че
-superla:
+comparative: мя́г­че
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

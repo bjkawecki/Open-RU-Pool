@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: число
-name_ac: число́
+name_accent: число́
 translation:
   - Zahl
   - Datum
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

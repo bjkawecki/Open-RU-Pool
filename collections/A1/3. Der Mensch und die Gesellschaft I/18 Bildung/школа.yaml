@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: школа
-name_ac: шко́ла
+name_accent: шко́ла
 translation:
   - Schule
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

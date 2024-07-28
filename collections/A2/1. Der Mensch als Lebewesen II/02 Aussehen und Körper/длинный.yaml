@@ -1,6 +1,6 @@
 name: длинный
-name_ac: дли́н­ный
-wordcls: adjective
+name_accent: дли́н­ный
+wordclass: adjective
 translation:
   - lang
 
@@ -39,9 +39,9 @@ sho_fem: длин­на́
 sho_neu: дли́н­но
 sho_plu: дли́н­ны
 
-compara: длин­не́е
-superla: са́мый дли́н­ный
+comparative: длин­не́е
+superlative: са́мый дли́н­ный
 
 comment: null
 usage: null
-etymol: null
+etymology: null

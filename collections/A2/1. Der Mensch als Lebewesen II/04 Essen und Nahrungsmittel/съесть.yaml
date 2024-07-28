@@ -1,53 +1,55 @@
 name: съесть
-name_ac: съесть
-wordcls: verb
+name_accent: съесть
+wordclass: verb
 translation:
   - essen
   - aufessen
 
 aspect: perfective
-partner: есть
-con_cls: irregular
+aspect_partner: есть
+conjugation_class: irregular
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+present_singular_1:
+present_singular_2:
+present_singular_3:
+present_plural_1:
+present_plural_2:
+present_plural_3:
 
-fut_sin_1: съ­ем
-fut_sin_2: съ­ешь
-fut_sin_3: съ­ест
-fut_plu_1: съ­ед­и́м
-fut_plu_2: съ­еди́­те
-fut_plu_3: съ­ед­я́т
+future_singular_1: съ­ем
+future_singular_2: съ­ешь
+future_singular_3: съ­ест
+future_plural_1: съ­ед­и́м
+future_plural_2: съ­еди́­те
+future_plural_3: съ­ед­я́т
 
-pas_mas: съ­ел
-pas_fem: съ­е́ла
-pas_neu: съ­е́ло
-pas_plu: съ­е́ли
+past_masculine: съ­ел
+past_feminine: съ­е́ла
+past_neutral: съ­е́ло
+past_plural: съ­е́ли
 
-par_pre_act:
-par_pas_act: съ­е́в­ший
+participle_active_present:
+participle_active_past: съ­е́в­ший
 
-par_adv_pre:
-par_adv_pas: съ­е́в­ши, съ­ев
+participle_adverbial_present:
+participle_adverbial_passive: съ­е́в­ши, съ­ев
 
-par_pre_pas:
-par_pas_pas: съ­е́д­ен­ный
+participle_passive_present:
+participle_passive_past: съ­е́д­ен­ный
 
-imp_sin: съ­ешь
-imp_plu: съ­е́шь­те
+imperative_singular: съ­ешь
+imperative_plural: съ­е́шь­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

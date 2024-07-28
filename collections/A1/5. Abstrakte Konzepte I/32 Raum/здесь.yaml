@@ -1,9 +1,9 @@
 name: здесь
-name_ac: здесь
-wordcls: adverb
+name_accent: здесь
+wordclass: adverb
 translation:
   - hier
   - hierzulande
 comment: null
 usage: null
-etymol: null
+etymology: null

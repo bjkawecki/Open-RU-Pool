@@ -1,6 +1,6 @@
 name: здравствуйте
-name_ac: здра́вствуйте
-wordcls: phrase
+name_accent: здра́вствуйте
+wordclass: phrase
 translation:
   - Ich grüße Sie
   - Ich grüße euch
@@ -8,4 +8,4 @@ translation:
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

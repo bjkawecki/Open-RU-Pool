@@ -1,9 +1,9 @@
 name: легко
-name_ac: легко́
-wordcls: adverb
+name_accent: легко́
+wordclass: adverb
 translation:
   - leicht
   - mühelos
 comment: null
 usage: null
-etymol: null
+etymology: null

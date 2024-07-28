@@ -1,9 +1,9 @@
 name: дорогая Анна Петровна
-name_ac: дорога́я А́нна Петро́вна
-wordcls: phrase
+name_accent: дорога́я А́нна Петро́вна
+wordclass: phrase
 translation:
   - Liebe Anna Petrowna
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

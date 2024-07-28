@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: дорога
-name_ac: доро́га
+name_accent: доро́га
 translation:
   - Fahrbahn
   - Straße
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,8 +1,8 @@
 name: хорошо
-name_ac: хорошо́
-wordcls: adverb
+name_accent: хорошо́
+wordclass: adverb
 translation:
-- gut
+  - gut
 comment: null
 usage: null
-etymol: null
+etymology: null

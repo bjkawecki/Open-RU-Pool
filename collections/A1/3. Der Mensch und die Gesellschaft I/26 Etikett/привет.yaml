@@ -1,6 +1,6 @@
 name: привет
-name_ac: приве́т
-wordcls: interjection
+name_accent: приве́т
+wordclass: interjection
 translation:
   - hallo
   - moin
@@ -10,4 +10,4 @@ comment: Begrüßung unter guten Bekannten oder jungen Leuten.
 
 usage: colloquial
 
-etymol:
+etymology:

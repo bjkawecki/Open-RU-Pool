@@ -1,53 +1,55 @@
 name: выпить
-name_ac: вы́­пить
-wordcls: verb
+name_accent: вы́­пить
+wordclass: verb
 translation:
   - trinken
   - austrinken
 
 aspect: perfective
-partner: пить
-con_cls: e
+aspect_partner: пить
+conjugation_class: e
 
 is_motion_verb: true
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo:
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition:
 is_reflexive:
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+present_singular_1:
+present_singular_2:
+present_singular_3:
+present_plural_1:
+present_plural_2:
+present_plural_3:
 
-fut_sin_1: вы́пью
-fut_sin_2: вы́пь­ешь
-fut_sin_3: вы́пь­ет
-fut_plu_1: вы́пь­ем
-fut_plu_2: вы́пь­ете
-fut_plu_3: вы́пь­ют
+future_singular_1: вы́пью
+future_singular_2: вы́пь­ешь
+future_singular_3: вы́пь­ет
+future_plural_1: вы́пь­ем
+future_plural_2: вы́пь­ете
+future_plural_3: вы́пь­ют
 
-pas_mas: вы́­пил
-pas_fem: вы́­пи­ла
-pas_neu: вы́­пи­ло
-pas_plu: вы́­пи­ли
+past_masculine: вы́­пил
+past_feminine: вы́­пи­ла
+past_neutral: вы́­пи­ло
+past_plural: вы́­пи­ли
 
-par_pre_act:
-par_pas_act: вы́­пив­ший
+participle_active_present:
+participle_active_past: вы́­пив­ший
 
-par_adv_pre:
-par_adv_pas: выпивши, выпив
+participle_adverbial_present:
+participle_adverbial_passive: выпивши, выпив
 
-par_pre_pas:
-par_pas_pas: вы́­пи­тый
+participle_passive_present:
+participle_passive_past: вы́­пи­тый
 
-imp_sin: вы́­пей
-imp_plu: вы́­пей­те
+imperative_singular: вы́­пей
+imperative_plural: вы́­пей­те
 
 comment: häufig verwendet im Kontext alkoholischer Getränke
 usage:
-etymol:
+etymology:

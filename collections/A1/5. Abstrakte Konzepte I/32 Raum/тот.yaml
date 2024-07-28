@@ -1,6 +1,6 @@
 name: тот
-name_ac: тот
-wordcls: pronoun
+name_accent: тот
+wordclass: pronoun
 translation:
   - jener
 
@@ -45,4 +45,4 @@ plu_pre: тех
 
 comment: null
 usage: null
-etymol: null
+etymology: null

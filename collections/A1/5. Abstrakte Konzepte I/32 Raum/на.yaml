@@ -1,10 +1,10 @@
 name: на
-name_ac: на
-wordcls: preposition
+name_accent: на
+wordclass: preposition
 translation:
   - auf
 prep_type: local
 prep_case: prepositive
 comment: null
 usage: null
-etymol: null
+etymology: null

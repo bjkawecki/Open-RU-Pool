@@ -1,9 +1,9 @@
 name: дата рождения
-name_ac: да́та рожде́ния
-wordcls: compound
+name_accent: да́та рожде́ния
+wordclass: compound
 translation:
   - Datum der Geburt
 
 comment: null
 usage: null
-etymol: null
+etymology: null

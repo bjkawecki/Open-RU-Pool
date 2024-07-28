@@ -1,6 +1,6 @@
 name: испанский
-name_ac: испа́нский
-wordcls: adjective
+name_accent: испа́нский
+wordclass: adjective
 translation:
   - spanisch
 is_gradable: null
@@ -32,8 +32,8 @@ sho_mas: null
 sho_fem: null
 sho_neu: null
 sho_plu: null
-compara: null
-superla: null
+comparative: null
+superlative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

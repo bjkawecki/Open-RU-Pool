@@ -1,6 +1,6 @@
 name: точка
-name_ac: то́ч­ка
-wordcls: substantive
+name_accent: то́ч­ка
+wordclass: substantive
 translation:
   - Punkt
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: восемьсот
-name_ac: восемьсо́т
-wordcls: numeral
+name_accent: восемьсо́т
+wordclass: numeral
 translation:
   - achthundert
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

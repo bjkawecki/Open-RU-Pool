@@ -1,6 +1,6 @@
 name: летний
-name_ac: ле́т­ний
-wordcls: adjective
+name_accent: ле́т­ний
+wordclass: adjective
 translation:
   - Sommer
   - sommerlich
@@ -40,9 +40,9 @@ sho_fem:
 sho_neu:
 sho_plu:
 
-compara:
-superla:
+comparative:
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

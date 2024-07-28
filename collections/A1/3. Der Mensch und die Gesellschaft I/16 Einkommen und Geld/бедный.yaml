@@ -1,6 +1,6 @@
 name: бедный
-name_ac: бе́дный
-wordcls: adjective
+name_accent: бе́дный
+wordclass: adjective
 translation:
   - arm
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: бе́­ден
 sho_fem: бед­на́
 sho_neu: бе́д­но
 sho_plu: бе́д­ны
-compara: бед­не́е
-superla: самый бе́дный
+comparative: бед­не́е
+superlative: самый бе́дный
 comment: null
 usage: null
-etymol: null
+etymology: null

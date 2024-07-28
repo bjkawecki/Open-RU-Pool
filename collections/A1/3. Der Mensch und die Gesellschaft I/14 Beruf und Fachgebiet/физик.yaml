@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: физик
-name_ac: фи́зик
+name_accent: фи́зик
 translation:
   - Physiker
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: два
-name_ac: два
-wordcls: numeral
+name_accent: два
+wordclass: numeral
 translation:
   - zwei
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: männlich und sachlich
 usage: null
-etymol: null
+etymology: null

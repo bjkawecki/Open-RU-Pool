@@ -1,6 +1,6 @@
 name: симпатичный
-name_ac:
-wordcls: adjective
+name_accent:
+wordclass: adjective
 translation:
   - hübsch
   - ansprechend
@@ -40,9 +40,9 @@ sho_fem: сим­па­ти́ч­на
 sho_neu: сим­па­ти́ч­но
 sho_plu: сим­па­ти́ч­ны
 
-compara: сим­па­ти́ч­нее
-superla:
+comparative: сим­па­ти́ч­нее
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

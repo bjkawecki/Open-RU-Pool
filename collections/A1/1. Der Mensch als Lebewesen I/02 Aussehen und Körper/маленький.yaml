@@ -1,6 +1,6 @@
 name: маленький
-name_ac: ма́ленький
-wordcls: adjective
+name_accent: ма́ленький
+wordclass: adjective
 translation:
   - klein
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: мал
 sho_fem: ма­ла́
 sho_neu: ма­ло́
 sho_plu: ма­лы́
-compara: ме́нь­ше
-superla: самый ма́ленький
+comparative: ме́нь­ше
+superlative: самый ма́ленький
 comment: null
 usage: null
-etymol: null
+etymology: null

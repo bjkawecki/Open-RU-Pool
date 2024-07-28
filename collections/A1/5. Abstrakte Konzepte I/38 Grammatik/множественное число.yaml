@@ -1,6 +1,6 @@
 name: множественное число
-name_ac: мно́жественное число́
-wordcls: compound
+name_accent: мно́жественное число́
+wordclass: compound
 translation:
   - Plural
   - Mehrzahl
@@ -9,4 +9,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

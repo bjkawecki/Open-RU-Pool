@@ -1,51 +1,53 @@
 name: положить
-name_ac: по­лож­и́ть
-wordcls: verb
+name_accent: по­лож­и́ть
+wordclass: verb
 translation:
 
 aspect: perfective
-partner: класть
-con_cls: i
+aspect_partner: класть
+conjugation_class: i
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1:
-pre_sin_2:
-pre_sin_3:
-pre_plu_1:
-pre_plu_2:
-pre_plu_3:
+present_singular_1:
+present_singular_2:
+present_singular_3:
+present_plural_1:
+present_plural_2:
+present_plural_3:
 
-fut_sin_1: по­ло­жу́
-fut_sin_2: по­ло́ж­ишь
-fut_sin_3: по­ло́ж­ит
-fut_plu_1: по­ло́ж­им
-fut_plu_2: по­ло́­жи­те
-fut_plu_3: по­ло́ж­ат
+future_singular_1: по­ло­жу́
+future_singular_2: по­ло́ж­ишь
+future_singular_3: по­ло́ж­ит
+future_plural_1: по­ло́ж­им
+future_plural_2: по­ло́­жи­те
+future_plural_3: по­ло́ж­ат
 
-pas_mas: по­лож­и́л
-pas_fem: по­ло­жи́­ла
-pas_neu: по­ло­жи́­ло
-pas_plu: по­ло­жи́­ли
+past_masculine: по­лож­и́л
+past_feminine: по­ло­жи́­ла
+past_neutral: по­ло­жи́­ло
+past_plural: по­ло­жи́­ли
 
-par_pre_act:
-par_pas_act: по­лож­и́в­ший
+participle_active_present:
+participle_active_past: по­лож­и́в­ший
 
-par_adv_pre:
-par_adv_pas: по­лож­и́в­ши, по­лож­и́в
+participle_adverbial_present:
+participle_adverbial_passive: по­лож­и́в­ши, по­лож­и́в
 
-par_pre_pas:
-par_pas_pas: по­ло́ж­ен­ный
+participle_passive_present:
+participle_passive_past: по­ло́ж­ен­ный
 
-imp_sin: по­ло­жи́
-imp_plu: по­ло­жи́­те
+imperative_singular: по­ло­жи́
+imperative_plural: по­ло­жи́­те
 
 comment: null
 usage: null
-etymol: null
+etymology: null

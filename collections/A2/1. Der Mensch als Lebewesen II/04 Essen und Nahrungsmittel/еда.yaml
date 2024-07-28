@@ -1,6 +1,6 @@
 name: еда
-name_ac: еда́
-wordcls: substantive
+name_accent: еда́
+wordclass: substantive
 translation:
   - Essen
   - Mahlzeit
@@ -32,4 +32,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

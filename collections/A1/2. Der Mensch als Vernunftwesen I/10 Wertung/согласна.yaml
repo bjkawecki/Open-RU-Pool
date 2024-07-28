@@ -1,8 +1,8 @@
 name: согласна
-name_ac: согла́сна
-wordcls: adverb
+name_accent: согла́сна
+wordclass: adverb
 translation:
-- einverstanden
+  - einverstanden
 comment: Kurzform weiblich
 usage: null
-etymol: null
+etymology: null

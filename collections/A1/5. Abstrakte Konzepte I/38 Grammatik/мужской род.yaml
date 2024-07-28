@@ -1,10 +1,10 @@
 name: мужской род
-name_ac: мужско́й род
-wordcls: compound
+name_accent: мужско́й род
+wordclass: compound
 translation:
   - Maskulinum
   - männliches Geschlecht
 
 comment: null
 usage: null
-etymol: null
+etymology: null

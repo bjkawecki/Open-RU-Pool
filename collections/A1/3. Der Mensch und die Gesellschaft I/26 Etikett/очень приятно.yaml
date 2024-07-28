@@ -1,9 +1,9 @@
 name: очень приятно
-name_ac: о́чень прия́тно
-wordcls: phrase
+name_accent: о́чень прия́тно
+wordclass: phrase
 translation:
   - Sehr angenehm
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

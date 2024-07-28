@@ -1,8 +1,8 @@
 name: Северная Америка
-name_ac: Се́верная Аме́рика
-wordcls: compound
+name_accent: Се́верная Аме́рика
+wordclass: compound
 translation:
   - Nordamerika
 comment: null
 usage: null
-etymol: null
+etymology: null

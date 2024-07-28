@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: сок
-name_ac: сок
+name_accent: сок
 translation:
   - Saft
 genus: masculine
@@ -25,4 +25,4 @@ partitive: со́­ку
 locative: в/на со­ку́
 comment: null
 usage: null
-etymol: null
+etymology: null

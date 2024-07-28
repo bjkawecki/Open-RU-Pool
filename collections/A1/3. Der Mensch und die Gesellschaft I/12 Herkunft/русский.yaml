@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: русский
-name_ac: ру́сский
+name_accent: ру́сский
 translation:
   - Russe
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

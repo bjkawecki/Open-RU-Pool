@@ -1,6 +1,6 @@
 name: родительный падёж
-name_ac: роди́тельный падёж
-wordcls: compound
+name_accent: роди́тельный падёж
+wordclass: compound
 translation:
   - Genitiv
 
@@ -8,4 +8,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

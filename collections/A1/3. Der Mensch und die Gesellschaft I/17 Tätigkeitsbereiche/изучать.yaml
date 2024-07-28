@@ -1,42 +1,44 @@
 name: изучать
-name_ac: изуча́ть
-wordcls: verb
+name_accent: изуча́ть
+wordclass: verb
 translation:
   - studieren
   - erforschen
 aspect: imperfective
-partner: изучи́ть
-con_cls: e
+aspect_partner: изучи́ть
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: изу­ча́ю
-pre_sin_2: изу­ча́­ешь
-pre_sin_3: изу­ча́­ет
-pre_plu_1: изу­ча́­ем
-pre_plu_2: изу­ча́­ете
-pre_plu_3: изу­ча́­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: изу­ча́л
-pas_fem: изу­ча́­ла
-pas_neu: изу­ча́­ло
-pas_plu: изу­ча́­ли
-par_pre_act: изу­ча́­ющий
-par_pas_act: изу­ча́в­ший
-par_pre_pas: изу­ча́я
-par_pas_pas: изу­ча́в­ши, изу­ча́в
-par_adv_pre: изу­ча́­емый
-par_adv_pas: null
-imp_sin: изу­ча́й
-imp_plu: изу­ча́й­те
+present_singular_1: изу­ча́ю
+present_singular_2: изу­ча́­ешь
+present_singular_3: изу­ча́­ет
+present_plural_1: изу­ча́­ем
+present_plural_2: изу­ча́­ете
+present_plural_3: изу­ча́­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: изу­ча́л
+past_feminine: изу­ча́­ла
+past_neutral: изу­ча́­ло
+past_plural: изу­ча́­ли
+participle_active_present: изу­ча́­ющий
+participle_active_past: изу­ча́в­ший
+participle_passive_present: изу­ча́я
+participle_passive_past: изу­ча́в­ши, изу­ча́в
+participle_adverbial_present: изу­ча́­емый
+participle_adverbial_passive: null
+imperative_singular: изу­ча́й
+imperative_plural: изу­ча́й­те
 comment: null
 usage: null
-etymol: null
+etymology: null

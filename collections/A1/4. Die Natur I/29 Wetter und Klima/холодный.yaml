@@ -1,6 +1,6 @@
 name: холодный
-name_ac: холо́дный
-wordcls: adjective
+name_accent: холо́дный
+wordclass: adjective
 translation:
   - kalt
 is_gradable: true
@@ -32,8 +32,8 @@ sho_mas: хо́­лод­ен
 sho_fem: хо­лод­на́
 sho_neu: хо́­лод­но
 sho_plu: хо̀­лод­ны́
-compara: хо­лод­не́е
-superla: самый хо́лодный
+comparative: хо­лод­не́е
+superlative: самый хо́лодный
 comment: null
 usage: null
-etymol: null
+etymology: null

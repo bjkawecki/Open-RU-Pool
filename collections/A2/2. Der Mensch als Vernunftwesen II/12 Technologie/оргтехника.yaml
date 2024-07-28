@@ -1,9 +1,9 @@
-wordcls: substantive
+wordclass: substantive
 name: оргтехника
-name_ac: оргте́хника
+name_accent: оргте́хника
 translation: []
 genus: feminine
-dec_cls: '1'
+dec_cls: "1"
 stress: root
 is_animate: null
 is_sin_tan: null
@@ -24,4 +24,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

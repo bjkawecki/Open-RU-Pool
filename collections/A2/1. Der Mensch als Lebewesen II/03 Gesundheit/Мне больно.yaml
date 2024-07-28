@@ -1,6 +1,6 @@
 name: Мне больно
-name_ac: Мне бо́льно
-wordcls: phrase
+name_accent: Мне бо́льно
+wordclass: phrase
 translation:
   - Es tut mir weh.
 
@@ -8,4 +8,4 @@ metaphrase:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: экономический
-name_ac: экономи́ческий
-wordcls: adjective
+name_accent: экономи́ческий
+wordclass: adjective
 translation:
   - wirtschaftlich
   - Wirtschafts-
@@ -33,8 +33,8 @@ sho_mas: null
 sho_fem: null
 sho_neu: null
 sho_plu: null
-compara: null
-superla: null
+comparative: null
+superlative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

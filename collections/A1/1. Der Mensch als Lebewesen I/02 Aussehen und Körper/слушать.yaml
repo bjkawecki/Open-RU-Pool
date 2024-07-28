@@ -1,41 +1,43 @@
 name: слушать
-name_ac: слу́шать
-wordcls: verb
+name_accent: слу́шать
+wordclass: verb
 translation:
   - zuhören
 aspect: imperfective
-partner: null
-con_cls: e
+aspect_partner: null
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: слу́­шаю
-pre_sin_2: слу́­ша­ешь
-pre_sin_3: слу́­ша­ет
-pre_plu_1: слу́­ша­ем
-pre_plu_2: слу́­ша­ете
-pre_plu_3: слу́­ша­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: слу́­шал
-pas_fem: слу́­ша­ла
-pas_neu: слу́­ша­ло
-pas_plu: слу́­ша­ли
-par_pre_act: слу́­ша­ющий
-par_pas_act: слу́­шав­ший
-par_pre_pas: слу́­шая
-par_pas_pas: слу́­шав­ши, слу́­шав
-par_adv_pre: слу́­ша­емый
-par_adv_pas: слу́­шан­ный
-imp_sin: слу́­шай
-imp_plu: слу́­шай­те
+present_singular_1: слу́­шаю
+present_singular_2: слу́­ша­ешь
+present_singular_3: слу́­ша­ет
+present_plural_1: слу́­ша­ем
+present_plural_2: слу́­ша­ете
+present_plural_3: слу́­ша­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: слу́­шал
+past_feminine: слу́­ша­ла
+past_neutral: слу́­ша­ло
+past_plural: слу́­ша­ли
+participle_active_present: слу́­ша­ющий
+participle_active_past: слу́­шав­ший
+participle_passive_present: слу́­шая
+participle_passive_past: слу́­шав­ши, слу́­шав
+participle_adverbial_present: слу́­ша­емый
+participle_adverbial_passive: слу́­шан­ный
+imperative_singular: слу́­шай
+imperative_plural: слу́­шай­те
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: водка
-name_ac: во́д­ка
-wordcls: substantive
+name_accent: во́д­ка
+wordclass: substantive
 translation:
   - Wodka
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

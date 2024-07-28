@@ -1,6 +1,6 @@
 name: узкий
-name_ac: у́з­кий
-wordcls: adjective
+name_accent: у́з­кий
+wordclass: adjective
 translation:
   - schmal
   - eng
@@ -40,9 +40,9 @@ sho_fem: уз­ка́
 sho_neu: у́з­ко
 sho_plu: у́з­ки
 
-compara: у́же
-superla:
+comparative: у́же
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,9 +1,9 @@
 name: по-моему
-name_ac: по-мо́ему
-wordcls: adverb
+name_accent: по-мо́ему
+wordclass: adverb
 translation:
-- meiner Meinung nach
-- meines Erachtens
+  - meiner Meinung nach
+  - meines Erachtens
 comment: null
 usage: null
-etymol: null
+etymology: null

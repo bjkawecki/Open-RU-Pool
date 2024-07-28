@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: журналист
-name_ac: журнали́ст
+name_accent: журнали́ст
 translation:
   - Journalist
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

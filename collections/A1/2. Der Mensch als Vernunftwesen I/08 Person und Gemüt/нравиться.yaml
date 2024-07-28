@@ -1,41 +1,43 @@
 name: нравиться
-name_ac: нра́виться
-wordcls: verb
+name_accent: нра́виться
+wordclass: verb
 translation:
   - gefallen
 aspect: imperfective
-partner: понра́виться
-con_cls: i
+aspect_partner: понра́виться
+conjugation_class: i
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: dative
-verb_prepo: null
+direct_object_case: dative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: нра́в­люсь
-pre_sin_2: нра́­вишь­ся
-pre_sin_3: нра́­вит­ся
-pre_plu_1: нра́­вим­ся
-pre_plu_2: нра́­вит­есь
-pre_plu_3: нра́­вят­ся
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: нра́­вил­ся
-pas_fem: нра́­вил­ась
-pas_neu: нра́­вил­ось
-pas_plu: нра́­вил­ись
-par_pre_act: нра́­вя­щий­ся
-par_pas_act: нра́­вив­ший­ся
-par_pre_pas: нра́­вясь
-par_pas_pas: нра́­вив­шись
-par_adv_pre: null
-par_adv_pas: null
-imp_sin: нра́вь­ся
-imp_plu: нра́вь­тесь
+present_singular_1: нра́в­люсь
+present_singular_2: нра́­вишь­ся
+present_singular_3: нра́­вит­ся
+present_plural_1: нра́­вим­ся
+present_plural_2: нра́­вит­есь
+present_plural_3: нра́­вят­ся
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: нра́­вил­ся
+past_feminine: нра́­вил­ась
+past_neutral: нра́­вил­ось
+past_plural: нра́­вил­ись
+participle_active_present: нра́­вя­щий­ся
+participle_active_past: нра́­вив­ший­ся
+participle_passive_present: нра́­вясь
+participle_passive_past: нра́­вив­шись
+participle_adverbial_present: null
+participle_adverbial_passive: null
+imperative_singular: нра́вь­ся
+imperative_plural: нра́вь­тесь
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,9 +1,9 @@
 name: может быть
-name_ac: может бы́ть
-wordcls: adverb
+name_accent: может бы́ть
+wordclass: adverb
 translation:
   - vielleicht
 
 comment: null
 usage: null
-etymol: null
+etymology: null

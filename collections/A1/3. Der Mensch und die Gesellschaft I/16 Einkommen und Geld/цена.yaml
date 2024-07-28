@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: цена
-name_ac: цена́
+name_accent: цена́
 translation:
   - Preis
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: Einer Ware
 usage: null
-etymol: null
+etymology: null

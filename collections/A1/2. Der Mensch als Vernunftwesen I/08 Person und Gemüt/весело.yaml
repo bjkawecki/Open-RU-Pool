@@ -1,9 +1,9 @@
 name: весело
-name_ac: ве́село
-wordcls: adverb
+name_accent: ве́село
+wordclass: adverb
 translation:
   - lustig
   - fröhlich
 comment: null
 usage: null
-etymol: null
+etymology: null

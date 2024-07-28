@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: магнитофон
-name_ac: магнитофо́н
+name_accent: магнитофо́н
 translation:
   - Abspielgerät
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: für CDs, Kasseten, Schallplatten
 usage: null
-etymol: null
+etymology: null

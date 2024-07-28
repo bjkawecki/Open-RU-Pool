@@ -1,6 +1,6 @@
 name: продукты
-name_ac: проду́кты
-wordcls: substantive
+name_accent: проду́кты
+wordclass: substantive
 translation:
   - Lebensmittel
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

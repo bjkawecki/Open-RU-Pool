@@ -1,6 +1,6 @@
 name: наречие
-name_ac: наре́чие
-wordcls: substantive
+name_accent: наре́чие
+wordclass: substantive
 translation:
   - Adverb
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: term
 
-etymol: null
+etymology: null

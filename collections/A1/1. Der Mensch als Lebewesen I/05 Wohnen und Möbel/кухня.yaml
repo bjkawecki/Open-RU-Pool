@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: кухня
-name_ac: ку́хня
+name_accent: ку́хня
 translation:
   - Küche
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

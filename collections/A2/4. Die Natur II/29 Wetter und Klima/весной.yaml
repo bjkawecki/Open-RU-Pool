@@ -1,8 +1,8 @@
 name: весной
-name_ac: весно́й
-wordcls: adverb
+name_accent: весно́й
+wordclass: adverb
 translation:
-- im Frühling
+  - im Frühling
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: девяносто
-name_ac: девяно́сто
-wordcls: numeral
+name_accent: девяно́сто
+wordclass: numeral
 translation:
   - neunzig
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

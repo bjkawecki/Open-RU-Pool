@@ -1,53 +1,55 @@
 name: включать
-name_ac: вклю­ча́ть
-wordcls: verb
+name_accent: вклю­ча́ть
+wordclass: verb
 translation:
   - anschalten
   - anmachen
 
 aspect: imperfective
-partner: вклю­чи́ть
-con_cls: e
+aspect_partner: вклю­чи́ть
+conjugation_class: e
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-obj_case: accusative
-verb_prepo: null
+direct_object_case: accusative
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: false
 
-pre_sin_1: вклю­ча́ю
-pre_sin_2: вклю­ча́­ешь
-pre_sin_3: вклю­ча́­ет
-pre_plu_1: вклю­ча́­ем
-pre_plu_2: вклю­ча́­ете
-pre_plu_3: вклю­ча́­ют
+present_singular_1: вклю­ча́ю
+present_singular_2: вклю­ча́­ешь
+present_singular_3: вклю­ча́­ет
+present_plural_1: вклю­ча́­ем
+present_plural_2: вклю­ча́­ете
+present_plural_3: вклю­ча́­ют
 
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
 
-pas_mas: вклю­ча́л
-pas_fem: вклю­ча́­ла
-pas_neu: вклю­ча́­ло
-pas_plu: вклю­ча́­ли
+past_masculine: вклю­ча́л
+past_feminine: вклю­ча́­ла
+past_neutral: вклю­ча́­ло
+past_plural: вклю­ча́­ли
 
-par_pre_act: вклю­ча́­ющий
-par_pas_act: вклю­ча́в­ший
+participle_active_present: вклю­ча́­ющий
+participle_active_past: вклю­ча́в­ший
 
-par_adv_pre: вклю­ча́я
-par_adv_pas: вклю­ча́в­ши, вклю­ча́в
+participle_adverbial_present: вклю­ча́я
+participle_adverbial_passive: вклю­ча́в­ши, вклю­ча́в
 
-par_pre_pas: вклю­ча́­емый
-par_pas_pas:
+participle_passive_present: вклю­ча́­емый
+participle_passive_past:
 
-imp_sin: вклю­ча́й
-imp_plu: вклю­ча́й­те
+imperative_singular: вклю­ча́й
+imperative_plural: вклю­ча́й­те
 
 comment: Licht, Fernseher, Radio
 usage:
-etymol:
+etymology:

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: жена
-name_ac: жена́
+name_accent: жена́
 translation:
   - Ehefrau
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

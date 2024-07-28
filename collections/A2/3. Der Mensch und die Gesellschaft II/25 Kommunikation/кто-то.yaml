@@ -1,7 +1,7 @@
 name: кто-то
 name:
-name_ac:
-wordcls: pronoun
+name_accent:
+wordclass: pronoun
 translation:
 
 pro_type:
@@ -45,4 +45,4 @@ plu_pre:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

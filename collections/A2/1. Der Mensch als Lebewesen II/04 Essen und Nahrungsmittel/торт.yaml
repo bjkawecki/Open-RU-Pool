@@ -1,6 +1,6 @@
 name: торт
-name_ac: торт
-wordcls: substantive
+name_accent: торт
+wordclass: substantive
 translation:
   - Torte
 
@@ -30,4 +30,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

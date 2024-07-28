@@ -1,6 +1,6 @@
 name: у меня нет брата
-name_ac: у мен́я нет бра́та
-wordcls: phrase
+name_accent: у мен́я нет бра́та
+wordclass: phrase
 translation:
   - Ich habe keinen Bruder.
 
@@ -8,4 +8,4 @@ metaphrase:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

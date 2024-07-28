@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: Мексика
-name_ac: Ме́ксика
+name_accent: Ме́ксика
 translation:
   - Mexiko
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

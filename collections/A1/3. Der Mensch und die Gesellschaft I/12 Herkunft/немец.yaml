@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: немец
-name_ac: не́мец
+name_accent: не́мец
 translation:
   - Deutscher
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

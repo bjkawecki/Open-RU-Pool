@@ -1,9 +1,9 @@
 name: позовите, пожалуйста, Машу
-name_ac: позови́те, пожа́луйста, Машу
-wordcls: phrase
+name_accent: позови́те, пожа́луйста, Машу
+wordclass: phrase
 translation:
   - Holen Sie bitte Mascha ans Telefon.
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

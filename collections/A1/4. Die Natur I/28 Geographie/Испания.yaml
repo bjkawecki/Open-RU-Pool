@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: Испания
-name_ac: Испа́ния
+name_accent: Испа́ния
 translation:
   - Spanien
 genus: feminine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

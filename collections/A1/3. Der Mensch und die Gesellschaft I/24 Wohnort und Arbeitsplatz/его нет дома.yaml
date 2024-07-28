@@ -1,6 +1,6 @@
 name: его нет дома
-name_ac: его́ нет дома
-wordcls: phrase
+name_accent: его́ нет дома
+wordclass: phrase
 translation:
   - Er ist nicht zu Hause.
 
@@ -8,4 +8,4 @@ metaphrase: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

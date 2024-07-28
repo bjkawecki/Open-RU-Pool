@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: француз
-name_ac: францу́з
+name_accent: францу́з
 translation:
   - Franzose
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

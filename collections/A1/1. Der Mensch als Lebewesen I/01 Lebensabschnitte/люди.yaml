@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: люди
-name_ac: лю́ди
+name_accent: лю́ди
 translation:
   - Menschen
   - Leute
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

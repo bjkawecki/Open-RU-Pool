@@ -1,41 +1,43 @@
 name: показывать
-name_ac: пока́зывать
-wordcls: verb
+name_accent: пока́зывать
+wordclass: verb
 translation:
   - zeigen
 aspect: imperfective
-partner: показа́ть
-con_cls: e
+aspect_partner: показа́ть
+conjugation_class: e
 is_motion_verb: null
 motion_partner: null
 direction: null
-obj_case: null
-verb_prepo: null
+direct_object_case: null
+indirect_object_case:
+direct_object_preposition:
+indirect_object_preposition: null
 is_reflexive: null
-pre_sin_1: по­ка́­зы­ваю
-pre_sin_2: по­ка́­зы­ва­ешь
-pre_sin_3: по­ка́­зы­ва­ет
-pre_plu_1: по­ка́­зы­ва­ем
-pre_plu_2: по­ка́­зы­ва­ете
-pre_plu_3: по­ка́­зы­ва­ют
-fut_sin_1:
-fut_sin_2:
-fut_sin_3:
-fut_plu_1:
-fut_plu_2:
-fut_plu_3:
-pas_mas: по­ка́­зы­вал
-pas_fem: по­ка́­зы­ва­ла
-pas_neu: по­ка́­зы­ва­ло
-pas_plu: по­ка́­зы­ва­ли
-par_pre_act: по­ка́­зы­ва­ющий
-par_pas_act: по­ка́­зы­вав­ший
-par_pre_pas: по­ка́­зы­вая
-par_pas_pas: по­ка́­зы­вав­ши, по­ка́­зы­вав
-par_adv_pre: по­ка́­зы­ва­емый
-par_adv_pas: null
-imp_sin: по­ка́­зы­вай
-imp_plu: по­ка́­зы­вай­те
+present_singular_1: по­ка́­зы­ваю
+present_singular_2: по­ка́­зы­ва­ешь
+present_singular_3: по­ка́­зы­ва­ет
+present_plural_1: по­ка́­зы­ва­ем
+present_plural_2: по­ка́­зы­ва­ете
+present_plural_3: по­ка́­зы­ва­ют
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+past_masculine: по­ка́­зы­вал
+past_feminine: по­ка́­зы­ва­ла
+past_neutral: по­ка́­зы­ва­ло
+past_plural: по­ка́­зы­ва­ли
+participle_active_present: по­ка́­зы­ва­ющий
+participle_active_past: по­ка́­зы­вав­ший
+participle_passive_present: по­ка́­зы­вая
+participle_passive_past: по­ка́­зы­вав­ши, по­ка́­зы­вав
+participle_adverbial_present: по­ка́­зы­ва­емый
+participle_adverbial_passive: null
+imperative_singular: по­ка́­зы­вай
+imperative_plural: по­ка́­зы­вай­те
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: дети
-name_ac: де́ти
+name_accent: де́ти
 translation:
   - Kinder
 genus: none
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

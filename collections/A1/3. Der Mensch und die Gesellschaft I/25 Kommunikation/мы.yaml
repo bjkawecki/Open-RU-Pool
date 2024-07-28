@@ -1,6 +1,6 @@
 name: мы
-name_ac: мы
-wordcls: pronoun
+name_accent: мы
+wordclass: pronoun
 translation:
   - wir
 
@@ -45,4 +45,4 @@ plu_pre: нас
 
 comment: null
 usage: null
-etymol: null
+etymology: null

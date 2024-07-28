@@ -1,6 +1,6 @@
 name: четыре
-name_ac: четы́ре
-wordcls: numeral
+name_accent: четы́ре
+wordclass: numeral
 translation:
   - vier
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

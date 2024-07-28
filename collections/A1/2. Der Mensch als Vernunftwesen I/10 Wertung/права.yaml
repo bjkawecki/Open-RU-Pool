@@ -1,8 +1,8 @@
 name: права
-name_ac: права́
-wordcls: adverb
+name_accent: права́
+wordclass: adverb
 translation:
-- recht
+  - recht
 comment: Kurzform weiblich
 usage: null
-etymol: null
+etymology: null

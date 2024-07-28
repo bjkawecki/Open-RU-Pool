@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: глаз
-name_ac: глаз
+name_accent: глаз
 translation:
   - Auge
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: в/на гла­зу́
 comment: null
 usage: null
-etymol: null
+etymology: null

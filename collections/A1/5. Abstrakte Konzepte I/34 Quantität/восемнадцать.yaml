@@ -1,6 +1,6 @@
 name: восемнадцать
-name_ac: восемна́дцать
-wordcls: numeral
+name_accent: восемна́дцать
+wordclass: numeral
 translation:
   - achtzehn
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

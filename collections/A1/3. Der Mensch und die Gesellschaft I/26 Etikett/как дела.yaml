@@ -1,10 +1,10 @@
 name: как дела
-name_ac: как дела́
-wordcls: phrase
+name_accent: как дела́
+wordclass: phrase
 translation:
   - Wie geht es
   - Wie stehen die Dinge
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: что
-name_ac: что
-wordcls: pronoun
+name_accent: что
+wordclass: pronoun
 translation:
   - was
 pro_type: interrogative
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

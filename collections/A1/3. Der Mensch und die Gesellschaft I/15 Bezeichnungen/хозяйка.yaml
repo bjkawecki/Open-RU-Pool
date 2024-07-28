@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: хозяйка
-name_ac: хозя́йка
+name_accent: хозя́йка
 translation:
   - Gastgeberin
   - Wirtin
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

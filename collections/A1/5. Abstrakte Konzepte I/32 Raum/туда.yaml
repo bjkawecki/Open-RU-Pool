@@ -1,9 +1,9 @@
 name: туда
-name_ac: туда́
-wordcls: adverb
+name_accent: туда́
+wordclass: adverb
 translation:
   - dorthin
   - dahin
 comment: null
 usage: null
-etymol: null
+etymology: null

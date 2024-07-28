@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: сахар
-name_ac: са́хар
+name_accent: са́хар
 translation:
   - Zucker
 genus: masculine
@@ -25,4 +25,4 @@ partitive: са́­ха­ру
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

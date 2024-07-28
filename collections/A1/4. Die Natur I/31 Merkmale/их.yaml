@@ -1,6 +1,6 @@
 name: их
-name_ac: их
-wordcls: pronoun
+name_accent: их
+wordclass: pronoun
 translation:
   - ihr
 pro_type: possessive
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: 3. Person Plural
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: детство
-name_ac: де́тство
-wordcls: substantive
+name_accent: де́тство
+wordclass: substantive
 translation:
   - Kindheit
 
@@ -35,4 +35,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: вы
-name_ac: вы
-wordcls: pronoun
+name_accent: вы
+wordclass: pronoun
 translation:
   - ihr
   - Sie
@@ -46,4 +46,4 @@ plu_pre: вас
 
 comment: null
 usage: null
-etymol: null
+etymology: null

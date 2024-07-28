@@ -1,10 +1,10 @@
 name: у
-name_ac: у
-wordcls: preposition
+name_accent: у
+wordclass: preposition
 translation:
   - bei
 prep_type: local
 prep_case: genitive
 comment: null
 usage: null
-etymol: null
+etymology: null

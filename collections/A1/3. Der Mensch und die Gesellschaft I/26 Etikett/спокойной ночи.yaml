@@ -1,9 +1,9 @@
 name: спокойной ночи
-name_ac: споко́йной но́чи
-wordcls: phrase
+name_accent: споко́йной но́чи
+wordclass: phrase
 translation:
   - Gute Nacht
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

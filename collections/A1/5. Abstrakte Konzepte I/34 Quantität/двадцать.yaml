@@ -1,6 +1,6 @@
 name: двадцать
-name_ac: два́дцать
-wordcls: numeral
+name_accent: два́дцать
+wordclass: numeral
 translation:
   - zwanzig
 num_type: cardinal
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

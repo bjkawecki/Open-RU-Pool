@@ -1,6 +1,6 @@
 name: себя
-name_ac: себя́
-wordcls: pronoun
+name_accent: себя́
+wordclass: pronoun
 translation:
 
 pro_type: reflexive
@@ -44,4 +44,4 @@ plu_pre:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

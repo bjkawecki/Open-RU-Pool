@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: памятник
-name_ac: па́мятник
+name_accent: па́мятник
 translation:
   - Denkmal
   - Ehrenmal
@@ -26,4 +26,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

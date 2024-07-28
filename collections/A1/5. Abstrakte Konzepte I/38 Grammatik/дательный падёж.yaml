@@ -1,6 +1,6 @@
 name: дательный падёж
-name_ac: да́тельный падёж
-wordcls: compound
+name_accent: да́тельный падёж
+wordclass: compound
 translation:
   - Dativ
 
@@ -8,4 +8,4 @@ comment:
 
 usage: term
 
-etymol:
+etymology:

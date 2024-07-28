@@ -1,10 +1,10 @@
 name: здравствуй
-name_ac: здра́вствуй
-wordcls: phrase
+name_accent: здра́вствуй
+wordclass: phrase
 translation:
   - Ich grüße dich
   - Sei gegrüßt
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

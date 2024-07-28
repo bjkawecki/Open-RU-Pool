@@ -1,9 +1,9 @@
 name: познакомьтесь
-name_ac: познако́мьтесь
-wordcls: phrase
+name_accent: познако́мьтесь
+wordclass: phrase
 translation:
   - Machen Sie sich miteinander bekannt
 metaphrase: null
 comment: null
 usage: null
-etymol: null
+etymology: null

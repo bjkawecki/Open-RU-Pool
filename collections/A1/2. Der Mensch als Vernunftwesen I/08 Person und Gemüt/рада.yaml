@@ -1,9 +1,9 @@
 name: рада
-name_ac: ра́да
-wordcls: adverb
+name_accent: ра́да
+wordclass: adverb
 translation:
-- froh
-- erfreut
+  - froh
+  - erfreut
 comment: Kurzform weiblich
 usage: null
-etymol: null
+etymology: null

@@ -1,6 +1,6 @@
 name: лоб
-name_ac: лоб
-wordcls: substantive
+name_accent: лоб
+wordclass: substantive
 translation:
   - Stirn
 
@@ -35,4 +35,4 @@ locative: null лбу
 
 comment: null
 usage: null
-etymol: null
+etymology: null

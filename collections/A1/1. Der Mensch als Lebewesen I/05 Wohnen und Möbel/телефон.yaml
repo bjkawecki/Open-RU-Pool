@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: телефон
-name_ac: телефо́н
+name_accent: телефо́н
 translation:
   - Telephon
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

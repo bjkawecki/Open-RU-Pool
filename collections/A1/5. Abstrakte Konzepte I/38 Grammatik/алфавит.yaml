@@ -1,6 +1,6 @@
 name: алфавит
-name_ac: ал­фа­ви́т
-wordcls: substantive
+name_accent: ал­фа­ви́т
+wordclass: substantive
 translation:
   - Alphabet
 
@@ -37,4 +37,4 @@ comment: null
 
 usage: null
 
-etymol: Greek
+etymology: Greek

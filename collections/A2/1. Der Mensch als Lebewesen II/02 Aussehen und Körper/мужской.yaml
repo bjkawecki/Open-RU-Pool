@@ -1,6 +1,6 @@
 name: мужской
-name_ac: мужс­ко́й
-wordcls: adjective
+name_accent: мужс­ко́й
+wordclass: adjective
 translation:
   - Mann-
   - Herren-
@@ -41,9 +41,9 @@ sho_fem: null
 sho_neu: null
 sho_plu: null
 
-compara: null
-superla: null
+comparative: null
+superlative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

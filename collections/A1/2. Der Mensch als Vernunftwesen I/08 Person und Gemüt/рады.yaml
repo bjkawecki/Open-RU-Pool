@@ -1,9 +1,9 @@
 name: рады
-name_ac: ра́ды
-wordcls: adverb
+name_accent: ра́ды
+wordclass: adverb
 translation:
-- froh
-- erfreut
+  - froh
+  - erfreut
 comment: Kurzform Plural
 usage: null
-etymol: null
+etymology: null

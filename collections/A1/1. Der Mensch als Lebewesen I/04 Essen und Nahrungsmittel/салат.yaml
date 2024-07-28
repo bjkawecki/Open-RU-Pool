@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: салат
-name_ac: сала́т
+name_accent: сала́т
 translation:
   - Salat
 genus: masculine
@@ -25,4 +25,4 @@ partitive: са­ла́­ту
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

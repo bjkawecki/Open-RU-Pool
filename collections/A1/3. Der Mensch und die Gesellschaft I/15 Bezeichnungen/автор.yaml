@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: автор
-name_ac: а́втор
+name_accent: а́втор
 translation:
   - Autor
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

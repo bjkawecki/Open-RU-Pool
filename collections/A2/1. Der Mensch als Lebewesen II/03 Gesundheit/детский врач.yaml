@@ -1,9 +1,9 @@
 name: детский врач
-name_ac: де́тский врач
-wordcls: compound
+name_accent: де́тский врач
+wordclass: compound
 translation:
   - Kinderarzt
 
 comment: null
 usage: null
-etymol: null
+etymology: null

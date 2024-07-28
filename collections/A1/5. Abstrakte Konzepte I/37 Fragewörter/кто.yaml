@@ -1,6 +1,6 @@
 name: кто
-name_ac: кто
-wordcls: pronoun
+name_accent: кто
+wordclass: pronoun
 translation:
   - wer
 pro_type: interrogative
@@ -37,4 +37,4 @@ plu_ins: null
 plu_pre: null
 comment: null
 usage: null
-etymol: null
+etymology: null

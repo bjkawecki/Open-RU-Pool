@@ -1,6 +1,6 @@
 name: сердце
-name_ac: се́рд­це
-wordcls: substantive
+name_accent: се́рд­це
+wordclass: substantive
 translation:
   - Herz
 genus: neutral
@@ -34,4 +34,4 @@ locative: null
 
 comment: null
 usage: null
-etymol: null
+etymology: null

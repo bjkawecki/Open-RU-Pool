@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: троллейбус
-name_ac: тролле́йбус
+name_accent: тролле́йбус
 translation:
   - Oberleitungsbus
   - O-Bus
@@ -27,4 +27,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null

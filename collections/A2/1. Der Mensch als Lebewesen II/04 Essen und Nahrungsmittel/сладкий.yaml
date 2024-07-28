@@ -1,6 +1,6 @@
 name: сладкий
-name_ac: сла́д­кий
-wordcls: adjective
+name_accent: сла́д­кий
+wordclass: adjective
 translation:
   - süß
 
@@ -39,9 +39,9 @@ sho_fem: слад­ка́
 sho_neu: сла́д­ко
 sho_plu: сла́д­ки
 
-compara: сла́­ще
-superla:
+comparative: сла́­ще
+superlative:
 
 comment: null
 usage: null
-etymol: null
+etymology: null

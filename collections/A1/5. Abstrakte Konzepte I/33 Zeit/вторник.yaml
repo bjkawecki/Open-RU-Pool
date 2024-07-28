@@ -1,6 +1,6 @@
-wordcls: substantive
+wordclass: substantive
 name: вторник
-name_ac: вто́рник
+name_accent: вто́рник
 translation:
   - Dienstag
 genus: masculine
@@ -25,4 +25,4 @@ partitive: null
 locative: null
 comment: null
 usage: null
-etymol: null
+etymology: null
