@@ -6,9 +6,9 @@ translation:
 genus:
 dec_cls:
 stress:
-is_animate:
-is_sin_tan:
-is_plu_tan:
+is_animate: false
+is_sin_tan: null
+is_plu_tan: null
 
 sin_nom:
 sin_gen:
@@ -24,9 +24,9 @@ plu_acc:
 plu_ins:
 plu_pre:
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

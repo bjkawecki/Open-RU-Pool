@@ -1,46 +1,49 @@
 name: домашний
-name_ac:
+name_ac: до­ма́ш­ний
 wordcls: adjective
 translation:
+  - heimisch
+  - Haus-
+  - häuslich
 
-is_gradable:
+is_gradable: true
 
-mas_nom:
-mas_gen:
-mas_dat:
-mas_acc:
-mas_ins:
-mas_pre:
+mas_nom: до­ма́ш­ний
+mas_gen: до­ма́ш­не­го
+mas_dat: до­ма́ш­не­му
+mas_acc: до­ма́ш­ний
+mas_ins: до­ма́ш­ним
+mas_pre: до­ма́ш­нем
 
-fem_nom:
-fem_gen:
-fem_dat:
-fem_acc:
-fem_ins:
-fem_pre:
+fem_nom: до­ма́ш­няя
+fem_gen: до­ма́ш­ней
+fem_dat: до­ма́ш­ней
+fem_acc: до­ма́ш­нюю
+fem_ins: до­ма́ш­ней
+fem_pre: до­ма́ш­ней
 
-neu_nom:
-neu_gen:
-neu_dat:
-neu_acc:
-neu_ins:
-neu_pre:
+neu_nom: до­ма́ш­нее
+neu_gen: до­ма́ш­не­го
+neu_dat: до­ма́ш­не­му
+neu_acc: до­ма́ш­нее
+neu_ins: до­ма́ш­ним
+neu_pre: до­ма́ш­нем
 
-plu_nom:
-plu_gen:
-plu_dat:
-plu_acc:
-plu_ins:
-plu_pre:
+plu_nom: до­ма́ш­ние
+plu_gen: до­ма́ш­них
+plu_dat: до­ма́ш­ним
+plu_acc: до­ма́ш­ние
+plu_ins: до­ма́ш­ни­ми
+plu_pre: до­ма́ш­них
 
-sho_mas:
-sho_fem:
-sho_neu:
-sho_plu:
+sho_mas: до­ма́ш­ен
+sho_fem: до­ма́ш­ня
+sho_neu: до­ма́ш­не
+sho_plu: до­ма́ш­ни
 
-compara:
+compara: до­ма́ш­нее
 superla:
 
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

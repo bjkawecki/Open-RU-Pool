@@ -8,8 +8,8 @@ genus: masculine
 dec_cls: "2"
 stress: root
 is_animate: false
-is_sin_tan: false
-is_plu_tan: false
+is_sin_tan: null
+is_plu_tan: null
 
 sin_nom: ди­ва́н
 sin_gen: ди­ва́­на
@@ -25,9 +25,9 @@ plu_acc: ди­ва́­ны
 plu_ins: ди­ва́­на­ми
 plu_pre: ди­ва́н­ах
 
-partitive:
-locative:
+partitive: null
+locative: null
 
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null

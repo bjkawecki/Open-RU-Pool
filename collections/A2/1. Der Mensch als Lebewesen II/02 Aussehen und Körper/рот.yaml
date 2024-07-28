@@ -30,9 +30,9 @@ plu_acc: рты
 plu_ins: рта́­ми
 plu_pre: ртах
 
-partitive:
-locative: во рту
+partitive: null
+locative: null во рту
 
-comment:
-usage:
-etymol:
+comment: null
+usage: null
+etymol: null
