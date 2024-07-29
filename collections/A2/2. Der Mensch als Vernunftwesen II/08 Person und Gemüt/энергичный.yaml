@@ -2,43 +2,44 @@ name: энергичный
 name_accent:
 wordclass: adjective
 translation:
-
+  - kraftvoll
+  - energisch
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: эн­ер­ги́­чный
+masculine_genitive: эн­ер­ги́­чно­го
+masculine_dative: эн­ер­ги́­чно­му
+masculine_accusative: эн­ер­ги́­чный
+masculine_instrumental: эн­ер­ги́­чным
+masculine_prepositive: эн­ер­ги́­чном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: эн­ер­ги́­чная
+feminine_genitive: эн­ер­ги́­чной
+feminine_dative: эн­ер­ги́­чной
+feminine_accusative: эн­ер­ги́­чную
+feminine_instrumental: эн­ер­ги́­чной
+feminine_prepositive: эн­ер­ги́­чной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: эн­ер­ги́­чное
+neutral_genitive: эн­ер­ги́­чно­го
+neutral_dative: эн­ер­ги́­чно­му
+neutral_accusative: эн­ер­ги́­чное
+neutral_instrumental: эн­ер­ги́­чным
+neutral_prepositive: эн­ер­ги́­чном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: эн­ер­ги́­чные
+plural_genitive: эн­ер­ги́­чных
+plural_dative: эн­ер­ги́­чным
+plural_accusative: эн­ер­ги́­чные
+plural_instrumental: эн­ер­ги́­чны­ми
+plural_prepositive: эн­ер­ги́­чных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: эн­ер­ги́­чен
+shortform_feminine: эн­ер­ги́­чна
+shortform_neutral: эн­ер­ги́­чно
+shortform_plural: эн­ер­ги́­чны
 
-comparative:
+comparative: эн­ер­ги́­чнее
 superlative:
 
 comment: null

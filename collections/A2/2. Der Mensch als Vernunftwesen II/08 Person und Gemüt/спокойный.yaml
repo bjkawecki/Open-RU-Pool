@@ -1,44 +1,45 @@
 name: спокойный
-name_accent:
+name_accent: спо­ко́й­ный
 wordclass: adjective
 translation:
-
+  - still
+  - ruhig
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: спо­ко́й­ный
+masculine_genitive: спо­ко́й­но­го
+masculine_dative: спо­ко́й­но­му
+masculine_accusative: спо­ко́й­ный
+masculine_instrumental: спо­ко́й­ным
+masculine_prepositive: спо­ко́й­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: спо­ко́й­ная
+feminine_genitive: спо­ко́й­ной
+feminine_dative: спо­ко́й­ную
+feminine_accusative: спо­ко́й­ной
+feminine_instrumental: спо­ко́й­ной
+feminine_prepositive: спо­ко́й­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: спо­ко́й­ное
+neutral_genitive: спо­ко́й­но­го
+neutral_dative: спо­ко́й­но­му
+neutral_accusative: спо­ко́й­ное
+neutral_instrumental: спо­ко́й­ным
+neutral_prepositive: спо­ко́й­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: спо­ко́й­ные
+plural_genitive: спо­ко́й­ных
+plural_dative: спо­ко́й­ным
+plural_accusative: спо­ко́й­ные
+plural_instrumental: спо­ко́й­ны­ми
+plural_prepositive: спо­ко́й­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: спо­ко́­ен
+shortform_feminine: спо­ко́й­на
+shortform_neutral: спо­ко́й­но
+shortform_plural: спо­ко́й­ны
 
-comparative:
+comparative: спо­ко́й­нее
 superlative:
 
 comment: null

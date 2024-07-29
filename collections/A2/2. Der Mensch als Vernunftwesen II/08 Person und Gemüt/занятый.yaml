@@ -1,45 +1,46 @@
 name: занятый
-name_accent:
+name_accent: за́­ня­тый
 wordclass: adjective
 translation:
+  - beschäftigt
+  - besetzt
+is_gradable: false
 
-is_gradable: true
+masculine_nominative: за́­ня­тый
+masculine_genitive: за́­ня­то­го
+masculine_dative: за́­ня­то­му
+masculine_accusative: за́­ня­тый
+masculine_instrumental: за́­нят­ым
+masculine_prepositive: за́­нят­ом
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: за́­ня­тая
+feminine_genitive: за́­ня­той
+feminine_dative: за́­ня­той
+feminine_accusative: за́­ня­тую
+feminine_instrumental: за́­ня­той
+feminine_prepositive: за́­ня­той
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: за́­ня­тое
+neutral_genitive: за́­ня­то­го
+neutral_dative: за́­ня­то­му
+neutral_accusative: за́­ня­тое
+neutral_instrumental: за́­нят­ым
+neutral_prepositive: за́­нят­ом
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+plural_nominative: за́­ня­тые
+plural_genitive: за́­нят­ых
+plural_dative: за́­нят­ым
+plural_accusative: за́­ня­тые
+plural_instrumental: за́­ня­ты­ми
+plural_prepositive: за́­нят­ых
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+shortform_masculine: за́­нят
+shortform_feminine: за­ня­та́
+shortform_neutral: за́­ня­то
+shortform_plural: за́­ня­ты
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
-
-comparative:
-superlative:
+comparative: null
+superlative: null
 
 comment: null
 usage: null

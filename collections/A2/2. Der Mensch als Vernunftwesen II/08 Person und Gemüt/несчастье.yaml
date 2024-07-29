@@ -1,28 +1,28 @@
 name: несчастье
-name_accent:
+name_accent: нес­ча́стье
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Unglück
+genus: n
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: нес­ча́стье
+singular_genitive: нес­ча́стья
+singular_dative: нес­ча́стью
+singular_accusative: нес­ча́стье
+singular_instrumental: нес­ча́сть­ем
+singular_prepositive: нес­ча́стье
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: нес­ча́стья
+plural_genitive: нес­ча́­стий
+plural_dative: нес­ча́сть­ям
+plural_accusative: нес­ча́стья
+plural_instrumental: нес­ча́сть­ями
+plural_prepositive: нес­ча́сть­ях
 
 partitive: null
 locative: null

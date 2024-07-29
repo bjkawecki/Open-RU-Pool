@@ -2,43 +2,45 @@ name: культурный
 name_accent:
 wordclass: adjective
 translation:
-
+  - Kultur-
+  - kulturell
+  - kultiviert
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: куль­ту́р­ный
+masculine_genitive: куль­ту́р­но­го
+masculine_dative: куль­ту́р­но­му
+masculine_accusative: куль­ту́р­ный
+masculine_instrumental: куль­ту́р­ным
+masculine_prepositive: куль­ту́р­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: куль­ту́р­ная
+feminine_genitive: куль­ту́р­ной
+feminine_dative: куль­ту́р­ной
+feminine_accusative: куль­ту́р­ную
+feminine_instrumental: куль­ту́р­ной
+feminine_prepositive: куль­ту́р­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: куль­ту́р­ное
+neutral_genitive: куль­ту́р­но­го
+neutral_dative: куль­ту́р­но­му
+neutral_accusative: куль­ту́р­ное
+neutral_instrumental: куль­ту́р­ным
+neutral_prepositive: куль­ту́р­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: куль­ту́р­ные
+plural_genitive: куль­ту́р­ных
+plural_dative: куль­ту́р­ным
+plural_accusative: куль­ту́р­ные
+plural_instrumental: куль­ту́р­ны­ми
+plural_prepositive: куль­ту́р­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: куль­ту́­рен
+shortform_feminine: куль­ту́р­на
+shortform_neutral: куль­ту́р­но
+shortform_plural: куль­ту́р­ны
 
-comparative:
+comparative: куль­ту́р­нее
 superlative:
 
 comment: null

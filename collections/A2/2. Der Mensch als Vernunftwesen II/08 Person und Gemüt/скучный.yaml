@@ -1,44 +1,44 @@
 name: скучный
-name_accent:
+name_accent: ску́ч­ный
 wordclass: adjective
 translation:
-
+  - langweilig
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ску́ч­ный
+masculine_genitive: ску́ч­но­го
+masculine_dative: ску́ч­но­му
+masculine_accusative: ску́ч­ный
+masculine_instrumental: ску́ч­ным
+masculine_prepositive: ску́ч­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ску́ч­ная
+feminine_genitive: ску́ч­ной
+feminine_dative: ску́ч­ной
+feminine_accusative: ску́ч­ную
+feminine_instrumental: ску́ч­ной
+feminine_prepositive: ску́ч­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ску́ч­ное
+neutral_genitive: ску́ч­но­го
+neutral_dative: ску́ч­но­му
+neutral_accusative: ску́ч­ное
+neutral_instrumental: ску́ч­ным
+neutral_prepositive: ску́ч­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ску́ч­ные
+plural_genitive: ску́ч­ных
+plural_dative: ску́ч­ным
+plural_accusative: ску́ч­ные
+plural_instrumental: ску́ч­ны­ми
+plural_prepositive: ску́ч­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ску́­чен
+shortform_feminine: скуч­на́
+shortform_neutral: ску́ч­но
+shortform_plural: ску́ч­ны
 
-comparative:
+comparative: скуч­не́е
 superlative:
 
 comment: null

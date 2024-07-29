@@ -1,44 +1,44 @@
 name: грустный
-name_accent:
+name_accent: гру́ст­ный
 wordclass: adjective
 translation:
-
+  - traurig
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: гру́ст­ный
+masculine_genitive: гру́ст­но­го
+masculine_dative: гру́ст­но­му
+masculine_accusative: гру́ст­ный
+masculine_instrumental: гру́ст­ным
+masculine_prepositive: гру́ст­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: гру́ст­ная
+feminine_genitive: гру́ст­ной
+feminine_dative: гру́ст­ной
+feminine_accusative: гру́ст­ную
+feminine_instrumental: гру́ст­ной
+feminine_prepositive: гру́ст­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: гру́ст­ное
+neutral_genitive: гру́ст­но­го
+neutral_dative: гру́ст­но­му
+neutral_accusative: гру́ст­ное
+neutral_instrumental: гру́ст­ным
+neutral_prepositive: гру́ст­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: гру́ст­ные
+plural_genitive: гру́ст­ных
+plural_dative: гру́ст­ным
+plural_accusative: гру́ст­ные
+plural_instrumental: гру́ст­ны­ми
+plural_prepositive: гру́ст­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: гру́с­тен
+shortform_feminine: груст­на́
+shortform_neutral: гру́ст­но
+shortform_plural: гру́ст­ны
 
-comparative:
+comparative: груст­не́е
 superlative:
 
 comment: null

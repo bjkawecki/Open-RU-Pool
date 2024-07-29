@@ -1,44 +1,44 @@
 name: довольный
-name_accent:
+name_accent: дово́льный
 wordclass: adjective
 translation:
-
+  - zufrieden
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: до­во́ль­ный
+masculine_genitive: до­во́ль­но­го
+masculine_dative: до­во́ль­но­му
+masculine_accusative: до­во́ль­ный
+masculine_instrumental: до­во́ль­ным
+masculine_prepositive: до­во́ль­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: до­во́ль­ная
+feminine_genitive: до­во́ль­ной
+feminine_dative: до­во́ль­ной
+feminine_accusative: до­во́ль­ную
+feminine_instrumental: до­во́ль­ной
+feminine_prepositive: до­во́ль­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: до­во́ль­ное
+neutral_genitive: до­во́ль­но­го
+neutral_dative: до­во́ль­но­му
+neutral_accusative: до­во́ль­ное
+neutral_instrumental: до­во́ль­ным
+neutral_prepositive: до­во́ль­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: до­во́ль­ные
+plural_genitive: до­во́ль­ных
+plural_dative: до­во́ль­ным
+plural_accusative: до­во́ль­ные
+plural_instrumental: до­во́ль­ны­ми
+plural_prepositive: до­во́ль­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: до­во́л­ен
+shortform_feminine: до­во́ль­на
+shortform_neutral: до­во́ль­но
+shortform_plural: до­во́ль­ны
 
-comparative:
+comparative: до­во́ль­нее
 superlative:
 
 comment: null

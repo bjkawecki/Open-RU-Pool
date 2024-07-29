@@ -1,44 +1,44 @@
 name: честный
-name_accent:
+name_accent: че́ст­ный
 wordclass: adjective
 translation:
-
+  - ehrlich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: че́ст­ный
+masculine_genitive: че́ст­но­го
+masculine_dative: че́ст­но­му
+masculine_accusative: че́ст­ный
+masculine_instrumental: че́ст­ным
+masculine_prepositive: че́ст­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: че́ст­ная
+feminine_genitive: че́ст­ной
+feminine_dative: че́ст­ной
+feminine_accusative: че́ст­ную
+feminine_instrumental: че́ст­ной
+feminine_prepositive: че́ст­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: че́ст­ное
+neutral_genitive: че́ст­но­го
+neutral_dative: че́ст­но­му
+neutral_accusative: че́ст­ное
+neutral_instrumental: че́ст­ным
+neutral_prepositive: че́ст­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: че́ст­ные
+plural_genitive: че́ст­ных
+plural_dative: че́ст­ным
+plural_accusative: че́ст­ные
+plural_instrumental: че́ст­ны­ми
+plural_prepositive: че́ст­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: че́с­тен
+shortform_feminine: чест­на́
+shortform_neutral: че́ст­но
+shortform_plural: че́ст­ны
 
-comparative:
+comparative: чест­не́е
 superlative:
 
 comment: null

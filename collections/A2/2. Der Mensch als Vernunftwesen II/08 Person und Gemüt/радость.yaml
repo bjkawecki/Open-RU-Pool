@@ -1,28 +1,28 @@
 name: радость
-name_accent:
+name_accent: ра́­дость
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Freude
+genus: f
+declination_class: 3
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ра́­дость
+singular_genitive: ра́­дос­ти
+singular_dative: ра́­дос­ти
+singular_accusative: ра́­дость
+singular_instrumental: ра́­достью
+singular_prepositive: ра́­дос­ти
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ра́­дос­ти
+plural_genitive: ра́­дос­тей
+plural_dative: ра́­дос­тям
+plural_accusative: ра́­дос­ти
+plural_instrumental: ра́­дос­тя­ми
+plural_prepositive: ра́­дос­тях
 
 partitive: null
 locative: null
