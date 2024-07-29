@@ -1,28 +1,29 @@
 name: осматривать
-name_accent:
+name_accent: ос­ма́­три­вать
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - sich ansehen
+  - untersuchen
+aspect: imperfective
+aspect_partner: осмотре́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: ос­ма́­три­ваю
+present_singular_2: ос­ма́­три­ва­ешь
+present_singular_3: ос­ма́­три­ва­ет
+present_plural_1: ос­ма́­три­ва­ем
+present_plural_2: ос­ма́­три­ва­ете
+present_plural_3: ос­ма́­три­ва­ют
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +32,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: ос­ма́­три­вал
+past_feminine: ос­ма́­три­ва­ла
+past_neutral: ос­ма́­три­ва­ло
+past_plural: ос­ма́­три­ва­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: ос­ма́­три­ва­ющий
+participle_active_past: ос­ма́­три­вав­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: ос­ма́­три­вая
+participle_adverbial_passive: осматривавши, осматривав
 
-participle_passive_present:
+participle_passive_present: ос­ма́­три­ва­емый
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: ос­ма́­три­вай
+imperative_plural: ос­ма́­три­вай­те
 
 comment: null
 usage: null
