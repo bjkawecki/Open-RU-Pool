@@ -3,7 +3,7 @@ name_accent: испа́нский
 wordclass: adjective
 translation:
   - spanisch
-is_gradable: null
+is_gradable: false
 masculine_nominative: испа́нский
 masculine_genitive: ис­па́нс­ко­го
 masculine_dative: ис­па́нс­ко­му

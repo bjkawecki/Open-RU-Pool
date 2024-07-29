@@ -3,7 +3,7 @@ name: здание
 name_accent: зда́ние
 translation:
   - Gebäude
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

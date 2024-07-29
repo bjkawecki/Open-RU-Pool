@@ -3,7 +3,7 @@ name_accent: сад
 wordclass: substantive
 translation:
   - Garten
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

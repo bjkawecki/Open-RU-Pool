@@ -4,7 +4,7 @@ name_accent: учёный
 translation:
   - Wissenschaftler
   - Gelehrter
-genus: masculine
+genus: m
 declination_class: adjective
 stress: root
 is_animate: true

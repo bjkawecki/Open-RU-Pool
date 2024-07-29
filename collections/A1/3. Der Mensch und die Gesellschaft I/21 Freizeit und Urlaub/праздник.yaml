@@ -4,7 +4,7 @@ name_accent: пра́здник
 translation:
   - Feiertag
   - Feier
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

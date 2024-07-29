@@ -3,7 +3,7 @@ name: буква
 name_accent: бу́ква
 translation:
   - Buchstabe
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

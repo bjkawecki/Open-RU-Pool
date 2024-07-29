@@ -4,7 +4,7 @@ name_accent: рука́
 translation:
   - Hand
   - Arm
-genus: feminine
+genus: f
 declination_class: 1
 stress: shifting
 is_animate: null

@@ -3,7 +3,7 @@ name: искусство
 name_accent: иску́сство
 translation:
   - Kunst
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

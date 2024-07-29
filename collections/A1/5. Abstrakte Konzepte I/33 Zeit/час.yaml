@@ -3,7 +3,7 @@ name: час
 name_accent: час
 translation:
   - Stunde
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

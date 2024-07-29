@@ -3,7 +3,7 @@ name: шкаф
 name_accent: шкаф
 translation:
   - Schrank
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

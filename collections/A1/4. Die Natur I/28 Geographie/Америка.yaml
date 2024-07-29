@@ -3,7 +3,7 @@ name: Америка
 name_accent: Аме́рика
 translation:
   - Amerika
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

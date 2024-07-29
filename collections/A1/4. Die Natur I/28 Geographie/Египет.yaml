@@ -3,7 +3,7 @@ name: Египет
 name_accent: Еги́пет
 translation:
   - Ägypten
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

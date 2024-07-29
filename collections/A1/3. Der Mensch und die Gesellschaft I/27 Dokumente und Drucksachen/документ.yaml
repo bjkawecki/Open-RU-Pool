@@ -3,7 +3,7 @@ name: документ
 name_accent: докуме́нт
 translation:
   - Dokument
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

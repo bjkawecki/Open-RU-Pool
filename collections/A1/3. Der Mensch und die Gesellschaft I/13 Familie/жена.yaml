@@ -3,7 +3,7 @@ name: жена
 name_accent: жена́
 translation:
   - Ehefrau
-genus: feminine
+genus: f
 declination_class: 1
 stress: shifting
 is_animate: true

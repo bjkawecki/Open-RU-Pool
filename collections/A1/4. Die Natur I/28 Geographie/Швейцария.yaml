@@ -3,7 +3,7 @@ name: Швейцария
 name_accent: Швейца́рия
 translation:
   - Schweiz
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

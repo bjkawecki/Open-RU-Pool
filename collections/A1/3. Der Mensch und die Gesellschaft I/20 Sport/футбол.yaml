@@ -3,7 +3,7 @@ name: футбол
 name_accent: футбо́л
 translation:
   - Fußball
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

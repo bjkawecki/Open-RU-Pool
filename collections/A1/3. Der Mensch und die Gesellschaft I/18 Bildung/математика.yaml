@@ -3,7 +3,7 @@ name: математика
 name_accent: матема́тика
 translation:
   - Mathematik
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

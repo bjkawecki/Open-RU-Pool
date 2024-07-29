@@ -4,7 +4,7 @@ wordclass: substantive
 translation:
   - Küchlein
 
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: false
@@ -28,6 +28,6 @@ plural_prepositive: пи­рож­ка́х
 partitive: null
 locative: null
 
-comment: null
+comment: ein meist süß oder herzhaft gefüllter Hefeteig in Größe eines Brötchens
 usage: null
 etymology: null

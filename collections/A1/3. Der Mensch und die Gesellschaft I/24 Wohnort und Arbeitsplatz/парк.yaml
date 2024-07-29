@@ -3,7 +3,7 @@ name_accent: парк
 wordclass: substantive
 translation:
   - Park
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

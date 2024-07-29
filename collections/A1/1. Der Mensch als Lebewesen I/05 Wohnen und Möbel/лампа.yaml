@@ -3,7 +3,7 @@ name: лампа
 name_accent: ла́мпа
 translation:
   - Lampe
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

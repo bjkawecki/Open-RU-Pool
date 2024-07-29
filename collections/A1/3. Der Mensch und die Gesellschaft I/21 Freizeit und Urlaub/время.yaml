@@ -3,7 +3,7 @@ name: время
 name_accent: вре́мя
 translation:
   - Zeit
-genus: neutral
+genus: n
 declination_class: irregular
 stress: shifting
 is_animate: null

@@ -3,7 +3,7 @@ name: география
 name_accent: геогра́фия
 translation:
   - Geographie
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

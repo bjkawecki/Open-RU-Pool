@@ -3,7 +3,7 @@ name: мать
 name_accent: мать
 translation:
   - Mutter
-genus: feminine
+genus: f
 declination_class: 3
 stress: shifting
 is_animate: true

@@ -3,7 +3,7 @@ name: Италия
 name_accent: Ита́лия
 translation:
   - Italien
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

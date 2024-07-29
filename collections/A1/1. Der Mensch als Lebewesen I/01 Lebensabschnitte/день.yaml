@@ -3,7 +3,7 @@ name: день
 name_accent: день
 translation:
   - Tag
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

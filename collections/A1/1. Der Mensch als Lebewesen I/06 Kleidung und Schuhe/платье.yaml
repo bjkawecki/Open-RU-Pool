@@ -3,7 +3,7 @@ name: платье
 name_accent: пла́тье
 translation:
   - Kleid
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

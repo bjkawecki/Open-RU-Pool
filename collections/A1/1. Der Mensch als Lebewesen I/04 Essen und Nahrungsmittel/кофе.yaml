@@ -3,7 +3,7 @@ name: кофе
 name_accent: ко́фе
 translation:
   - Kaffee
-genus: neutral
+genus: n
 declination_class: irregular
 stress: suffix
 is_animate: null

@@ -3,7 +3,7 @@ name: женщина
 name_accent: же́нщина
 translation:
   - Frau
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

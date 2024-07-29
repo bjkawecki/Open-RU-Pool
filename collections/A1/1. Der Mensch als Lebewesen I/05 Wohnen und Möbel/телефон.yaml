@@ -3,7 +3,7 @@ name: телефон
 name_accent: телефо́н
 translation:
   - Telephon
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

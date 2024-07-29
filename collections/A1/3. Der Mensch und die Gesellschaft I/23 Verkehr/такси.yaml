@@ -3,7 +3,7 @@ name: такси
 name_accent: такси́
 translation:
   - Taxi
-genus: neutral
+genus: n
 declination_class: none
 stress: root
 is_animate: null

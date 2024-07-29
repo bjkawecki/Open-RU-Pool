@@ -3,7 +3,7 @@ name: институт
 name_accent: институ́т
 translation:
   - Institut
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

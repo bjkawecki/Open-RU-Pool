@@ -3,7 +3,7 @@ name: китаец
 name_accent: кита́ец
 translation:
   - Chinese
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

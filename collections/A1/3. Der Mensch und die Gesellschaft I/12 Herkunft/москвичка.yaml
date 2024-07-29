@@ -3,7 +3,7 @@ name: москвичка
 name_accent: москви́чка
 translation:
   - Moskauerin
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

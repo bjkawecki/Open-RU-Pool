@@ -4,7 +4,7 @@ name_accent: экза́мен
 translation:
   - Prüfung
   - Examen
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

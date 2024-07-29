@@ -3,7 +3,7 @@ name: вечер
 name_accent: ве́чер
 translation:
   - Abend
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

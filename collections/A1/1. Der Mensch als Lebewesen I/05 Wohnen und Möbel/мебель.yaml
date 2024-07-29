@@ -3,7 +3,7 @@ name: мебель
 name_accent: ме́бель
 translation:
   - Möbel
-genus: feminine
+genus: f
 declination_class: 3
 stress: root
 is_animate: null

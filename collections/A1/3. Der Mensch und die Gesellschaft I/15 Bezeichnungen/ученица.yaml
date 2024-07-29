@@ -3,7 +3,7 @@ name: ученица
 name_accent: учени́ца
 translation:
   - Schülerin
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

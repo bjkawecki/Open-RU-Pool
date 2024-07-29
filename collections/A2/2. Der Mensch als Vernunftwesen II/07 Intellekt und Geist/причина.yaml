@@ -1,28 +1,30 @@
 name: причина
-name_accent:
+name_accent: при­чи́­на
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Grund
+  - Ursache
+  - Anlass
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: при­чи́­на
+singular_genitive: при­чи́­ны
+singular_dative: при­чи́­не
+singular_accusative: при­чи́­ну
+singular_instrumental: при­чи́­ной
+singular_prepositive: при­чи́­не
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: при­чи́­ны
+plural_genitive: при­чи́н
+plural_dative: при­чи́н­ам
+plural_accusative: при­чи́­ны
+plural_instrumental: при­чи́­на­ми
+plural_prepositive: при­чи́н­ах
 
 partitive: null
 locative: null

@@ -3,7 +3,7 @@ name: рыба
 name_accent: ры́ба
 translation:
   - Fisch
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

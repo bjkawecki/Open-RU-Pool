@@ -3,7 +3,7 @@ name: рис
 name_accent: рис
 translation:
   - Reis
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

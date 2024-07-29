@@ -1,44 +1,46 @@
 name: удивительный
-name_accent:
+name_accent: уди­ви́т­ель­ный
 wordclass: adjective
 translation:
+  - wunderbar
+  - erstaunlich
+  - wunder-
+is_gradable: true
 
-is_gradable:
+masculine_nominative: уди­ви́т­ель­ный
+masculine_genitive: уди­ви́т­ель­но­го
+masculine_dative: уди­ви́т­ель­но­му
+masculine_accusative: уди­ви́т­ель­ный
+masculine_instrumental: уди­ви́т­ель­ным
+masculine_prepositive: уди­ви́т­ель­ном
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: уди­ви́т­ель­ная
+feminine_genitive: уди­ви́т­ель­ной
+feminine_dative: уди­ви́т­ель­ной
+feminine_accusative: уди­ви́т­ель­ную
+feminine_instrumental: уди­ви́т­ель­ной
+feminine_prepositive: уди­ви́т­ель­ной
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: уди­ви́т­ель­ное
+neutral_genitive: уди­ви́т­ель­но­го
+neutral_dative: уди­ви́т­ель­но­му
+neutral_accusative: уди­ви́т­ель­ное
+neutral_instrumental: уди­ви́т­ель­ным
+neutral_prepositive: уди­ви́т­ель­ном
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+plural_nominative: уди­ви́т­ель­ные
+plural_genitive: уди­ви́т­ель­ных
+plural_dative: уди­ви́т­ель­ным
+plural_accusative: уди­ви́т­ель­ные
+plural_instrumental: уди­ви́т­ель­ны­ми
+plural_prepositive: уди­ви́т­ель­ных
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+shortform_masculine: уди­ви́­те­лен
+shortform_feminine: уди­ви́т­ель­на
+shortform_neutral: уди­ви́т­ель­но
+shortform_plural: уди­ви́т­ель­ны
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
-
-comparative:
+comparative: уди­ви́т­ель­нее
 superlative:
 
 comment: null

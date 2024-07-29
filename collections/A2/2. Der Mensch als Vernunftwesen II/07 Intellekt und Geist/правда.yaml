@@ -2,27 +2,27 @@ name: правда
 name_accent:
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Wahrheit
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: пра́в­да
+singular_genitive: пра́в­ды
+singular_dative: пра́в­де
+singular_accusative: пра́в­ду
+singular_instrumental: пра́в­дой
+singular_prepositive: пра́в­де
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пра́в­ды
+plural_genitive: правд
+plural_dative: пра́в­дам
+plural_accusative: пра́в­ды
+plural_instrumental: пра́в­да­ми
+plural_prepositive: пра́в­дах
 
 partitive: null
 locative: null

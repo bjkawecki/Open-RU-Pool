@@ -3,7 +3,7 @@ name: англичанин
 name_accent: англича́нин
 translation:
   - Engländer
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

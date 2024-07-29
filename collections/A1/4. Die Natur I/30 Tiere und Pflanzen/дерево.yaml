@@ -4,7 +4,7 @@ name_accent: де́рево
 translation:
   - Baum
   - Holz
-genus: neutral
+genus: n
 declination_class: 2
 stress: shifting
 is_animate: null

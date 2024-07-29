@@ -3,7 +3,7 @@ name: любовь
 name_accent: любо́вь
 translation:
   - Liebe
-genus: feminine
+genus: f
 declination_class: 3
 stress: suffix
 is_animate: null

@@ -4,7 +4,7 @@ wordclass: adjective
 translation:
   - Kinder-
   - kindlich
-is_gradable: null
+is_gradable: false
 masculine_nominative: де́тский
 masculine_genitive: де́тс­ко­го
 masculine_dative: де́тс­ко­му

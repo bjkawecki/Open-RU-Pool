@@ -3,7 +3,7 @@ name: подруга
 name_accent: подру́га
 translation:
   - Freundin
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

@@ -3,7 +3,7 @@ name: теннис
 name_accent: те́ннис
 translation:
   - Tennis
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

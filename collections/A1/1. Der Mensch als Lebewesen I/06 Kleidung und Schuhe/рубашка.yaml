@@ -3,7 +3,7 @@ name: рубашка
 name_accent: руба́шка
 translation:
   - Hemd
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

@@ -3,7 +3,7 @@ name: муж
 name_accent: муж
 translation:
   - Ehemann
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: true

@@ -3,7 +3,7 @@ name: ноябрь
 name_accent: ноя́брь
 translation:
   - November
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: null

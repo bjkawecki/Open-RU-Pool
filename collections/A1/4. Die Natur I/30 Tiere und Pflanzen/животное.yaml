@@ -3,7 +3,7 @@ name: животное
 name_accent: живо́тное
 translation:
   - Tier
-genus: neutral
+genus: n
 declination_class: adjective
 stress: root
 is_animate: true

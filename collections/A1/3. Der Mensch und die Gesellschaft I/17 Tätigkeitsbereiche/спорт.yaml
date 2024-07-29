@@ -3,7 +3,7 @@ name: спорт
 name_accent: спорт
 translation:
   - Sport
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: null

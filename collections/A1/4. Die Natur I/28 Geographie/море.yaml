@@ -3,7 +3,7 @@ name: море
 name_accent: мо́ре
 translation:
   - Meer
-genus: neutral
+genus: n
 declination_class: 2
 stress: shifting
 is_animate: null

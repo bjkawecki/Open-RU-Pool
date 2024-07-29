@@ -3,7 +3,7 @@ name: цветок
 name_accent: цвето́к
 translation:
   - Blume
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: null

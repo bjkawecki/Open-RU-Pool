@@ -4,7 +4,7 @@ wordclass: substantive
 translation:
   - Kuchen
 
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: false
@@ -28,6 +28,6 @@ plural_prepositive: пи­рог­а́х
 partitive: null
 locative: null
 
-comment: null
+comment: kann süß oder herzhaft sein
 usage: null
 etymology: null

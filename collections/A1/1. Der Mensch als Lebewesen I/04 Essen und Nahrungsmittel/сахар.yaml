@@ -3,7 +3,7 @@ name: сахар
 name_accent: са́хар
 translation:
   - Zucker
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

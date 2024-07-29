@@ -3,7 +3,7 @@ name: Англия
 name_accent: А́нглия
 translation:
   - England
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

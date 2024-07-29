@@ -3,7 +3,7 @@ name: история
 name_accent: исто́рия
 translation:
   - Geschichte
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

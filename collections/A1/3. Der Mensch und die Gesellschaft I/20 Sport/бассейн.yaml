@@ -3,7 +3,7 @@ name: бассейн
 name_accent: бассе́йн
 translation:
   - Schwimmbad
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

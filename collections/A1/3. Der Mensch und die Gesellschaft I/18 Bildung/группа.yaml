@@ -3,7 +3,7 @@ name: группа
 name_accent: гру́ппа
 translation:
   - Gruppe
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

@@ -3,7 +3,7 @@ name: волейбол
 name_accent: волейбо́л
 translation:
   - Volleyball
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

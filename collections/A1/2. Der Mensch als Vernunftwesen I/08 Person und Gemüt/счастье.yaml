@@ -3,7 +3,7 @@ name: счастье
 name_accent: сча́стье
 translation:
   - Glück
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

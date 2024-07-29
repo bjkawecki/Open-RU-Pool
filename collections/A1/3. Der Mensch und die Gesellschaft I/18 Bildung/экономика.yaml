@@ -3,7 +3,7 @@ name: экономика
 name_accent: эконо́мика
 translation:
   - Ökonomie
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

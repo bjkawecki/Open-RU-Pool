@@ -5,7 +5,7 @@ translation:
   - Stock
   - Etage
   - Geschoss
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: null

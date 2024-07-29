@@ -3,7 +3,7 @@ name_accent: англи́йский
 wordclass: adjective
 translation:
   - englisch
-is_gradable: null
+is_gradable: false
 masculine_nominative: английский
 masculine_genitive: анг­ли́й­ско­го
 masculine_dative: анг­ли́й­ско­му

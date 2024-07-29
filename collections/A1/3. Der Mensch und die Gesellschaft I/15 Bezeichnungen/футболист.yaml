@@ -3,7 +3,7 @@ name: футболист
 name_accent: футболи́ст
 translation:
   - Fußballer
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

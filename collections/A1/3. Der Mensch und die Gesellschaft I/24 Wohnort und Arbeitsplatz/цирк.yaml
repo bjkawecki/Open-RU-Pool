@@ -3,7 +3,7 @@ name: цирк
 name_accent: цирк
 translation:
   - Zirkus
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

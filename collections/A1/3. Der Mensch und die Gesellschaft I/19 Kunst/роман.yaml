@@ -3,7 +3,7 @@ name: роман
 name_accent: рома́н
 translation:
   - Roman
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

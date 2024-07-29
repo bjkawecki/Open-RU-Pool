@@ -1,28 +1,28 @@
 name: успех
-name_accent:
+name_accent: ус­пе́х
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Erfolg
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ус­пе́х
+singular_genitive: ус­пе́­ха
+singular_dative: ус­пе́­ху
+singular_accusative: ус­пе́х
+singular_instrumental: ус­пе́­хом
+singular_prepositive: ус­пе́­хе
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ус­пе́­хи
+plural_genitive: ус­пе́­хов
+plural_dative: ус­пе́­хам
+plural_accusative: ус­пе́­хи
+plural_instrumental: ус­пе́­ха­ми
+plural_prepositive: ус­пе́­хах
 
 partitive: null
 locative: null

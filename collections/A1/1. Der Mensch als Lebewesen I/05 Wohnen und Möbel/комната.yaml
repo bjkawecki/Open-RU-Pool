@@ -4,7 +4,7 @@ name_accent: ко́мната
 translation:
   - Zimmer
   - Raum
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

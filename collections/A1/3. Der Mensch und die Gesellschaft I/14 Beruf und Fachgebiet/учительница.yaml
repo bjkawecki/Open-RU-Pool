@@ -3,7 +3,7 @@ name: учительница
 name_accent: учи́тельница
 translation:
   - Lehrerin
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

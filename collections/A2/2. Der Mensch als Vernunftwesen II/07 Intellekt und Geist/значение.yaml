@@ -1,28 +1,31 @@
 name: значение
-name_accent:
+name_accent: зна­че́­ние
 wordclass: substantive
 translation:
+  - Bedeutung
+  - Sinn
+  - Wichtigkeit
 
-genus:
-declination_class:
-stress:
+genus: n
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: зна­че́­ние
+singular_genitive: зна­че́­ния
+singular_dative: зна­че́­нию
+singular_accusative: зна­че́­ние
+singular_instrumental: зна­че́­ни­ем
+singular_prepositive: зна­че́­нии
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: зна­че́­ния
+plural_genitive: зна­че́­ний
+plural_dative: зна­че́­ни­ям
+plural_accusative: зна­че́­ния
+plural_instrumental: зна­че́­ни­ями
+plural_prepositive: зна­че́­ни­ях
 
 partitive: null
 locative: null

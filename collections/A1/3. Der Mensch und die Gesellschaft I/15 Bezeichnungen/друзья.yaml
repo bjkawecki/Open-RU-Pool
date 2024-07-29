@@ -3,7 +3,7 @@ name: друзья
 name_accent: друзья́
 translation:
   - Freunde
-genus: feminine
+genus: f
 declination_class: irregular
 stress: shifting
 is_animate: true

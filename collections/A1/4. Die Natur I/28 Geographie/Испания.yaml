@@ -3,7 +3,7 @@ name: Испания
 name_accent: Испа́ния
 translation:
   - Spanien
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

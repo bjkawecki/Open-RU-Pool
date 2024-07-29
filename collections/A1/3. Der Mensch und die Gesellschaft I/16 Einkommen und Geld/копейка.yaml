@@ -3,7 +3,7 @@ name: копейка
 name_accent: копе́йка
 translation:
   - Kopeke
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

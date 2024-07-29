@@ -3,7 +3,7 @@ name: солнце
 name_accent: со́лнце
 translation:
   - Sonne
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

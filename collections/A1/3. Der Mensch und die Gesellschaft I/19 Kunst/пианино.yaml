@@ -3,7 +3,7 @@ name: пианино
 name_accent: пиани́но
 translation:
   - Klavier
-genus: neutral
+genus: n
 declination_class: none
 stress: root
 is_animate: null

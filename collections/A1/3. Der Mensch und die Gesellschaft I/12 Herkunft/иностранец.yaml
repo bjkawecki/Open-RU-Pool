@@ -3,7 +3,7 @@ name: иностранец
 name_accent: иностра́нец
 translation:
   - Ausländer
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

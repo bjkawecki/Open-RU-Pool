@@ -3,7 +3,7 @@ name: месяц
 name_accent: ме́сяц
 translation:
   - Monat
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

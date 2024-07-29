@@ -2,27 +2,28 @@ name: случай
 name_accent:
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Fall
+  - Vorfall
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: слу́­чай
+singular_genitive: слу́­чая
+singular_dative: слу́­чаю
+singular_accusative: слу́­чай
+singular_instrumental: слу́­ча­ем
+singular_prepositive: слу́­чае
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: слу́­чаи
+plural_genitive: слу́­ча­ев
+plural_dative: слу́­ча­ям
+plural_accusative: слу́­чаи
+plural_instrumental: слу́­ча­ями
+plural_prepositive: слу́­ча­ях
 
 partitive: null
 locative: null

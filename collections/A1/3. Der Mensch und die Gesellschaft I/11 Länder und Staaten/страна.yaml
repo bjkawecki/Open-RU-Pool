@@ -3,7 +3,7 @@ name: страна
 name_accent: страна́
 translation:
   - Land
-genus: feminine
+genus: f
 declination_class: 1
 stress: shifting
 is_animate: null

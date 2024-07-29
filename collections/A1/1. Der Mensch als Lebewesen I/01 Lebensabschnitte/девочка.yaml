@@ -3,7 +3,7 @@ name: девочка
 name_accent: де́вочка
 translation:
   - Mädchen
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

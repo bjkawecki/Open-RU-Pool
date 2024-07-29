@@ -3,7 +3,7 @@ name: соседка
 name_accent: сосе́дка
 translation:
   - Nachbarin
-genus: feminine
+genus: f
 declination_class: 1
 stress: suffix
 is_animate: true

@@ -3,7 +3,7 @@ name: виза
 name_accent: ви́за
 translation:
   - Visum
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

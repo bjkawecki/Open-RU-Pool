@@ -3,7 +3,7 @@ name: мама
 name_accent: ма́ма
 translation:
   - Mama
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

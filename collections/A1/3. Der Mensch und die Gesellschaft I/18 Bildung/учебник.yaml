@@ -3,7 +3,7 @@ name: учебник
 name_accent: уче́бник
 translation:
   - Lehrbuch
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

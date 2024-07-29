@@ -3,7 +3,7 @@ name: китаянка
 name_accent: китая́нка
 translation:
   - Chinesin
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

@@ -3,7 +3,7 @@ name: рождение
 name_accent: рожде́ние
 translation:
   - Geburt
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

@@ -3,7 +3,7 @@ name: Бразилия
 name_accent: Брази́лия
 translation:
   - Brasilien
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

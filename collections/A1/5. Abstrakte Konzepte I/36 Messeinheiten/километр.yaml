@@ -3,7 +3,7 @@ name: километр
 name_accent: киломе́тр
 translation:
   - Kilometer
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

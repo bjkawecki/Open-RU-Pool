@@ -3,7 +3,7 @@ name: август
 name_accent: а́вгуст
 translation:
   - August
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

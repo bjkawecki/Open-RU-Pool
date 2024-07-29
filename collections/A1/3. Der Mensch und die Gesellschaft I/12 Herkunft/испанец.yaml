@@ -3,7 +3,7 @@ name: испанец
 name_accent: испа́нец
 translation:
   - Spanier
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

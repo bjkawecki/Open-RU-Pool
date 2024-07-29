@@ -3,7 +3,7 @@ name: сын
 name_accent: сын
 translation:
   - Sohn
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: true

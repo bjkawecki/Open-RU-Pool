@@ -3,7 +3,7 @@ name: вход
 name_accent: вход
 translation:
   - Eingang
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

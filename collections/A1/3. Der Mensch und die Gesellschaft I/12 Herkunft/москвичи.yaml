@@ -3,7 +3,7 @@ name: москвичи
 name_accent: москвичи́
 translation:
   - Moskauer
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: true

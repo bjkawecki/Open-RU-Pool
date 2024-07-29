@@ -3,7 +3,7 @@ name: город
 name_accent: го́род
 translation:
   - Stadt
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

@@ -3,7 +3,7 @@ name: нож
 name_accent: нож
 translation:
   - Messer
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: null

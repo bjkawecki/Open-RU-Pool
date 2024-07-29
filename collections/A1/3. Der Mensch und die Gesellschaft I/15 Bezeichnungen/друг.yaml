@@ -3,7 +3,7 @@ name: друг
 name_accent: друг
 translation:
   - Freund
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: true

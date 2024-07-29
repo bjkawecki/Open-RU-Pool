@@ -3,7 +3,7 @@ name: Азия
 name_accent: А́зия
 translation:
   - Asien
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

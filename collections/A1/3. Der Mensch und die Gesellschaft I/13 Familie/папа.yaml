@@ -3,7 +3,7 @@ name: папа
 name_accent: па́па
 translation:
   - Papa
-genus: masculine
+genus: m
 declination_class: 1
 stress: root
 is_animate: true

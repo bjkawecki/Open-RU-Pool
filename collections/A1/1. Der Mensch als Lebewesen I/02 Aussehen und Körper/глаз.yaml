@@ -3,7 +3,7 @@ name: глаз
 name_accent: глаз
 translation:
   - Auge
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

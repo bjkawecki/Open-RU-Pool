@@ -3,7 +3,7 @@ name: столица
 name_accent: столи́ца
 translation:
   - Hauptstadt
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

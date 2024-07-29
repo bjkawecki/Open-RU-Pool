@@ -3,7 +3,7 @@ name: вопрос
 name_accent: вопро́с
 translation:
   - Frage
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

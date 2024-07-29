@@ -4,7 +4,7 @@ name_accent: лицо́
 translation:
   - Gesicht
   - Person
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

@@ -3,7 +3,7 @@ name: паспорт
 name_accent: па́спорт
 translation:
   - Pass
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

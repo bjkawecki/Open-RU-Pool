@@ -1,21 +1,22 @@
 name: пошутить
-name_accent:
+name_accent: по­шут­и́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - scherzen
+  - Spaß machen
+aspect: perfective
+aspect_partner: ­шут­и́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case:
-indirect_object_case:
-direct_object_preposition:
-indirect_object_preposition:
-is_reflexive:
+direct_object_case: null
+direct_object_preposition: null
+indirect_object_case: prepositive
+indirect_object_preposition: над
+is_reflexive: false
 
 present_singular_1:
 present_singular_2:
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: по­шу­чу́
+future_singular_2: по­шу́т­ишь
+future_singular_3: по­шу́т­ит
+future_plural_1: по­шу́т­им
+future_plural_2: по­шу́­ти­те
+future_plural_3: по­шу́т­ят
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: по­шут­и́л
+past_feminine: по­шу­ти́­ла
+past_neutral: по­шу­ти́­ло
+past_plural: по­шу­ти́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: по­шут­и́в­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: по­шут­и́в­ши, по­шут­и́в
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: по­шу­ти́
+imperative_plural: по­шу­ти́­те
 
 comment: null
 usage: null

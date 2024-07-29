@@ -3,7 +3,7 @@ name: Индия
 name_accent: И́ндия
 translation:
   - Indien
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

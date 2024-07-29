@@ -3,7 +3,7 @@ name: автор
 name_accent: а́втор
 translation:
   - Autor
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

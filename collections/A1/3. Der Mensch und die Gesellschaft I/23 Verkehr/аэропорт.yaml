@@ -3,7 +3,7 @@ name: аэропорт
 name_accent: аэропо́рт
 translation:
   - Flughafen
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

@@ -3,7 +3,7 @@ name: минута
 name_accent: мину́та
 translation:
   - Minute
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

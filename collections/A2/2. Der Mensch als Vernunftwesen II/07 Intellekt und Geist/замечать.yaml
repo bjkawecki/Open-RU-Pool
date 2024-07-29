@@ -1,28 +1,30 @@
 name: замечать
-name_accent:
+name_accent: за­меч­а́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - merken
+  - wahrnehmen
+  - bemerken
+aspect: imperfective
+aspect_partner: за­ме́т­ить
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case:
-indirect_object_case:
-direct_object_preposition:
-indirect_object_preposition:
-is_reflexive:
+direct_object_case: accustive
+indirect_object_case: null
+direct_object_preposition: null
+indirect_object_preposition: null
+is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: за­ме­ча́ю
+present_singular_2: за­ме­ча́­ешь
+present_singular_3: за­ме­ча́­ет
+present_plural_1: за­ме­ча́­ем
+present_plural_2: за­ме­ча́­ете
+present_plural_3: за­ме­ча́­ют
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +33,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: за­меч­а́л
+past_feminine: за­ме­ча́­ла
+past_neutral: за­ме­ча́­ло
+past_plural: за­ме­ча́­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: за­ме­ча́­ющий
+participle_active_past: за­меч­а́в­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: за­ме­ча́я
+participle_adverbial_passive: за­меч­а́в­ши, за­меч­а́в
 
-participle_passive_present:
+participle_passive_present: за­ме­ча́­емый
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: за­ме­ча́й
+imperative_plural: за­ме­ча́й­те
 
 comment: null
 usage: null

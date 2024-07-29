@@ -3,7 +3,7 @@ name: песня
 name_accent: пе́сня
 translation:
   - Lied
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

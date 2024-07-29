@@ -3,7 +3,7 @@ name: фрукт
 name_accent: фру́кт
 translation:
   - Frucht
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

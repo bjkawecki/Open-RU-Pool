@@ -3,7 +3,7 @@ name: книга
 name_accent: кни́га
 translation:
   - Buch
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

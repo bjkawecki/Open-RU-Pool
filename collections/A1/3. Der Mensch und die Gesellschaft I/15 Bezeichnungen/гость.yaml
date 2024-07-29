@@ -3,7 +3,7 @@ name: гость
 name_accent: гость
 translation:
   - Gast
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: true

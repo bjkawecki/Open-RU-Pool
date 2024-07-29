@@ -3,7 +3,7 @@ name: мальчик
 name_accent: ма́льчик
 translation:
   - Junge
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

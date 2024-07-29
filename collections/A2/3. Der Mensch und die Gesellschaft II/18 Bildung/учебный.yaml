@@ -3,7 +3,7 @@ name_accent:
 wordclass: adjective
 translation:
 
-is_gradable:
+is_gradable: true
 
 masculine_nominative:
 masculine_genitive:

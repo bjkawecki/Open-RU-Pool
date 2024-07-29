@@ -3,7 +3,7 @@ name: историк
 name_accent: исто́рик
 translation:
   - Historiker
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

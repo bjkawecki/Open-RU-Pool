@@ -4,7 +4,7 @@ name_accent: метро́
 translation:
   - U-Bahn
   - Metro
-genus: neutral
+genus: n
 declination_class: none
 stress: root
 is_animate: null

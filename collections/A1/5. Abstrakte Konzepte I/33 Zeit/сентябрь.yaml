@@ -3,7 +3,7 @@ name: сентябрь
 name_accent: сентя́брь
 translation:
   - September
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: null

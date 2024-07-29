@@ -3,7 +3,7 @@ name: дядя
 name_accent: дя́дя
 translation:
   - Onkel
-genus: masculine
+genus: m
 declination_class: 1
 stress: shifting
 is_animate: true

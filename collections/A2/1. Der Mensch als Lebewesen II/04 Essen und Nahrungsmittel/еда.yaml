@@ -6,7 +6,7 @@ translation:
   - Mahlzeit
   - Nahrung
 
-genus: feminine
+genus: f
 declination_class: 1
 stress: shifting
 is_animate: false

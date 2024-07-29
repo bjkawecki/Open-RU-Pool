@@ -3,7 +3,7 @@ name: Ливия
 name_accent: Ли́вия
 translation:
   - Libyen
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

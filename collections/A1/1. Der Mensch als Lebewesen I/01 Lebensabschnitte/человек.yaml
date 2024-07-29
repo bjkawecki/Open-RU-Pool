@@ -4,7 +4,7 @@ name_accent: челове́к
 translation:
   - Mensch
   - Mann
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: true

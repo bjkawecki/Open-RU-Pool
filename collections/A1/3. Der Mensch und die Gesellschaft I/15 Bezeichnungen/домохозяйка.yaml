@@ -4,7 +4,7 @@ name_accent: домохозя́йка
 translation:
   - Hausfrau
   - Haushälterin
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

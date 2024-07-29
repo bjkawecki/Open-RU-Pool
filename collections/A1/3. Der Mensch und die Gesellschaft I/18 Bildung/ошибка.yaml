@@ -3,7 +3,7 @@ name: ошибка
 name_accent: оши́бка
 translation:
   - Fehler
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

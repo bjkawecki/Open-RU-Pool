@@ -3,7 +3,7 @@ name: менеджер
 name_accent: ме́неджер
 translation:
   - Manager
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

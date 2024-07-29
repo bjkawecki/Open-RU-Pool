@@ -1,44 +1,44 @@
 name: опытный
-name_accent:
+name_accent: о́п­ыт­ный
 wordclass: adjective
 translation:
+  - erfahren
+is_gradable: true
 
-is_gradable:
+masculine_nominative: о́п­ыт­ный
+masculine_genitive: о́п­ыт­но­го
+masculine_dative: о́п­ыт­но­му
+masculine_accusative: о́п­ыт­ный
+masculine_instrumental: о́п­ыт­ным
+masculine_prepositive: о́п­ыт­ном
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
-
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
+feminine_nominative: о́п­ыт­ная
+feminine_genitive: о́п­ыт­ной
+feminine_dative: о́п­ыт­ной
 feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_instrumental: о́п­ыт­ной
+feminine_prepositive: о́п­ыт­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: о́п­ыт­ное
+neutral_genitive: о́п­ыт­но­го
+neutral_dative: о́п­ыт­но­му
+neutral_accusative: о́п­ыт­ное
+neutral_instrumental: о́п­ыт­ным
+neutral_prepositive: о́п­ыт­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: о́п­ыт­ные
+plural_genitive: о́п­ыт­ных
+plural_dative: о́п­ыт­ным
+plural_accusative: о́п­ыт­ные
+plural_instrumental: о́п­ыт­ны­ми
+plural_prepositive: о́п­ыт­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: о́пы­тен
+shortform_feminine: о́п­ыт­на
+shortform_neutral: о́п­ыт­но
+shortform_plural: о́п­ыт­ны
 
-comparative:
+comparative: о́п­ыт­нее
 superlative:
 
 comment: null

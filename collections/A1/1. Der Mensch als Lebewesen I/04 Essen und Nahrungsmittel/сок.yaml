@@ -3,7 +3,7 @@ name: сок
 name_accent: сок
 translation:
   - Saft
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

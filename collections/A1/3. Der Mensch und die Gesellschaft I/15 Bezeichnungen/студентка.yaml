@@ -3,7 +3,7 @@ name: студентка
 name_accent: студе́нтка
 translation:
   - Studentin
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: true

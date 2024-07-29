@@ -3,7 +3,7 @@ name: химик
 name_accent: хи́мик
 translation:
   - Chemiker
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

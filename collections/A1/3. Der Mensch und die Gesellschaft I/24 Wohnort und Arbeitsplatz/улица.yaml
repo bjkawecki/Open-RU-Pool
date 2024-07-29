@@ -3,7 +3,7 @@ name: улица
 name_accent: у́лица
 translation:
   - Straße
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

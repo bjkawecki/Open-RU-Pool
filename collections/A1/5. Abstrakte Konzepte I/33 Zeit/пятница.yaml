@@ -3,7 +3,7 @@ name: пятница
 name_accent: пя́тница
 translation:
   - Freitag
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

@@ -3,7 +3,7 @@ name: утро
 name_accent: у́тро
 translation:
   - Morgen
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

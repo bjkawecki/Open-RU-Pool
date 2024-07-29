@@ -4,7 +4,7 @@ name_accent: столо́вая
 translation:
   - Kantine
   - Esszimmer
-genus: feminine
+genus: f
 declination_class: adjective
 stress: root
 is_animate: null

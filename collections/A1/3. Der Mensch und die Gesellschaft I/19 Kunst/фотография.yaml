@@ -3,7 +3,7 @@ name: фотография
 name_accent: фотогра́фия
 translation:
   - Photographie
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

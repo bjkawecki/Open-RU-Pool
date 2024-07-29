@@ -3,7 +3,7 @@ name: адрес
 name_accent: а́дрес
 translation:
   - Adresse
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

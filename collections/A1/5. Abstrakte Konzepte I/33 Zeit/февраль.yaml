@@ -3,7 +3,7 @@ name: февраль
 name_accent: февра́ль
 translation:
   - Februar
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: null

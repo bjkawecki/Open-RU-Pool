@@ -3,7 +3,7 @@ name: ложка
 name_accent: ло́жка
 translation:
   - Löffel
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

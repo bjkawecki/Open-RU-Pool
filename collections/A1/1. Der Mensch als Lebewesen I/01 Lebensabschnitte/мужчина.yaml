@@ -3,7 +3,7 @@ name: мужчина
 name_accent: мужчи́на
 translation:
   - Mann
-genus: masculine
+genus: m
 declination_class: 1
 stress: root
 is_animate: true

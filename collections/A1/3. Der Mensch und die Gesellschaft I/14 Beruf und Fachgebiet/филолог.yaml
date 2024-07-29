@@ -3,7 +3,7 @@ name: филолог
 name_accent: фило́лог
 translation:
   - Philologe
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

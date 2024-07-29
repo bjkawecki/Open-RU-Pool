@@ -3,7 +3,7 @@ name: хоккей
 name_accent: хокке́й
 translation:
   - Hockey
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

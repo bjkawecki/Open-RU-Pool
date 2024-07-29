@@ -3,7 +3,7 @@ name: композитор
 name_accent: компози́тор
 translation:
   - Komponist
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

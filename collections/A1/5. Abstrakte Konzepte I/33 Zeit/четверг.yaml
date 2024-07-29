@@ -3,7 +3,7 @@ name: четверг
 name_accent: четве́рг
 translation:
   - Donnerstag
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: null

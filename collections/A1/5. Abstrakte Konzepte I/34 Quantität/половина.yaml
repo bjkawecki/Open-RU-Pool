@@ -3,7 +3,7 @@ name: половина
 name_accent: полови́на
 translation:
   - Hälfte
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

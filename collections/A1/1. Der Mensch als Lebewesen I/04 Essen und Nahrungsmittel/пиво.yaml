@@ -3,7 +3,7 @@ name: пиво
 name_accent: пи́во
 translation:
   - Bier
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

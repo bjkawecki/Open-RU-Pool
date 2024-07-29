@@ -3,7 +3,7 @@ name: экскурсовод
 name_accent: экскурсово́д
 translation:
   - Fremdenführer
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

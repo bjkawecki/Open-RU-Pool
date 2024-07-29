@@ -3,7 +3,7 @@ name: журнал
 name_accent: журна́л
 translation:
   - Zeitschrift
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

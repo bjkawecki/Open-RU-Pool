@@ -3,7 +3,7 @@ name: преподаватель
 name_accent: преподава́тель
 translation:
   - Lehrer
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

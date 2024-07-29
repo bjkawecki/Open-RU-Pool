@@ -3,7 +3,7 @@ name: переводчик
 name_accent: перево́дчик
 translation:
   - Übersetzer
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

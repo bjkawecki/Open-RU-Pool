@@ -3,7 +3,7 @@ name: словарь
 name_accent: слова́рь
 translation:
   - Wörterbuch
-genus: masculine
+genus: m
 declination_class: 2
 stress: suffix
 is_animate: null

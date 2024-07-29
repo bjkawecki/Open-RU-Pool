@@ -3,7 +3,7 @@ name: слово
 name_accent: сло́во
 translation:
   - Wort
-genus: neutral
+genus: n
 declination_class: 2
 stress: shifting
 is_animate: null

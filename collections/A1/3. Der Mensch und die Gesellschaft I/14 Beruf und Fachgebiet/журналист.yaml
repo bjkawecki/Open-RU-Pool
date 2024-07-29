@@ -3,7 +3,7 @@ name: журналист
 name_accent: журнали́ст
 translation:
   - Journalist
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

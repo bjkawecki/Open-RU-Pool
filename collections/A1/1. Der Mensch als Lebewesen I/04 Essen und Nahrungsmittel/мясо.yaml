@@ -3,7 +3,7 @@ name: мясо
 name_accent: мя́со
 translation:
   - Fleisch
-genus: neutral
+genus: n
 declination_class: 2
 stress: shifting
 is_animate: null

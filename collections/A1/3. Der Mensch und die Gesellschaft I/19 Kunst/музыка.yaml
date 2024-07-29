@@ -3,7 +3,7 @@ name: музыка
 name_accent: му́зыка
 translation:
   - Musik
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

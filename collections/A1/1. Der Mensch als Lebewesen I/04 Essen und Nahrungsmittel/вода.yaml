@@ -3,7 +3,7 @@ name: вода
 name_accent: вода́
 translation:
   - Wasser
-genus: feminine
+genus: f
 declination_class: 1
 stress: shifting
 is_animate: null

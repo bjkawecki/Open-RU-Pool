@@ -3,7 +3,7 @@ name: суп
 name_accent: суп
 translation:
   - Suppe
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

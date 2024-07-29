@@ -3,7 +3,7 @@ name: баскетбол
 name_accent: баскетбо́л
 translation:
   - Basketball
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

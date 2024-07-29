@@ -3,7 +3,7 @@ name: кино
 name_accent: кино́
 translation:
   - Kino
-genus: neutral
+genus: n
 declination_class: none
 stress: suffix
 is_animate: null

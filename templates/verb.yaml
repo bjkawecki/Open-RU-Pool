@@ -10,11 +10,11 @@ is_motion_verb:
 motion_partner:
 direction:
 
-direct_object_case:
-indirect_object_case:
-direct_object_preposition:
-indirect_object_preposition:
-is_reflexive:
+direct_object_case: null
+direct_object_preposition: null
+indirect_object_case: null
+indirect_object_preposition: null
+is_reflexive: false
 
 present_singular_1:
 present_singular_2:

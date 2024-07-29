@@ -3,7 +3,7 @@ name: гора
 name_accent: гора́
 translation:
   - Berg
-genus: feminine
+genus: f
 declination_class: 1
 stress: shifting
 is_animate: null

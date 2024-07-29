@@ -3,7 +3,7 @@ name: соль
 name_accent: соль
 translation:
   - Salz
-genus: feminine
+genus: f
 declination_class: 3
 stress: shifting
 is_animate: null

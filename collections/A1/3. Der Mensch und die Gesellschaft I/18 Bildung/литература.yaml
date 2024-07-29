@@ -3,7 +3,7 @@ name: литература
 name_accent: литерату́ра
 translation:
   - Literatur
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

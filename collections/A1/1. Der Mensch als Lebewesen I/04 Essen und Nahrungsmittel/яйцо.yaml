@@ -3,7 +3,7 @@ name: яйцо
 name_accent: яйцо́
 translation:
   - Ei
-genus: neutral
+genus: n
 declination_class: 2
 stress: shifting
 is_animate: null

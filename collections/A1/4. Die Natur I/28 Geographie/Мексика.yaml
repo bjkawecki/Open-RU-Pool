@@ -3,7 +3,7 @@ name: Мексика
 name_accent: Ме́ксика
 translation:
   - Mexiko
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

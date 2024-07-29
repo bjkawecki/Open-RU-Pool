@@ -3,7 +3,7 @@ name: температура
 name_accent: температу́ра
 translation:
   - Temperatur
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

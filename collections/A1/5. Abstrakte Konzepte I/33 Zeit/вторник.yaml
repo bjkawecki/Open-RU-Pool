@@ -3,7 +3,7 @@ name: вторник
 name_accent: вто́рник
 translation:
   - Dienstag
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

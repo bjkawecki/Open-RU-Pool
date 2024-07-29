@@ -3,7 +3,7 @@ name: биология
 name_accent: биоло́гия
 translation:
   - Biologie
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

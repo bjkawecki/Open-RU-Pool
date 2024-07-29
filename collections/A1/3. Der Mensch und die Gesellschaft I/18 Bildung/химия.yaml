@@ -3,7 +3,7 @@ name: химия
 name_accent: хи́мия
 translation:
   - Chemie
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

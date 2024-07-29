@@ -3,7 +3,7 @@ name_accent: кита́йский
 wordclass: adjective
 translation:
   - chinesisch
-is_gradable: null
+is_gradable: false
 masculine_nominative: китайский
 masculine_genitive: ки­та́й­ско­го
 masculine_dative: ки­та́й­ско­му

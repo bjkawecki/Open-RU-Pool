@@ -3,7 +3,7 @@ name: зима
 name_accent: зима́
 translation:
   - Winter
-genus: feminine
+genus: f
 declination_class: 1
 stress: shifting
 is_animate: null

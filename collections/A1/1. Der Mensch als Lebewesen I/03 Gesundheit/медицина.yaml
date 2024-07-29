@@ -3,7 +3,7 @@ name: медицина
 name_accent: медици́на
 translation:
   - Medizin
-genus: feminine
+genus: f
 declination_class: 1
 stress: root
 is_animate: null

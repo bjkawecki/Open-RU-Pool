@@ -4,7 +4,7 @@ name_accent: кабине́т
 translation:
   - Arbeitszimmer
   - Kabinett
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

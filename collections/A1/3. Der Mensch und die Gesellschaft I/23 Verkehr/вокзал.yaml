@@ -3,7 +3,7 @@ name: вокзал
 name_accent: вокза́л
 translation:
   - Bahnhof
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

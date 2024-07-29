@@ -3,7 +3,7 @@ name: класс
 name_accent: класс
 translation:
   - Klasse
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

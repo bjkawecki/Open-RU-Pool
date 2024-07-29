@@ -3,7 +3,7 @@ name: кресло
 name_accent: кре́сло
 translation:
   - Sessel
-genus: neutral
+genus: n
 declination_class: 2
 stress: root
 is_animate: null

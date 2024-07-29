@@ -3,7 +3,7 @@ name: радио
 name_accent: ра́дио
 translation:
   - Radio
-genus: neutral
+genus: n
 declination_class: none
 stress: root
 is_animate: null

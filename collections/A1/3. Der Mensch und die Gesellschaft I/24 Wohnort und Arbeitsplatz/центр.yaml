@@ -3,7 +3,7 @@ name: центр
 name_accent: центр
 translation:
   - Zentrum
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

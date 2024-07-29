@@ -3,7 +3,7 @@ name: голова
 name_accent: голова́
 translation:
   - Kopf
-genus: feminine
+genus: f
 declination_class: 1
 stress: shifting
 is_animate: null

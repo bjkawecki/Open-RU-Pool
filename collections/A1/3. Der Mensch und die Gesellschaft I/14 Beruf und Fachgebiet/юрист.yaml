@@ -3,7 +3,7 @@ name: юрист
 name_accent: юри́ст
 translation:
   - Jurist
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: true

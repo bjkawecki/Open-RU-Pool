@@ -3,7 +3,7 @@ name: дом
 name_accent: дом
 translation:
   - Haus
-genus: masculine
+genus: m
 declination_class: 2
 stress: shifting
 is_animate: null

@@ -1,28 +1,28 @@
 name: интерес
-name_accent:
+name_accent: ин­те­ре́с
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Interesse
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ин­те­ре́с
+singular_genitive: ин­те­ре́­са
+singular_dative: ин­те­ре́­су
+singular_accusative: ин­те­ре́с
+singular_instrumental: ин­те­ре́с­ом
+singular_prepositive: ин­те­ре́­се
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ин­те­ре́­сы
+plural_genitive: ин­те­ре́с­ов
+plural_dative: ин­те­ре́с­ам
+plural_accusative: ин­те­ре́­сы
+plural_instrumental: ин­те­ре́­са­ми
+plural_prepositive: ин­те­ре́с­ах
 
 partitive: null
 locative: null

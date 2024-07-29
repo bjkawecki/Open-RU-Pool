@@ -3,7 +3,7 @@ name: выход
 name_accent: вы́ход
 translation:
   - Ausgang
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null

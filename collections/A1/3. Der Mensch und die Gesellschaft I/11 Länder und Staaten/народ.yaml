@@ -3,7 +3,7 @@ name: народ
 name_accent: наро́д
 translation:
   - Volk
-genus: masculine
+genus: m
 declination_class: 2
 stress: root
 is_animate: null
