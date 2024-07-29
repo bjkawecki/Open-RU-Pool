@@ -1,0 +1,54 @@
+name: учить
+name_accent: учи́ть
+wordclass: verb
+translation:
+  - lernen
+  - lehren
+aspect: imperfective
+aspect_partner: выучи́ть
+conjugation_class: 2
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+direct_object_case: dative
+direct_object_preposition: null
+indirect_object_case: accusative
+indirect_object_preposition: null
+is_reflexive: false
+
+present_singular_1: учу́
+present_singular_2: у́ч­ишь
+present_singular_3: у́ч­ит
+present_plural_1: у́ч­им
+present_plural_2: у́чи­те
+present_plural_3: у́ч­ат
+
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+
+past_masculine: ­уч­и́л
+past_feminine: ­учи́­ла
+past_neutral: ­учи́­ло
+past_plural: ­учи́­ли
+
+participle_active_present: у́ча­щий
+participle_active_past: уч­и́в­ший
+
+participle_adverbial_present: уча́
+participle_adverbial_passive: уч­и́в­ши, уч­и́в
+
+participle_passive_present: учи́­мый
+participle_passive_past: у́ч­ен­ный
+
+imperative_singular: учи́
+imperative_plural: учи́­те
+
+comment: Personen- vor Sachobjekt
+usage: null
+etymology: null

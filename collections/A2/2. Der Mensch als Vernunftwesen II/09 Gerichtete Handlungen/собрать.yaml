@@ -1,17 +1,19 @@
 name: собрать
-name_accent:
+name_accent: соб­ра́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - sammeln
+  - versammeln
+  - packen
+aspect: perfective
+aspect_partner: со­бир­а́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
@@ -24,29 +26,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: со­бе­ру́
+future_singular_2: со­бер­ёшь
+future_singular_3: со­бер­ёт
+future_plural_1: со­бер­ём
+future_plural_2: со­бе­рё­те
+future_plural_3: со­бер­у́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: соб­ра́л
+past_feminine: соб­ра­ла́
+past_neutral: соб­ра́­ло
+past_plural: соб­ра́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: соб­ра́­вший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: соб­ра́­вши, соб­ра́в
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: со́б­ран­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: со­бе­ри́
+imperative_plural: со­бе­ри́­те
 
 comment: null
 usage: null

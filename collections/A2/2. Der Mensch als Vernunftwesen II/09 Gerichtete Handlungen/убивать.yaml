@@ -1,28 +1,28 @@
 name: убивать
-name_accent:
+name_accent: уби­ва́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - töten
+aspect: imperfective
+aspect_partner: уб­и́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: уби­ва́ю
+present_singular_2: уби­ва́­ешь
+present_singular_3: уби­ва́­ет
+present_plural_1: уби­ва́­ем
+present_plural_2: уби­ва́­ете
+present_plural_3: уби­ва́­ют
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +31,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: уби­ва́л
+past_feminine: уби­ва́­ла
+past_neutral: уби­ва́­ло
+past_plural: уби­ва́­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: уби­ва́­ющий
+participle_active_past: уби­ва́в­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: уби­ва́я
+participle_adverbial_passive: уби­ва́в­ши, уби­ва́в
 
-participle_passive_present:
+participle_passive_present: уби­ва́­емый
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: уби­ва́й
+imperative_plural: уби­ва́й­те
 
 comment: null
 usage: null

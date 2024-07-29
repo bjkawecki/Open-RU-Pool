@@ -12,9 +12,9 @@ is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: dative
+direct_object_case: accusative
 direct_object_preposition: null
-indirect_object_case: accusative
+indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 

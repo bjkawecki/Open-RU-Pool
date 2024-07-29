@@ -1,20 +1,21 @@
 name: поблагодарить
-name_accent:
+name_accent: поблагодари́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - danken (für)
+  - Danke sagen
+aspect: perfective
+aspect_partner: благодари́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
-indirect_object_case: null
-indirect_object_preposition: null
+indirect_object_case: accusative
+indirect_object_preposition: за
 is_reflexive: false
 
 present_singular_1:
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: поб­ла­го­да­рю́
+future_singular_2: поб­ла­го­да­ри́шь
+future_singular_3: поб­ла­го­да­ри́т
+future_plural_1: поб­ла­го­да­ри́м
+future_plural_2: поб­ла­го­да­ри́­те
+future_plural_3: поб­ла­го­да­ря́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: поб­ла­го­да­ри́л
+past_feminine: поб­ла­го­да­ри́­ла
+past_neutral: поб­ла­го­да­ри́­ло
+past_plural: поб­ла­го­да­ри́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: поб­ла­го­да­ри́в­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: поб­ла­го­да­ри́в­ши, поб­ла­го­да­ри́в
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: поб­ла­го­да­рён­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: поб­ла­го­да­ри́
+imperative_plural: поб­ла­го­да­ри́­те
 
 comment: null
 usage: null

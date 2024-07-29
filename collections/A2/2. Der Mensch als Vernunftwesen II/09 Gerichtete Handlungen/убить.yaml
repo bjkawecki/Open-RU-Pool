@@ -1,17 +1,17 @@
 name: убить
-name_accent:
+name_accent: уб­и́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - töten
+aspect: perfective
+aspect_partner: уби­ва́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
@@ -24,29 +24,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: убью́
+future_singular_2: убь­ёшь
+future_singular_3: убь­ёт
+future_plural_1: убь­ём
+future_plural_2: убь­ёте
+future_plural_3: убь­ю́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: уб­и́л
+past_feminine: уби́­ла
+past_neutral: уби́­ло
+past_plural: уби́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: уб­и́в­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: уб­и́в­ши, уб­и́в
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: уби́­тый
 
-imperative_singular:
-imperative_plural:
+imperative_singular: убе́й
+imperative_plural: убе́й­те
 
 comment: null
 usage: null

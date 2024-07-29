@@ -1,0 +1,54 @@
+name: ждать
+name_accent: ждать
+wordclass: verb
+translation:
+  - sich gedulden
+  - warten
+aspect: imperfective
+aspect_partner: по­дож­да́ть
+conjugation_class:
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+direct_object_case: genitive
+direct_object_preposition: null
+indirect_object_case: null
+indirect_object_preposition: null
+is_reflexive: false
+
+present_singular_1: жду
+present_singular_2: ждёшь
+present_singular_3: ждёт
+present_plural_1: ждём
+present_plural_2: ждё­те
+present_plural_3: ждут
+
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+
+past_masculine: ждал
+past_feminine: жда­ла́
+past_neutral: жда́­ло
+past_plural: жда́­ли
+
+participle_active_present: жду́­щий
+participle_active_past: жда́в­ший
+
+participle_adverbial_present: ждя
+participle_adverbial_passive: жда́в­ши, жда́в
+
+participle_passive_present:
+participle_passive_past: жда́н­ный
+
+imperative_singular: жди
+imperative_plural: жди́­те
+
+comment: null
+usage: null
+etymology: null
