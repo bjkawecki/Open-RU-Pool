@@ -1,28 +1,28 @@
 name: держать
-name_accent:
+name_accent: дер­жа́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - halten
+aspect: imperfective
+aspect_partner: подержа́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: дер­жу́
+present_singular_2: де́р­жишь
+present_singular_3: де́р­жит
+present_plural_1: де́р­жим
+present_plural_2: де́р­жи­те
+present_plural_3: де́р­жат
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +31,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: дер­жа́л
+past_feminine: дер­жа́­ла
+past_neutral: дер­жа́­ло
+past_plural: дер­жа́­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: дер­жа́­щий
+participle_active_past: дер­жа́­вший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: дер­жа́
+participle_adverbial_passive: дер­жа́­вши, дер­жа́в
 
-participle_passive_present:
-participle_passive_past:
+participle_passive_present: дер­жи́­мый
+participle_passive_past: де́р­жан­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: дер­жи́
+imperative_plural: дер­жи́­те
 
 comment: null
 usage: null

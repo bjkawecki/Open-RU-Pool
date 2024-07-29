@@ -1,19 +1,20 @@
 name: выучить
-name_accent:
+name_accent: вы́­уч­ить
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - lernen
+  - zu Ende lernen
+aspect: perfective
+aspect_partner: учи́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: dative
 direct_object_preposition: null
-indirect_object_case: null
+indirect_object_case: accusative
 indirect_object_preposition: null
 is_reflexive: false
 
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: вы́­учу
+future_singular_2: вы́­уч­ишь
+future_singular_3: вы́­уч­ит
+future_plural_1: вы́­уч­им
+future_plural_2: вы́­учи­те
+future_plural_3: вы́­уч­ат
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: вы́­уч­ил
+past_feminine: вы́­учи­ла
+past_neutral: вы́­учи­ло
+past_plural: вы́­учи­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: вы́­уч­ив­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: вы́­уч­ив­ши, вы́­уч­ив
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: вы́­уч­ен­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: вы́­учи
+imperative_plural: вы́­учи­те
 
 comment: null
 usage: null
