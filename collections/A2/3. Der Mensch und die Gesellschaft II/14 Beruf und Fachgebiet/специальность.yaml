@@ -1,28 +1,30 @@
 name: специальность
-name_accent:
+name_accent: спе­ци­а́ль­ность
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Fachbereich
+  - Spezialgebiet
+  - Branche
+genus: f
+declination_class: 3
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: спе­ци­а́ль­ность
+singular_genitive: спе­ци­а́ль­нос­ти
+singular_dative: спе­ци­а́ль­нос­ти
+singular_accusative: спе­ци­а́ль­ность
+singular_instrumental: спе­ци­а́ль­ностью
+singular_prepositive: спе­ци­а́ль­нос­ти
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: спе­ци­а́ль­нос­ти
+plural_genitive: спе­ци­а́ль­нос­тей
+plural_dative: спе­ци­а́ль­нос­тям
+plural_accusative: спе­ци­а́ль­нос­ти
+plural_instrumental: спе­ци­а́ль­нос­тя­ми
+plural_prepositive: спе­ци­а́ль­нос­тях
 
 partitive: null
 locative: null

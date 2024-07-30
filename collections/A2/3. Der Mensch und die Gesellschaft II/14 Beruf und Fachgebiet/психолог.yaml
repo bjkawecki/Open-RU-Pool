@@ -1,28 +1,28 @@
 name: психолог
-name_accent:
+name_accent: пси­хо́л­ог
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Psychologe
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: пси­хо́л­ог
+singular_genitive: пси­хо́­ло­га
+singular_dative: пси­хо́­ло­гу
+singular_accusative: пси­хо́­ло­га
+singular_instrumental: пси­хо́­ло­гом
+singular_prepositive: пси­хо́­ло­ге
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пси­хо́­ло­ги
+plural_genitive: пси­хо́­ло­гов
+plural_dative: пси­хо́­ло­гам
+plural_accusative: пси­хо́­ло­гов
+plural_instrumental: пси­хо́­ло­га­ми
+plural_prepositive: пси­хо́­ло­гах
 
 partitive: null
 locative: null

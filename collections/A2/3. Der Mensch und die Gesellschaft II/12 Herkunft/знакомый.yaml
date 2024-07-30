@@ -1,44 +1,44 @@
 name: знакомый
-name_accent:
+name_accent: зна­ко́­мый
 wordclass: adjective
 translation:
-
+  - bekannt
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: зна­ко́­мый
+masculine_genitive: зна­ко́­мо­го
+masculine_dative: зна­ко́­мо­му
+masculine_accusative: зна­ко́­мый
+masculine_instrumental: зна­ко́м­ым
+masculine_prepositive: зна­ко́м­ом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: зна­ко́­мая
+feminine_genitive: зна­ко́­мой
+feminine_dative: зна­ко́­мой
+feminine_accusative: зна­ко́­мую
+feminine_instrumental: зна­ко́­мой
+feminine_prepositive: зна­ко́­мой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: зна­ко́­мое
+neutral_genitive: зна­ко́­мо­го
+neutral_dative: зна­ко́­мо­му
+neutral_accusative: зна­ко́­мое
+neutral_instrumental: зна­ко́м­ым
+neutral_prepositive: зна­ко́м­ом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: зна­ко́­мые
+plural_genitive: зна­ко́м­ых
+plural_dative: зна­ко́м­ым
+plural_accusative: зна­ко́­мые
+plural_instrumental: зна­ко́­мы­ми
+plural_prepositive: зна­ко́м­ых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: зна­ко́м
+shortform_feminine: зна­ко́­ма
+shortform_neutral: зна­ко́­мо
+shortform_plural: зна­ко́­мы
 
-comparative:
+comparative: зна­ко́­мее
 superlative:
 
 comment: null

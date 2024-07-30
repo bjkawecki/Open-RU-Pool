@@ -1,46 +1,47 @@
 name: женатый
-name_accent:
+name_accent: жена́тый
 wordclass: adjective
 translation:
+  - verheiratet
 
-is_gradable: true
+is_gradable: false
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: жена́тый
+masculine_genitive: же­на́­то­го
+masculine_dative: же­на́­то­му
+masculine_accusative: жена́тый
+masculine_instrumental: же­на́т­ым
+masculine_prepositive: же­на́т­ом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: же­на́­тая
+feminine_genitive: же­на́­той
+feminine_dative: же­на́­той
+feminine_accusative: же­на́­тую
+feminine_instrumental: же­на́­той
+feminine_prepositive: же­на́­той
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: же­на́­тое
+neutral_genitive: же­на́­то­го
+neutral_dative: же­на́­то­му
+neutral_accusative: же­на́­тое
+neutral_instrumental: же­на́т­ым
+neutral_prepositive: же­на́т­ом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: же­на́­тые
+plural_genitive: же­на́т­ых
+plural_dative: же­на́т­ым
+plural_accusative: же­на́­тые
+plural_instrumental: же­на́­ты­ми
+plural_prepositive: же­на́т­ых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: же­на́т
+shortform_feminine: же­на́­та
+shortform_neutral: же­на́­то
+shortform_plural: же­на́­ты
 
 comparative:
 superlative:
 
-comment: null
+comment: in Bezug auf Männer
 usage: null
 etymology: null

@@ -1,37 +1,39 @@
 name: политический
-name_accent:
+name_accent: по­ли­ти́­чес­кий
 wordclass: adjective
 translation:
+  - politisch
+  - Polit-
+  - Staats-
+is_gradable: false
 
-is_gradable: true
+masculine_nominative: по­ли­ти́­чес­кий
+masculine_genitive: по­ли­ти́­чес­ко­го
+masculine_dative: по­ли­ти́­чес­ко­му
+masculine_accusative: по­ли­ти́­чес­кий
+masculine_instrumental: по­ли­ти́­чес­ким
+masculine_prepositive: по­ли­ти́­чес­ком
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: по­ли­ти́­чес­кая
+feminine_genitive: по­ли­ти́­чес­кой
+feminine_dative: по­ли­ти́­чес­кой
+feminine_accusative: по­ли­ти́­чес­кую
+feminine_instrumental: по­ли­ти́­чес­кой
+feminine_prepositive: по­ли­ти́­чес­кой
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: по­ли­ти́­чес­кое
+neutral_genitive: по­ли­ти́­чес­ко­го
+neutral_dative: по­ли­ти́­чес­ко­му
+neutral_accusative: по­ли­ти́­чес­кое
+neutral_instrumental: по­ли­ти́­чес­ким
+neutral_prepositive: по­ли­ти́­чес­ком
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
-
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: по­ли­ти́­чес­кие
+plural_genitive: по­ли­ти́­чес­ких
+plural_dative: по­ли­ти́­чес­ким
+plural_accusative: по­ли­ти́­чес­кие
+plural_instrumental: по­ли­ти́­чес­ки­ми
+plural_prepositive: по­ли­ти́­чес­ких
 
 shortform_masculine:
 shortform_feminine:

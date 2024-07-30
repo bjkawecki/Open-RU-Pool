@@ -1,28 +1,28 @@
 name: президент
-name_accent:
+name_accent: пре­зид­е́нт
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Präsident
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: пре­зид­е́нт
+singular_genitive: пре­зид­е́н­та
+singular_dative: пре­зид­е́н­ту
+singular_accusative: пре­зид­е́н­та
+singular_instrumental: пре­зид­е́н­том
+singular_prepositive: пре­зид­е́н­те
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пре­зид­е́н­ты
+plural_genitive: пре­зид­е́н­тов
+plural_dative: пре­зид­е́н­там
+plural_accusative: пре­зид­е́н­тов
+plural_instrumental: пре­зид­е́н­та­ми
+plural_prepositive: пре­зид­е́н­тах
 
 partitive: null
 locative: null

@@ -1,28 +1,29 @@
 name: продавец
-name_accent:
+name_accent: про­дав­е́ц
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Verkäufer
+  - Händler
+genus: m
+declination_class: 2
+stress: suffix
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: про­дав­е́ц
+singular_genitive: про­дав­ца́
+singular_dative: про­дав­цу́
+singular_accusative: про­дав­ца́
+singular_instrumental: про­дав­цо́м
+singular_prepositive: про­дав­це́
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: про­дав­цы́
+plural_genitive: про­дав­цо́в
+plural_dative: про­дав­ца́м
+plural_accusative: про­дав­цо́в
+plural_instrumental: про­дав­ца́­ми
+plural_prepositive: про­дав­ца́х
 
 partitive: null
 locative: null

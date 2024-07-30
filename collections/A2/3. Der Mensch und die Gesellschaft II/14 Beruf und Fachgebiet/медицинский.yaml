@@ -1,37 +1,38 @@
 name: медицинский
-name_accent:
+name_accent: ме­диц­и́нс­кий
 wordclass: adjective
 translation:
+  - medizinisch
+  - Medizin-
+is_gradable: false
 
-is_gradable: true
+masculine_nominative: ме­диц­и́нс­кий
+masculine_genitive: ме­диц­и́нс­ко­го
+masculine_dative: ме­диц­и́нс­ко­му
+masculine_accusative: ме­диц­и́нс­кий
+masculine_instrumental: ме­диц­и́нс­ким
+masculine_prepositive: ме­диц­и́нс­ком
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: ме­диц­и́нс­кая
+feminine_genitive: ме­диц­и́нс­кой
+feminine_dative: ме­диц­и́нс­кой
+feminine_accusative: ме­диц­и́нс­кую
+feminine_instrumental: ме­диц­и́нс­кой
+feminine_prepositive: ме­диц­и́нс­кой
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: ме­диц­и́нс­кое
+neutral_genitive: ме­диц­и́нс­ко­го
+neutral_dative: ме­диц­и́нс­ко­му
+neutral_accusative: ме­диц­и́нс­кое
+neutral_instrumental: ме­диц­и́нс­ким
+neutral_prepositive: ме­диц­и́нс­ком
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
-
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ме­диц­и́нс­кие
+plural_genitive: ме­диц­и́нс­ких
+plural_dative: ме­диц­и́нс­ким
+plural_accusative: ме­диц­и́нс­кие
+plural_instrumental: ме­диц­и́нс­ки­ми
+plural_prepositive: ме­диц­и́нс­ких
 
 shortform_masculine:
 shortform_feminine:

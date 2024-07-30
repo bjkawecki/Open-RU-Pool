@@ -1,28 +1,28 @@
 name: парламент
-name_accent:
+name_accent: пар­ла́­мент
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Parlament
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: пар­ла́­мент
+singular_genitive: пар­ла́­мен­та
+singular_dative: пар­ла́­мен­ту
+singular_accusative: пар­ла́­мент
+singular_instrumental: пар­ла́­мен­том
+singular_prepositive: пар­ла́­мен­те
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пар­ла́­мен­ты
+plural_genitive: пар­ла́­мен­тов
+plural_dative: пар­ла́­мен­там
+plural_accusative: пар­ла́­мен­ты
+plural_instrumental: пар­ла́­мен­та­ми
+plural_prepositive: пар­ла́­мен­тах
 
 partitive: null
 locative: null

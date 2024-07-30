@@ -1,44 +1,44 @@
 name: международный
-name_accent:
+name_accent: меж­ду­нар­о́д­ный
 wordclass: adjective
 translation:
-
+  - international
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: меж­ду­нар­о́д­ный
+masculine_genitive: меж­ду­нар­о́д­но­го
+masculine_dative: меж­ду­нар­о́д­но­му
+masculine_accusative: меж­ду­нар­о́д­ный
+masculine_instrumental: меж­ду­нар­о́д­ным
+masculine_prepositive: меж­ду­нар­о́д­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: меж­ду­нар­о́д­ная
+feminine_genitive: меж­ду­нар­о́д­ной
+feminine_dative: меж­ду­нар­о́д­ной
+feminine_accusative: меж­ду­нар­о́д­ную
+feminine_instrumental: меж­ду­нар­о́д­ной
+feminine_prepositive: меж­ду­нар­о́д­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: меж­ду­нар­о́д­ное
+neutral_genitive: меж­ду­нар­о́д­но­го
+neutral_dative: меж­ду­нар­о́д­но­му
+neutral_accusative: меж­ду­нар­о́д­ное
+neutral_instrumental: меж­ду­нар­о́д­ным
+neutral_prepositive: меж­ду­нар­о́д­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: меж­ду­нар­о́д­ные
+plural_genitive: меж­ду­нар­о́д­ных
+plural_dative: меж­ду­нар­о́д­ным
+plural_accusative: меж­ду­нар­о́д­ные
+plural_instrumental: меж­ду­нар­о́д­ны­ми
+plural_prepositive: меж­ду­нар­о́д­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: меж­ду­на­ро́­ден
+shortform_feminine: меж­ду­нар­о́д­на
+shortform_neutral: меж­ду­нар­о́д­но
+shortform_plural: меж­ду­нар­о́д­ны
 
-comparative:
+comparative: меж­ду­нар­о́д­нее
 superlative:
 
 comment: null

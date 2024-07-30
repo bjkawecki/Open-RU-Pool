@@ -1,28 +1,28 @@
 name: милиционер
-name_accent:
+name_accent: ми­ли­ци­он­е́р
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Millionär
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ми­ли­ци­он­е́р
+singular_genitive: ми­ли­ци­оне́­ра
+singular_dative: ми­ли­ци­оне́­ру
+singular_accusative: ми­ли­ци­оне́­ра
+singular_instrumental: ми­ли­ци­оне́­ром
+singular_prepositive: ми­ли­ци­оне́­ре
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ми­ли­ци­оне́­ры
+plural_genitive: ми­ли­ци­оне́­ров
+plural_dative: ми­ли­ци­оне́­рам
+plural_accusative: ми­ли­ци­оне́­ров
+plural_instrumental: ми­ли­ци­оне́­ра­ми
+plural_prepositive: ми­ли­ци­оне́­рах
 
 partitive: null
 locative: null

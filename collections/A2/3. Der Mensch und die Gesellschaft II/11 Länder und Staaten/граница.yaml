@@ -1,28 +1,28 @@
 name: граница
-name_accent:
+name_accent: гра­ни́­ца
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Grenze
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: гра­ни́­ца
+singular_genitive: гра­ни́­цы
+singular_dative: гра­ни́­це
+singular_accusative: гра­ни́­цу
+singular_instrumental: гра­ни́­цей
+singular_prepositive: гра­ни́­це
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: гра­ни́­цы
+plural_genitive: гра­ни́ц
+plural_dative: гра­ни́ц­ам
+plural_accusative: гра­ни́­цы
+plural_instrumental: гра­ни́­ца­ми
+plural_prepositive: гра­ни́ц­ах
 
 partitive: null
 locative: null

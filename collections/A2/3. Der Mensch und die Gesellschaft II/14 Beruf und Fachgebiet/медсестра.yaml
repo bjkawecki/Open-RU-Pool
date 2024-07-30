@@ -1,28 +1,28 @@
 name: медсестра
-name_accent:
+name_accent: мѐд­сест­ра́
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Krankenschwester
+genus: f
+declination_class: 1
+stress: shifting
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: мѐд­сест­ра́
+singular_genitive: мед­сест­ры́
+singular_dative: мед­сест­ре́
+singular_accusative: мед­сест­ру́
+singular_instrumental: мед­сест­ро́й
+singular_prepositive: мед­сест­ре́
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: мед­сёст­ры
+plural_genitive: мѐд­се­стёр
+plural_dative: мед­сёст­рам
+plural_accusative: мѐд­се­стёр
+plural_instrumental: мед­сёст­ра­ми
+plural_prepositive: мед­сёст­рах
 
 partitive: null
 locative: null

@@ -1,10 +1,10 @@
 name: быть замужем
-name_accent:
+name_accent: быть за́мужем
 wordclass: phrase
 translation:
-
+  - verheiratet sein
 metaphrase:
 
-comment: null
+comment: in Bezug auf Frauen
 usage: null
 etymology: null

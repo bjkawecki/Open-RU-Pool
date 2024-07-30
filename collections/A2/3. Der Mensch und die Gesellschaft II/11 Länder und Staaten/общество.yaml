@@ -1,28 +1,29 @@
 name: общество
-name_accent:
+name_accent: о́б­щест­во
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Gesellschaft
+  - Verbund
+genus: n
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: о́б­щест­во
+singular_genitive: о́б­щест­ва
+singular_dative: о́б­щест­ву
+singular_accusative: о́б­щест­во
+singular_instrumental: о́б­щест­вом
+singular_prepositive: о́б­щест­ве
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: о́б­щест­ва
+plural_genitive: о́б­ществ
+plural_dative: о́б­щест­вам
+plural_accusative: о́б­щест­ва
+plural_instrumental: о́б­щест­ва­ми
+plural_prepositive: о́б­щест­вах
 
 partitive: null
 locative: null

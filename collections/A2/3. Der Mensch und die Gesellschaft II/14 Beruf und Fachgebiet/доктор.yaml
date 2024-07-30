@@ -1,28 +1,28 @@
 name: доктор
-name_accent:
+name_accent: до́к­тор
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Doktor
+genus: m
+declination_class: 2
+stress: shifting
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: до́к­тор
+singular_genitive: до́к­то­ра
+singular_dative: до́к­то­ру
+singular_accusative: до́к­то­ра
+singular_instrumental: до́к­то­ром
+singular_prepositive: до́к­то­ре
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: до́к­то­ра
+plural_genitive: док­то­ро́в
+plural_dative: док­то­ра́м
+plural_accusative: док­то­ро́в
+plural_instrumental: док­то­ра́­ми
+plural_prepositive: док­то­ра́х
 
 partitive: null
 locative: null

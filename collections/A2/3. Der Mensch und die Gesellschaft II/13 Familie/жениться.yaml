@@ -1,53 +1,53 @@
 name: жениться
-name_accent:
+name_accent: же­ни́ть­ся
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - heiraten
+aspect: dual
+aspect_partner: null
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
-direct_object_preposition: null
+direct_object_case: prepositive
+direct_object_preposition: на
 indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: же­ню́сь
+present_singular_2: же́­нишь­ся
+present_singular_3: же́­нит­ся
+present_plural_1: же́­ним­ся
+present_plural_2: же́­нит­есь
+present_plural_3: же́­нят­ся
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: же­ню́сь
+future_singular_2: же́­нишь­ся
+future_singular_3: же́­нит­ся
+future_plural_1: же́­ним­ся
+future_plural_2: же́­нит­есь
+future_plural_3: же́­нят­ся
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: же­ни́л­ся
+past_feminine: же­ни́л­ась
+past_neutral: же­ни́л­ось
+past_plural: же­ни́л­ись
 
-participle_active_present:
-participle_active_past:
+participle_active_present: же́­ня­щий­ся
+participle_active_past: же­ни́в­ший­ся
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: же­ня́сь
+participle_adverbial_passive: же­ни́в­шись
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: же­ни́сь
+imperative_plural: же­ни́т­есь
 
-comment: null
+comment: in Bezug auf Männer
 usage: null
 etymology: null

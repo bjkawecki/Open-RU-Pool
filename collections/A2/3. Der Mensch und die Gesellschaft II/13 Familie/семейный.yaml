@@ -1,44 +1,47 @@
 name: семейный
-name_accent:
+name_accent: семе́йный
 wordclass: adjective
 translation:
+  - Familien
+  - familiär
+  - Ehe-
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: се­ме́й­ный
+masculine_genitive: се­ме́й­но­го
+masculine_dative: се­ме́й­но­му
+masculine_accusative: се­ме́й­ный
+masculine_instrumental: се­ме́й­ным
+masculine_prepositive: се­ме́й­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: се­ме́й­ная
+feminine_genitive: се­ме́й­ной
+feminine_dative: се­ме́й­ной
+feminine_accusative: се­ме́й­ную
+feminine_instrumental: се­ме́й­ной
+feminine_prepositive: се­ме́й­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: се­ме́й­ное
+neutral_genitive: се­ме́й­но­го
+neutral_dative: се­ме́й­но­му
+neutral_accusative: се­ме́й­ное
+neutral_instrumental: се­ме́й­ным
+neutral_prepositive: се­ме́й­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
+plural_nominative: се­ме́й­ные
+plural_genitive: се­ме́й­ных
+plural_dative: се­ме́й­ным
+plural_accusative: се­ме́й­ные
 plural_instrumental:
-plural_prepositive:
+plural_prepositive: се­ме́й­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: се­ме́­ен
+shortform_feminine: се­ме́й­на
+shortform_neutral: се­ме́й­но
+shortform_plural: се­ме́й­ны
 
-comparative:
+comparative: се­ме́й­нее
 superlative:
 
 comment: null

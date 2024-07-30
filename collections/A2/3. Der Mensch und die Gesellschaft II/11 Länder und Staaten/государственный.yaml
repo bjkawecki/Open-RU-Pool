@@ -2,41 +2,42 @@ name: государственный
 name_accent:
 wordclass: adjective
 translation:
+  - staatlich
+  - Staats-
+is_gradable: false
 
-is_gradable: true
+masculine_nominative: го­суд­а́рс­твен­ный
+masculine_genitive: го­суд­а́рс­твен­но­го
+masculine_dative: го­суд­а́рс­твен­но­му
+masculine_accusative: го­суд­а́рс­твен­ный
+masculine_instrumental: го­суд­а́рс­твен­ным
+masculine_prepositive: го­суд­а́рс­твен­ном
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: го­суд­а́рс­твен­ная
+feminine_genitive: го­суд­а́рс­твен­ной
+feminine_dative: го­суд­а́рс­твен­ной
+feminine_accusative: го­суд­а́рс­твен­ную
+feminine_instrumental: го­суд­а́рс­твен­ной
+feminine_prepositive: го­суд­а́рс­твен­ной
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: го­суд­а́рс­твен­ное
+neutral_genitive: го­суд­а́рс­твен­но­го
+neutral_dative: го­суд­а́рс­твен­но­му
+neutral_accusative: го­суд­а́рс­твен­ное
+neutral_instrumental: го­суд­а́рс­твен­ным
+neutral_prepositive: го­суд­а́рс­твен­ном
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+plural_nominative: го­суд­а́рс­твен­ные
+plural_genitive: го­суд­а́рс­твен­ных
+plural_dative: го­суд­а́рс­твен­ным
+plural_accusative: го­суд­а́рс­твен­ные
+plural_instrumental: го­суд­а́рс­твен­ны­ми
+plural_prepositive: го­суд­а́рс­твен­ных
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
-
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: го­суд­а́рс­тве­нен
+shortform_feminine: го­суд­а́рс­твен­на
+shortform_neutral: го­суд­а́рс­твен­но
+shortform_plural: го­суд­а́рс­твен­ны
 
 comparative:
 superlative:

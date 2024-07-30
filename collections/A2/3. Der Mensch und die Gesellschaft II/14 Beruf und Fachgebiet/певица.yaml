@@ -1,28 +1,28 @@
 name: певица
-name_accent:
+name_accent: пе­ви́­ца
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Sängerin
+genus: f
+declination_class: 1
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: пе­ви́­ца
+singular_genitive: пе­ви́­цы
+singular_dative: пе­ви́­це
+singular_accusative: пе­ви́­цу
+singular_instrumental: пе­ви́­цей
+singular_prepositive: пе­ви́­це
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пе­ви́­цы
+plural_genitive: пе­ви́ц
+plural_dative: пе­ви́ц­ам
+plural_accusative: пе­ви́ц
+plural_instrumental: пе­ви́­ца­ми
+plural_prepositive: пе­ви́ц­ах
 
 partitive: null
 locative: null

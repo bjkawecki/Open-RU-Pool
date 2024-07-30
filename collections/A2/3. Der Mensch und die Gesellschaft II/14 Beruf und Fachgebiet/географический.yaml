@@ -2,36 +2,38 @@ name: географический
 name_accent:
 wordclass: adjective
 translation:
+  - geographisch
+  - Erd-
+  - Geo-
+is_gradable: false
 
-is_gradable: true
+masculine_nominative: ге­ог­ра­фи́ч­ес­кий
+masculine_genitive: ге­ог­ра­фи́ч­ес­ко­го
+masculine_dative: ге­ог­ра­фи́ч­ес­ко­му
+masculine_accusative: ге­ог­ра­фи́ч­ес­кий
+masculine_instrumental: ге­ог­ра­фи́ч­ес­ким
+masculine_prepositive: ге­ог­ра­фи́ч­ес­ком
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: ге­ог­ра­фи́ч­ес­кая
+feminine_genitive: ге­ог­ра­фи́ч­ес­кой
+feminine_dative: ге­ог­ра­фи́ч­ес­кой
+feminine_accusative: ге­ог­ра­фи́ч­ес­кую
+feminine_instrumental: ге­ог­ра­фи́ч­ес­кой
+feminine_prepositive: ге­ог­ра­фи́ч­ес­кой
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: ге­ог­ра­фи́ч­ес­кое
+neutral_genitive: ге­ог­ра­фи́ч­ес­ко­го
+neutral_dative: ге­ог­ра­фи́ч­ес­ко­му
+neutral_accusative: ге­ог­ра­фи́ч­ес­кое
+neutral_instrumental: ге­ог­ра­фи́ч­ес­ким
+neutral_prepositive: ге­ог­ра­фи́ч­ес­ком
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
-
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ге­ог­ра­фи́ч­ес­кие
+plural_genitive: ге­ог­ра­фи́ч­ес­ких
+plural_dative: ге­ог­ра­фи́ч­ес­ким
+plural_accusative: ге­ог­ра­фи́ч­ес­кие
+plural_instrumental: ге­ог­ра­фи́ч­ес­ки­ми
+plural_prepositive: ге­ог­ра­фи́ч­ес­ких
 
 shortform_masculine:
 shortform_feminine:

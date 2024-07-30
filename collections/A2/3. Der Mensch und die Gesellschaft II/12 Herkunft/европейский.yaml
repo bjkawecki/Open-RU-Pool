@@ -1,37 +1,38 @@
 name: европейский
-name_accent:
+name_accent: ев­ро­пе́й­ский
 wordclass: adjective
 translation:
+  - europäisch
+  - Europa-
+is_gradable: false
 
-is_gradable: true
+masculine_nominative: ев­ро­пе́й­ский
+masculine_genitive: ев­ро­пе́й­ско­го
+masculine_dative: ев­ро­пе́й­ско­му
+masculine_accusative: ев­ро­пе́й­ский
+masculine_instrumental: ев­ро­пе́й­ским
+masculine_prepositive: ев­ро­пе́й­ском
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: ев­ро­пе́й­ская
+feminine_genitive: ев­ро­пе́й­ской
+feminine_dative: ев­ро­пе́й­ской
+feminine_accusative: ев­ро­пе́й­скую
+feminine_instrumental: ев­ро­пе́й­ской
+feminine_prepositive: ев­ро­пе́й­ской
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: ев­ро­пе́й­ское
+neutral_genitive: ев­ро­пе́й­ско­го
+neutral_dative: ев­ро­пе́й­ско­му
+neutral_accusative: ев­ро­пе́й­ское
+neutral_instrumental: ев­ро­пе́й­ским
+neutral_prepositive: ев­ро­пе́й­ском
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
-
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ев­ро­пе́й­ские
+plural_genitive: ев­ро­пе́й­ских
+plural_dative: ев­ро­пе́й­ским
+plural_accusative: ев­ро­пе́й­ские
+plural_instrumental: ев­ро­пе́й­ски­ми
+plural_prepositive: ев­ро­пе́й­ских
 
 shortform_masculine:
 shortform_feminine:

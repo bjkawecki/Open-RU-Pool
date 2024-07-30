@@ -60,6 +60,7 @@ pronoun_type:
 aspect:
   - imperfective
   - perfective
+  - dual
 
 conjugation_class:
   - 1

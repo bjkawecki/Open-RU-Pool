@@ -1,44 +1,45 @@
 name: рабочий
-name_accent:
+name_accent: ра­бо́­чий
 wordclass: adjective
 translation:
-
+  - Arbeiter-
+  - Arbeits-
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ра­бо́­чий
+masculine_genitive: ра­бо́­че­го
+masculine_dative: ра­бо́­че­му
+masculine_accusative: ра­бо́­чий
+masculine_instrumental: ра­бо́ч­им
+masculine_prepositive: ра­бо́ч­ем
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ра­бо́­чая
+feminine_genitive: ра­бо́­чей
+feminine_dative: ра­бо́­чей
+feminine_accusative: ра­бо́­чую
+feminine_instrumental: ра­бо́­чей
+feminine_prepositive: ра­бо́­чей
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ра­бо́­чее
+neutral_genitive: ра­бо́­че­го
+neutral_dative: ра­бо́­че­му
+neutral_accusative: ра­бо́­чее
+neutral_instrumental: ра­бо́ч­им
+neutral_prepositive: ра­бо́ч­ем
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ра­бо́­чие
+plural_genitive: ра­бо́ч­их
+plural_dative: ра­бо́ч­им
+plural_accusative: ра­бо́­чие
+plural_instrumental: ра­бо́­чи­ми
+plural_prepositive: ра­бо́ч­их
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ра­бо́ч
+shortform_feminine: ра­бо́­ча
+shortform_neutral: ра­бо́­че
+shortform_plural: ра­бо́­чи
 
-comparative:
+comparative: ра­бо́­чее
 superlative:
 
 comment: null

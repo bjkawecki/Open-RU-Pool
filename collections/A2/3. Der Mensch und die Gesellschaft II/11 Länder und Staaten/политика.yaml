@@ -1,28 +1,28 @@
 name: политика
-name_accent:
+name_accent: по­ли́­ти­ка
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Politik
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: по­ли́­ти­ка
+singular_genitive: по­ли́­ти­ки
+singular_dative: по­ли́­ти­ке
+singular_accusative: по­ли́­ти­ку
+singular_instrumental: по­ли́­ти­кой
+singular_prepositive: по­ли́­ти­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: по­ли́­ти­ки
+plural_genitive: по­ли́т­ик
+plural_dative: по­ли́­ти­кам
+plural_accusative: по­ли́­ти­ки
+plural_instrumental: по­ли́­ти­ка­ми
+plural_prepositive: по­ли́­ти­ках
 
 partitive: null
 locative: null

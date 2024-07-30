@@ -1,28 +1,29 @@
 name: депутат
-name_accent:
+name_accent: де­пут­а́т
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Abgeordneter
+  - Mandatar
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: де­пут­а́т
+singular_genitive: де­пу­та́­та
+singular_dative: де­пу­та́­ту
+singular_accusative: де­пу­та́­та
+singular_instrumental: де­пу­та́­том
+singular_prepositive: де­пу­та́­те
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: де­пу­та́­ты
+plural_genitive: де­пу­та́­тов
+plural_dative: де­пу­та́­там
+plural_accusative: де­пу­та́­ты
+plural_instrumental: де­пу­та́­та­ми
+plural_prepositive: де­пу­та́­тах
 
 partitive: null
 locative: null

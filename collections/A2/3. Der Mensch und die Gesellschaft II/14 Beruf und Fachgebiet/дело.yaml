@@ -1,28 +1,30 @@
 name: дело
-name_accent:
+name_accent: де́­ло
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Angelegenheit
+  - Geschäft
+  - Sache
+genus: n
+declination_class: 2
+stress: shifting
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: де́­ло
+singular_genitive: де́­ла
+singular_dative: де́­лу
+singular_accusative: де́­ло
+singular_instrumental: де́­лом
+singular_prepositive: де́­ле
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: де́­ла
+plural_genitive: дел
+plural_dative: де­ла́м
+plural_accusative: де́­ла
+plural_instrumental: де­ла́­ми
+plural_prepositive: де­ла́х
 
 partitive: null
 locative: null
