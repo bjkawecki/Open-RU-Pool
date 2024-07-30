@@ -1,28 +1,28 @@
 name: фермер
-name_accent:
+name_accent: фе́р­мер
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Landwirt
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: фе́р­мер
+singular_genitive: фе́р­ме­ра
+singular_dative: фе́р­ме­ру
+singular_accusative: фе́р­ме­ра
+singular_instrumental: фе́р­ме­ром
+singular_prepositive: фе́р­ме­ре
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: фе́р­ме­ры
+plural_genitive: фе́р­ме­ров
+plural_dative: фе́р­ме­рам
+plural_accusative: фе́р­ме­ров
+plural_instrumental: фе́р­ме­ра­ми
+plural_prepositive: фе́р­ме­рах
 
 partitive: null
 locative: null

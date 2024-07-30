@@ -1,37 +1,39 @@
 name: философский
-name_accent:
+name_accent: фи­лос­о́фс­кий
 wordclass: adjective
 translation:
+  - philosophisch
+  - Philologie
 
-is_gradable: true
+is_gradable: false
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
+masculine_nominative: фи­лос­о́фс­кий
+masculine_genitive: фи­лос­о́фс­ко­го
+masculine_dative: фи­лос­о́фс­ко­му
+masculine_accusative: фи­лос­о́фс­кий
+masculine_instrumental: фи­лос­о́фс­ким
 masculine_prepositive:
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: фи­лос­о́фс­кая
+feminine_genitive: фи­лос­о́фс­кой
+feminine_dative: фи­лос­о́фс­кой
+feminine_accusative: фи­лос­о́фс­кую
+feminine_instrumental: фи­лос­о́фс­кой
+feminine_prepositive: фи­лос­о́фс­кой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: фи­лос­о́фс­кое
+neutral_genitive: фи­лос­о́фс­ко­го
+neutral_dative: фи­лос­о́фс­ко­му
+neutral_accusative: фи­лос­о́фс­кое
+neutral_instrumental: фи­лос­о́фс­ким
+neutral_prepositive: фи­лос­о́фс­ком
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: фи­лос­о́фс­кие
+plural_genitive: фи­лос­о́фс­ким
+plural_dative: фи­лос­о́фс­ким
+plural_accusative: фи­лос­о́фс­кие
+plural_instrumental: фи­лос­о́фс­ки­ми
+plural_prepositive: фи­лос­о́фс­ких
 
 shortform_masculine:
 shortform_feminine:

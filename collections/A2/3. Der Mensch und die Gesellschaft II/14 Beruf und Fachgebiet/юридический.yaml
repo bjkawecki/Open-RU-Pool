@@ -1,37 +1,39 @@
 name: юридический
-name_accent:
+name_accent: юри­ди́ч­ес­кий
 wordclass: adjective
 translation:
+  - juristisch
+  - rechtswissenschaftlich
+  - Rechts-
+is_gradable: false
 
-is_gradable: true
+masculine_nominative: юри­ди́ч­ес­кий
+masculine_genitive: юри­ди́ч­ес­ко­го
+masculine_dative: юри­ди́ч­ес­ко­му
+masculine_accusative: юри­ди́ч­ес­кий
+masculine_instrumental: юри­ди́ч­ес­ким
+masculine_prepositive: юри­ди́ч­ес­ком
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: юри­ди́ч­ес­кая
+feminine_genitive: юри­ди́ч­ес­кой
+feminine_dative: юри­ди́ч­ес­кой
+feminine_accusative: юри­ди́ч­ес­кую
+feminine_instrumental: юри­ди́ч­ес­кой
+feminine_prepositive: юри­ди́ч­ес­кой
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: юри­ди́ч­ес­кое
+neutral_genitive: юри­ди́ч­ес­ко­го
+neutral_dative: юри­ди́ч­ес­ко­му
+neutral_accusative: юри­ди́ч­ес­кое
+neutral_instrumental: юри­ди́ч­ес­ким
+neutral_prepositive: юри­ди́ч­ес­ком
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
-
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: юри­ди́ч­ес­кие
+plural_genitive: юри­ди́ч­ес­ких
+plural_dative: юри­ди́ч­ес­ким
+plural_accusative: юри­ди́ч­ес­кие
+plural_instrumental: юри­ди́ч­ес­ки­ми
+plural_prepositive: юри­ди́ч­ес­ких
 
 shortform_masculine:
 shortform_feminine:

@@ -1,37 +1,40 @@
 name: физический
-name_accent:
+name_accent: фи­зи́ч­ес­кий
 wordclass: adjective
 translation:
+  - körperlich
+  - Körper-
+  - physisch
+  - Physik-
+is_gradable: false
 
-is_gradable: true
+masculine_nominative: фи­зи́ч­ес­кий
+masculine_genitive: фи­зи́ч­ес­ко­го
+masculine_dative: фи­зи́ч­ес­ко­му
+masculine_accusative: фи­зи́ч­ес­кий
+masculine_instrumental: фи­зи́ч­ес­ким
+masculine_prepositive: фи­зи́ч­ес­ком
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: фи­зи́ч­ес­кая
+feminine_genitive: фи­зи́ч­ес­кой
+feminine_dative: фи­зи́ч­ес­кой
+feminine_accusative: фи­зи́ч­ес­кую
+feminine_instrumental: фи­зи́ч­ес­кой
+feminine_prepositive: фи­зи́ч­ес­кой
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: фи­зи́ч­ес­кое
+neutral_genitive: фи­зи́ч­ес­ко­го
+neutral_dative: фи­зи́ч­ес­ко­му
+neutral_accusative: фи­зи́ч­ес­кое
+neutral_instrumental: фи­зи́ч­ес­ким
+neutral_prepositive: фи­зи́ч­ес­ком
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
-
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: фи­зи́ч­ес­кие
+plural_genitive: фи­зи́ч­ес­ких
+plural_dative: фи­зи́ч­ес­ким
+plural_accusative: фи­зи́ч­ес­кие
+plural_instrumental: фи­зи́ч­ес­ки­ми
+plural_prepositive: фи­зи́ч­ес­ких
 
 shortform_masculine:
 shortform_feminine:
