@@ -1,44 +1,46 @@
 name: общий
-name_accent:
+name_accent: о́б­щий
 wordclass: adjective
 translation:
-
+  - gemeinsam
+  - Gesamt-
+  - allgemein
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: о́б­щий
+masculine_genitive: о́б­ще­го
+masculine_dative: о́б­ще­му
+masculine_accusative: о́б­щий
+masculine_instrumental: о́б­щим
+masculine_prepositive: о́б­щем
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: о́б­щая
+feminine_genitive: о́б­щей
+feminine_dative: о́б­щей
+feminine_accusative: о́б­щую
+feminine_instrumental: о́б­щей
+feminine_prepositive: о́б­щей
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: о́б­щее
+neutral_genitive: о́б­ще­го
+neutral_dative: о́б­ще­му
+neutral_accusative: о́б­щее
+neutral_instrumental: о́б­щим
+neutral_prepositive: о́б­щем
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: о́б­щие
+plural_genitive: о́б­щих
+plural_dative: о́б­щим
+plural_accusative: о́б­щие
+plural_instrumental: о́б­щи­ми
+plural_prepositive: о́б­щих
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: общ
+shortform_feminine: об­ща́
+shortform_neutral: о́б­ще
+shortform_plural: о́б­щи
 
-comparative:
+comparative: об­ще́е
 superlative:
 
 comment: null

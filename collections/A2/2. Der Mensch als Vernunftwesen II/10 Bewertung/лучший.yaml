@@ -1,45 +1,45 @@
 name: лучший
-name_accent:
+name_accent: лу́ч­ший
 wordclass: adjective
 translation:
+  - besser
+is_gradable: false
 
-is_gradable: true
+masculine_nominative: лу́ч­ший
+masculine_genitive: лу́ч­ше­го
+masculine_dative: лу́ч­ше­му
+masculine_accusative: лу́ч­ший
+masculine_instrumental: лу́ч­шим
+masculine_prepositive: лу́ч­шем
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+feminine_nominative: лу́ч­шая
+feminine_genitive: лу́ч­шей
+feminine_dative: лу́ч­шую
+feminine_accusative: лу́ч­шей
+feminine_instrumental: лу́ч­шей
+feminine_prepositive: лу́ч­шей
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+neutral_nominative: лу́ч­шее
+neutral_genitive: лу́ч­ше­го
+neutral_dative: лу́ч­ше­му
+neutral_accusative: лу́ч­шее
+neutral_instrumental: лу́ч­шим
+neutral_prepositive: лу́ч­шем
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+plural_nominative: лу́ч­шие
+plural_genitive: лу́ч­ших
+plural_dative: лу́ч­шим
+plural_accusative: лу́ч­шие
+plural_instrumental: лу́ч­ши­ми
+plural_prepositive: лу́ч­ших
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+shortform_masculine: лу́ч­шем
+shortform_feminine: лу́ч­шей
+shortform_neutral: лу́ч­шем
+shortform_plural: лу́ч­ших
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
-
-comparative:
-superlative:
+comparative: null
+superlative: null
 
 comment: null
 usage: null

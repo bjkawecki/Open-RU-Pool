@@ -1,44 +1,46 @@
 name: средний
-name_accent:
+name_accent: сре́д­ний
 wordclass: adjective
 translation:
-
+  - mittlerer
+  - Mittel
+  - durchschnittlich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: сре́д­ний
+masculine_genitive: сре́д­не­го
+masculine_dative: сре́д­не­му
+masculine_accusative: сре́д­ний
+masculine_instrumental: сре́д­ним
+masculine_prepositive: сре́д­нем
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: сре́д­няя
+feminine_genitive: сре́д­ней
+feminine_dative: сре́д­ней
+feminine_accusative: сре́д­нюю
+feminine_instrumental: сре́д­ней
+feminine_prepositive: сре́д­ней
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: сре́д­нее
+neutral_genitive: сре́д­не­го
+neutral_dative: сре́д­не­му
+neutral_accusative: сре́д­нее
+neutral_instrumental: сре́д­ним
+neutral_prepositive: сре́д­нем
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: сре́д­ние
+plural_genitive: сре́д­них
+plural_dative: сре́д­ним
+plural_accusative: сре́д­ние
+plural_instrumental: сре́д­ни­ми
+plural_prepositive: сре́д­них
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: сре́­ден
+shortform_feminine: сре́д­ня
+shortform_neutral: сре́д­не
+shortform_plural: сре́д­ни
 
-comparative:
+comparative: сре́д­нее
 superlative:
 
 comment: null

@@ -1,44 +1,45 @@
 name: прекрасный
-name_accent:
+name_accent: прек­ра́­сный
 wordclass: adjective
 translation:
-
+  - wunderschön
+  - prächtig
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: прек­ра́­сный
+masculine_genitive: прек­ра́­сно­го
+masculine_dative: прек­ра́­сно­му
+masculine_accusative: прек­ра́­сный
+masculine_instrumental: прек­ра́­сным
+masculine_prepositive: прек­ра́­сном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: прек­ра́­сная
+feminine_genitive: прек­ра́­сной
+feminine_dative: прек­ра́­сной
+feminine_accusative: прек­ра́­сную
+feminine_instrumental: прек­ра́­сной
+feminine_prepositive: прек­ра́­сной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: прек­ра́­сное
+neutral_genitive: прек­ра́­сно­го
+neutral_dative: прек­ра́­сно­му
+neutral_accusative: прек­ра́­сное
+neutral_instrumental: прек­ра́­сным
+neutral_prepositive: прек­ра́­сном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: прек­ра́­сные
+plural_genitive: прек­ра́­сных
+plural_dative: прек­ра́­сным
+plural_accusative: прек­ра́­сные
+plural_instrumental: прек­ра́­сны­ми
+plural_prepositive: прек­ра́­сных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: прек­ра́­сен
+shortform_feminine: прек­ра́­сна
+shortform_neutral: прек­ра́­сно
+shortform_plural: прек­ра́­сны
 
-comparative:
+comparative: прек­ра́­снее
 superlative:
 
 comment: null

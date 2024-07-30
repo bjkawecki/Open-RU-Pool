@@ -1,44 +1,46 @@
 name: точный
-name_accent:
+name_accent: то́ч­ный
 wordclass: adjective
 translation:
-
+  - genau
+  - exakt
+  - Fein-
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: то́ч­ный
+masculine_genitive: то́ч­но­го
+masculine_dative: то́ч­но­му
+masculine_accusative: то́ч­ный
+masculine_instrumental: то́ч­ным
+masculine_prepositive: то́ч­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: то́ч­ная
+feminine_genitive: то́ч­ной
+feminine_dative: то́ч­ной
+feminine_accusative: то́ч­ную
+feminine_instrumental: то́ч­ной
+feminine_prepositive: то́ч­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: то́ч­ное
+neutral_genitive: то́ч­но­го
+neutral_dative: то́ч­но­му
+neutral_accusative: то́ч­ное
+neutral_instrumental: то́ч­ным
+neutral_prepositive: то́ч­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: то́ч­ные
+plural_genitive: то́ч­ных
+plural_dative: то́ч­ным
+plural_accusative: то́ч­ные
+plural_instrumental: то́ч­ны­ми
+plural_prepositive: то́ч­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: то́­чен
+shortform_feminine: точ­на́
+shortform_neutral: то́ч­но
+shortform_plural: то́ч­ны
 
-comparative:
+comparative: точ­не́е
 superlative:
 
 comment: null

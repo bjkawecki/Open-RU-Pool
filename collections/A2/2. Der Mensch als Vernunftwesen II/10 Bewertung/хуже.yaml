@@ -1,8 +1,9 @@
 name: хуже
-name_accent:
+name_accent: ху́­же
 wordclass: adverb
 translation:
-
+  - schlechter
+  - schlimmer
 comment: null
 usage: null
 etymology: null

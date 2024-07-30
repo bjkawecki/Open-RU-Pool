@@ -6,9 +6,9 @@ aspect:
 aspect_partner:
 conjugation_class:
 
-is_motion_verb:
-motion_partner:
-direction:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
 direct_object_case: null
 direct_object_preposition: null

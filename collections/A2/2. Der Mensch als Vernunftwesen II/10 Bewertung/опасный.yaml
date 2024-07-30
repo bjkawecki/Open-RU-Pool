@@ -1,44 +1,44 @@
 name: опасный
-name_accent:
+name_accent: опа́сный
 wordclass: adjective
 translation:
-
+  - gefährlich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: опа́сный
+masculine_genitive: оп­а́с­но­го
+masculine_dative: оп­а́с­но­му
+masculine_accusative: опа́сный
+masculine_instrumental: оп­а́с­ным
+masculine_prepositive: оп­а́с­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: оп­а́с­ная
+feminine_genitive: оп­а́с­ной
+feminine_dative: оп­а́с­ной
+feminine_accusative: оп­а́с­ную
+feminine_instrumental: оп­а́с­ной
+feminine_prepositive: оп­а́с­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: оп­а́с­ное
+neutral_genitive: оп­а́с­но­го
+neutral_dative: оп­а́с­но­му
+neutral_accusative: оп­а́с­ное
+neutral_instrumental: оп­а́с­ным
+neutral_prepositive: оп­а́с­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: оп­а́с­ные
+plural_genitive: оп­а́с­ных
+plural_dative: оп­а́с­ным
+plural_accusative: оп­а́с­ные
+plural_instrumental: оп­а́с­ны­ми
+plural_prepositive: оп­а́с­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: опа́­сен
+shortform_feminine: оп­а́с­на
+shortform_neutral: оп­а́с­но
+shortform_plural: оп­а́с­ны
 
-comparative:
+comparative: оп­а́с­нее
 superlative:
 
 comment: null

@@ -1,44 +1,44 @@
 name: невозможный
-name_accent:
+name_accent: не­воз­мо́­жный
 wordclass: adjective
 translation:
-
+  - unmöglich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: не­воз­мо́­жный
+masculine_genitive: не­воз­мо́­жно­го
+masculine_dative: не­воз­мо́­жно­му
+masculine_accusative: не­воз­мо́­жный
+masculine_instrumental: не­воз­мо́­жным
+masculine_prepositive: не­воз­мо́­жном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: не­воз­мо́­жная
+feminine_genitive: не­воз­мо́­жной
+feminine_dative: не­воз­мо́­жной
+feminine_accusative: не­воз­мо́­жную
+feminine_instrumental: не­воз­мо́­жной
+feminine_prepositive: не­воз­мо́­жной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: не­воз­мо́­жное
+neutral_genitive: не­воз­мо́­жно­го
+neutral_dative: не­воз­мо́­жно­му
+neutral_accusative: не­воз­мо́­жное
+neutral_instrumental: не­воз­мо́­жным
+neutral_prepositive: не­воз­мо́­жном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: не­воз­мо́­жные
+plural_genitive: не­воз­мо́­жных
+plural_dative: не­воз­мо́­жным
+plural_accusative: не­воз­мо́­жные
+plural_instrumental: не­воз­мо́­жны­ми
+plural_prepositive: не­воз­мо́­жных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: не­воз­мо́­жен
+shortform_feminine: не­воз­мо́­жна
+shortform_neutral: не­воз­мо́­жно
+shortform_plural: не­воз­мо́­жны
 
-comparative:
+comparative: не­воз­мо́­жнее
 superlative:
 
 comment: null

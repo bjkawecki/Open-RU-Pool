@@ -1,44 +1,44 @@
 name: последний
-name_accent:
+name_accent: пос­ле́­дний
 wordclass: adjective
 translation:
-
+  - letzter
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: пос­ле́­дний
+masculine_genitive: пос­ле́­дне­го
+masculine_dative: пос­ле́­дне­му
+masculine_accusative: пос­ле́­дний
+masculine_instrumental: пос­ле́­дним
+masculine_prepositive: пос­ле́­днем
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: пос­ле́­дняя
+feminine_genitive: пос­ле́­дней
+feminine_dative: пос­ле́­дней
+feminine_accusative: пос­ле́­дней
+feminine_instrumental: пос­ле́­днюю
+feminine_prepositive: пос­ле́­дней
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: пос­ле́­днее
+neutral_genitive: пос­ле́­дне­го
+neutral_dative: пос­ле́­дне­му
+neutral_accusative: пос­ле́­днее
+neutral_instrumental: пос­ле́­дним
+neutral_prepositive: пос­ле́­днем
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пос­ле́­дние
+plural_genitive: пос­ле́­дних
+plural_dative: пос­ле́­дним
+plural_accusative: пос­ле́­дние
+plural_instrumental: пос­ле́­дни­ми
+plural_prepositive: пос­ле́­дних
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: пос­ле́­ден
+shortform_feminine: пос­ле́­дня
+shortform_neutral: пос­ле́­дне
+shortform_plural: пос­ле́­дни
 
-comparative:
+comparative: пос­ле́­днее
 superlative:
 
 comment: null

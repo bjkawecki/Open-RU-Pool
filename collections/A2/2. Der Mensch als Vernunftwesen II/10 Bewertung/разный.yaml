@@ -2,43 +2,44 @@ name: разный
 name_accent:
 wordclass: adjective
 translation:
-
+  - verschieden
+  - unterschiedlich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ра́з­ный
+masculine_genitive: ра́з­но­го
+masculine_dative: ра́з­но­му
+masculine_accusative: ра́з­ный
+masculine_instrumental: ра́з­ным
+masculine_prepositive: ра́з­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ра́з­ная
+feminine_genitive: ра́з­ной
+feminine_dative: ра́з­ной
+feminine_accusative: ра́з­ную
+feminine_instrumental: ра́з­ной
+feminine_prepositive: ра́з­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ра́з­ное
+neutral_genitive: ра́з­но­го
+neutral_dative: ра́з­но­му
+neutral_accusative: ра́з­ное
+neutral_instrumental: ра́з­ным
+neutral_prepositive: ра́з­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ра́з­ные
+plural_genitive: ра́з­ных
+plural_dative: ра́з­ным
+plural_accusative: ра́з­ные
+plural_instrumental: ра́з­ны­ми
+plural_prepositive: ра́з­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ра́­зен
+shortform_feminine: ра́з­на
+shortform_neutral: ра́з­но
+shortform_plural: ра́з­ны
 
-comparative:
+comparative: ра́з­нее
 superlative:
 
 comment: null

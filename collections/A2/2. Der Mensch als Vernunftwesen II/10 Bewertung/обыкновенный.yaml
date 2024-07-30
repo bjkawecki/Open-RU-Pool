@@ -2,43 +2,44 @@ name: обыкновенный
 name_accent:
 wordclass: adjective
 translation:
-
+  - gewöhnlich
+  - alltäglich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: об­ык­но­ве́н­ный
+masculine_genitive: об­ык­но­ве́н­но­го
+masculine_dative: об­ык­но­ве́н­но­му
+masculine_accusative: об­ык­но­ве́н­ный
+masculine_instrumental: об­ык­но­ве́н­ным
+masculine_prepositive: об­ык­но­ве́н­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: об­ык­но­ве́н­ная
+feminine_genitive: об­ык­но­ве́н­ной
+feminine_dative: об­ык­но­ве́н­ной
+feminine_accusative: об­ык­но­ве́н­ную
+feminine_instrumental: об­ык­но­ве́н­ной
+feminine_prepositive: об­ык­но­ве́н­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: об­ык­но­ве́н­ное
+neutral_genitive: об­ык­но­ве́н­но­го
+neutral_dative: об­ык­но­ве́н­но­му
+neutral_accusative: об­ык­но­ве́н­ное
+neutral_instrumental: об­ык­но­ве́н­ным
+neutral_prepositive: об­ык­но­ве́н­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: об­ык­но­ве́н­ные
+plural_genitive: об­ык­но­ве́н­ных
+plural_dative: об­ык­но­ве́н­ным
+plural_accusative: об­ык­но­ве́н­ные
+plural_instrumental: об­ык­но­ве́н­ны­ми
+plural_prepositive: об­ык­но­ве́н­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: об­ык­но­ве́н­ен
+shortform_feminine: об­ык­но­ве́н­на
+shortform_neutral: об­ык­но­ве́н­но
+shortform_plural: об­ык­но­ве́н­ны
 
-comparative:
+comparative: об­ык­но­ве́н­нее
 superlative:
 
 comment: null

@@ -1,44 +1,44 @@
 name: отличный
-name_accent:
+name_accent: отли́чный
 wordclass: adjective
 translation:
-
+  - ausgezeichnet
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: отли́чный
+masculine_genitive: от­ли́­чно­го
+masculine_dative: от­ли́­чно­му
+masculine_accusative: отли́чный
+masculine_instrumental: от­ли́­чным
+masculine_prepositive: от­ли́­чном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: от­ли́­чная
+feminine_genitive: от­ли́­чной
+feminine_dative: от­ли́­чной
+feminine_accusative: от­ли́­чную
+feminine_instrumental: от­ли́­чной
+feminine_prepositive: от­ли́­чной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: от­ли́­чное
+neutral_genitive: от­ли́­чно­го
+neutral_dative: от­ли́­чно­му
+neutral_accusative: от­ли́­чное
+neutral_instrumental: от­ли́­чным
+neutral_prepositive: от­ли́­чном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: от­ли́­чные
+plural_genitive: от­ли́­чных
+plural_dative: от­ли́­чным
+plural_accusative: от­ли́­чные
+plural_instrumental: от­ли́­чны­ми
+plural_prepositive: от­ли́­чных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: от­ли́­чен
+shortform_feminine: от­ли́­чна
+shortform_neutral: от­ли́­чно
+shortform_plural: от­ли́­чны
 
-comparative:
+comparative: от­ли́­чнее
 superlative:
 
 comment: null

@@ -4,6 +4,7 @@ wordclass: adjective
 translation:
   - leicht
 is_gradable: true
+
 masculine_nominative: лёгкий
 masculine_genitive: лёгкого
 masculine_dative: лёгкому

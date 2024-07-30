@@ -1,28 +1,29 @@
 name: молодец
-name_accent:
+name_accent: мо­лод­е́ц
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Prachtkerl
+  - toller Kerl
+genus: m
+declination_class: 2
+stress: suffix
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: мо­лод­е́ц
+singular_genitive: мо­лод­ца́
+singular_dative: мо­лод­цу́
+singular_accusative: мо­лод­ца́
+singular_instrumental: мо­лод­цо́м
+singular_prepositive: мо­лод­це́
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: мо­лод­цы́
+plural_genitive: мо­лод­цо́в
+plural_dative: мо­лод­ца́м
+plural_accusative: мо­лод­цо́в
+plural_instrumental: мо­лод­ца́­ми
+plural_prepositive: мо­лод­ца́х
 
 partitive: null
 locative: null

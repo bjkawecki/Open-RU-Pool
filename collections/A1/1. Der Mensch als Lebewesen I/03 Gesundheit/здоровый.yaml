@@ -4,6 +4,7 @@ wordclass: adjective
 translation:
   - gesund
 is_gradable: true
+
 masculine_nominative: здоро́вый
 masculine_genitive: здорового
 masculine_dative: здо­ро́­во­му

@@ -4,6 +4,7 @@ wordclass: adjective
 translation:
   - grün
 is_gradable: true
+
 masculine_nominative: зелёный
 masculine_genitive: зе­лё­но­го
 masculine_dative: зе­лё­но­му

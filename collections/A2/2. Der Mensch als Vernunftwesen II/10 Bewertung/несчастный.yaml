@@ -1,44 +1,44 @@
 name: несчастный
-name_accent:
+name_accent: нес­ча́ст­ный
 wordclass: adjective
 translation:
-
+  - unglücklich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: нес­ча́ст­ный
+masculine_genitive: нес­ча́ст­но­го
+masculine_dative: нес­ча́ст­но­му
+masculine_accusative: нес­ча́ст­ный
+masculine_instrumental: нес­ча́ст­ным
+masculine_prepositive: нес­ча́ст­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: нес­ча́ст­ная
+feminine_genitive: нес­ча́ст­ной
+feminine_dative: нес­ча́ст­ной
+feminine_accusative: нес­ча́ст­ную
+feminine_instrumental: нес­ча́ст­ной
+feminine_prepositive: нес­ча́ст­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: нес­ча́ст­ное
+neutral_genitive: нес­ча́ст­но­го
+neutral_dative: нес­ча́ст­но­му
+neutral_accusative: нес­ча́ст­ное
+neutral_instrumental: нес­ча́ст­ным
+neutral_prepositive: нес­ча́ст­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: нес­ча́ст­ные
+plural_genitive: нес­ча́ст­ных
+plural_dative: нес­ча́ст­ным
+plural_accusative: нес­ча́ст­ные
+plural_instrumental: нес­ча́ст­ны­ми
+plural_prepositive: нес­ча́ст­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: нес­ча́­стен
+shortform_feminine: нес­ча́ст­на
+shortform_neutral: нес­ча́ст­но
+shortform_plural: нес­ча́ст­ны
 
-comparative:
+comparative: нес­ча́ст­нее
 superlative:
 
 comment: null

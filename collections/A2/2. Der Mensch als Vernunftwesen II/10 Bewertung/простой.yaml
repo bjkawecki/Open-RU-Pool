@@ -1,44 +1,44 @@
 name: простой
-name_accent:
+name_accent: прос­то́й
 wordclass: adjective
 translation:
-
+  - einfach
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: прос­то́й
+masculine_genitive: прос­то́­го
+masculine_dative: прос­то́­му
+masculine_accusative: прос­то́й
+masculine_instrumental: прос­ты́м
+masculine_prepositive: прос­то́м
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: прос­та́я
+feminine_genitive: прос­то́й
+feminine_dative: прос­то́й
+feminine_accusative: прос­ту́ю
+feminine_instrumental: прос­то́й
+feminine_prepositive: прос­то́й
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: прос­то́е
+neutral_genitive: прос­то́­го
+neutral_dative: прос­то́­му
+neutral_accusative: прос­то́е
+neutral_instrumental: прос­ты́м
+neutral_prepositive: прос­то́м
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: прос­ты́е
+plural_genitive: прос­ты́х
+plural_dative: прос­ты́м
+plural_accusative: прос­ты́е
+plural_instrumental: прос­ты́­ми
+plural_prepositive: прос­ты́х
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: прост
+shortform_feminine: прос­та́
+shortform_neutral: про́с­то
+shortform_plural: про́с­ты
 
-comparative:
+comparative: про́­ще
 superlative:
 
 comment: null

@@ -1,10 +1,11 @@
 name: Молодец
-name_accent:
+name_accent: Мо­лод­е́ц
 wordclass: phrase
 translation:
-
+  - Gut gemacht!
+  - Bravo!
 metaphrase:
 
-comment: null
+comment: Einzahl, unabhängig vom Geschlecht
 usage: null
 etymology: null

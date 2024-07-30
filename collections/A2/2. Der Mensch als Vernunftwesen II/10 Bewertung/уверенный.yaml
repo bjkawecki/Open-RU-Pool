@@ -1,44 +1,45 @@
 name: уверенный
-name_accent:
+name_accent: уве́­рен­ный
 wordclass: adjective
 translation:
-
+  - sicher
+  - zuversichtlich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: уве́­рен­ный
+masculine_genitive: уве́­рен­но­го
+masculine_dative: уве́­рен­но­му
+masculine_accusative: уве́­рен­ный
+masculine_instrumental: уве́­рен­ным
+masculine_prepositive: уве́­рен­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: уве́­рен­ная
+feminine_genitive: уве́­рен­ной
+feminine_dative: уве́­рен­ной
+feminine_accusative: уве́­рен­ную
+feminine_instrumental: уве́­рен­ной
+feminine_prepositive: уве́­рен­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: уве́­рен­ное
+neutral_genitive: уве́­рен­но­го
+neutral_dative: уве́­рен­но­му
+neutral_accusative: уве́­рен­ное
+neutral_instrumental: уве́­рен­ным
+neutral_prepositive: уве́­рен­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: уве́­рен­ные
+plural_genitive: уве́­рен­ных
+plural_dative: уве́­рен­ным
+plural_accusative: уве́­рен­ные
+plural_instrumental: уве́­рен­ны­ми
+plural_prepositive: уве́­рен­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: уве́­рен
+shortform_feminine: уве́­рен­на
+shortform_neutral: уве́­рен­но
+shortform_plural: уве́­рен­ны
 
-comparative:
+comparative: уве́­рен­нее
 superlative:
 
 comment: null

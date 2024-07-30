@@ -1,44 +1,45 @@
 name: готовый
-name_accent:
+name_accent: го­то́­вый
 wordclass: adjective
 translation:
-
+  - bereit
+  - fertig
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: го­то́­вый
+masculine_genitive: го­то́­во­го
+masculine_dative: го­то́­во­му
+masculine_accusative: го­то́­вый
+masculine_instrumental: го­то́в­ым
+masculine_prepositive: го­то́в­ом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: го­то́­вая
+feminine_genitive: го­то́­вой
+feminine_dative: го­то́­вой
+feminine_accusative: го­то́­вую
+feminine_instrumental: го­то́­вой
+feminine_prepositive: го­то́­вой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: го­то́­вое
+neutral_genitive: го­то́­во­го
+neutral_dative: го­то́­во­му
+neutral_accusative: го­то́­вое
+neutral_instrumental: го­то́в­ым
+neutral_prepositive: го­то́в­ом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: го­то́­вые
+plural_genitive: го­то́в­ых
+plural_dative: го­то́в­ым
+plural_accusative: го­то́­вые
+plural_instrumental: го­то́­вы­ми
+plural_prepositive: го­то́в­ых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: го­то́в
+shortform_feminine: го­то́­ва
+shortform_neutral: го­то́­во
+shortform_plural: го­то́­вы
 
-comparative:
+comparative: го­то́­вее
 superlative:
 
 comment: null

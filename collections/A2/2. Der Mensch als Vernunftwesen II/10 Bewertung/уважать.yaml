@@ -1,45 +1,52 @@
 name: уважать
-name_accent:
+name_accent: ува­жа́ть
 wordclass: adjective
 translation:
 
-is_gradable: true
+aspect: imperfective
+aspect_partner: ува́жить
+conjugation_class: 1
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+is_motion_verb: false
+motion_partner: null
+direction: null
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+direct_object_case: accusative
+direct_object_preposition: null
+indirect_object_case: null
+indirect_object_preposition: null
+is_reflexive: false
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+present_singular_1: ува­жа́ю
+present_singular_2: ува­жа́­ешь
+present_singular_3: ува­жа́­ет
+present_plural_1: ува­жа́­ем
+present_plural_2: ува­жа́­ете
+present_plural_3: ува­жа́­ют
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+past_masculine: ува­жа́л
+past_feminine: ува­жа́­ла
+past_neutral: ува­жа́­ло
+past_plural: ува­жа́­ли
 
-comparative:
-superlative:
+participle_active_present: ува­жа́­ющий
+participle_active_past: ува­жа́в­ший
+
+participle_adverbial_present: ува­жа́я
+participle_adverbial_passive: ува­жа́в­ши, ува­жа́в
+
+participle_passive_present: ува­жа́­емый
+participle_passive_past:
+
+imperative_singular: ува­жа́й
+imperative_plural: ува­жа́й­те
 
 comment: null
 usage: null

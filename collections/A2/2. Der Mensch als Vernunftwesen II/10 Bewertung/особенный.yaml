@@ -1,44 +1,44 @@
 name: особенный
-name_accent:
+name_accent: осо́­бен­ный
 wordclass: adjective
 translation:
-
+  - besonders
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: осо́­бен­ный
+masculine_genitive: осо́­бен­но­го
+masculine_dative: осо́­бен­но­му
+masculine_accusative: осо́­бен­ный
+masculine_instrumental: осо́­бен­ным
+masculine_prepositive: осо́­бен­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: осо́­бен­ная
+feminine_genitive: осо́­бен­ной
+feminine_dative: осо́­бен­ной
+feminine_accusative: осо́­бен­ную
+feminine_instrumental: осо́­бен­ной
+feminine_prepositive: осо́­бен­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: осо́­бен­ное
+neutral_genitive: осо́­бен­но­го
+neutral_dative: осо́­бен­но­му
+neutral_accusative: осо́­бен­ное
+neutral_instrumental: осо́­бен­ным
+neutral_prepositive: осо́­бен­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: осо́­бен­ные
+plural_genitive: осо́­бен­ным
+plural_dative: осо́­бен­ных
+plural_accusative: осо́­бен­ные
+plural_instrumental: осо́­бен­ны­ми
+plural_prepositive: осо́­бен­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: осо́­бен
+shortform_feminine: осо́­бен­на
+shortform_neutral: осо́­бен­но
+shortform_plural: осо́­бен­ны
 
-comparative:
+comparative: осо́­бен­нее
 superlative:
 
 comment: null

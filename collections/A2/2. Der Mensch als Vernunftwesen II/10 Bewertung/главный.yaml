@@ -1,44 +1,44 @@
 name: главный
-name_accent:
+name_accent: гла́в­ный
 wordclass: adjective
 translation:
-
+  - Haupt-
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: гла́в­ный
+masculine_genitive: гла́в­но­го
+masculine_dative: гла́в­но­му
+masculine_accusative: гла́в­ный
+masculine_instrumental: гла́в­ным
+masculine_prepositive: гла́в­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: гла́в­ная
+feminine_genitive: гла́в­ной
+feminine_dative: гла́в­ной
+feminine_accusative: гла́в­ную
+feminine_instrumental: гла́в­ной
+feminine_prepositive: гла́в­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: гла́в­ное
+neutral_genitive: гла́в­но­го
+neutral_dative: гла́в­но­му
+neutral_accusative: гла́в­ное
+neutral_instrumental: гла́в­ным
+neutral_prepositive: гла́в­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: гла́в­ные
+plural_genitive: гла́в­ных
+plural_dative: гла́в­ным
+plural_accusative: гла́в­ные
+plural_instrumental: гла́в­ны­ми
+plural_prepositive: гла́в­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: гла́­вен
+shortform_feminine: глав­на́
+shortform_neutral: гла́в­но
+shortform_plural: гла́в­ны
 
-comparative:
+comparative: глав­не́е
 superlative:
 
 comment: null

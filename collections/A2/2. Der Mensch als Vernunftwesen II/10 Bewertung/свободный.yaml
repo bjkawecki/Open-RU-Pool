@@ -1,44 +1,44 @@
 name: свободный
-name_accent:
+name_accent: са­мос­то­я́т­ель­ный
 wordclass: adjective
 translation:
-
+  - frei
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: са­мос­то­я́т­ель­ный
+masculine_genitive: са­мос­то­я́т­ель­но­го
+masculine_dative: са­мос­то­я́т­ель­но­му
+masculine_accusative: са­мос­то­я́т­ель­ный
+masculine_instrumental: са­мос­то­я́т­ель­ным
+masculine_prepositive: са­мос­то­я́т­ель­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: са­мос­то­я́т­ель­ная
+feminine_genitive: са­мос­то­я́т­ель­ной
+feminine_dative: са­мос­то­я́т­ель­ной
+feminine_accusative: са­мос­то­я́т­ель­ную
+feminine_instrumental: са­мос­то­я́т­ель­ной
+feminine_prepositive: са­мос­то­я́т­ель­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: са­мос­то­я́т­ель­ное
+neutral_genitive: са­мос­то­я́т­ель­но­го
+neutral_dative: са­мос­то­я́т­ель­но­му
+neutral_accusative: са­мос­то­я́т­ель­ное
+neutral_instrumental: са­мос­то­я́т­ель­ным
+neutral_prepositive: са­мос­то­я́т­ель­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: са­мос­то­я́т­ель­ные
+plural_genitive: са­мос­то­я́т­ель­ных
+plural_dative: са­мос­то­я́т­ель­ным
+plural_accusative: са­мос­то­я́т­ель­ные
+plural_instrumental: са­мос­то­я́т­ель­ны­ми
+plural_prepositive: са­мос­то­я́т­ель­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: са­мос­то­я́те­лен
+shortform_feminine: са­мос­то­я́т­ель­на
+shortform_neutral: са­мос­то­я́т­ель­но
+shortform_plural: са­мос­то­я́т­ель­ны
 
-comparative:
+comparative: са­мос­то­я́т­ель­нее
 superlative:
 
 comment: null

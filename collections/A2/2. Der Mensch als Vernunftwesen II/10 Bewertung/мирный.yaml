@@ -1,44 +1,44 @@
 name: мирный
-name_accent:
+name_accent: ми́р­ный
 wordclass: adjective
 translation:
-
+  - friedlich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ми́р­ный
+masculine_genitive: ми́р­но­го
+masculine_dative: ми́р­но­му
+masculine_accusative: ми́р­ный
+masculine_instrumental: ми́р­ным
+masculine_prepositive: ми́р­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ми́р­ная
+feminine_genitive: ми́р­ной
+feminine_dative: ми́р­ной
+feminine_accusative: ми́р­ную
+feminine_instrumental: ми́р­ной
+feminine_prepositive: ми́р­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
+neutral_nominative: ми́р­ное
+neutral_genitive: ми́р­но­го
+neutral_dative: ми́р­но­му
+neutral_accusative: ми́р­ное
 neutral_instrumental:
 neutral_prepositive:
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ми́р­ные
+plural_genitive: ми́р­ных
+plural_dative: ми́р­ным
+plural_accusative: ми́р­ные
+plural_instrumental: ми́р­ны­ми
+plural_prepositive: ми́р­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ми́­рен
+shortform_feminine: ми́р­на
+shortform_neutral: ми́р­но
+shortform_plural: ми́р­ны
 
-comparative:
+comparative: мир­не́е
 superlative:
 
 comment: null

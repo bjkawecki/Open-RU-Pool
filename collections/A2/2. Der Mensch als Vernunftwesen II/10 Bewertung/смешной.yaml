@@ -1,44 +1,45 @@
 name: смешной
-name_accent:
+name_accent: смеш­но́й
 wordclass: adjective
 translation:
-
+  - komisch
+  - lustig
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: смеш­но́й
+masculine_genitive: смеш­но́­го
+masculine_dative: смеш­но́­му
+masculine_accusative: смеш­но́й
+masculine_instrumental: смеш­ны́м
+masculine_prepositive: смеш­но́м
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: смеш­на́я
+feminine_genitive: смеш­но́й
+feminine_dative: смеш­но́й
+feminine_accusative: смеш­ну́ю
+feminine_instrumental: смеш­но́й
+feminine_prepositive: смеш­но́й
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: смеш­но́е
+neutral_genitive: смеш­но́­го
+neutral_dative: смеш­но́­му
+neutral_accusative: смеш­но́е
+neutral_instrumental: смеш­ны́м
+neutral_prepositive: смеш­но́м
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: смеш­ны́е
+plural_genitive: смеш­ны́х
+plural_dative: смеш­ны́м
+plural_accusative: смеш­ны́е
+plural_instrumental: смеш­ны́­ми
+plural_prepositive: смеш­ны́х
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: сме­шо́н
+shortform_feminine: смеш­на́
+shortform_neutral: смеш­но́
+shortform_plural: смеш­ны́
 
-comparative:
+comparative: смеш­не́е
 superlative:
 
 comment: null

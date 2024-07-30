@@ -1,44 +1,46 @@
 name: обязательный
-name_accent:
+name_accent: обя­за́т­ель­ный
 wordclass: adjective
 translation:
-
+  - unbedingt
+  - Pflicht-
+  - obligatorisch
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: обя­за́т­ель­ный
+masculine_genitive: обя­за́т­ель­но­го
+masculine_dative: обя­за́т­ель­но­му
+masculine_accusative: обя­за́т­ель­ный
+masculine_instrumental: обя­за́т­ель­ным
+masculine_prepositive: обя­за́т­ель­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: обя­за́т­ель­ная
+feminine_genitive: обя­за́т­ель­ной
+feminine_dative: обя­за́т­ель­ной
+feminine_accusative: обя­за́т­ель­ную
+feminine_instrumental: обя­за́т­ель­ной
+feminine_prepositive: обя­за́т­ель­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: обя­за́т­ель­ное
+neutral_genitive: обя­за́т­ель­но­го
+neutral_dative: обя­за́т­ель­но­му
+neutral_accusative: обя­за́т­ель­ное
+neutral_instrumental: обя­за́т­ель­ным
+neutral_prepositive: обя­за́т­ель­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: обя­за́т­ель­ные
+plural_genitive: обя­за́т­ель­ных
+plural_dative: обя­за́т­ель­ным
+plural_accusative: обя­за́т­ель­ные
+plural_instrumental: обя­за́т­ель­ны­ми
+plural_prepositive: обя­за́т­ель­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: обя­за́­те­лен
+shortform_feminine: обя­за́т­ель­на
+shortform_neutral: обя­за́т­ель­но
+shortform_plural: обя­за́т­ель­ны
 
-comparative:
+comparative: обя­за́т­ель­нее
 superlative:
 
 comment: null

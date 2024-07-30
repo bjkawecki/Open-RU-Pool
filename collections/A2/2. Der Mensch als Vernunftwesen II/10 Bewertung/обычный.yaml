@@ -2,43 +2,45 @@ name: обычный
 name_accent:
 wordclass: adjective
 translation:
-
+  - normal
+  - gewöhnlich
+  - üblich
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: об­ы́ч­ный
+masculine_genitive: об­ы́ч­но­го
+masculine_dative: об­ы́ч­но­му
+masculine_accusative: об­ы́ч­ный
+masculine_instrumental: об­ы́ч­ным
+masculine_prepositive: об­ы́ч­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: об­ы́ч­ная
+feminine_genitive: об­ы́ч­ной
+feminine_dative: об­ы́ч­ной
+feminine_accusative: об­ы́ч­ную
+feminine_instrumental: об­ы́ч­ной
+feminine_prepositive: об­ы́ч­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: об­ы́ч­ное
+neutral_genitive: об­ы́ч­но­го
+neutral_dative: об­ы́ч­но­му
+neutral_accusative: об­ы́ч­ное
+neutral_instrumental: об­ы́ч­ным
+neutral_prepositive: об­ы́ч­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: об­ы́ч­ные
+plural_genitive: об­ы́ч­ных
+plural_dative: об­ы́ч­ным
+plural_accusative: об­ы́ч­ные
+plural_instrumental: об­ы́ч­ны­ми
+plural_prepositive: об­ы́ч­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: обы́­чен
+shortform_feminine: об­ы́ч­на
+shortform_neutral: об­ы́ч­но
+shortform_plural: об­ы́ч­ны
 
-comparative:
+comparative: об­ы́ч­нее
 superlative:
 
 comment: null

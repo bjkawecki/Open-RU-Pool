@@ -4,6 +4,7 @@ wordclass: adjective
 translation:
   - fröhlich
 is_gradable: true
+
 masculine_nominative: весёлый
 masculine_genitive: ве­сё­ло­го
 masculine_dative: ве­сё­ло­му

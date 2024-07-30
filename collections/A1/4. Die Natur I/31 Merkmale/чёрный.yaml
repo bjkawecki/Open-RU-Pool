@@ -4,6 +4,7 @@ wordclass: adjective
 translation:
   - schwarz
 is_gradable: true
+
 masculine_nominative: чёрный
 masculine_genitive: чёр­но­го
 masculine_dative: чёр­но­му

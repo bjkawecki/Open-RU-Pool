@@ -1,44 +1,44 @@
 name: глупый
-name_accent:
+name_accent: глу́­пый
 wordclass: adjective
 translation:
-
+  - dumm
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: глу́­пый
+masculine_genitive: глу́­по­го
+masculine_dative: глу́­по­му
+masculine_accusative: глу́­пый
+masculine_instrumental: глу́­пым
+masculine_prepositive: глу́­пом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: глу́­пая
+feminine_genitive: глу́­пой
+feminine_dative: глу́­пой
+feminine_accusative: глу́­пую
+feminine_instrumental: глу́­пой
+feminine_prepositive: глу́­пой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: глу́­пое
+neutral_genitive: глу́­по­го
+neutral_dative: глу́­по­му
+neutral_accusative: глу́­пое
+neutral_instrumental: глу́­пым
+neutral_prepositive: глу́­пом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: глу́­пые
+plural_genitive: глу́­пых
+plural_dative: глу́­пым
+plural_accusative: глу́­пые
+plural_instrumental: глу́­пы­ми
+plural_prepositive: глу́­пых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: глуп
+shortform_feminine: глу­па́
+shortform_neutral: глу́­по
+shortform_plural: глу́­пы
 
-comparative:
+comparative: глу­пе́е
 superlative:
 
 comment: null

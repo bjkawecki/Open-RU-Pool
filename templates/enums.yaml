@@ -1,0 +1,78 @@
+wordclass:
+  - adjective
+  - adverb
+  - compound
+  - conjunction
+  - interjection
+  - numeral
+  - particle
+  - phrase
+  - preposition
+  - pronoun
+  - substantive
+  - verb
+
+genus:
+  - m
+  - f
+  - n
+
+declination_class:
+  - 1
+  - 2
+  - 3
+  - adjective
+  - irregular
+  - none
+
+stress:
+  - root
+  - suffix
+  - shifting
+
+numeral_type:
+  - cardinal
+  - collecting
+  - ordinal
+
+declination_type:
+  - adjective
+  - substantive
+  - none
+
+preposition_type:
+  - causal
+  - directional
+  - local
+  - modal
+  - temporal
+
+pronoun_type:
+  - definite
+  - demonstrative
+  - indefinite
+  - interrogative
+  - negation
+  - personal
+  - possessive
+  - relative
+
+aspect:
+  - imperfective
+  - perfective
+
+conjugation_class:
+  - 1
+  - 2
+  - irregular
+
+direction:
+  - multi
+  - uni
+
+object_case:
+  - genitive
+  - dative
+  - accusative
+  - instrumental
+  - prepositive

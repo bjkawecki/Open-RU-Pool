@@ -1,10 +1,11 @@
 name: Молодцы
-name_accent:
+name_accent: Молодцы́
 wordclass: phrase
 translation:
-
+  - Gut gemacht!
+  - Bravo!
 metaphrase:
 
-comment: null
+comment: Mehrzahl
 usage: null
 etymology: null
