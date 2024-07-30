@@ -1,11 +1,12 @@
 name: отдохнуть
-name_accent:
+name_accent: от­до­хну́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - sich ausruhen
+  - sich erholen
+aspect: perfective
+aspect_partner: от­ды­ха́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: от­до­хну́
+future_singular_2: от­до­хнёшь
+future_singular_3: от­до­хнёт
+future_plural_1: от­до­хнём
+future_plural_2: от­до­хнё­те
+future_plural_3: от­до­хну́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: от­до­хну́л
+past_feminine: от­до­хну́­ла
+past_neutral: от­до­хну́­ло
+past_plural: от­до­хну́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: от­до­хну́в­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: от­до­хну́в­ши, от­до­хну́в
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: от­до­хни́
+imperative_plural: от­до­хни́­те
 
 comment: null
 usage: null

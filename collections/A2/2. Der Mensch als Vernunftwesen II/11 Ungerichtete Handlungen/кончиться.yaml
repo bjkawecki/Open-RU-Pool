@@ -1,11 +1,13 @@
 name: кончиться
-name_accent:
+name_accent: ко́н­чить­ся
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - enden
+  - aufhören
+  - ausgehen
+aspect: perfective
+aspect_partner: кон­ча́ть­ся
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
@@ -15,7 +17,7 @@ direct_object_case: null
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
-is_reflexive: false
+is_reflexive: true
 
 present_singular_1:
 present_singular_2:
@@ -24,29 +26,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: ко́н­чусь
+future_singular_2: ко́н­чишь­ся
+future_singular_3: ко́н­чи­тся
+future_plural_1: ко́н­чи­мся
+future_plural_2: ко́н­чи­тесь
+future_plural_3: ко́н­ча­тся
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: ко́н­чи­лся
+past_feminine: ко́н­чи­лась
+past_neutral: ко́н­чи­лось
+past_plural: ко́н­чи­лись
 
 participle_active_present:
-participle_active_past:
+participle_active_past: ко́н­чи­вший­ся
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: ко́н­чи­вшись
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: ко́н­чись
+imperative_plural: ко́н­чи­тесь
 
 comment: null
 usage: null

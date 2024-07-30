@@ -1,28 +1,28 @@
 name: техника
-name_accent:
+name_accent: те́х­ни­ка
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Technik
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: те́х­ни­ка
+singular_genitive: те́х­ни­ки
+singular_dative: те́х­ни­ке
+singular_accusative: те́х­ни­ку
+singular_instrumental: те́х­ни­кой
+singular_prepositive: те́х­ни­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: те́х­ни­ки
+plural_genitive: те́х­ник
+plural_dative: те́х­ни­кам
+plural_accusative: те́х­ни­ки
+plural_instrumental: те́х­ни­ка­ми
+plural_prepositive: те́х­ни­ках
 
 partitive: null
 locative: null

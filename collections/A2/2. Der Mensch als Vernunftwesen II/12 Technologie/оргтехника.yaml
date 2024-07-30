@@ -1,7 +1,8 @@
 wordclass: substantive
 name: оргтехника
 name_accent: оргте́хника
-translation: []
+translation:
+  - Bürotechnik
 genus: f
 declination_class: 1
 stress: root

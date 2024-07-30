@@ -1,11 +1,13 @@
 name: начинаться
-name_accent:
+name_accent: начина́ться
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - beginnen
+  - losgehen
+  - anfangen
+aspect: imperfective
+aspect_partner: нача́ться
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -15,14 +17,14 @@ direct_object_case: null
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
-is_reflexive: false
+is_reflexive: true
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: на­чи­на́­юсь
+present_singular_2: на­чи­на́­ешь­ся
+present_singular_3: на­чи­на́­ет­ся
+present_plural_1: на­чи­на́­ем­ся
+present_plural_2: на­чи­на́­ет­есь
+present_plural_3: на­чи­на́­ют­ся
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +33,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: на­чин­а́л­ся
+past_feminine: на­чи­на́­лась
+past_neutral: на­чи­на́­лось
+past_plural: на­чи­на́­лись
 
-participle_active_present:
-participle_active_past:
+participle_active_present: на­чи­на́­ющий­ся
+participle_active_past: на­чин­а́в­ший­ся
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: на­чи­на́­ясь
+participle_adverbial_passive: на­чин­а́в­шись
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: на­чи­на́й­ся
+imperative_plural: на­чи­на́й­тесь
 
 comment: null
 usage: null

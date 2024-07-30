@@ -1,11 +1,12 @@
 name: находиться
-name_accent:
+name_accent: находи́ться
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - sich befinden
+  - sein
+aspect: imperfective
+aspect_partner: найти́сь
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
@@ -17,12 +18,12 @@ indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: на­хож­у́сь
+present_singular_2: на­хо́д­ишь­ся
+present_singular_3: на­хо́д­ит­ся
+present_plural_1: на­хо́д­им­ся
+present_plural_2: на­хо́­ди­тесь
+present_plural_3: на­хо́д­ят­ся
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +32,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: на­ход­и́л­ся
+past_feminine: на­хо­ди́­лась
+past_neutral: на­хо­ди́­лось
+past_plural: на­хо­ди́­лись
 
-participle_active_present:
-participle_active_past:
+participle_active_present: на­хо­дя́­щий­ся
+participle_active_past: на­ход­и́в­ший­ся
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: на­ход­я́сь
+participle_adverbial_passive: на­ход­и́в­шись
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: на­ход­и́сь
+imperative_plural: на­хо­ди́­тесь
 
 comment: null
 usage: null

@@ -1,11 +1,13 @@
 name: падать
-name_accent:
+name_accent: па́­дать
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - fallen
+  - stürzen
+  - sinken
+aspect: imperfective
+aspect_partner: упа́сть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -17,12 +19,12 @@ indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: па́­даю
+present_singular_2: па́­да­ешь
+present_singular_3: па́­да­ет
+present_plural_1: па́­да­ем
+present_plural_2: па́­да­ете
+present_plural_3: па́­да­ют
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +33,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: па́­дал
+past_feminine: па́­да­ла
+past_neutral: па́­да­ло
+past_plural: па́­да­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: па́­да­ющий
+participle_active_past: па́­дав­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: па́­дая
+participle_adverbial_passive: па́­дав­ши, па́­дав
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: па́­дай
+imperative_plural: па́­дай­те
 
 comment: null
 usage: null
