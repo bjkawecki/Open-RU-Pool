@@ -1,28 +1,28 @@
 name: хоккеист
-name_accent:
+name_accent: хок­ке­и́ст
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Hockeyspieler
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: хок­ке­и́ст
+singular_genitive: хок­ке­и́с­та
+singular_dative: хок­ке­и́с­ту
+singular_accusative: хок­ке­и́с­та
+singular_instrumental: хок­ке­и́с­том
+singular_prepositive: хок­ке­и́с­те
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: хок­ке­и́с­ты
+plural_genitive: хок­ке­и́с­тов
+plural_dative: хок­ке­и́с­там
+plural_accusative: хок­ке­и́с­тов
+plural_instrumental: хок­ке­и́с­та­ми
+plural_prepositive: хок­ке­и́с­тах
 
 partitive: null
 locative: null

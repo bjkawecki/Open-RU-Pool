@@ -1,28 +1,28 @@
 name: профессор
-name_accent:
+name_accent: про­фе́с­сор
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Professor
+genus: m
+declination_class: 2
+stress: shifting
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: про­фе́с­сор
+singular_genitive: про­фе́с­со­ра
+singular_dative: про­фе́с­со­ру
+singular_accusative: про­фе́с­со­ра
+singular_instrumental: про­фе́с­со­ром
+singular_prepositive: про­фе́с­со­ре
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: про­фес­со­ра́
+plural_genitive: про­фес­со­ро́в
+plural_dative: про­фес­со­ра́м
+plural_accusative: про­фес­со­ро́в
+plural_instrumental: про­фес­со­ра́­ми
+plural_prepositive: про­фес­со­ра́х
 
 partitive: null
 locative: null

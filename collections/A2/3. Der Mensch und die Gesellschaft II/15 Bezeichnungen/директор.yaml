@@ -1,28 +1,29 @@
 name: директор
-name_accent:
+name_accent: ди­ре́к­тор
 wordclass: substantive
 translation:
+  - Direktor
 
-genus:
-declination_class:
-stress:
-is_animate: false
+genus: m
+declination_class: 2
+stress: shifting
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ди­ре́к­тор
+singular_genitive: ди­ре́к­то­ра
+singular_dative: ди­ре́к­то­ру
+singular_accusative: ди­ре́к­то­ра
+singular_instrumental: ди­ре́к­то­ром
+singular_prepositive: ди­ре́к­то­ре
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ди­рек­то­ра́
+plural_genitive: ди­рек­то­ро́в
+plural_dative: ди­рек­то­ра́м
+plural_accusative: ди­рек­то­ро́в
+plural_instrumental: ди­рек­то­ра́­ми
+plural_prepositive: ди­рек­то­ра́х
 
 partitive: null
 locative: null

@@ -1,28 +1,29 @@
 name: аспирант
-name_accent:
+name_accent: ас­пи­ра́нт
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Doktorand
+  - Aspirant
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ас­пи­ра́нт
+singular_genitive: ас­пи­ра́н­та
+singular_dative: ас­пи­ра́н­ту
+singular_accusative: ас­пи­ра́н­та
+singular_instrumental: ас­пи­ра́н­том
+singular_prepositive: ас­пи­ра́н­те
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ас­пи­ра́н­ты
+plural_genitive: ас­пи­ра́н­тов
+plural_dative: ас­пи­ра́н­там
+plural_accusative: ас­пи­ра́н­тов
+plural_instrumental: ас­пи­ра́н­та­ми
+plural_prepositive: ас­пи­ра́н­тах
 
 partitive: null
 locative: null

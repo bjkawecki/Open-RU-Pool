@@ -1,28 +1,28 @@
 name: секретарь
-name_accent:
+name_accent: сек­ре­та́рь
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Sekretär
+genus: m
+declination_class: 2
+stress: suffix
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: сек­ре­та́рь
+singular_genitive: сек­ре­та­ря́
+singular_dative: сек­ре­та­рю́
+singular_accusative: сек­ре­та­ря́
+singular_instrumental: сек­ре­тар­ём
+singular_prepositive: сек­ре­та­ре́
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: сек­ре­та­ри́
+plural_genitive: сек­ре­та­ре́й
+plural_dative: сек­ре­тар­я́м
+plural_accusative: сек­ре­та­ре́й
+plural_instrumental: сек­ре­та­ря́­ми
+plural_prepositive: сек­ре­тар­я́х
 
 partitive: null
 locative: null

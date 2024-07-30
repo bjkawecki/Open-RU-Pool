@@ -1,28 +1,28 @@
 name: читатель
-name_accent:
+name_accent: чи­та́т­ель
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Leser
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: чи­та́т­ель
+singular_genitive: чи­та́­те­ля
+singular_dative: чи­та́­те­лю
+singular_accusative: чи­та́­те­ля
+singular_instrumental: чи­та́­те­лем
+singular_prepositive: чи­та́­те­ле
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: чи­та́­те­ли
+plural_genitive: чи­та́­те­лей
+plural_dative: чи­та́­те­лям
+plural_accusative: чи­та́­те­лей
+plural_instrumental: чи­та́­те­ля­ми
+plural_prepositive: чи­та́­те­лях
 
 partitive: null
 locative: null

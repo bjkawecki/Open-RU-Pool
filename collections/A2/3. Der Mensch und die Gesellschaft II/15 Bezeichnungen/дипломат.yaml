@@ -1,28 +1,29 @@
 name: дипломат
-name_accent:
+name_accent: дип­ло­ма́т
 wordclass: substantive
 translation:
+  - Diplomat
 
-genus:
-declination_class:
-stress:
-is_animate: false
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: дип­ло­ма́т
+singular_genitive: дип­ло­ма́­та
+singular_dative: дип­ло­ма́­ту
+singular_accusative: дип­ло­ма́­та
+singular_instrumental: дип­ло­ма́т­ом
+singular_prepositive: дип­ло­ма́­те
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: дип­ло­ма́­ты
+plural_genitive: дип­ло­ма́т­ов
+plural_dative: дип­ло­ма́т­ам
+plural_accusative: дип­ло­ма́т­ов
+plural_instrumental: дип­ло­ма́­та­ми
+plural_prepositive: дип­ло­ма́т­ах
 
 partitive: null
 locative: null
