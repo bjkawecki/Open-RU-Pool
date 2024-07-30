@@ -1,17 +1,17 @@
 name: продать
-name_accent:
+name_accent: прода́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - verkaufen
+aspect: perfective
+aspect_partner: про­дав­а́ть
+conjugation_class: irregular
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
@@ -24,29 +24,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: про­да́м
+future_singular_2: про­да́шь
+future_singular_3: про­да́ст
+future_plural_1: про­дад­и́м
+future_plural_2: про­да­ди́­те
+future_plural_3: про­дад­у́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: про­да́л
+past_feminine: про­да­ла́
+past_neutral: про­да́­ло
+past_plural: про­да́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: про­да́в­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: про­да́в­ши, про­да́в
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: про́­дан­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: про­да́й
+imperative_plural: про­да́й­те
 
 comment: null
 usage: null

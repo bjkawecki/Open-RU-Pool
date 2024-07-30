@@ -1,28 +1,28 @@
 name: рынок
-name_accent:
+name_accent: ры́­нок
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Markt
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ры́­нок
+singular_genitive: ры́н­ка
+singular_dative: ры́н­ку
+singular_accusative: ры́­нок
+singular_instrumental: ры́н­ком
+singular_prepositive: ры́н­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ры́н­ки
+plural_genitive: ры́н­ков
+plural_dative: ры́н­кам
+plural_accusative: ры́н­ки
+plural_instrumental: ры́н­ка­ми
+plural_prepositive: ры́н­ках
 
 partitive: null
 locative: null

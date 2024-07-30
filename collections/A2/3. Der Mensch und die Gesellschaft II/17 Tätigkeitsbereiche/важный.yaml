@@ -1,44 +1,44 @@
 name: важный
-name_accent:
+name_accent: ва́ж­ный
 wordclass: adjective
 translation:
-
+  - wichtig
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ва́ж­ный
+masculine_genitive: ва́ж­но­го
+masculine_dative: ва́ж­но­му
+masculine_accusative: ва́ж­ный
+masculine_instrumental: ва́ж­ным
+masculine_prepositive: ва́ж­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ва́ж­ная
+feminine_genitive: ва́ж­ной
+feminine_dative: ва́ж­ной
+feminine_accusative: ва́ж­ную
+feminine_instrumental: ва́ж­ной
+feminine_prepositive: ва́ж­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ва́ж­ное
+neutral_genitive: ва́ж­но­го
+neutral_dative: ва́ж­но­му
+neutral_accusative: ва́ж­ное
+neutral_instrumental: ва́ж­ным
+neutral_prepositive: ва́ж­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ва́ж­ные
+plural_genitive: ва́ж­ных
+plural_dative: ва́ж­ным
+plural_accusative: ва́ж­ные
+plural_instrumental: ва́ж­ны­ми
+plural_prepositive: ва́ж­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ва́­жен
+shortform_feminine: важ­на́
+shortform_neutral: ва́ж­но
+shortform_plural: ва́ж­ны
 
-comparative:
+comparative: важ­не́е
 superlative:
 
 comment: null

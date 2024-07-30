@@ -38,6 +38,7 @@ numeral_type:
 declination_type:
   - adjective
   - substantive
+  - irregular
   - none
 
 preposition_type:

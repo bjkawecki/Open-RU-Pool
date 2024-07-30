@@ -1,0 +1,55 @@
+name: пе­ре­во­дить
+name_accent: пе­ре­во­ди́ть
+wordclass: verb
+translation:
+  - übersetzen
+  - übertragen
+  - überweisen
+aspect: imperfective
+aspect_partner: пе­рев­ес­ти́
+conjugation_class: 2
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+direct_object_case: accusative
+direct_object_preposition: null
+indirect_object_case: null
+indirect_object_preposition: null
+is_reflexive: false
+
+present_singular_1: пе­ре­во­жу́
+present_singular_2: пе­ре­во́­дишь
+present_singular_3: пе­ре­во́­дит
+present_plural_1: пе­ре­во́­дим
+present_plural_2: пе­ре­во́­ди­те
+present_plural_3: пе­ре­во́­дят
+
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+
+past_masculine: пе­ре­во­ди́л
+past_feminine: пе­ре­во­ди́­ла
+past_neutral: пе­ре­во­ди́­ло
+past_plural: пе­ре­во­ди́­ли
+
+participle_active_present: пе­ре­во­дя́­щий
+participle_active_past: пе­ре­во­ди́в­ший
+
+participle_adverbial_present: пе­ре­во­дя́
+participle_adverbial_passive: пе­ре­во­ди́в­ши, пе­ре­во­ди́в
+
+participle_passive_present: пе­ре­во­ди́­мый
+participle_passive_past:
+
+imperative_singular: пе­ре­во­ди́
+imperative_plural: пе­ре­во­ди́­те
+
+comment: null
+usage: null
+etymology: null

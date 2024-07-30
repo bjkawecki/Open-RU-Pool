@@ -1,28 +1,28 @@
 name: перевод
-name_accent:
+name_accent: пе­рев­о́д
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Übersetzung
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: пе­рев­о́д
+singular_genitive: пе­ре­во́­да
+singular_dative: пе­ре­во́­ду
+singular_accusative: пе­рев­о́д
+singular_instrumental: пе­ре­во́­дом
+singular_prepositive: пе­ре­во́­де
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пе­ре­во́­ды
+plural_genitive: пе­ре­во́­дов
+plural_dative: пе­ре­во́­дам
+plural_accusative: пе­ре­во́­ды
+plural_instrumental: пе­ре­во́­да­ми
+plural_prepositive: пе­ре­во́­дах
 
 partitive: null
 locative: null

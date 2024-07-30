@@ -2,36 +2,38 @@ name: книжный
 name_accent:
 wordclass: adjective
 translation:
+  - Buch-
+  - Bücher-
 
-is_gradable: true
+is_gradable: false
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: кни́ж­ный
+masculine_genitive: кни́ж­но­го
+masculine_dative: кни́ж­но­му
+masculine_accusative: кни́ж­ный
+masculine_instrumental: кни́ж­ным
+masculine_prepositive: кни́ж­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: кни́ж­ная
+feminine_genitive: кни́ж­ной
+feminine_dative: кни́ж­ной
+feminine_accusative: кни́ж­ную
+feminine_instrumental: кни́ж­ной
+feminine_prepositive: кни́ж­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: кни́ж­ное
+neutral_genitive: кни́ж­но­го
+neutral_dative: кни́ж­но­му
+neutral_accusative: кни́ж­ное
+neutral_instrumental: кни́ж­ным
+neutral_prepositive: кни́ж­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: кни́ж­ные
+plural_genitive: кни́ж­ных
+plural_dative: кни́ж­ным
+plural_accusative: кни́ж­ные
+plural_instrumental: кни́ж­ны­ми
+plural_prepositive: кни́ж­ных
 
 shortform_masculine:
 shortform_feminine:

@@ -1,32 +1,36 @@
 name: предмет
-name_accent:
+name_accent: пред­ме́т
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Gegenstand
+  - Ding
+  - Thema
+  - Fach
+  - Fachgebiet
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: пред­ме́т
+singular_genitive: пред­ме́­та
+singular_dative: пред­ме́­ту
+singular_accusative: пред­ме́т
+singular_instrumental: пред­ме́­том
+singular_prepositive: пред­ме́­те
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пред­ме́­ты
+plural_genitive: пред­ме́­тов
+plural_dative: пред­ме́­там
+plural_accusative: пред­ме́­ты
+plural_instrumental: пред­ме́­та­ми
+plural_prepositive: пред­ме́­тах
 
 partitive: null
 locative: null
 
-comment: null
+comment: gegenständlich und nicht gegenständlich
 usage: null
 etymology: null

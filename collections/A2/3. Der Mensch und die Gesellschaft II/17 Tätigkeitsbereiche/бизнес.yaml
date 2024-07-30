@@ -1,28 +1,29 @@
 name: бизнес
-name_accent:
+name_accent: би́з­нес
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Geschäft
+  - Business
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: би́з­нес
+singular_genitive: би́з­не­са
+singular_dative: би́з­не­су
+singular_accusative: би́з­нес
+singular_instrumental: би́з­не­сом
+singular_prepositive: би́з­не­се
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: би́з­не­сы
+plural_genitive: би́з­не­сов
+plural_dative: би́з­не­сам
+plural_accusative: би́з­не­сы
+plural_instrumental: би́з­не­са­ми
+plural_prepositive: би́з­не­сах
 
 partitive: null
 locative: null
