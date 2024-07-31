@@ -1,28 +1,30 @@
 name: команда
-name_accent:
+name_accent: ко­ма́н­да
 wordclass: substantive
 translation:
+  - Mannschaft
+  - Team
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ко­ма́н­да
+singular_genitive: ко­ма́н­ды
+singular_dative: ко­ма́н­де
+singular_accusative: ко­ма́н­ду
+singular_instrumental: ко­ма́н­дой
+singular_prepositive: ко­ма́н­де
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ко­ма́н­ды
+plural_genitive: ко­ма́нд
+plural_dative: ко­ма́н­дам
+plural_accusative: ко­ма́н­ды
+plural_instrumental: ко­ма́н­да­ми
+plural_prepositive: ко­ма́н­дах
 
 partitive: null
 locative: null

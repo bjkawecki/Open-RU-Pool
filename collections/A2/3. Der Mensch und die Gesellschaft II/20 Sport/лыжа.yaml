@@ -1,0 +1,33 @@
+name: лыжа
+name_accent: лы́жа
+wordclass: substantive
+translation:
+  - Ski
+
+genus: f
+declination_class: 1
+stress: root
+is_animate: false
+is_singular_tantum: null
+is_plural_tantum: null
+
+singular_nominative: лы́­жа
+singular_genitive: лы́­жи
+singular_dative: лы́­же
+singular_accusative: лы́­жу
+singular_instrumental: лы́­жей
+singular_prepositive: лы́­же
+
+plural_nominative: лы́­жи
+plural_genitive: лыж
+plural_dative: лы́­жам
+plural_accusative: лы́­жи
+plural_instrumental: лы́­жа­ми
+plural_prepositive: лы́­жах
+
+partitive: null
+locative: null
+
+comment: null
+usage: null
+etymology: null

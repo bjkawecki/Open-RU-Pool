@@ -1,7 +1,10 @@
 name: вперёд
-name_accent:
+name_accent: вперёд
 wordclass: adverb
 translation:
+  - vor
+  - vorwärts
+  - nach vorn
 
 comment: null
 usage: null
