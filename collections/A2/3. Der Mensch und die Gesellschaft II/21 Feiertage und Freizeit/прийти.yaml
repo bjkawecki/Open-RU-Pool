@@ -1,0 +1,55 @@
+name: прийти
+name_accent: прийти́
+wordclass: verb
+translation:
+  - kommen
+  - ankommen
+
+aspect: perfective
+aspect_partner: при­ход­и́ть
+conjugation_class: 1
+
+is_motion_verb: true
+motion_partner: null
+direction: null
+
+direct_object_case: null
+direct_object_preposition: null
+indirect_object_case: null
+indirect_object_preposition: null
+is_reflexive: false
+
+present_singular_1:
+present_singular_2:
+present_singular_3:
+present_plural_1:
+present_plural_2:
+present_plural_3:
+
+future_singular_1: при­ду́
+future_singular_2: при­дёшь
+future_singular_3: при­дёт
+future_plural_1: при­дём
+future_plural_2: при­дё­те
+future_plural_3: при­ду́т
+
+past_masculine: при­шёл
+past_feminine: приш­ла́
+past_neutral: приш­ло́
+past_plural: приш­ли́
+
+participle_active_present:
+participle_active_past: при­ше́д­ший
+
+participle_adverbial_present:
+participle_adverbial_passive: при­дя́
+
+participle_passive_present:
+participle_passive_past:
+
+imperative_singular: при­ди́
+imperative_plural: при­ди́­те
+
+comment: null
+usage: null
+etymology: null

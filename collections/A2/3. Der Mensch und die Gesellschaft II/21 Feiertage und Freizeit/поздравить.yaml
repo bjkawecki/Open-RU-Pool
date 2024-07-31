@@ -1,20 +1,21 @@
 name: поздравить
-name_accent:
+name_accent: позд­ра́­вить
 wordclass: verb
 translation:
+  - gratulieren
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: поздравля́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: genitive
 direct_object_preposition: null
-indirect_object_case: null
-indirect_object_preposition: null
+indirect_object_case: instrumental
+indirect_object_preposition: с
 is_reflexive: false
 
 present_singular_1:
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: позд­ра́в­лю
+future_singular_2: позд­ра́­вишь
+future_singular_3: позд­ра́­вит
+future_plural_1: позд­ра́­вим
+future_plural_2: позд­ра́­ви­те
+future_plural_3: позд­ра́­вят
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: позд­ра́­вил
+past_feminine: позд­ра́­ви­ла
+past_neutral: позд­ра́­ви­ло
+past_plural: позд­ра́­ви­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: позд­ра́­вив­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: позд­ра́­вив­ши, позд­ра́­вив
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: позд­ра́в­лен­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: позд­ра́вь
+imperative_plural: позд­ра́вь­те
 
 comment: null
 usage: null

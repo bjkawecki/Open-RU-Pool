@@ -1,28 +1,29 @@
 name: подарок
-name_accent:
+name_accent: по­да́р­ок
 wordclass: substantive
 translation:
+  - Geschenk
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: по­да́р­ок
+singular_genitive: по­да́р­ка
+singular_dative: по­да́р­ку
+singular_accusative: по­да́р­ок
+singular_instrumental: по­да́р­ком
+singular_prepositive: по­да́р­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: по­да́р­ки
+plural_genitive: по­да́р­ков
+plural_dative: по­да́р­кам
+plural_accusative: по­да́р­ки
+plural_instrumental: по­да́р­ка­ми
+plural_prepositive: по­да́р­ках
 
 partitive: null
 locative: null

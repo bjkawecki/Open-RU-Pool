@@ -1,17 +1,18 @@
 name: пригласить
-name_accent:
+name_accent: приг­ла­си́ть
 wordclass: verb
 translation:
+  - einladen
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: приг­ла­ша́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: приг­ла­шу́
+future_singular_2: приг­ла­си́шь
+future_singular_3: приг­ла­си́т
+future_plural_1: приг­ла­си́м
+future_plural_2: приг­ла­си́­те
+future_plural_3: приг­ла­ся́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: приг­ла­си́л
+past_feminine: приг­ла­си́­ла
+past_neutral: приг­ла­си́­ло
+past_plural: приг­ла­си́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: приг­ла­си́в­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: приг­ла­си́в­ши, приг­ла­си́в
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: приг­ла­шён­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: приг­ла­си́
+imperative_plural: приг­ла­си́­те
 
 comment: null
 usage: null

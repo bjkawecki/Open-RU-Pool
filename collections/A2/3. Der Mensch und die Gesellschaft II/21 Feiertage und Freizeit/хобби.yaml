@@ -1,28 +1,28 @@
 name: хобби
-name_accent:
+name_accent: хо́бби
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Hobby
+genus: n
+declination_class: none
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: хо́бби
+singular_genitive: хо́бби
+singular_dative: хо́бби
+singular_accusative: хо́бби
+singular_instrumental: хо́бби
+singular_prepositive: хо́бби
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: хо́бби
+plural_genitive: хо́бби
+plural_dative: хо́бби
+plural_accusative: хо́бби
+plural_instrumental: хо́бби
+plural_prepositive: хо́бби
 
 partitive: null
 locative: null

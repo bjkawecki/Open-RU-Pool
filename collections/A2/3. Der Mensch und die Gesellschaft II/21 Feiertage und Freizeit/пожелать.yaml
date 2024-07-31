@@ -1,19 +1,20 @@
 name: пожелать
-name_accent:
+name_accent: по­жел­а́ть
 wordclass: verb
 translation:
+  - wünschen
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: ­жел­а́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: genitive
 direct_object_preposition: null
-indirect_object_case: null
+indirect_object_case: dative
 indirect_object_preposition: null
 is_reflexive: false
 
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: по­же­ла́ю
+future_singular_2: по­же­ла́­ешь
+future_singular_3: по­же­ла́­ет
+future_plural_1: по­же­ла́­ем
+future_plural_2: по­же­ла́­ете
+future_plural_3: по­же­ла́­ют
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: по­жел­а́л
+past_feminine: по­же­ла́­ла
+past_neutral: по­же­ла́­ло
+past_plural: по­же­ла́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: по­жел­а́в­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: по­жел­а́в­ши, по­жел­а́в
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: по­же­ла́й
+imperative_plural: по­же­ла́й­те
 
 comment: null
 usage: null
