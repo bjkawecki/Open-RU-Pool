@@ -1,28 +1,29 @@
 name: везти
-name_accent:
+name_accent: вез­ти́
 wordclass: verb
 translation:
+  - jmdn. fahren
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: imperfective
+aspect_partner: повез­ти́
+conjugation_class: 1
 
-is_motion_verb: false
-motion_partner: null
-direction: null
+is_motion_verb: true
+motion_partner: возить
+direction: uni
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: ве­зу́
+present_singular_2: ве­зёшь
+present_singular_3: ве­зёт
+present_plural_1: ве­зём
+present_plural_2: ве­зё­те
+present_plural_3: ве­зу́т
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +32,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: вёз
+past_feminine: вез­ла́
+past_neutral: вез­ло́
+past_plural: вез­ли́
 
-participle_active_present:
-participle_active_past:
+participle_active_present: ве­зу́­щий
+participle_active_past: вёз­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: ве­зя́
+participle_adverbial_passive: вёз­ши
 
-participle_passive_present:
-participle_passive_past:
+participle_passive_present: ве­зо́­мый
+participle_passive_past: ве­зён­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: ве­зи́
+imperative_plural: ве­зи́­те
 
 comment: null
 usage: null

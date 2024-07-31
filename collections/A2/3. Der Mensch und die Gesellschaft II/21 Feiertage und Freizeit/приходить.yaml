@@ -9,7 +9,7 @@ aspect: imperfective
 aspect_partner: прийти́
 conjugation_class: 2
 
-is_motion_verb: true
+is_motion_verb: false
 motion_partner: null
 direction: null
 

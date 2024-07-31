@@ -1,28 +1,29 @@
 name: багаж
-name_accent:
+name_accent: ба­га́ж
 wordclass: substantive
 translation:
+  - Gepäck
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: suffix
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ба­га́ж
+singular_genitive: ба­га­жа́
+singular_dative: ба­га­жу́
+singular_accusative: ба­га́ж
+singular_instrumental: ба­гаж­о́м
+singular_prepositive: ба­га­же́
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ба­га­жи́
+plural_genitive: ба­га­же́й
+plural_dative: ба­гаж­а́м
+plural_accusative: ба­га­жи́
+plural_instrumental: ба­га­жа́­ми
+plural_prepositive: ба­гаж­а́х
 
 partitive: null
 locative: null

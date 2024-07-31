@@ -9,7 +9,7 @@ aspect: perfective
 aspect_partner: при­ход­и́ть
 conjugation_class: 1
 
-is_motion_verb: true
+is_motion_verb: false
 motion_partner: null
 direction: null
 
