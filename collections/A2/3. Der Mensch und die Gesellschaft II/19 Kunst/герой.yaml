@@ -1,28 +1,28 @@
 name: герой
-name_accent:
+name_accent: ге­ро́й
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
-is_animate: false
+  - Held
+genus: m
+declination_class: 2
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ге­ро́й
+singular_genitive: ге­ро́я
+singular_dative: ге­ро́ю
+singular_accusative: ге­ро́я
+singular_instrumental: ге­ро́­ем
+singular_prepositive: ге­ро́е
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ге­ро́и
+plural_genitive: ге­ро́­ев
+plural_dative: ге­ро́­ям
+plural_accusative: ге­ро́­ев
+plural_instrumental: ге­ро́­ями
+plural_prepositive: ге­ро́­ях
 
 partitive: null
 locative: null

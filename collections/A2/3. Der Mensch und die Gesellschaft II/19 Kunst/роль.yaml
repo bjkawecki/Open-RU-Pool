@@ -1,32 +1,33 @@
 name: роль
-name_accent:
+name_accent: роль
 wordclass: substantive
 translation:
+  - Rolle
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 3
+stress: shifting
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: роль
+singular_genitive: ро́­ли
+singular_dative: ро́­ли
+singular_accusative: роль
+singular_instrumental: ро́лью
+singular_prepositive: ро́­ли
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ро́­ли
+plural_genitive: ро­ле́й
+plural_dative: ро­ля́м
+plural_accusative: ро́­ли
+plural_instrumental: ро­ля́­ми
+plural_prepositive: ро­ля́х
 
 partitive: null
 locative: null
 
-comment: null
+comment: im Film oder Theater
 usage: null
 etymology: null

@@ -1,31 +1,33 @@
 name: ряд
-name_accent:
+name_accent: ряд
 wordclass: substantive
 translation:
+  - Reihe
+  - Sitzreihe
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: shifting
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ряд
+singular_genitive: ря́­да
+singular_dative: ря́­ду
+singular_accusative: ряд
+singular_instrumental: ря́­дом
+singular_prepositive: ря́­де
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ря­ды́
+plural_genitive: ря­до́в
+plural_dative: ря­да́м
+plural_accusative: ря­ды́
+plural_instrumental: ря­да́­ми
+plural_prepositive: ря­да́х
 
 partitive: null
-locative: null
+locative: ря­ду́
 
 comment: null
 usage: null

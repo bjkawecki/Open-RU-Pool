@@ -1,44 +1,46 @@
 name: популярный
-name_accent:
+name_accent: по­пул­я́р­ный
 wordclass: adjective
 translation:
+  - beliebt
+  - populär
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: по­пул­я́р­ный
+masculine_genitive: по­пул­я́р­но­го
+masculine_dative: по­пул­я́р­но­му
+masculine_accusative: по­пул­я́р­ный
+masculine_instrumental: по­пул­я́р­ным
+masculine_prepositive: по­пул­я́р­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: по­пул­я́р­ная
+feminine_genitive: по­пул­я́р­ной
+feminine_dative: по­пул­я́р­ной
+feminine_accusative: по­пул­я́р­ную
+feminine_instrumental: по­пул­я́р­ной
+feminine_prepositive: по­пул­я́р­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: по­пул­я́р­ное
+neutral_genitive: по­пул­я́р­но­го
+neutral_dative: по­пул­я́р­но­му
+neutral_accusative: по­пул­я́р­ное
+neutral_instrumental: по­пул­я́р­ным
+neutral_prepositive: по­пул­я́р­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: по­пул­я́р­ные
+plural_genitive: по­пул­я́р­ных
+plural_dative: по­пул­я́р­ным
+plural_accusative: по­пул­я́р­ные
+plural_instrumental: по­пул­я́р­ны­ми
+plural_prepositive: по­пул­я́р­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: по­пу­ля́­рен
+shortform_feminine: по­пул­я́р­на
+shortform_neutral: по­пул­я́р­но
+shortform_plural: по­пул­я́р­ны
 
-comparative:
+comparative: по­пул­я́р­нее
 superlative:
 
 comment: null

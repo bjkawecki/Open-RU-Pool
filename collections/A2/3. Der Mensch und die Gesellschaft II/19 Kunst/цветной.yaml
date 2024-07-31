@@ -1,37 +1,40 @@
 name: цветной
-name_accent:
+name_accent: цвет­но́й
 wordclass: adjective
 translation:
+  - bunt
+  - gefärbt
+  - farbig
 
-is_gradable: true
+is_gradable: false
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: цвет­но́й
+masculine_genitive: цвет­но́­го
+masculine_dative: цвет­но́­му
+masculine_accusative: цвет­но́й
+masculine_instrumental: цвет­ны́м
+masculine_prepositive: цвет­но́м
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: цвет­на́я
+feminine_genitive: цвет­но́й
+feminine_dative: цвет­но́й
+feminine_accusative: цвет­ну́ю
+feminine_instrumental: цвет­но́й
+feminine_prepositive: цвет­но́й
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: цвет­но́е
+neutral_genitive: цвет­но́­го
+neutral_dative: цвет­но́­му
+neutral_accusative: цвет­но́е
+neutral_instrumental: цвет­ны́м
+neutral_prepositive: цвет­но́м
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: цвет­ны́е
+plural_genitive: цвет­ны́х
+plural_dative: цвет­ны́м
+plural_accusative: цвет­ны́е
+plural_instrumental: цвет­ны́­ми
+plural_prepositive: цвет­ны́х
 
 shortform_masculine:
 shortform_feminine:

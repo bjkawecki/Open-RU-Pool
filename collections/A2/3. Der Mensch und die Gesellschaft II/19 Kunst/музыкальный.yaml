@@ -1,44 +1,46 @@
 name: музыкальный
-name_accent:
+name_accent: музыка́льный
 wordclass: adjective
 translation:
+  - Musik-
+  - musikalisch
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: му­зык­а́ль­ный
+masculine_genitive: му­зык­а́ль­но­го
+masculine_dative: му­зык­а́ль­но­му
+masculine_accusative: му­зык­а́ль­ный
+masculine_instrumental: му­зык­а́ль­ным
+masculine_prepositive: му­зык­а́ль­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: му­зык­а́ль­ная
+feminine_genitive: му­зык­а́ль­ной
+feminine_dative: му­зык­а́ль­ной
+feminine_accusative: му­зык­а́ль­ную
+feminine_instrumental: му­зык­а́ль­ной
+feminine_prepositive: му­зык­а́ль­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: му­зык­а́ль­ное
+neutral_genitive: му­зык­а́ль­но­го
+neutral_dative: му­зык­а́ль­но­му
+neutral_accusative: му­зык­а́ль­ное
+neutral_instrumental: му­зык­а́ль­ным
+neutral_prepositive: му­зык­а́ль­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: му­зык­а́ль­ные
+plural_genitive: му­зык­а́ль­ных
+plural_dative: му­зык­а́ль­ным
+plural_accusative: му­зык­а́ль­ные
+plural_instrumental: му­зык­а́ль­ны­ми
+plural_prepositive: му­зык­а́ль­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: му­зы­ка́­лен
+shortform_feminine: му­зык­а́ль­на
+shortform_neutral: му­зык­а́ль­но
+shortform_plural: му­зык­а́ль­ны
 
-comparative:
+comparative: му­зык­а́ль­нее
 superlative:
 
 comment: null

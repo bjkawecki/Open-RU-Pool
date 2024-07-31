@@ -1,28 +1,29 @@
 name: участвовать
-name_accent:
+name_accent: уч­а́ст­во­вать
 wordclass: verb
 translation:
+  - teilnehmen
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: imperfective
+aspect_partner: поуч­а́ст­во­вать
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
-direct_object_preposition: null
+direct_object_case: prepositive
+direct_object_preposition: в
 indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: уч­а́ст­вую
+present_singular_2: уч­а́ст­ву­ешь
+present_singular_3: уч­а́ст­ву­ет
+present_plural_1: уч­а́ст­ву­ем
+present_plural_2: уч­а́ст­ву­ете
+present_plural_3: уч­а́ст­ву­ют
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +32,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: уч­а́ст­во­вал
+past_feminine: уч­а́ст­во­ва­ла
+past_neutral: уч­а́ст­во­ва­ло
+past_plural: уч­а́ст­во­ва­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: уч­а́ст­ву­ющий
+participle_active_past: уч­а́ст­во­вав­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: уч­а́ст­вуя
+participle_adverbial_passive: уч­а́ст­во­вав­ши, уч­а́ст­во­вав
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: уч­а́ст­вуй
+imperative_plural: уч­а́ст­вуй­те
 
 comment: null
 usage: null

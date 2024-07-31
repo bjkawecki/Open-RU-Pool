@@ -1,8 +1,9 @@
 name: герой романа
-name_accent:
+name_accent: геро́й рома́на
 wordclass: compound
 translation:
-
+  - Romanheld
+  - Protagonist
 comment: null
 usage: null
 etymology: null

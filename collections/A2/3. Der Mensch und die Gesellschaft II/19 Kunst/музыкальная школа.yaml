@@ -1,7 +1,8 @@
 name: музыкальная школа
-name_accent:
+name_accent: музыка́льная шко́ла
 wordclass: compound
 translation:
+  - Musikschule
 
 comment: null
 usage: null

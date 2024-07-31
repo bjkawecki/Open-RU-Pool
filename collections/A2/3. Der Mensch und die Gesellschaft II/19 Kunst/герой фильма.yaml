@@ -1,8 +1,9 @@
 name: герой фильма
-name_accent:
+name_accent: геро́й фи́льма
 wordclass: compound
 translation:
-
+  - Filmheld
+  - Protagonist
 comment: null
 usage: null
 etymology: null

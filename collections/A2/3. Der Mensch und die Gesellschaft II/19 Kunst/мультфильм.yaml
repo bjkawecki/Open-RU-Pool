@@ -1,28 +1,29 @@
 name: мультфильм
-name_accent:
+name_accent: муль­тфи́льм
 wordclass: substantive
 translation:
+  - Zeichentrickfilm
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: муль­тфи́льм
+singular_genitive: муль­тфи́ль­ма
+singular_dative: муль­тфи́ль­му
+singular_accusative: муль­тфи́льм
+singular_instrumental: муль­тфи́ль­мом
+singular_prepositive: муль­тфи́ль­ме
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: муль­тфи́ль­мы
+plural_genitive: муль­тфи́ль­мов
+plural_dative: муль­тфи́ль­мам
+plural_accusative: муль­тфи́ль­мы
+plural_instrumental: муль­тфи́ль­ма­ми
+plural_prepositive: муль­тфи́ль­мах
 
 partitive: null
 locative: null

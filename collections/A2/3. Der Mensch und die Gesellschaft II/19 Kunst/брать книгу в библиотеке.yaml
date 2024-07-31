@@ -1,8 +1,8 @@
 name: брать книгу в библиотеке
-name_accent:
+name_accent: брать кни́гу в библиоте́ке
 wordclass: phrase
 translation:
-
+  - ein Buch in der Bibliothek ausleihen
 metaphrase:
 
 comment: null

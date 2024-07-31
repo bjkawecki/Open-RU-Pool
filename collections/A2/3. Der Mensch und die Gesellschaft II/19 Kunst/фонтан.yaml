@@ -1,28 +1,30 @@
 name: фонтан
-name_accent:
+name_accent: фон­та́н
 wordclass: substantive
 translation:
+  - Springbrunnen
+  - Fontäne
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: фон­та́н
+singular_genitive: фон­та́­на
+singular_dative: фон­та́­ну
+singular_accusative: фон­та́н
+singular_instrumental: фон­та́­ном
+singular_prepositive: фон­та́­не
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: фон­та́­ны
+plural_genitive: фон­та́­нов
+plural_dative: фон­та́­нам
+plural_accusative: фон­та́­ны
+plural_instrumental: фон­та́­на­ми
+plural_prepositive: фон­та́­нах
 
 partitive: null
 locative: null

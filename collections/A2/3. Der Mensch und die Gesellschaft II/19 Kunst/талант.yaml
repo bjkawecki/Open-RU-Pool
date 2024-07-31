@@ -2,27 +2,29 @@ name: талант
 name_accent:
 wordclass: substantive
 translation:
+  - Talent
+  - Begabung
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: та­ла́нт
+singular_genitive: та­ла́н­та
+singular_dative: та­ла́н­ту
+singular_accusative: та­ла́нт
+singular_instrumental: та­ла́н­том
+singular_prepositive: та­ла́н­те
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: та­ла́н­ты
+plural_genitive: та­ла́н­тов
+plural_dative: та­ла́н­там
+plural_accusative: та­ла́н­ты
+plural_instrumental: та­ла́н­та­ми
+plural_prepositive: та­ла́н­тах
 
 partitive: null
 locative: null

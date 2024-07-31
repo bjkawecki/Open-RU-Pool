@@ -1,19 +1,21 @@
 name: спеть
-name_accent:
+name_accent: спеть
 wordclass: verb
 translation:
+  - singen
+  - vorsingen
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: петь
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
-indirect_object_case: null
+indirect_object_case: dative
 indirect_object_preposition: null
 is_reflexive: false
 
@@ -24,29 +26,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: спою́
+future_singular_2: спо­ёшь
+future_singular_3: спо­ёт
+future_plural_1: спо­ём
+future_plural_2: спо­ёте
+future_plural_3: спо­ю́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: спел
+past_feminine: спе́­ла
+past_neutral: спе́­ло
+past_plural: спе́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: спе́в­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: спе́в­ши, спе́в
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: спе́­тый
 
-imperative_singular:
-imperative_plural:
+imperative_singular: спой
+imperative_plural: спо́й­те
 
 comment: null
 usage: null
