@@ -2,7 +2,7 @@ name: кабинет физики
 name_accent:
 wordclass: compound
 translation:
-
-comment: null
+  - Physikraum
+comment: in einer Schule oder Hochschule
 usage: null
 etymology: null

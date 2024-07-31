@@ -1,8 +1,9 @@
 name: делать открытие
-name_accent:
+name_accent: де́лать откры́тие
 wordclass: phrase
 translation:
-
+  - entdecken
+  - eine Entdeckung machen
 metaphrase:
 
 comment: null

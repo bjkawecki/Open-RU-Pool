@@ -1,44 +1,47 @@
 name: учебный
-name_accent:
+name_accent: уче́бный
 wordclass: adjective
 translation:
-
+  - Schul-
+  - Übungs-
+  - Lehr-
+  - Lern-
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: уч­е́б­ный
+masculine_genitive: уч­е́б­но­го
+masculine_dative: уч­е́б­но­му
+masculine_accusative: уч­е́б­ный
+masculine_instrumental: уч­е́б­ным
+masculine_prepositive: уч­е́б­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: уч­е́б­ная
+feminine_genitive: уч­е́б­ной
+feminine_dative: уч­е́б­ной
+feminine_accusative: уч­е́б­ную
+feminine_instrumental: уч­е́б­ной
+feminine_prepositive: уч­е́б­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: уч­е́б­ное
+neutral_genitive: уч­е́б­но­го
+neutral_dative: уч­е́б­но­му
+neutral_accusative: уч­е́б­ное
+neutral_instrumental: уч­е́б­ным
+neutral_prepositive: уч­е́б­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: уч­е́б­ные
+plural_genitive: уч­е́б­ных
+plural_dative: уч­е́б­ным
+plural_accusative: уч­е́б­ные
+plural_instrumental: уч­е́б­ны­ми
+plural_prepositive: уч­е́б­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: уче́­бен
+shortform_feminine: уч­е́б­на
+shortform_neutral: уч­е́б­но
+shortform_plural: уч­е́б­ны
 
-comparative:
+comparative: уч­е́б­нее
 superlative:
 
 comment: null

@@ -1,28 +1,28 @@
 name: аспирантура
-name_accent:
+name_accent: ас­пи­ран­ту́­ра
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Aspirantur
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ас­пи­ран­ту́­ра
+singular_genitive: ас­пи­ран­ту́­ры
+singular_dative: ас­пи­ран­ту́­ре
+singular_accusative: ас­пи­ран­ту́­ру
+singular_instrumental: ас­пи­ран­ту́­рой
+singular_prepositive: ас­пи­ран­ту́­ре
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ас­пи­ран­ту́­ры
+plural_genitive: ас­пи­ран­ту́р
+plural_dative: ас­пи­ран­ту́­рам
+plural_accusative: ас­пи­ран­ту́­ры
+plural_instrumental: ас­пи­ран­ту́­ра­ми
+plural_prepositive: ас­пи­ран­ту́­рах
 
 partitive: null
 locative: null

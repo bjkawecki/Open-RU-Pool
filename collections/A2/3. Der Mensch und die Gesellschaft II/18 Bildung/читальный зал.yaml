@@ -1,8 +1,8 @@
 name: читальный зал
-name_accent:
+name_accent: чита́льный зал
 wordclass: compound
 translation:
-
+  - Lesesaal
 comment: null
 usage: null
 etymology: null

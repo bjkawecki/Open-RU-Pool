@@ -2,27 +2,28 @@ name: занятие
 name_accent:
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Beschäftigung
+  - Unterricht
+genus: n
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: за­ня́­тие
+singular_genitive: за­ня́­тия
+singular_dative: за­ня́­тию
+singular_accusative: за­ня́­тие
+singular_instrumental: за­ня́­ти­ем
+singular_prepositive: за­ня́­тии
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: за­ня́­тия
+plural_genitive: за­ня́­тий
+plural_dative: за­ня́­ти­ям
+plural_accusative: за­ня́­тия
+plural_instrumental: за­ня́­ти­ями
+plural_prepositive: за­ня́­ти­ях
 
 partitive: null
 locative: null

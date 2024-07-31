@@ -1,21 +1,22 @@
 name: научиться
-name_accent:
+name_accent: научи́ться
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - lernen
+  - erlernen
+aspect: perfective
+aspect_partner: учи́ться
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: dative
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
-is_reflexive: false
+is_reflexive: true
 
 present_singular_1:
 present_singular_2:
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: на­уч­у́сь
+future_singular_2: на­у́ч­ишь­ся
+future_singular_3: на­у́ч­ит­ся
+future_plural_1: на­у́ч­им­ся
+future_plural_2: на­у́чи­тесь
+future_plural_3: на­у́ч­ат­ся
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: на­уч­и́л­ся
+past_feminine: на­учи́­лась
+past_neutral: на­учи́­лось
+past_plural: на­учи́­лись
 
 participle_active_present:
-participle_active_past:
+participle_active_past: на­уч­и́в­ший­ся
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: на­уч­и́в­шись
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: на­уч­и́сь
+imperative_plural: на­учи́­тесь
 
 comment: null
 usage: null

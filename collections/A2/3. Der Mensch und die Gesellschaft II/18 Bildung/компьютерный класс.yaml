@@ -1,8 +1,8 @@
 name: компьютерный класс
-name_accent:
+name_accent: компью́терный класс
 wordclass: compound
 translation:
-
-comment: null
+  - Computerraum
+comment: in einer Schule
 usage: null
 etymology: null

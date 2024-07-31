@@ -1,19 +1,19 @@
 name: объяснить
-name_accent:
+name_accent: объ­яс­ни́ть
 wordclass: verb
 translation:
-
-aspect:
-aspect_partner:
-conjugation_class:
+  - erklären
+aspect: perfective
+aspect_partner: объясня́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
-indirect_object_case: null
+indirect_object_case: dative
 indirect_object_preposition: null
 is_reflexive: false
 
@@ -24,29 +24,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: объ­яс­ню́
+future_singular_2: объ­яс­ни́шь
+future_singular_3: объ­яс­ни́т
+future_plural_1: объ­яс­ни́м
+future_plural_2: объ­яс­ни́­те
+future_plural_3: объ­яс­ня́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: объ­яс­ни́л
+past_feminine: объ­яс­ни́­ла
+past_neutral: объ­яс­ни́­ло
+past_plural: объ­яс­ни́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: объ­яс­ни́­вший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: объ­яс­ни́­вши, объ­яс­ни́в
 
 participle_passive_present:
-participle_passive_past:
+participle_passive_past: объ­яс­нён­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: объ­яс­ни́
+imperative_plural: объ­яс­ни́­те
 
 comment: null
 usage: null

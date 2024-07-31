@@ -1,28 +1,29 @@
 name: труд
-name_accent:
+name_accent: труд
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Mühe
+  - Arbeit
+genus: m
+declination_class: 2
+stress: suffix
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: труд
+singular_genitive: тру­да́
+singular_dative: тру­ду́
+singular_accusative: труд
+singular_instrumental: тру­до́м
+singular_prepositive: тру­де́
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: тру­ды́
+plural_genitive: тру­до́в
+plural_dative: тру­да́м
+plural_accusative: тру­ды́
+plural_instrumental: тру­да́­ми
+plural_prepositive: тру­да́х
 
 partitive: null
 locative: null

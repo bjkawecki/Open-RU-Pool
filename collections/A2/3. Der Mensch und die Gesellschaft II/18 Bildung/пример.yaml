@@ -1,28 +1,30 @@
 name: пример
-name_accent:
+name_accent: при­ме́р
 wordclass: substantive
 translation:
-
-genus:
-declination_class:
-stress:
+  - Beispiel
+  - Vorbild
+  - Muster
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: при­ме́р
+singular_genitive: при­ме́­ра
+singular_dative: при­ме́­ру
+singular_accusative: при­ме́р
+singular_instrumental: при­ме́р­ом
+singular_prepositive: при­ме́­ре
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: при­ме́­ры
+plural_genitive: при­ме́р­ов
+plural_dative: при­ме́р­ам
+plural_accusative: при­ме́­ры
+plural_instrumental: при­ме́­ра­ми
+plural_prepositive: при­ме́р­ах
 
 partitive: null
 locative: null

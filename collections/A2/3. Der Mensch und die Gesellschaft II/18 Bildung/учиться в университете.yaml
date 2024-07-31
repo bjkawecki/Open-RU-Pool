@@ -1,8 +1,9 @@
 name: учиться в университете
-name_accent:
+name_accent: учи́ться в универси́тете
 wordclass: phrase
 translation:
-
+  - die Universität besuchen
+  - studieren
 metaphrase:
 
 comment: null
