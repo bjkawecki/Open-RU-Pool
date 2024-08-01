@@ -1,28 +1,30 @@
 name: остановка
-name_accent:
+name_accent: ос­та­но́в­ка
 wordclass: substantive
 translation:
+  - Haltestelle
+  - Halt
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ос­та­но́в­ка
+singular_genitive: ос­та­но́в­ки
+singular_dative: ос­та­но́в­ке
+singular_accusative: ос­та­но́в­ку
+singular_instrumental: ос­та­но́в­кой
+singular_prepositive: ос­та­но́в­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ос­та­но́в­ки
+plural_genitive: ос­та­но́в­ок
+plural_dative: ос­та­но́в­кам
+plural_accusative: ос­та­но́в­ки
+plural_instrumental: ос­та­но́в­ка­ми
+plural_prepositive: ос­та­но́в­ках
 
 partitive: null
 locative: null

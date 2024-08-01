@@ -1,7 +1,8 @@
 name: следующая остановка
-name_accent:
+name_accent: сле́дующая остано́вка
 wordclass: compound
 translation:
+  - nächste Haltestelle
 
 comment: null
 usage: null

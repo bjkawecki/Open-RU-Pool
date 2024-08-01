@@ -1,11 +1,12 @@
 name: сесть
-name_accent:
+name_accent: сесть
 wordclass: verb
 translation:
+  - sich setzen
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: са­ди́ть­ся
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: ся́­ду
+future_singular_2: ся́­дешь
+future_singular_3: ся́­дет
+future_plural_1: ся́­дем
+future_plural_2: ся́­де­те
+future_plural_3: ся́­дут
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: сел
+past_feminine: се́­ла
+past_neutral: се́­ло
+past_plural: се́­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: се́в­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: се́в­ши, се́в
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: сядь
+imperative_plural: сядь­те
 
 comment: null
 usage: null

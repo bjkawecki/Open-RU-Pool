@@ -1,11 +1,15 @@
 name: входить
-name_accent:
+name_accent: вхо­ди́ть
 wordclass: verb
 translation:
+  - eintreten
+  - betreten
+  - gehen in
+  - hereinkommen
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: imperfective
+aspect_partner: вой­ти́
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
@@ -17,12 +21,12 @@ indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: вхо­жу́
+present_singular_2: вхо́­дишь
+present_singular_3: вхо́­дит
+present_plural_1: вхо́­дим
+present_plural_2: вхо́­ди­те
+present_plural_3: вхо́­дят
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +35,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: вхо­ди́л
+past_feminine: вхо­ди́­ла
+past_neutral: вхо­ди́­ло
+past_plural: вхо­ди́­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: вхо­дя́­щий
+participle_active_past: вхо­ди́в­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: вхо­дя́
+participle_adverbial_passive: вхо­ди́в­ши, вхо­ди́в
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: вхо­ди́
+imperative_plural: вхо­ди́­те
 
 comment: null
 usage: null

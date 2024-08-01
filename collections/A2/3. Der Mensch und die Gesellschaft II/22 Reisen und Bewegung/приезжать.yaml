@@ -1,11 +1,14 @@
 name: приезжать
-name_accent:
+name_accent: при­ез­жа́ть
 wordclass: verb
 translation:
+  - ankommen
+  - anreisen
+  - anfahren
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: imperfective
+aspect_partner: при­е́х­ать
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -17,12 +20,12 @@ indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: при­ез­жа́ю
+present_singular_2: при­ез­жа́­ешь
+present_singular_3: при­ез­жа́­ет
+present_plural_1: при­ез­жа́­ем
+present_plural_2: при­ез­жа́­ете
+present_plural_3: при­ез­жа́­ют
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +34,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: при­ез­жа́л
+past_feminine: при­ез­жа́­ла
+past_neutral: при­ез­жа́­ло
+past_plural: при­ез­жа́­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: при­ез­жа́­ющий
+participle_active_past: при­ез­жа́­вший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: при­ез­жа́я
+participle_adverbial_passive: при­ез­жа́­вши, при­ез­жа́в
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: при­ез­жа́й
+imperative_plural: при­ез­жа́й­те
 
 comment: null
 usage: null

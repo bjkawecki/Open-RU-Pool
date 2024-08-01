@@ -1,11 +1,14 @@
 name: приехать
-name_accent:
+name_accent: при­е́х­ать
 wordclass: verb
 translation:
+  - ankommen
+  - anreisen
+  - anfahren
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: при­ез­жа́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -24,23 +27,23 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: при­е́ду
+future_singular_2: при­е́д­ешь
+future_singular_3: при­е́д­ет
+future_plural_1: при­е́д­ем
+future_plural_2: при­е́де­те
+future_plural_3: при­е́д­ут
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: при­е́х­ал
+past_feminine: при­е́ха­ла
+past_neutral: при­е́ха­ло
+past_plural: при­е́ха­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: при­е́х­ав­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: при­е́х­ав­ши, при­е́х­ав
 
 participle_passive_present:
 participle_passive_past:

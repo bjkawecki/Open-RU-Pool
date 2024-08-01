@@ -16,7 +16,7 @@ direct_object_case: null
 direct_object_preposition: null
 indirect_object_case: null
 indirect_object_preposition: null
-is_reflexive: false
+is_reflexive: true
 
 present_singular_1:
 present_singular_2:

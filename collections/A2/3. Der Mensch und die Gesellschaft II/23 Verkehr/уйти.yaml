@@ -1,11 +1,15 @@
 name: уйти
-name_accent:
+name_accent: уй­ти́
 wordclass: verb
 translation:
+  - weggehen
+  - gehen
+  - verlassen
+  - abfahren
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: ухо­ди́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -24,29 +28,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: уй­ду́
+future_singular_2: уй­дёшь
+future_singular_3: уй­дёт
+future_plural_1: уй­дём
+future_plural_2: уй­дё­те
+future_plural_3: уй­ду́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: уш­ёл
+past_feminine: уш­ла́
+past_neutral: уш­ло́
+past_plural: уш­ли́
 
 participle_active_present:
-participle_active_past:
+participle_active_past: уш­е́д­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: уй­дя́
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: уй­ди́
+imperative_plural: уй­ди́­те
 
 comment: null
 usage: null

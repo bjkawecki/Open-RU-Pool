@@ -1,7 +1,8 @@
 name: план города
-name_accent:
+name_accent: план го́рода
 wordclass: compound
 translation:
+  - Stadtplan
 
 comment: null
 usage: null

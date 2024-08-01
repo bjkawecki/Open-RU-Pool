@@ -1,0 +1,57 @@
+name: проходить
+name_accent: проходи́ть
+wordclass: verb
+translation:
+  - vorbeigehen
+  - vergehen
+  - durchgehen
+  - durchlaufen
+
+aspect: imperfective
+aspect_partner: прой­ти́
+conjugation_class: 2
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+direct_object_case: null
+direct_object_preposition: null
+indirect_object_case: null
+indirect_object_preposition: null
+is_reflexive: false
+
+present_singular_1: про­хо­жу́
+present_singular_2: про­хо́д­ишь
+present_singular_3: про­хо́д­ит
+present_plural_1: про­хо́д­им
+present_plural_2: про­хо́­ди­те
+present_plural_3: про­хо́д­ят
+
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+
+past_masculine: про­ход­и́л
+past_feminine: про­хо­ди́­ла
+past_neutral: про­хо­ди́­ло
+past_plural: про­хо­ди́­ли
+
+participle_active_present: про­хо­дя́­щий
+participle_active_past: про­ход­и́в­ший
+
+participle_adverbial_present: про­хо­дя́
+participle_adverbial_passive: про­ход­и́в­ши, про­ход­и́в
+
+participle_passive_present: про­хо­ди́­мый
+participle_passive_past:
+
+imperative_singular: про­хо­ди́
+imperative_plural: про­хо­ди́­те
+
+comment: null
+usage: null
+etymology: null

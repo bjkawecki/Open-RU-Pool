@@ -1,28 +1,31 @@
 name: поездка
-name_accent:
+name_accent: по­е́зд­ка
 wordclass: substantive
 translation:
+  - Reise
+  - Ausflug
+  - Fahrt
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: по­е́зд­ка
+singular_genitive: по­е́зд­ки
+singular_dative: по­е́зд­ке
+singular_accusative: по­е́зд­ку
+singular_instrumental: по­е́зд­кой
+singular_prepositive: по­е́зд­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: по­е́зд­ки
+plural_genitive: по­е́з­док
+plural_dative: по­е́зд­кам
+plural_accusative: по­е́зд­ки
+plural_instrumental: по­е́зд­ка­ми
+plural_prepositive: по­е́зд­ках
 
 partitive: null
 locative: null

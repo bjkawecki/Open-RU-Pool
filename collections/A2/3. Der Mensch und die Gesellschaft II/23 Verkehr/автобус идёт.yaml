@@ -1,7 +1,8 @@
 name: автобус идёт
-name_accent:
+name_accent: авто́бус идёт
 wordclass: phrase
 translation:
+  - der Bus kommt
 
 metaphrase:
 

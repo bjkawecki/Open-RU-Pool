@@ -1,10 +1,14 @@
 name: войти
-name_accent:
+name_accent: вой­ти́
 wordclass: verb
 translation:
+  - eintreten
+  - betreten
+  - gehen in
+  - hereinkommen
 
-aspect:
-aspect_partner:
+aspect: perfective
+aspect_partner: вхо­ди́ть
 conjugation_class:
 
 is_motion_verb: false
@@ -24,29 +28,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: вой­ду́
+future_singular_2: вой­дёшь
+future_singular_3: вой­дёт
+future_plural_1: вой­дём
+future_plural_2: вой­дё­те
+future_plural_3: вой­ду́т
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: во­шёл
+past_feminine: вош­ла́
+past_neutral: вош­ло́
+past_plural: вош­ли́
 
 participle_active_present:
-participle_active_past:
+participle_active_past: во­ше́д­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: вой­дя́
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: вой­ди́
+imperative_plural: вой­ди́­те
 
 comment: null
 usage: null
