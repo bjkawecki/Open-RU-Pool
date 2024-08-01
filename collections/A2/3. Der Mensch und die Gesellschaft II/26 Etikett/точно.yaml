@@ -1,7 +1,9 @@
-name: Точно
-name_accent:
+name: точно
+name_accent: то́чно
 wordclass: adverb
 translation:
+  - genau
+  - exakt
 
 comment: null
 usage: null

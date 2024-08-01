@@ -1,7 +1,9 @@
 name: Всего доброго
-name_accent:
+name_accent: Всего́ до́брого
 wordclass: phrase
 translation:
+  - Alles Gute!
+  - Alles Liebe!
 
 metaphrase:
 

@@ -1,7 +1,10 @@
 name: конечно
-name_accent:
+name_accent: коне́чно
 wordclass: adverb
 translation:
+  - natürlich
+  - sicher
+  - gewiss
 
 comment: null
 usage: null

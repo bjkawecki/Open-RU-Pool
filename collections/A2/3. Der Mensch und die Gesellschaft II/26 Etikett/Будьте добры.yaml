@@ -1,8 +1,9 @@
 name: Будьте добры
-name_accent:
+name_accent: Бу́дьте добры́
 wordclass: phrase
 translation:
-
+  - Seien Sie so gut.
+  - Würden Sie bitte...?
 metaphrase:
 
 comment: null

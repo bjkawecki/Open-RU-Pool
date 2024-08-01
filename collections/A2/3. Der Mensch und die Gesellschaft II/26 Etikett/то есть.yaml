@@ -1,8 +1,8 @@
 name: то есть
-name_accent:
+name_accent: то есть
 wordclass: phrase
 translation:
-
+  - das heißt
 metaphrase:
 
 comment: null

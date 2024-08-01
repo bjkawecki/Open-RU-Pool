@@ -1,7 +1,9 @@
-name: К сожалению
-name_accent:
+name: к сожалению
+name_accent: к сожале́нию
 wordclass: phrase
 translation:
+  - leider
+  - bedauerlicherweise
 
 metaphrase:
 

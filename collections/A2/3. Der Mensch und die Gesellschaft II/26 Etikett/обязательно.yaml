@@ -1,7 +1,10 @@
 name: обязательно
-name_accent:
+name_accent: обяза́тельно
 wordclass: adverb
 translation:
+  - unbedingt
+  - bestimmt
+  - notwendig
 
 comment: null
 usage: null

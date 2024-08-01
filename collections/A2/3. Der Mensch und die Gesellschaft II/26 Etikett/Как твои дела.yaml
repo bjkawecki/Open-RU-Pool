@@ -1,7 +1,8 @@
 name: Как твои дела
-name_accent:
+name_accent: Как твои́ дела́
 wordclass: phrase
 translation:
+  - Wie geht es dir?
 
 metaphrase:
 

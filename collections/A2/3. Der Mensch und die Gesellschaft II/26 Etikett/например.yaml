@@ -1,7 +1,9 @@
 name: например
-name_accent:
+name_accent: наприме́р
 wordclass: adverb
 translation:
+  - zum Beispiel
+  - beispielsweise
 
 comment: null
 usage: null

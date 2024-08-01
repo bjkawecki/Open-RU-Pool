@@ -1,44 +1,47 @@
 name: уважаемый
-name_accent:
+name_accent: уважа́емый
 wordclass: adjective
 translation:
+  - wert
+  - geachtet
+  - sehr geehrteer
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ува­жа́­емый
+masculine_genitive: ува­жа́­емо­го
+masculine_dative: ува­жа́­емо­му
+masculine_accusative: ува­жа́­емый
+masculine_instrumental: ува­жа́­ем­ым
+masculine_prepositive: ува­жа́­ем­ом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ува­жа́­емая
+feminine_genitive: ува­жа́­емой
+feminine_dative: ува­жа́­емой
+feminine_accusative: ува­жа́­емую
+feminine_instrumental: ува­жа́­емой
+feminine_prepositive: ува­жа́­емой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ува­жа́­емое
+neutral_genitive: ува­жа́­емо­го
+neutral_dative: ува­жа́­емо­му
+neutral_accusative: ува­жа́­емое
+neutral_instrumental: ува­жа́­ем­ым
+neutral_prepositive: ува­жа́­ем­ом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ува­жа́­емые
+plural_genitive: ува­жа́­ем­ых
+plural_dative: ува­жа́­ем­ым
+plural_accusative: ува­жа́­емые
+plural_instrumental: ува­жа́­емы­ми
+plural_prepositive: ува­жа́­ем­ых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ува­жа́­ем
+shortform_feminine: ува­жа́­ема
+shortform_neutral: ува­жа́­емо
+shortform_plural: ува­жа́­емы
 
-comparative:
+comparative: ува­жа́­емее
 superlative:
 
 comment: null

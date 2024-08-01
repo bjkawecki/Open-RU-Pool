@@ -1,7 +1,9 @@
-name: Желаю успеха
-name_accent:
+name: желать успеха
+name_accent: жела́ть успе́ха
 wordclass: phrase
 translation:
+  - Erfolg wünschen
+  - die Daumen drücken
 
 metaphrase:
 

@@ -1,8 +1,12 @@
 name: вот
-name_accent:
+name_accent: вот
 wordclass: particle
 translation:
+  - da
+  - da ist
+  - hier
+  - hier ist
 
-comment: null
+comment: Verwendung in Bezug auf etwas in unmittelbarer Nähe
 usage: null
 etymology: null

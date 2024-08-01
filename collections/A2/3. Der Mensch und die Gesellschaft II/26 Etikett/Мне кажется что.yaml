@@ -1,7 +1,9 @@
-name: Мне кажется что...
-name_accent:
+name: Мне кажется
+name_accent: Мне ка́жется
 wordclass: phrase
 translation:
+  - Es scheint mir...
+  - Ich habe den Eindruck...
 
 metaphrase:
 

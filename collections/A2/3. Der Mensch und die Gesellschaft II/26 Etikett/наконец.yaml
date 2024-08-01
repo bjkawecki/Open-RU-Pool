@@ -1,7 +1,10 @@
 name: наконец
-name_accent:
+name_accent: наконе́ц
 wordclass: phrase
 translation:
+  - zuletzt
+  - schlussendlich
+  - schließlich
 
 metaphrase:
 

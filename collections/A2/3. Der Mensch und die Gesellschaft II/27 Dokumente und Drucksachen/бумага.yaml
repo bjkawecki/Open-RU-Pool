@@ -1,28 +1,30 @@
 name: бумага
-name_accent:
+name_accent: бума́га
 wordclass: substantive
 translation:
+  - Papier
+  - Schreiben
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: бу­ма́­га
+singular_genitive: бу­ма́­ги
+singular_dative: бу­ма́­ге
+singular_accusative: бу­ма́­гу
+singular_instrumental: бу­ма́­гой
+singular_prepositive: бу­ма́­ге
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: бу­ма́­ги
+plural_genitive: бу­ма́г
+plural_dative: бу­ма́г­ам
+plural_accusative: бу­ма́­ги
+plural_instrumental: бу­ма́­га­ми
+plural_prepositive: бу­ма́г­ах
 
 partitive: null
 locative: null
