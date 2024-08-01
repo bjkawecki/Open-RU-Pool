@@ -1,11 +1,12 @@
 name: спрашивать
-name_accent:
+name_accent: спра́­шив­ать
 wordclass: verb
 translation:
+  - fragen
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: imperfective
+aspect_partner: спроси́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -17,12 +18,12 @@ indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: спра́­ши­ваю
+present_singular_2: спра́­ши­ва­ешь
+present_singular_3: спра́­ши­ва­ет
+present_plural_1: спра́­ши­ва­ем
+present_plural_2: спра́­ши­ва­ете
+present_plural_3: спра́­ши­ва­ют
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +32,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: спра́­шив­ал
+past_feminine: спра́­ши­ва­ла
+past_neutral: спра́­ши­ва­ло
+past_plural: спра́­ши­ва­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: спра́­ши­ва­ющий
+participle_active_past: спра́­шив­ав­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: спра́­ши­вая
+participle_adverbial_passive: спра́­шив­ав­ши, спра́­шив­ав
 
-participle_passive_present:
+participle_passive_present: спра́­ши­ва­емый
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: спра́­ши­вай
+imperative_plural: спра́­ши­вай­те
 
 comment: null
 usage: null

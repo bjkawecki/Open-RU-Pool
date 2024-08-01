@@ -1,1 +1,54 @@
 name: звать
+name_accent: звать
+wordclass: verb
+translation:
+  - rufen
+
+aspect: imperfective
+aspect_partner: позва́ть
+conjugation_class: 1
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+direct_object_case: null
+direct_object_preposition: null
+indirect_object_case: null
+indirect_object_preposition: null
+is_reflexive: false
+
+present_singular_1: зо­ву́
+present_singular_2: зо­вёшь
+present_singular_3: зо­вёт
+present_plural_1: зо­вём
+present_plural_2: зо­вё­те
+present_plural_3: зо­ву́т
+
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+
+past_masculine: звал
+past_feminine: зва­ла́
+past_neutral: зва́­ло
+past_plural: зва́­ли
+
+participle_active_present: зо­ву́­щий
+participle_active_past: зва́в­ший
+
+participle_adverbial_present: зо­вя́
+participle_adverbial_passive: зва́в­ши, зва́в
+
+participle_passive_present:
+participle_passive_past: зва́н­ный
+
+imperative_singular: зо­ви́
+imperative_plural: зо­ви́­те
+
+comment: null
+usage: null
+etymology: null

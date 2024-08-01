@@ -1,28 +1,29 @@
 name: деревня
-name_accent:
+name_accent: де­ре́в­ня
 wordclass: substantive
 translation:
+  - Dorf
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: shifting
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: де­ре́в­ня
+singular_genitive: де­ре́в­ни
+singular_dative: де­ре́в­не
+singular_accusative: де­ре́в­ню
+singular_instrumental: де­ре́в­ней
+singular_prepositive: де­ре́в­не
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: де­ре́в­ни
+plural_genitive: де­рев­е́нь
+plural_dative: де­рев­ня́м
+plural_accusative: де­ре́в­ни
+plural_instrumental: де­рев­ня́­ми
+plural_prepositive: де­рев­ня́х
 
 partitive: null
 locative: null

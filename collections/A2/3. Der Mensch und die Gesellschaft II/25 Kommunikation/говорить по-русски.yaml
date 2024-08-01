@@ -1,7 +1,8 @@
 name: говорить по-русски
-name_accent:
+name_accent: говори́ть по-ру́сски
 wordclass: phrase
 translation:
+  - Russisch sprechen
 
 metaphrase:
 

@@ -1,14 +1,12 @@
 name: кто-то
-name:
-name_accent:
+name_accent: кто́-то
 wordclass: pronoun
 translation:
+  - jemand
 
-pronoun_type:
+pronoun_type: indefinite
 
-declination_type:
-
-
+declination_type: substantive
 
 masculine_nominative:
 masculine_genitive:
@@ -31,12 +29,12 @@ neutral_accusative:
 neutral_instrumental:
 neutral_prepositive:
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: кто́-то
+singular_genitive: кого́-то
+singular_dative: кому́-то
+singular_accusative: кого́-то
+singular_instrumental: ке́м-то
+singular_prepositive: ко́м-то
 
 plural_nominative:
 plural_genitive:

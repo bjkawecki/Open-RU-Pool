@@ -1,28 +1,29 @@
 name: новость
-name_accent:
+name_accent: но́­вость
 wordclass: substantive
 translation:
+  - Neuigkeit
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 3
+stress: shifting
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: но́­вость
+singular_genitive: но́­вос­ти
+singular_dative: но́­вос­ти
+singular_accusative: но́­вость
+singular_instrumental: но́­востью
+singular_prepositive: но́­вос­ти
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: но́­вос­ти
+plural_genitive: но­вос­те́й
+plural_dative: но­вос­тя́м
+plural_accusative: но́­вос­ти
+plural_instrumental: но­вос­тя́­ми
+plural_prepositive: но­вос­тя́х
 
 partitive: null
 locative: null

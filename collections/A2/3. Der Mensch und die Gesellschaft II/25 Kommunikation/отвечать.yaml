@@ -1,11 +1,12 @@
 name: отвечать
-name_accent:
+name_accent: от­ве­ча́ть
 wordclass: verb
 translation:
+  - antworten
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: imperfective
+aspect_partner: от­ве́­тить
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -17,12 +18,12 @@ indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: от­ве­ча́ю
+present_singular_2: от­ве­ча́­ешь
+present_singular_3: от­ве­ча́­ет
+present_plural_1: от­ве­ча́­ем
+present_plural_2: от­ве­ча́­ете
+present_plural_3: от­ве­ча́­ют
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +32,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: от­ве­ча́л
+past_feminine: от­ве­ча́­ла
+past_neutral: от­ве­ча́­ло
+past_plural: от­ве­ча́­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: от­ве­ча́­ющий
+participle_active_past: от­ве­ча́в­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: от­ве­ча́я
+participle_adverbial_passive: от­ве­ча́в­ши, от­ве­ча́в
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: от­ве­ча́й
+imperative_plural: от­ве­ча́й­те
 
 comment: null
 usage: null

@@ -1,28 +1,31 @@
 name: звонок
-name_accent:
+name_accent: зво­но́к
 wordclass: substantive
 translation:
+  - Klingel
+  - Glocke
+  - Anruf
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: suffix
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: зво­но́к
+singular_genitive: звон­ка́
+singular_dative: звон­ку́
+singular_accusative: зво­но́к
+singular_instrumental: звон­ко́м
+singular_prepositive: звон­ке́
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: звон­ки́
+plural_genitive: звон­ко́в
+plural_dative: звон­ка́м
+plural_accusative: звон­ки́
+plural_instrumental: звон­ка́­ми
+plural_prepositive: звон­ка́х
 
 partitive: null
 locative: null

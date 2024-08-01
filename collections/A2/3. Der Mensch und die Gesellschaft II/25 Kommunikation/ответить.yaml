@@ -1,11 +1,12 @@
 name: ответить
-name_accent:
+name_accent: от­ве́­тить
 wordclass: verb
 translation:
+  - antworten
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: от­ве­ча́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
@@ -24,29 +25,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: от­ве́­чу
+future_singular_2: от­ве́­тишь
+future_singular_3: от­ве́­тит
+future_plural_1: от­ве́­тим
+future_plural_2: от­ве́­ти­те
+future_plural_3: от­ве́­тят
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: от­ве́­тил
+past_feminine: от­ве́­ти­ла
+past_neutral: от­ве́­ти­ло
+past_plural: от­ве́­ти­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: от­ве́­тив­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: от­ве́­тив­ши, от­ве́­тив
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: от­ве́ть
+imperative_plural: от­ве́ть­те
 
 comment: null
 usage: null

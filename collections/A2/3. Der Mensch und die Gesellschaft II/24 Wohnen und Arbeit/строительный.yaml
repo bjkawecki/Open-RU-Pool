@@ -2,36 +2,37 @@ name: строительный
 name_accent:
 wordclass: adjective
 translation:
+  - Bau-
 
-is_gradable: true
+is_gradable: false
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: стро­и́т­ель­ный
+masculine_genitive: стро­и́т­ель­но­го
+masculine_dative: стро­и́т­ель­но­му
+masculine_accusative: стро­и́т­ель­ный
+masculine_instrumental: стро­и́т­ель­ным
+masculine_prepositive: стро­и́т­ель­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: стро­и́т­ель­ная
+feminine_genitive: стро­и́т­ель­ной
+feminine_dative: стро­и́т­ель­ной
+feminine_accusative: стро­и́т­ель­ную
+feminine_instrumental: стро­и́т­ель­ной
+feminine_prepositive: стро­и́т­ель­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: стро­и́т­ель­ное
+neutral_genitive: стро­и́т­ель­но­го
+neutral_dative: стро­и́т­ель­но­му
+neutral_accusative: стро­и́т­ель­ное
+neutral_instrumental: стро­и́т­ель­ным
+neutral_prepositive: стро­и́т­ель­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: стро­и́т­ель­ные
+plural_genitive: стро­и́т­ель­ных
+plural_dative: стро­и́т­ель­ным
+plural_accusative: стро­и́т­ель­ные
+plural_instrumental: стро­и́т­ель­ны­ми
+plural_prepositive: стро­и́т­ель­ных
 
 shortform_masculine:
 shortform_feminine:

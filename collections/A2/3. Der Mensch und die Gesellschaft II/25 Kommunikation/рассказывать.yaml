@@ -1,11 +1,13 @@
 name: рассказывать
-name_accent:
+name_accent: рас­ска́­зыв­ать
 wordclass: verb
 translation:
+  - erzählen
+  - berichten
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: imperfective
+aspect_partner: рас­ска­за́ть
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
@@ -17,12 +19,12 @@ indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: рас­ска́­зы­ваю
+present_singular_2: рас­ска́­зы­ва­ешь
+present_singular_3: рас­ска́­зы­ва­ет
+present_plural_1: рас­ска́­зы­ва­ем
+present_plural_2: рас­ска́­зы­ва­ете
+present_plural_3: рас­ска́­зы­ва­ют
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +33,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: рас­ска́­зыв­ал
+past_feminine: рас­ска́­зы­ва­ла
+past_neutral: рас­ска́­зы­ва­ло
+past_plural: рас­ска́­зы­ва­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: рас­ска́­зы­ва­ющий
+participle_active_past: рас­ска́­зыв­ав­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: рас­ска́­зы­вая
+participle_adverbial_passive: рас­ска́­зыв­ав­ши, рас­ска́­зыв­ав
 
-participle_passive_present:
+participle_passive_present: рас­ска́­зы­ва­емый
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: рас­ска́­зы­вай
+imperative_plural: рас­ска́­зы­вай­те
 
 comment: null
 usage: null

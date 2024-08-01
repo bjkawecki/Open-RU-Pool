@@ -1,19 +1,21 @@
 name: посоветовать
-name_accent:
+name_accent: по­со­ве́­тов­ать
 wordclass: verb
 translation:
+  - raten
+  - empfehlen
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: perfective
+aspect_partner: ­со­ве́­тов­ать
+conjugation_class: 1
 
 is_motion_verb: false
 motion_partner: null
 direction: null
 
-direct_object_case: null
+direct_object_case: accusative
 direct_object_preposition: null
-indirect_object_case: null
+indirect_object_case: dative
 indirect_object_preposition: null
 is_reflexive: false
 
@@ -24,29 +26,29 @@ present_plural_1:
 present_plural_2:
 present_plural_3:
 
-future_singular_1:
-future_singular_2:
-future_singular_3:
-future_plural_1:
-future_plural_2:
-future_plural_3:
+future_singular_1: по­со­ве́­тую
+future_singular_2: по­со­ве́­ту­ешь
+future_singular_3: по­со­ве́­ту­ет
+future_plural_1: по­со­ве́­ту­ем
+future_plural_2: по­со­ве́­ту­ете
+future_plural_3: по­со­ве́­ту­ют
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: по­со­ве́­тов­ал
+past_feminine: по­со­ве́­то­ва­ла
+past_neutral: по­со­ве́­то­ва­ло
+past_plural: по­со­ве́­то­ва­ли
 
 participle_active_present:
-participle_active_past:
+participle_active_past: по­со­ве́­тов­ав­ший
 
 participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_passive: по­со­ве́­тов­ав­ши, по­со­ве́­тов­ав
 
 participle_passive_present:
 participle_passive_past:
 
-imperative_singular:
-imperative_plural:
+imperative_singular: по­со­ве́­туй
+imperative_plural: по­со­ве́­туй­те
 
 comment: null
 usage: null

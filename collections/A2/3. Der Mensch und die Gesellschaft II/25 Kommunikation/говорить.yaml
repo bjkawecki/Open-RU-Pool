@@ -1,11 +1,12 @@
 name: говорить
-name_accent:
+name_accent: го­вор­и́ть
 wordclass: verb
 translation:
+  - sprechen
 
-aspect:
-aspect_partner:
-conjugation_class:
+aspect: imperfective
+aspect_partner: сказа́ть
+conjugation_class: 2
 
 is_motion_verb: false
 motion_partner: null
@@ -17,12 +18,12 @@ indirect_object_case: null
 indirect_object_preposition: null
 is_reflexive: false
 
-present_singular_1:
-present_singular_2:
-present_singular_3:
-present_plural_1:
-present_plural_2:
-present_plural_3:
+present_singular_1: го­во­рю́
+present_singular_2: го­вор­и́шь
+present_singular_3: го­вор­и́т
+present_plural_1: го­вор­и́м
+present_plural_2: го­во­ри́­те
+present_plural_3: го­вор­я́т
 
 future_singular_1:
 future_singular_2:
@@ -31,22 +32,22 @@ future_plural_1:
 future_plural_2:
 future_plural_3:
 
-past_masculine:
-past_feminine:
-past_neutral:
-past_plural:
+past_masculine: го­вор­и́л
+past_feminine: го­во­ри́­ла
+past_neutral: го­во­ри́­ло
+past_plural: го­во­ри́­ли
 
-participle_active_present:
-participle_active_past:
+participle_active_present: го­во­ря́­щий
+participle_active_past: го­вор­и́в­ший
 
-participle_adverbial_present:
-participle_adverbial_passive:
+participle_adverbial_present: го­во­ря́
+participle_adverbial_passive: го­вор­и́в­ши, го­вор­и́в
 
-participle_passive_present:
-participle_passive_past:
+participle_passive_present: го­во­ри́­мый
+participle_passive_past: го­вор­ён­ный
 
-imperative_singular:
-imperative_plural:
+imperative_singular: го­во­ри́
+imperative_plural: го­во­ри́­те
 
 comment: null
 usage: null

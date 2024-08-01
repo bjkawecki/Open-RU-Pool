@@ -2,43 +2,45 @@ name: центральный
 name_accent:
 wordclass: adjective
 translation:
+  - zentral
+  - mittig
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: цент­ра́ль­ный
+masculine_genitive: цент­ра́ль­но­го
+masculine_dative: цент­ра́ль­но­му
+masculine_accusative: цент­ра́ль­ный
+masculine_instrumental: цент­ра́ль­ным
+masculine_prepositive: цент­ра́ль­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: цент­ра́ль­ная
+feminine_genitive: цент­ра́ль­ной
+feminine_dative: цент­ра́ль­ной
+feminine_accusative: цент­ра́ль­ную
+feminine_instrumental: цент­ра́ль­ной
+feminine_prepositive: цент­ра́ль­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: цент­ра́ль­ное
+neutral_genitive: цент­ра́ль­но­го
+neutral_dative: цент­ра́ль­но­му
+neutral_accusative: цент­ра́ль­ное
+neutral_instrumental: цент­ра́ль­ным
+neutral_prepositive: цент­ра́ль­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: цент­ра́ль­ные
+plural_genitive: цент­ра́ль­ных
+plural_dative: цент­ра́ль­ным
+plural_accusative: цент­ра́ль­ные
+plural_instrumental: цент­ра́ль­ны­ми
+plural_prepositive: цент­ра́ль­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: цент­ра́­лен
+shortform_feminine: цент­ра́ль­на
+shortform_neutral: цент­ра́ль­но
+shortform_plural: цент­ра́ль­ны
 
-comparative:
+comparative: цент­ра́ль­нее
 superlative:
 
 comment: null

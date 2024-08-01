@@ -1,32 +1,34 @@
 name: универмаг
-name_accent:
+name_accent: универма́г
 wordclass: substantive
 translation:
+  - Kaufhaus
+  - Warenhaus
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: уни­вер­ма́г
+singular_genitive: уни­вер­ма́­га
+singular_dative: уни­вер­ма́­гу
+singular_accusative: уни­вер­ма́г
+singular_instrumental: уни­вер­ма́­гом
+singular_prepositive: уни­вер­ма́­ге
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: уни­вер­ма́­ги
+plural_genitive: уни­вер­ма́­гов
+plural_dative: уни­вер­ма́­гам
+plural_accusative: уни­вер­ма́­ги
+plural_instrumental: уни­вер­ма́­га­ми
+plural_prepositive: уни­вер­ма́­гах
 
 partitive: null
 locative: null
 
-comment: null
+comment: Kurzwort für универса́льный магази́н
 usage: null
 etymology: null

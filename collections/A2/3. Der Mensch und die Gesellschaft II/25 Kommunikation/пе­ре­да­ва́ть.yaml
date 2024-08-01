@@ -1,0 +1,56 @@
+name: пе­ре­да­вать
+name_accent: пе­ре­да­ва́ть
+wordclass: verb
+translation:
+  - ausrichten
+  - übergeben
+  - reichen
+
+aspect: imperfective
+aspect_partner: пе­ред­а́ть
+conjugation_class: 1
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+direct_object_case: accusative
+direct_object_preposition: null
+indirect_object_case: dative
+indirect_object_preposition: null
+is_reflexive: false
+
+present_singular_1: пе­ре­даю́
+present_singular_2: пе­ре­да­ёшь
+present_singular_3: пе­ре­да­ёт
+present_plural_1: пе­ре­да­ём
+present_plural_2: пе­ре­да­ёте
+present_plural_3: пе­ре­да­ю́т
+
+future_singular_1:
+future_singular_2:
+future_singular_3:
+future_plural_1:
+future_plural_2:
+future_plural_3:
+
+past_masculine: пе­ре­да­ва́л
+past_feminine: пе­ре­да­ва́­ла
+past_neutral: пе­ре­да­ва́­ло
+past_plural: пе­ре­да­ва́­ли
+
+participle_active_present: пе­ре­да­ю́щий
+participle_active_past: пе­ре­да­ва́в­ший
+
+participle_adverbial_present: пе­ре­да­ва́я
+participle_adverbial_passive: пе­ре­да­ва́в­ши, пе­ре­да­ва́в
+
+participle_passive_present: пе­ре­да­ва́­емый
+participle_passive_past:
+
+imperative_singular: пе­ре­да­ва́й
+imperative_plural: пе­ре­да­ва́й­те
+
+comment: null
+usage: null
+etymology: null
