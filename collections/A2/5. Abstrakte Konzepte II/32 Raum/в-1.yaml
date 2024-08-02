@@ -1,11 +1,12 @@
 name: в
-name_accent:
+name_accent: в
 wordclass: preposition
 translation:
+  - in
 
-preposition_type:
+preposition_type: local
 
-preposition_case:
+preposition_case: prepositive
 
 comment: null
 usage: null

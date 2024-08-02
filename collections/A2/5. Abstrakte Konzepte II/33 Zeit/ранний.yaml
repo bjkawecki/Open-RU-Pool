@@ -1,44 +1,46 @@
 name: ранний
-name_accent:
+name_accent: ра́н­ний
 wordclass: adjective
 translation:
+  - früh
+  - Früh-
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ра́н­ний
+masculine_genitive: ра́н­не­го
+masculine_dative: ра́н­не­му
+masculine_accusative: ра́н­ний
+masculine_instrumental: ра́н­ним
+masculine_prepositive: ра́н­нем
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ра́н­няя
+feminine_genitive: ра́н­ней
+feminine_dative: ра́н­ней
+feminine_accusative: ра́н­нюю
+feminine_instrumental: ра́н­ней
+feminine_prepositive: ра́н­ней
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ра́н­нее
+neutral_genitive: ра́н­не­го
+neutral_dative: ра́н­не­му
+neutral_accusative: ра́н­нее
+neutral_instrumental: ра́н­ним
+neutral_prepositive: ра́н­нем
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ра́н­ние
+plural_genitive: ра́н­них
+plural_dative: ра́н­ним
+plural_accusative: ра́н­ние
+plural_instrumental: ра́н­ни­ми
+plural_prepositive: ра́н­них
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ра́­нен
+shortform_feminine: ра́н­ня
+shortform_neutral: ра́н­не
+shortform_plural: ра́н­ни
 
-comparative:
+comparative: ра́н­нее
 superlative:
 
 comment: null

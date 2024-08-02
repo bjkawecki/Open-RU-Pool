@@ -1,0 +1,48 @@
+name: поздний
+name_accent: по́здний
+wordclass: adjective
+translation:
+  - spät
+  - verspätet
+
+is_gradable: true
+
+masculine_nominative: по́здний
+masculine_genitive: по́зднего
+masculine_dative: по́зднему
+masculine_accusative: по́здний
+masculine_instrumental: по́здним
+masculine_prepositive: по́зднем
+
+feminine_nominative: по́здние
+feminine_genitive: по́здних
+feminine_dative: по́здним
+feminine_accusative: по́здние
+feminine_instrumental: по́здними
+feminine_prepositive: по́здних
+
+neutral_nominative: по́зднее
+neutral_genitive: по́зднего
+neutral_dative: по́зднему
+neutral_accusative: по́зднее
+neutral_instrumental: по́здним
+neutral_prepositive: по́зднем
+
+plural_nominative: по́здние
+plural_genitive: по́здних
+plural_dative: по́здним
+plural_accusative: по́здние
+plural_instrumental: по́здними
+plural_prepositive: по́здних
+
+shortform_masculine: по́з­ден
+shortform_feminine: по́зд­ня
+shortform_neutral: по́зд­не
+shortform_plural: по́зд­ни
+
+comparative: позд­не́е
+superlative:
+
+comment: null
+usage: null
+etymology: null

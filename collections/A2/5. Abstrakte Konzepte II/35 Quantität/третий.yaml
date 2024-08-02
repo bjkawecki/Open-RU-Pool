@@ -1,32 +1,33 @@
 name: третий
-name_accent:
+name_accent: тре́­тий
 wordclass: numeral
 translation:
+  - dritter
 
-numeral_type:
+numeral_type: ordinal
 
-declination_type:
+declination_type: adjective
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: тре́­тий
+masculine_genitive: тре́ть­его
+masculine_dative: тре́ть­ему
+masculine_accusative: тре́­тий
+masculine_instrumental: тре́ть­им
+masculine_prepositive: тре́ть­ем
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: тре́тья
+feminine_genitive: тре́ть­ей
+feminine_dative: тре́ть­ей
+feminine_accusative: тре́тью
+feminine_instrumental: тре́ть­ей
+feminine_prepositive: тре́ть­ей
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: тре́тье
+neutral_genitive: тре́ть­его
+neutral_dative: тре́ть­ему
+neutral_accusative: тре́тье
+neutral_instrumental: тре́ть­им
+neutral_prepositive: тре́ть­ем
 
 singular_nominative:
 singular_genitive:
@@ -35,12 +36,12 @@ singular_accusative:
 singular_instrumental:
 singular_prepositive:
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: тре́тьи
+plural_genitive: тре́ть­их
+plural_dative: тре́ть­им
+plural_accusative: тре́тьи
+plural_instrumental: тре́ть­ими
+plural_prepositive: тре́ть­их
 
 comment: null
 usage: null

@@ -1,12 +1,10 @@
-name: за
-name_accent:
+name: на
+name_accent: на
 wordclass: preposition
 translation:
-  - anstelle
-  - für
-  - dafür
+  - auf
 
-preposition_type: modal
+preposition_type: local
 
 preposition_case: accusative
 

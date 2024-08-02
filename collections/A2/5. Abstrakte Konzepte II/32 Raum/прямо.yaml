@@ -1,7 +1,11 @@
 name: прямо
-name_accent:
+name_accent: пря́мо
 wordclass: adverb
 translation:
+  - gerade
+  - genau
+  - gleich
+  - direkt
 
 comment: null
 usage: null

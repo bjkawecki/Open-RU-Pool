@@ -1,9 +1,10 @@
 name: до
-name_accent:
+name_accent: до
 wordclass: preposition
 translation:
+  - bis
 
-preposition_type:
+preposition_type: local, temporal
 
 preposition_case:
 

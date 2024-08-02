@@ -1,7 +1,8 @@
 name: завтра
-name_accent:
+name_accent: за́втра
 wordclass: adverb
 translation:
+  - morgen
 
 comment: null
 usage: null

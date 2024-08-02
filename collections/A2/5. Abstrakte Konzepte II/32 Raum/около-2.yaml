@@ -1,9 +1,9 @@
-name: во время
-name_accent: во вре́мя
+name: около
+name_accent: о́коло
 wordclass: preposition
-
 translation:
-  - während
+  - ungefähr
+  - circa
 
 preposition_type: temporal
 

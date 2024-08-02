@@ -1,9 +1,8 @@
 name: во время обеда
-name_accent:
+name_accent: во вре́мя обе́да
 wordclass: phrase
 translation:
-
-metaphrase:
+  - während des Mittagessens
 
 comment: null
 usage: null

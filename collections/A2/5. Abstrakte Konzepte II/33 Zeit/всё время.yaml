@@ -1,9 +1,8 @@
 name: всё время
-name_accent:
+name_accent: всё вре́мя
 wordclass: phrase
 translation:
-
-metaphrase:
+  - die ganze Zeit
 
 comment: null
 usage: null

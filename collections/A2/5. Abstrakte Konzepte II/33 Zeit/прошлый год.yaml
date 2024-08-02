@@ -1,9 +1,9 @@
 name: прошлый год
-name_accent:
+name_accent: про́шлый год
 wordclass: phrase
 translation:
-
-metaphrase:
+  - letztes Jahr
+  - vergangenes Jahr
 
 comment: null
 usage: null

@@ -1,32 +1,33 @@
 name: шестой
-name_accent:
+name_accent: шес­то́й
 wordclass: numeral
 translation:
+  - sechster
 
-numeral_type:
+numeral_type: cardinal
 
-declination_type:
+declination_type: adjective
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: шес­то́й
+masculine_genitive: шес­то́­го
+masculine_dative: шес­то́­му
+masculine_accusative: шес­то́й
+masculine_instrumental: шес­ты́м
+masculine_prepositive: шес­то́м
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: шес­та́я
+feminine_genitive: шес­то́й
+feminine_dative: шес­то́й
+feminine_accusative: шес­ту́ю
+feminine_instrumental: шес­то́й
+feminine_prepositive: шес­то́й
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: шес­то́е
+neutral_genitive: шес­то́­го
+neutral_dative: шес­то́­му
+neutral_accusative: шес­то́е
+neutral_instrumental: шес­ты́м
+neutral_prepositive: шес­то́м
 
 singular_nominative:
 singular_genitive:
@@ -35,12 +36,12 @@ singular_accusative:
 singular_instrumental:
 singular_prepositive:
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: шес­ты́е
+plural_genitive: шес­ты́х
+plural_dative: шес­ты́м
+plural_accusative: шес­ты́е
+plural_instrumental: шес­ты́­ми
+plural_prepositive: шес­ты́х
 
 comment: null
 usage: null

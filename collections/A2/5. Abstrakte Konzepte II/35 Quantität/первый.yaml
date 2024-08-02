@@ -4,9 +4,9 @@ wordclass: numeral
 translation:
   - erster
 
-numeral_type:
+numeral_type: ordinal
 
-declination_type:
+declination_type: adjective
 
 masculine_nominative: пе́рвый
 masculine_genitive: пе́р­во­го
@@ -14,18 +14,21 @@ masculine_dative: пе́р­во­му
 masculine_accusative: пе́рвый
 masculine_instrumental: пе́р­вым
 masculine_prepositive: пе́р­вом
+
 feminine_nominative: пе́р­вая
 feminine_genitive: пе́р­вой
 feminine_dative: пе́р­вой
 feminine_accusative: пе́р­вую
 feminine_instrumental: пе́р­вой
 feminine_prepositive: пе́р­вой
+
 neutral_nominative: пе́р­вое
 neutral_genitive: пе́р­во­го
 neutral_dative: пе́р­во­му
 neutral_accusative: пе́р­вое
 neutral_instrumental: пе́р­вым
 neutral_prepositive: пе́р­вом
+
 plural_nominative: пе́р­вые
 plural_genitive: пе́р­вых
 plural_dative: пе́р­вым

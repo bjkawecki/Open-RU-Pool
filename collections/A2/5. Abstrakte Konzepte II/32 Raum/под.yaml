@@ -1,11 +1,14 @@
 name: под
-name_accent:
+name_accent: под
 wordclass: preposition
 translation:
+  - unter
+  - im
+  - bei
 
-preposition_type:
+preposition_type: local
 
-preposition_case:
+preposition_case: instrumental
 
 comment: null
 usage: null

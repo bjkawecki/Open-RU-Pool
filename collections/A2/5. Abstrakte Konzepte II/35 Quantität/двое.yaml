@@ -1,11 +1,12 @@
 name: двое
-name_accent:
+name_accent: дво́е
 wordclass: numeral
 translation:
+  - zwei
 
-numeral_type:
+numeral_type: collecting
 
-declination_type:
+declination_type: substantive
 
 masculine_nominative:
 masculine_genitive:
@@ -28,12 +29,12 @@ neutral_accusative:
 neutral_instrumental:
 neutral_prepositive:
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: дво́е
+singular_genitive: дво­и́х
+singular_dative: дво­и́м
+singular_accusative: дво́е
+singular_instrumental: дво­и́ми
+singular_prepositive: дво­и́х
 
 plural_nominative:
 plural_genitive:

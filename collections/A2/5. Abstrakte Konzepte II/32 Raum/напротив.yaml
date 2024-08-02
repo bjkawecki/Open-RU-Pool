@@ -1,7 +1,8 @@
 name: напротив
-name_accent:
+name_accent: напро́тив
 wordclass: adverb
 translation:
+  - gegenüber
 
 comment: null
 usage: null

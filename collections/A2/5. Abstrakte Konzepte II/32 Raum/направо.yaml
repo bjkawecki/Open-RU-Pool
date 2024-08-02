@@ -1,7 +1,9 @@
 name: направо
-name_accent:
+name_accent: напра́во
 wordclass: adverb
 translation:
+  - nach rechts
+  - rechts
 
 comment: null
 usage: null

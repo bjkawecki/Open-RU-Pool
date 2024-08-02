@@ -1,7 +1,8 @@
 name: плюс
-name_accent:
+name_accent: плюс
 wordclass: adverb
 translation:
+  - plus
 
 comment: null
 usage: null

@@ -1,7 +1,47 @@
 name: полтора
-name_accent:
-wordclass: adverb
+name_accent: полтора́
+wordclass: numeral
 translation:
+  - anderthalb
+  - eineinhalb
+
+numeral_type: collecting
+declination_type: substantive
+
+masculine_nominative:
+masculine_genitive:
+masculine_dative:
+masculine_accusative:
+masculine_instrumental:
+masculine_prepositive:
+
+feminine_nominative:
+feminine_genitive:
+feminine_dative:
+feminine_accusative:
+feminine_instrumental:
+feminine_prepositive:
+
+neutral_nominative:
+neutral_genitive:
+neutral_dative:
+neutral_accusative:
+neutral_instrumental:
+neutral_prepositive:
+
+singular_nominative: пол­то­ра́
+singular_genitive: по­лу́­то­ра
+singular_dative: по­лу́­то­ра
+singular_accusative: пол­то­ра́
+singular_instrumental: пол­то­ра́
+singular_prepositive: пол­то­ра́
+
+plural_nominative:
+plural_genitive:
+plural_dative:
+plural_accusative:
+plural_instrumental:
+plural_prepositive:
 
 comment: null
 usage: null

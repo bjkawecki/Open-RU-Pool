@@ -1,7 +1,9 @@
 name: налево
-name_accent:
+name_accent: нале́во
 wordclass: adverb
 translation:
+  - nach links
+  - links
 
 comment: null
 usage: null

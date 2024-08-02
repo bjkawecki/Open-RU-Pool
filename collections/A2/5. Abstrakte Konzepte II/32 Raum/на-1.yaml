@@ -1,11 +1,12 @@
 name: на
-name_accent:
+name_accent: на
 wordclass: preposition
 translation:
+  - auf
 
-preposition_type:
+preposition_type: local
 
-preposition_case:
+preposition_case: prepositive
 
 comment: null
 usage: null

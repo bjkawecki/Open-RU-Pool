@@ -12,30 +12,35 @@ masculine_dative: бу́­ду­ще­му
 masculine_accusative: бу́дущий
 masculine_instrumental: бу́­дущ­им
 masculine_prepositive: бу́­дущ­ем
+
 feminine_nominative: бу́­ду­щая
 feminine_genitive: бу́­ду­щей
 feminine_dative: бу́­ду­щей
 feminine_accusative: бу́­ду­щую
 feminine_instrumental: бу́­ду­щей
 feminine_prepositive: бу́­ду­щей
+
 neutral_nominative: бу́­ду­щее
 neutral_genitive: бу́­ду­ще­го
 neutral_dative: бу́­ду­ще­му
 neutral_accusative: бу́­ду­щее
 neutral_instrumental: бу́­дущ­им
 neutral_prepositive: бу́­дущ­ем
+
 plural_nominative: бу́­ду­щие
 plural_genitive: бу́­дущ­их
 plural_dative: бу́­дущ­им
 plural_accusative: бу́­ду­щие
 plural_instrumental: бу́­ду­щи­ми
 plural_prepositive: бу́­дущ­их
+
 shortform_masculine: бу́­дущ
 shortform_feminine: бу́­ду­ща
 shortform_neutral: бу́­ду­ще
 shortform_plural: бу́­ду­щи
+
 comparative: бу́­ду­щее
-superlative: самый бу́дущий
+superlative:
 comment: null
 usage: null
 etymology: null

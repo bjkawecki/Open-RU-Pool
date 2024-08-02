@@ -1,7 +1,12 @@
 name: после
-name_accent:
-wordclass: adverb
+name_accent: по́сле
+wordclass: preposition
 translation:
+  - nach
+
+preposition_type: temporal
+
+preposition_case: genitive
 
 comment: null
 usage: null

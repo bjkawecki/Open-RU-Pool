@@ -1,7 +1,10 @@
 name: вверх
-name_accent:
+name_accent: вверх
 wordclass: adverb
 translation:
+  - nach oben
+  - hinauf
+  - hoch
 
 comment: null
 usage: null

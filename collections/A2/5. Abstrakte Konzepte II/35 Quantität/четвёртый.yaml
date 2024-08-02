@@ -1,32 +1,33 @@
 name: четвёртый
-name_accent:
+name_accent: четвёртый
 wordclass: numeral
 translation:
+  - vierter
 
-numeral_type:
+numeral_type: cardinal
 
-declination_type:
+declination_type: adjective
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: четвёртый
+masculine_genitive: четвёртого
+masculine_dative: четвёртому
+masculine_accusative: четвёртый
+masculine_instrumental: четвёртым
+masculine_prepositive: четвёртом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: четвёртая
+feminine_genitive: четвёртой
+feminine_dative: четвёртой
+feminine_accusative: четвёртую
+feminine_instrumental: четвёртой
+feminine_prepositive: четвёртой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: четвёртое
+neutral_genitive: четвёртого
+neutral_dative: четвёртому
+neutral_accusative: четвёртое
+neutral_instrumental: четвёртым
+neutral_prepositive: четвёртом
 
 singular_nominative:
 singular_genitive:
@@ -35,12 +36,12 @@ singular_accusative:
 singular_instrumental:
 singular_prepositive:
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: четвёртые
+plural_genitive: четвёртых
+plural_dative: четвёртым
+plural_accusative: четвёртые
+plural_instrumental: четвёртыми
+plural_prepositive: четвёртых
 
 comment: null
 usage: null

@@ -1,37 +1,38 @@
 name: вчерашний
-name_accent:
+name_accent: вче­ра́ш­ний
 wordclass: adjective
 translation:
+  - gestrig
 
-is_gradable: true
+is_gradable: false
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: вче­ра́ш­ний
+masculine_genitive: вче­ра́ш­не­го
+masculine_dative: вче­ра́ш­не­му
+masculine_accusative: вче­ра́ш­ний
+masculine_instrumental: вче­ра́ш­ним
+masculine_prepositive: вче­ра́ш­нем
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: вче­ра́ш­няя
+feminine_genitive: вче­ра́ш­ней
+feminine_dative: вче­ра́ш­ней
+feminine_accusative: вче­ра́ш­нюю
+feminine_instrumental: вче­ра́ш­ней
+feminine_prepositive: вче­ра́ш­ней
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: вче­ра́ш­нее
+neutral_genitive: вче­ра́ш­не­го
+neutral_dative: вче­ра́ш­не­му
+neutral_accusative: вче­ра́ш­нее
+neutral_instrumental: вче­ра́ш­ним
+neutral_prepositive: вче­ра́ш­нем
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: вче­ра́ш­ние
+plural_genitive: вче­ра́ш­них
+plural_dative: вче­ра́ш­ним
+plural_accusative: вче­ра́ш­ние
+plural_instrumental: вче­ра́ш­ни­ми
+plural_prepositive: вче­ра́ш­них
 
 shortform_masculine:
 shortform_feminine:

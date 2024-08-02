@@ -1,11 +1,11 @@
-name: во время
-name_accent: во вре́мя
+name: около
+name_accent: о́коло
 wordclass: preposition
-
 translation:
-  - während
+  - neben
+  - in der Nähe
 
-preposition_type: temporal
+preposition_type: local
 
 preposition_case: genitive
 

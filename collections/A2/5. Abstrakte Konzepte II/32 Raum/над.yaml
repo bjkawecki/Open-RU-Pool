@@ -1,11 +1,12 @@
 name: над
-name_accent:
+name_accent: над
 wordclass: preposition
 translation:
+  - über
 
-preposition_type:
+preposition_type: local
 
-preposition_case:
+preposition_case: instrumental
 
 comment: null
 usage: null

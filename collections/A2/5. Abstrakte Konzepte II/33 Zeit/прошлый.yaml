@@ -1,44 +1,47 @@
 name: прошлый
-name_accent:
+name_accent: про́шлый
 wordclass: adjective
 translation:
+  - vorig
+  - vergangen
+  - letzter
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: про́ш­лый
+masculine_genitive: про́ш­ло­го
+masculine_dative: про́ш­ло­му
+masculine_accusative: про́ш­лый
+masculine_instrumental: про́ш­лым
+masculine_prepositive: про́ш­лом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: про́ш­лая
+feminine_genitive: про́ш­лой
+feminine_dative: про́ш­лой
+feminine_accusative: про́ш­лую
+feminine_instrumental: про́ш­лой
+feminine_prepositive: про́ш­лой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: про́ш­лое
+neutral_genitive: про́ш­ло­го
+neutral_dative: про́ш­ло­му
+neutral_accusative: про́ш­лое
+neutral_instrumental: про́ш­лым
+neutral_prepositive: про́ш­лом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: про́ш­лые
+plural_genitive: про́ш­лых
+plural_dative: про́ш­лым
+plural_accusative: про́ш­лые
+plural_instrumental: про́ш­лы­ми
+plural_prepositive: про́ш­лых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: прошл
+shortform_feminine: про́ш­ла
+shortform_neutral: про́ш­ло
+shortform_plural: про́ш­лы
 
-comparative:
+comparative: про́ш­лее
 superlative:
 
 comment: null

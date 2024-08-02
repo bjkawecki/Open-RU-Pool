@@ -1,32 +1,33 @@
 name: пятый
-name_accent:
+name_accent: пя́­тый
 wordclass: numeral
 translation:
+  - fünfter
 
-numeral_type:
+numeral_type: ordinal
 
-declination_type:
+declination_type: adjective
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: пя́­тый
+masculine_genitive: пя́­то­го
+masculine_dative: пя́­то­му
+masculine_accusative: пя́­тый
+masculine_instrumental: пя́­тым
+masculine_prepositive: пя́­том
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: пя́­тая
+feminine_genitive: пя́­той
+feminine_dative: пя́­той
+feminine_accusative: пя́­тую
+feminine_instrumental: пя́­той
+feminine_prepositive: пя́­той
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: пя́­тое
+neutral_genitive: пя́­то­го
+neutral_dative: пя́­то­му
+neutral_accusative: пя́­тое
+neutral_instrumental: пя́­тым
+neutral_prepositive: пя́­том
 
 singular_nominative:
 singular_genitive:
@@ -35,12 +36,12 @@ singular_accusative:
 singular_instrumental:
 singular_prepositive:
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пя́­тые
+plural_genitive: пя́­тых
+plural_dative: пя́­тым
+plural_accusative: пя́­тые
+plural_instrumental: пя́­ты­ми
+plural_prepositive: пя́­тых
 
 comment: null
 usage: null

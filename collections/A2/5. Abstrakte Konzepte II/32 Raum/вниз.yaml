@@ -1,7 +1,10 @@
 name: вниз
-name_accent:
+name_accent: вниз
 wordclass: adverb
 translation:
+  - nach unten
+  - herunter
+  - runter
 
 comment: null
 usage: null

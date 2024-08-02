@@ -1,7 +1,9 @@
 name: однажды
-name_accent:
+name_accent: одна́жды
 wordclass: adverb
 translation:
+  - einmal
+  - eines Tages
 
 comment: null
 usage: null
