@@ -1,28 +1,29 @@
 name: приставка
-name_accent:
+name_accent: приста́вка
 wordclass: substantive
 translation:
+  - Vorsilbe
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: прис­та́­вка
+singular_genitive: прис­та́­вки
+singular_dative: прис­та́­вке
+singular_accusative: прис­та́­вку
+singular_instrumental: прис­та́­вкой
+singular_prepositive: прис­та́­вке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: прис­та́­вки
+plural_genitive: прис­та́­вок
+plural_dative: прис­та́­вкам
+plural_accusative: прис­та́­вки
+plural_instrumental: прис­та́­вка­ми
+plural_prepositive: прис­та́­вках
 
 partitive: null
 locative: null

@@ -1,7 +1,8 @@
 name: корень слова
-name_accent:
+name_accent: ко́рень слова́
 wordclass: conjunction
 translation:
+  - Wortwurzel
 
 comment: null
 usage: null

@@ -1,44 +1,45 @@
 name: бесплатный
-name_accent:
+name_accent: бесп­ла́т­ный
 wordclass: adjective
 translation:
+  - kostenlos
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: бесп­ла́т­ный
+masculine_genitive: бесп­ла́т­но­го
+masculine_dative: бесп­ла́т­но­му
+masculine_accusative: бесп­ла́т­ный
+masculine_instrumental: бесп­ла́т­ным
+masculine_prepositive: бесп­ла́т­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: бесп­ла́т­ная
+feminine_genitive: бесп­ла́т­ной
+feminine_dative: бесп­ла́т­ной
+feminine_accusative: бесп­ла́т­ную
+feminine_instrumental: бесп­ла́т­ной
+feminine_prepositive: бесп­ла́т­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: бесп­ла́т­ное
+neutral_genitive: бесп­ла́т­но­го
+neutral_dative: бесп­ла́т­но­му
+neutral_accusative: бесп­ла́т­ное
+neutral_instrumental: бесп­ла́т­ным
+neutral_prepositive: бесп­ла́т­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: бесп­ла́т­ные
+plural_genitive: бесп­ла́т­ных
+plural_dative: бесп­ла́т­ным
+plural_accusative: бесп­ла́т­ные
+plural_instrumental: бесп­ла́т­ны­ми
+plural_prepositive: бесп­ла́т­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: бесп­ла́­тен
+shortform_feminine: бесп­ла́т­на
+shortform_neutral: бесп­ла́т­но
+shortform_plural: бесп­ла́т­ны
 
-comparative:
+comparative: бесп­ла́т­нее
 superlative:
 
 comment: null

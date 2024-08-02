@@ -1,7 +1,8 @@
 name: полная форма прилагательного
-name_accent:
+name_accent: по́лная фо́рма прилага́тельного
 wordclass: compound
 translation:
+  - Langform des Adjektivs
 
 comment: null
 usage: null

@@ -1,7 +1,8 @@
 name: краткая форма прилагательного
-name_accent:
-wordclass: conjunction
+name_accent: кра́ткая фо́рма прилага́тельного
+wordclass: compound
 translation:
+  - Kurzform des Adjektivs
 
 comment: null
 usage: null

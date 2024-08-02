@@ -1,7 +1,8 @@
 name: даже
-name_accent:
+name_accent: да́же
 wordclass: adverb
 translation:
+  - sogar
 
 comment: null
 usage: null

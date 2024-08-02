@@ -1,28 +1,28 @@
 name: лексика
-name_accent:
+name_accent: ле́ксика
 wordclass: substantive
 translation:
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ле́к­си­ка
+singular_genitive: ле́к­си­ки
+singular_dative: ле́к­си­ке
+singular_accusative: ле́к­си­ку
+singular_instrumental: ле́к­си­кой
+singular_prepositive: ле́к­си­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ле́к­си­ки
+plural_genitive: ле́к­сик
+plural_dative: ле́к­си­кам
+plural_accusative: ле́к­си­ки
+plural_instrumental: ле́к­си­ка­ми
+plural_prepositive: ле́к­си­ках
 
 partitive: null
 locative: null

@@ -1,7 +1,9 @@
 name: чтобы
-name_accent:
+name_accent: что́бы
 wordclass: conjunction
 translation:
+  - dass
+  - um zu
 
 comment: null
 usage: null

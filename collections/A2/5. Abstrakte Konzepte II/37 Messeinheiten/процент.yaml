@@ -1,28 +1,30 @@
 name: процент
-name_accent:
+name_accent: про­це́нт
 wordclass: substantive
 translation:
+  - Prozent
+  - Anteil
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: про­це́нт
+singular_genitive: про­це́н­та
+singular_dative: про­це́н­ту
+singular_accusative: про­це́нт
+singular_instrumental: про­це́н­том
+singular_prepositive: про­це́н­те
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: про­це́н­ты
+plural_genitive: про­це́н­тов
+plural_dative: про­це́н­там
+plural_accusative: про­це́н­ты
+plural_instrumental: про­це́н­та­ми
+plural_prepositive: про­це́н­тах
 
 partitive: null
 locative: null

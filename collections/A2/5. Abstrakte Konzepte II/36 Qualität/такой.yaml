@@ -1,32 +1,35 @@
 name: такой
-name_accent:
+name_accent: тако́й
 wordclass: pronoun
 translation:
+  - solcher
+  - derartiger
+  - so
 
-pronoun_type:
+pronoun_type: demonstrative
 
-declination_type:
+declination_type: adjective
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: та­ко́й
+masculine_genitive: та­ко́­го
+masculine_dative: та­ко́­му
+masculine_accusative: та­ко́й
+masculine_instrumental: та­ки́м
+masculine_prepositive: та­ко́м
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: та­ка́я
+feminine_genitive: та­ко́й
+feminine_dative: та­ко́й
+feminine_accusative: та­ку́ю
+feminine_instrumental: та­ко́й
+feminine_prepositive: та­ко́й
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: та­ко́й
+neutral_genitive: та­ко́­го
+neutral_dative: та­ко́­му
+neutral_accusative: та­ко́й
+neutral_instrumental: та­ки́м
+neutral_prepositive: та­ко́м
 
 singular_nominative:
 singular_genitive:
@@ -35,12 +38,12 @@ singular_accusative:
 singular_instrumental:
 singular_prepositive:
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: та­ки́е
+plural_genitive: та­ки́х
+plural_dative: та­ки́м
+plural_accusative: та­ки́е
+plural_instrumental: та­ки́­ми
+plural_prepositive: та­ки́х
 
 comment: null
 usage: null

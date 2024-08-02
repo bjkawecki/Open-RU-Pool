@@ -1,7 +1,8 @@
 name: гласный звук
-name_accent:
+name_accent: гла́сный звук
 wordclass: compound
 translation:
+  - Vokal
 
 comment: null
 usage: null

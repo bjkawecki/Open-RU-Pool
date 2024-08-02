@@ -1,28 +1,30 @@
-name: лингвистика, языкознание
-name_accent:
+name: лингвистика
+name_accent: линг­ви́с­ти­ка
 wordclass: substantive
 translation:
+  - Luinguistik
+  - Sprachwissenschaft
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: линг­ви́с­ти­ка
+singular_genitive: линг­ви́с­ти­ки
+singular_dative: линг­ви́с­ти­ке
+singular_accusative: линг­ви́с­ти­ку
+singular_instrumental: линг­ви́с­ти­кой
+singular_prepositive: линг­ви́с­ти­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: линг­ви́с­ти­ки
+plural_genitive: линг­ви́с­тик
+plural_dative: линг­ви́с­ти­кам
+plural_accusative: линг­ви́с­ти­ки
+plural_instrumental: линг­ви́с­ти­ка­ми
+plural_prepositive: линг­ви́с­ти­ках
 
 partitive: null
 locative: null

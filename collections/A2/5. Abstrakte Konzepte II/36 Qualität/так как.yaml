@@ -1,7 +1,9 @@
 name: так как
-name_accent:
+name_accent: так как
 wordclass: conjunction
 translation:
+  - da
+  - insofern
 
 comment: null
 usage: null

@@ -2,27 +2,28 @@ name: произношение
 name_accent:
 wordclass: substantive
 translation:
+  - Aussprache
 
-genus:
-declination_class:
-stress:
+genus: n
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: про­из­но­ше́­ние
+singular_genitive: про­из­но­ше́­ния
+singular_dative: про­из­но­ше́­нию
+singular_accusative: про­из­но­ше́­ние
+singular_instrumental: про­из­но­ше́­ни­ем
+singular_prepositive: про­из­но­ше́­нии
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: про­из­но­ше́­ния
+plural_genitive: про­из­но­ше́­ний
+plural_dative: про­из­но­ше́­ни­ям
+plural_accusative: про­из­но­ше́­ния
+plural_instrumental: про­из­но­ше́­ни­ями
+plural_prepositive: про­из­но­ше́­ни­ях
 
 partitive: null
 locative: null

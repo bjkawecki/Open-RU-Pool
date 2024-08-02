@@ -1,28 +1,29 @@
 name: окончание
-name_accent:
+name_accent: оконча́ние
 wordclass: substantive
 translation:
+  - Wortendung
 
-genus:
-declination_class:
-stress:
+genus: n
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ок­он­ча́­ние
+singular_genitive: ок­он­ча́­ния
+singular_dative: ок­он­ча́­нию
+singular_accusative: ок­он­ча́­ние
+singular_instrumental: ок­он­ча́­ни­ем
+singular_prepositive: ок­он­ча́­нии
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ок­он­ча́­ния
+plural_genitive: ок­он­ча́­ний
+plural_dative: ок­он­ча́­ни­ям
+plural_accusative: ок­он­ча́­ния
+plural_instrumental: ок­он­ча́­ни­ями
+plural_prepositive: ок­он­ча́­ни­ях
 
 partitive: null
 locative: null

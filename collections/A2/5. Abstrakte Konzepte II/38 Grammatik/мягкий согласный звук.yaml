@@ -1,7 +1,8 @@
 name: мягкий согласный звук
-name_accent:
+name_accent: мя́гкий согла́сный звук
 wordclass: compound
 translation:
+  - weicher Konsonant
 
 comment: null
 usage: null

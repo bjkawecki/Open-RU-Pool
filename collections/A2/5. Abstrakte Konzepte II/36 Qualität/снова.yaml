@@ -1,7 +1,10 @@
 name: снова
-name_accent:
+name_accent: сно́ва
 wordclass: adverb
 translation:
+  - wieder
+  - erneut
+  - von neuem
 
 comment: null
 usage: null

@@ -1,7 +1,9 @@
 name: порядковое числительное
-name_accent:
+name_accent: поря́дковое числи́тельное
 wordclass: compound
 translation:
+  - Ordinalzahl
+  - Ordnungszahl
 
 comment: null
 usage: null

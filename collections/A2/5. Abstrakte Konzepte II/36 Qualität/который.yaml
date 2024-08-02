@@ -1,32 +1,34 @@
 name: который
-name_accent:
+name_accent: кото́рый
 wordclass: pronoun
 translation:
+  - der
+  - welcher
 
-pronoun_type:
+pronoun_type: relative
 
-declination_type:
+declination_type: adjective
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ко­то́­рый
+masculine_genitive: ко­то́­ро­го
+masculine_dative: ко­то́­ро­му
+masculine_accusative: ко­то́­рый
+masculine_instrumental: ко­то́р­ым
+masculine_prepositive: ко­то́р­ом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ко­то́­рая
+feminine_genitive: ко­то́­рой
+feminine_dative: ко­то́­рой
+feminine_accusative: ко­то́­рую
+feminine_instrumental: ко­то́­рой
+feminine_prepositive: ко­то́­рой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ко­то́­рое
+neutral_genitive: ко­то́­ро­го
+neutral_dative: ко­то́­ро­му
+neutral_accusative: ко­то́­рое
+neutral_instrumental: ко­то́р­ым
+neutral_prepositive: ко­то́р­ом
 
 singular_nominative:
 singular_genitive:
@@ -35,12 +37,12 @@ singular_accusative:
 singular_instrumental:
 singular_prepositive:
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ко­то́­рые
+plural_genitive: ко­то́р­ых
+plural_dative: ко­то́р­ым
+plural_accusative: ко­то́­рые
+plural_instrumental: ко­то́­ры­ми
+plural_prepositive: ко­то́р­ых
 
 comment: null
 usage: null

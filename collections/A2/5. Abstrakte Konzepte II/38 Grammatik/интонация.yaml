@@ -1,28 +1,30 @@
 name: интонация
-name_accent:
+name_accent: интона́ция
 wordclass: substantive
 translation:
+  - Intonation
+  - Betonung
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ин­то­на́­ция
+singular_genitive: ин­то­на́­ции
+singular_dative: ин­то­на́­ции
+singular_accusative: ин­то­на́­цию
+singular_instrumental: ин­то­на́­ци­ей
+singular_prepositive: ин­то­на́­ции
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ин­то­на́­ции
+plural_genitive: ин­то­на́­ций
+plural_dative: ин­то­на́­ци­ям
+plural_accusative: ин­то­на́­ции
+plural_instrumental: ин­то­на́­ци­ями
+plural_prepositive: ин­то­на́­ци­ях
 
 partitive: null
 locative: null

@@ -1,7 +1,8 @@
 name: прямая речь
-name_accent:
+name_accent: пря́мая речь
 wordclass: compound
 translation:
+  - direkte Rede
 
 comment: null
 usage: null

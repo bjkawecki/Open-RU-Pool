@@ -1,11 +1,13 @@
 name: никто
-name_accent:
+name_accent: ник­то́
 wordclass: pronoun
 translation:
+  - niemand
+  - keiner
 
-pronoun_type:
+pronoun_type: indefinite
 
-declination_type:
+declination_type: substantive
 
 masculine_nominative:
 masculine_genitive:
@@ -28,12 +30,12 @@ neutral_accusative:
 neutral_instrumental:
 neutral_prepositive:
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ник­то́
+singular_genitive: ни­ко­го́, ни от кого
+singular_dative: ни­ко­му́, ни к кому
+singular_accusative: ни­ко­го́,  ни про кого
+singular_instrumental: ни­ке́м, ни с кем
+singular_prepositive: ни о ко́м
 
 plural_nominative:
 plural_genitive:

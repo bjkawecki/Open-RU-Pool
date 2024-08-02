@@ -1,7 +1,8 @@
 name: непереходный глагол
-name_accent:
+name_accent: неперехо́дный глаго́л
 wordclass: compound
 translation:
+  - intransitives Verb
 
 comment: null
 usage: null

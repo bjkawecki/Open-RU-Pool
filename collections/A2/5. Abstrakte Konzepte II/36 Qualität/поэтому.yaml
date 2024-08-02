@@ -1,7 +1,8 @@
 name: поэтому
-name_accent:
+name_accent: поэ́тому
 wordclass: adverb
 translation:
+  - deshalb
 
 comment: null
 usage: null

@@ -1,7 +1,9 @@
 name: наверное
-name_accent:
+name_accent: наве́рное
 wordclass: adverb
 translation:
+  - wahrscheinlich
+  - wohl
 
 comment: null
 usage: null

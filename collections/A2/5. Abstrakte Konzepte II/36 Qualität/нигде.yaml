@@ -1,7 +1,9 @@
 name: нигде
-name_accent:
+name_accent: нигде́
 wordclass: adverb
 translation:
+  - nirgendwo
+  - nirgends
 
 comment: null
 usage: null

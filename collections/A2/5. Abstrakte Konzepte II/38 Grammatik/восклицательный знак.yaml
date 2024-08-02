@@ -1,7 +1,8 @@
 name: восклицательный знак
-name_accent:
+name_accent: восклица́тельный знак
 wordclass: compound
 translation:
+  - Ausrufezeichen
 
 comment: null
 usage: null

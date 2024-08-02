@@ -1,7 +1,8 @@
 name: притяжательное местоимение
-name_accent:
+name_accent: притяжа́тельное местоиме́ние
 wordclass: compound
 translation:
+  - Possessivpronomen
 
 comment: null
 usage: null

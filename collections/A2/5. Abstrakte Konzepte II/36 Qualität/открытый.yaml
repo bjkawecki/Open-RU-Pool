@@ -1,0 +1,48 @@
+name: открытый
+name_accent: отк­ры́­тый
+wordclass: adjective
+translation:
+  - offen
+  - geöffnet
+
+is_gradable: true
+
+masculine_nominative: отк­ры́­тый
+masculine_genitive: отк­ры́­то­го
+masculine_dative: отк­ры́­то­му
+masculine_accusative: отк­ры́­тый
+masculine_instrumental: отк­ры́­тым
+masculine_prepositive: отк­ры́­том
+
+feminine_nominative: отк­ры́­тая
+feminine_genitive: отк­ры́­той
+feminine_dative: отк­ры́­той
+feminine_accusative: отк­ры́­тую
+feminine_instrumental: отк­ры́­той
+feminine_prepositive: отк­ры́­той
+
+neutral_nominative: отк­ры́­тое
+neutral_genitive: отк­ры́­то­го
+neutral_dative: отк­ры́­то­му
+neutral_accusative: отк­ры́­тое
+neutral_instrumental: отк­ры́­тым
+neutral_prepositive: отк­ры́­том
+
+plural_nominative: отк­ры́­тые
+plural_genitive: отк­ры́­тых
+plural_dative: отк­ры́­тым
+plural_accusative: отк­ры́­тые
+plural_instrumental: отк­ры́­ты­ми
+plural_prepositive: отк­ры́­тых
+
+shortform_masculine: отк­ры́т
+shortform_feminine: отк­ры́­та
+shortform_neutral: отк­ры́­то
+shortform_plural: отк­ры́­ты
+
+comparative: отк­ры́­тее
+superlative:
+
+comment: null
+usage: null
+etymology: null

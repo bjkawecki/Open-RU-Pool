@@ -1,7 +1,8 @@
 name: личное местоимение
-name_accent:
+name_accent: ли́чное местоиме́ние
 wordclass: compound
 translation:
+  - Personalpronomen
 
 comment: null
 usage: null

@@ -1,7 +1,8 @@
 name: основа слова
-name_accent:
+name_accent: осно́ва сло́ва
 wordclass: compound
 translation:
+  - Wortstamm
 
 comment: null
 usage: null

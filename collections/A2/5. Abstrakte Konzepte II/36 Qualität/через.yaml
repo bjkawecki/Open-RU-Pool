@@ -1,7 +1,13 @@
 name: через
-name_accent:
-wordclass: adverb
+name_accent: че́рез
+wordclass: preposition
 translation:
+  - über
+  - durch
+  - in
+
+preposition_type: local, temporal
+preposition_case: accusative
 
 comment: null
 usage: null

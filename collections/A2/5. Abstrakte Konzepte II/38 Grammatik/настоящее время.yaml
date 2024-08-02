@@ -1,8 +1,9 @@
 name: настоящее время
-
-name_accent:
+name_accent: настоя́щее вре́мя
 wordclass: compound
 translation:
+  - Präsens
+  - Gegenwart
 
 comment: null
 usage: null

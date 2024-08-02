@@ -1,7 +1,9 @@
 name: прошедшее время
-name_accent:
+name_accent: проше́дшее вре́мя
 wordclass: compound
 translation:
+  - Vergangenheit
+  - Präteritum
 
 comment: null
 usage: null

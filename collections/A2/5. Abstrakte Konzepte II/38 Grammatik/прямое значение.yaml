@@ -1,7 +1,8 @@
 name: прямое значение
-name_accent:
+name_accent: пря́мое значе́ние
 wordclass: compound
 translation:
+  - direkte Bedeutung
 
 comment: null
 usage: null

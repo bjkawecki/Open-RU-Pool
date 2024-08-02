@@ -1,28 +1,29 @@
 name: сантиметр
-name_accent:
+name_accent: сан­ти­ме́тр
 wordclass: substantive
 translation:
+  - Zentimeter
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: сан­ти­ме́тр
+singular_genitive: сан­ти­ме́т­ра
+singular_dative: сан­ти­ме́т­ру
+singular_accusative: сан­ти­ме́тр
+singular_instrumental: сан­ти­ме́т­ром
+singular_prepositive: сан­ти­ме́т­ре
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: сан­ти­ме́т­ры
+plural_genitive: сан­ти­ме́т­ров
+plural_dative: сан­ти­ме́т­рам
+plural_accusative: сан­ти­ме́т­ры
+plural_instrumental: сан­ти­ме́т­ра­ми
+plural_prepositive: сан­ти­ме́т­рах
 
 partitive: null
 locative: null

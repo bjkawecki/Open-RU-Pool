@@ -1,7 +1,9 @@
 name: если
-name_accent:
+name_accent: е́сли
 wordclass: conjunction
 translation:
+  - wenn
+  - falls
 
 comment: null
 usage: null

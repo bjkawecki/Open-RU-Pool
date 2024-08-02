@@ -1,7 +1,8 @@
 name: теплее чем вчера
-name_accent:
+name_accent: тепле́е чем вчера́
 wordclass: phrase
 translation:
+  - wärmer als gestern
 
 comment: null
 usage: null

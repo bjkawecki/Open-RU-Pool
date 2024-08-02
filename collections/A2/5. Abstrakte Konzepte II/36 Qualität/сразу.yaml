@@ -1,8 +1,9 @@
 name: сразу
-name_accent:
+name_accent: сра́зу
 wordclass: adverb
 translation:
-
+  - sofort
+  - mit einem Mal
 comment: null
 usage: null
 etymology: null

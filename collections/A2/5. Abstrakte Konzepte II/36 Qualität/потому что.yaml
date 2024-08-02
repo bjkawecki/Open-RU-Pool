@@ -1,7 +1,8 @@
 name: потому что
-name_accent:
+name_accent: потому́ что
 wordclass: conjunction
 translation:
+  - weil
 
 comment: null
 usage: null

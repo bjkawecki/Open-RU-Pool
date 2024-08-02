@@ -1,7 +1,8 @@
 name: переходный глагол
-name_accent:
+name_accent: перехо́дный глаго́л
 wordclass: compound
 translation:
+  - transitives Verb
 
 comment: null
 usage: null

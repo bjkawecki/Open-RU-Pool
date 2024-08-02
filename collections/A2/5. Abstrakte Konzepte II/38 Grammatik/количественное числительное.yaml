@@ -1,7 +1,9 @@
 name: количественное числительное
-name_accent:
+name_accent: коли́чественное числи́тельное
 wordclass: conjunction
 translation:
+  - Grundzahlwort
+  - Kardinalzahl
 
 comment: null
 usage: null

@@ -1,28 +1,30 @@
-name: императив, повелительное наклонение
-name_accent:
+name: императив
+name_accent: императи́в
 wordclass: substantive
 translation:
+  - Imperativ
+  - Befehlsform
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: им­пе­рат­и́в
+singular_genitive: им­пе­ра­ти́­ва
+singular_dative: им­пе­ра­ти́­ву
+singular_accusative: им­пе­рат­и́в
+singular_instrumental: им­пе­ра­ти́­вом
+singular_prepositive: им­пе­ра­ти́­ве
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: им­пе­ра­ти́­вы
+plural_genitive: им­пе­ра­ти́­вов
+plural_dative: им­пе­ра­ти́­вам
+plural_accusative: им­пе­ра­ти́­вы
+plural_instrumental: им­пе­ра­ти́­ва­ми
+plural_prepositive: им­пе­ра­ти́­вах
 
 partitive: null
 locative: null

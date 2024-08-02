@@ -1,7 +1,9 @@
 name: также
-name_accent:
+name_accent: та́кже
 wordclass: adverb
 translation:
+  - auch
+  - ebenso
 
 comment: null
 usage: null
