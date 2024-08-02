@@ -1,28 +1,30 @@
 name: начало
-name_accent:
+name_accent: на­ча́­ло
 wordclass: substantive
 translation:
+  - Beginn
+  - Anfang
 
-genus:
-declination_class:
-stress:
+genus: n
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: на­ча́­ло
+singular_genitive: на­ча́­ла
+singular_dative: на­ча́­лу
+singular_accusative: на­ча́­ло
+singular_instrumental: на­ча́л­ом
+singular_prepositive: на­ча́­ле
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: на­ча́­ла
+plural_genitive: на­ча́л
+plural_dative: на­ча́л­ам
+plural_accusative: на­ча́­ла
+plural_instrumental: на­ча́­ла­ми
+plural_prepositive: на­ча́л­ах
 
 partitive: null
 locative: null

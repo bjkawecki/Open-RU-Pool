@@ -1,37 +1,39 @@
 name: золотой
-name_accent:
+name_accent: зо­ло­то́й
 wordclass: adjective
 translation:
+  - Gold-
+  - golden
 
-is_gradable: true
+is_gradable: false
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: зо­ло­то́й
+masculine_genitive: зо­ло­то́­го
+masculine_dative: зо­ло­то́­му
+masculine_accusative: зо­ло­то́й
+masculine_instrumental: зо­лот­ы́м
+masculine_prepositive: зо­лот­о́м
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: зо­ло­та́я
+feminine_genitive: зо­ло­то́й
+feminine_dative: зо­ло­то́й
+feminine_accusative: зо­ло­ту́ю
+feminine_instrumental: зо­ло­то́й
+feminine_prepositive: зо­ло­то́й
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: зо­ло­то́е
+neutral_genitive: зо­ло­то́­го
+neutral_dative: зо­ло­то́­му
+neutral_accusative: зо­ло­то́е
+neutral_instrumental: зо­лот­ы́м
+neutral_prepositive: зо­лот­о́м
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: зо­ло­ты́е
+plural_genitive: зо­лот­ы́х
+plural_dative: зо­лот­ы́м
+plural_accusative: зо­ло­ты́е
+plural_instrumental: зо­ло­ты́­ми
+plural_prepositive: зо­лот­ы́х
 
 shortform_masculine:
 shortform_feminine:

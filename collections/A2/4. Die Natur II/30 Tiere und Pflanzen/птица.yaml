@@ -1,28 +1,28 @@
 name: птица
-name_accent:
+name_accent: пти́­ца
 wordclass: substantive
 translation:
 
-genus:
-declination_class:
-stress:
-is_animate: false
+genus: f
+declination_class: 1
+stress: root
+is_animate: true
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: пти́­ца
+singular_genitive: пти́­цы
+singular_dative: пти́­це
+singular_accusative: пти́­цу
+singular_instrumental: пти́­цей
+singular_prepositive: пти́­це
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: пти́­цы
+plural_genitive: птиц
+plural_dative: пти́­цам
+plural_accusative: птиц
+plural_instrumental: пти́­ца­ми
+plural_prepositive: пти́­цах
 
 partitive: null
 locative: null

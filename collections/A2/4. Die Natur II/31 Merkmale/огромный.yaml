@@ -1,44 +1,46 @@
 name: огромный
-name_accent:
+name_accent: ог­ро́­мный
 wordclass: adjective
 translation:
+  - riesig
+  - mächtig
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ог­ро́­мный
+masculine_genitive: ог­ро́­мно­го
+masculine_dative: ог­ро́­мно­му
+masculine_accusative: ог­ро́­мный
+masculine_instrumental: ог­ро́­мным
+masculine_prepositive: ог­ро́­мном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ог­ро́­мная
+feminine_genitive: ог­ро́­мной
+feminine_dative: ог­ро́­мной
+feminine_accusative: ог­ро́­мную
+feminine_instrumental: ог­ро́­мной
+feminine_prepositive: ог­ро́­мной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ог­ро́­мное
+neutral_genitive: ог­ро́­мно­го
+neutral_dative: ог­ро́­мно­му
+neutral_accusative: ог­ро́­мное
+neutral_instrumental: ог­ро́­мным
+neutral_prepositive: ог­ро́­мном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ог­ро́­мные
+plural_genitive: ог­ро́­мных
+plural_dative: ог­ро́­мным
+plural_accusative: ог­ро́­мные
+plural_instrumental: ог­ро́­мны­ми
+plural_prepositive: ог­ро́­мных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ог­ро́­мен
+shortform_feminine: ог­ро́­мна
+shortform_neutral: ог­ро́­мно
+shortform_plural: ог­ро́­мны
 
-comparative:
+comparative: ог­ро́­мнее
 superlative:
 
 comment: null

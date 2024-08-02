@@ -1,28 +1,29 @@
 name: поле
-name_accent:
+name_accent: по́­ле
 wordclass: substantive
 translation:
+  - Feld
 
-genus:
-declination_class:
-stress:
+genus: n
+declination_class: 2
+stress: shifting
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: по́­ле
+singular_genitive: по́­ля
+singular_dative: по́­лю
+singular_accusative: по́­ле
+singular_instrumental: по́­лем
+singular_prepositive: по́­ле
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: по́­ля
+plural_genitive: по­ле́й
+plural_dative: по­ля́м
+plural_accusative: по́­ля
+plural_instrumental: по­ля́­ми
+plural_prepositive: по­ля́х
 
 partitive: null
 locative: null

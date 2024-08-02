@@ -1,28 +1,31 @@
 name: конец
-name_accent:
+name_accent: ко­не́ц
 wordclass: substantive
 translation:
+  - Ende
+  - Ausgang
+  - Schluss
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: suffix
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ко­не́ц
+singular_genitive: кон­ца́
+singular_dative: кон­цу́
+singular_accusative: ко­не́ц
+singular_instrumental: кон­цо́м
+singular_prepositive: кон­це́
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: кон­цы́
+plural_genitive: кон­цо́в
+plural_dative: кон­ца́м
+plural_accusative: кон­цы́
+plural_instrumental: кон­ца́­ми
+plural_prepositive: кон­ца́х
 
 partitive: null
 locative: null

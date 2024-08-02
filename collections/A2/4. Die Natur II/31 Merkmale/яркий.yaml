@@ -1,44 +1,46 @@
 name: яркий
-name_accent:
+name_accent: я́р­кий
 wordclass: adjective
 translation:
+  - leuchtend
+  - hell
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: я́р­кий
+masculine_genitive: я́р­ко­го
+masculine_dative: я́р­ко­му
+masculine_accusative: я́р­кий
+masculine_instrumental: я́р­ким
+masculine_prepositive: я́р­ком
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: я́р­кая
+feminine_genitive: я́р­кой
+feminine_dative: я́р­кой
+feminine_accusative: я́р­кую
+feminine_instrumental: я́р­кой
+feminine_prepositive: я́р­кой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: я́р­кое
+neutral_genitive: я́р­ко­го
+neutral_dative: я́р­ко­му
+neutral_accusative: я́р­кое
+neutral_instrumental: я́р­ким
+neutral_prepositive: я́р­ком
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: я́р­кие
+plural_genitive: я́р­ких
+plural_dative: я́р­ким
+plural_accusative: я́р­кие
+plural_instrumental: я́р­ки­ми
+plural_prepositive: я́р­ких
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: я́р­ок
+shortform_feminine: яр­ка́
+shortform_neutral: я́р­ко
+shortform_plural: я́р­ки
 
-comparative:
+comparative: я́р­че
 superlative:
 
 comment: null

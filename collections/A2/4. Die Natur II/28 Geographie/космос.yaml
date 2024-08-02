@@ -1,28 +1,31 @@
 name: космос
-name_accent:
+name_accent: ко́с­мос
 wordclass: substantive
 translation:
+  - Raum
+  - Weltraum
+  - Kosmos
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ко́с­мос
+singular_genitive: ко́с­мо­са
+singular_dative: ко́с­мо­су
+singular_accusative: ко́с­мос
+singular_instrumental: ко́с­мо­сом
+singular_prepositive: ко́с­мо­се
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ко́с­мо­сы
+plural_genitive: ко́с­мо­сов
+plural_dative: ко́с­мо­сам
+plural_accusative: ко́с­мо­сы
+plural_instrumental: ко́с­мо­са­ми
+plural_prepositive: ко́с­мо­сах
 
 partitive: null
 locative: null

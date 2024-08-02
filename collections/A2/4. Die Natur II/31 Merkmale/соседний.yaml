@@ -1,44 +1,47 @@
 name: соседний
-name_accent:
+name_accent: со­се́д­ний
 wordclass: adjective
 translation:
+  - benachbart
+  - Neben-
+  - Nachbar-
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
+masculine_nominative: со­се́д­ний
+masculine_genitive: со­се́д­не­го
+masculine_dative: со­се́д­не­му
+masculine_accusative: со­се́д­ний
+masculine_instrumental: со­се́д­ним
 masculine_prepositive:
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: со­се́д­няя
+feminine_genitive: со­се́д­ней
+feminine_dative: со­се́д­ней
+feminine_accusative: со­се́д­нюю
+feminine_instrumental: со­се́д­ней
+feminine_prepositive: со­се́д­ней
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: со­се́д­нее
+neutral_genitive: со­се́д­не­го
+neutral_dative: со­се́д­не­му
+neutral_accusative: со­се́д­нее
+neutral_instrumental: со­се́д­ним
+neutral_prepositive: со­се́д­нем
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: со­се́д­ние
+plural_genitive: со­се́д­них
+plural_dative: со­се́д­ним
+plural_accusative: со­се́д­ние
+plural_instrumental: со­се́д­ни­ми
+plural_prepositive: со­се́д­них
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: со­се́д­ен
+shortform_feminine: со­се́д­ня
+shortform_neutral: со­се́д­не
+shortform_plural: со­се́д­ни
 
-comparative:
+comparative: со­се́д­нее
 superlative:
 
 comment: null

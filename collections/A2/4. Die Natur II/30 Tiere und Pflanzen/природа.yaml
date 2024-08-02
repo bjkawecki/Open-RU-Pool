@@ -1,28 +1,29 @@
 name: природа
-name_accent:
+name_accent: при­ро́­да
 wordclass: substantive
 translation:
+  - Natur
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: природа
+singular_genitive: при­ро́­ды
+singular_dative: при­ро́­де
+singular_accusative: при­ро́­ду
+singular_instrumental: при­ро́­дой
+singular_prepositive: при­ро́­де
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: при­ро́­ды
+plural_genitive: при­ро́д
+plural_dative: при­ро́д­ам
+plural_accusative: при­ро́­ды
+plural_instrumental: при­ро́­да­ми
+plural_prepositive: при­ро́д­ах
 
 partitive: null
 locative: null

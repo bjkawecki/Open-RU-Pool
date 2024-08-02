@@ -1,28 +1,29 @@
 name: восток
-name_accent:
+name_accent: вос­то́к
 wordclass: substantive
 translation:
+  - Osten
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: вос­то́к
+singular_genitive: вос­то́­ка
+singular_dative: вос­то́­ку
+singular_accusative: вос­то́к
+singular_instrumental: вос­то́­ком
+singular_prepositive: вос­то́­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: вос­то́­ки
+plural_genitive: вос­то́­ков
+plural_dative: вос­то́­кам
+plural_accusative: вос­то́­ки
+plural_instrumental: вос­то́­ка­ми
+plural_prepositive: вос­то́­ках
 
 partitive: null
 locative: null

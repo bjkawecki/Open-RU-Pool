@@ -2,43 +2,45 @@ name: круглый
 name_accent:
 wordclass: adjective
 translation:
+  - rund
+  - kreisförmig
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: кру́г­лый
+masculine_genitive: кру́г­ло­го
+masculine_dative: кру́г­ло­му
+masculine_accusative: кру́г­лый
+masculine_instrumental: кру́г­лым
+masculine_prepositive: кру́г­лом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: кру́г­лая
+feminine_genitive: кру́г­лой
+feminine_dative: кру́г­лой
+feminine_accusative: кру́г­лую
+feminine_instrumental: кру́г­лой
+feminine_prepositive: кру́г­лой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: кру́г­лое
+neutral_genitive: кру́г­ло­го
+neutral_dative: кру́г­ло­му
+neutral_accusative: кру́г­лое
+neutral_instrumental: кру́г­лым
+neutral_prepositive: кру́г­лом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: кру́г­лые
+plural_genitive: кру́г­лых
+plural_dative: кру́г­лым
+plural_accusative: кру́г­лые
+plural_instrumental: кру́г­лы­ми
+plural_prepositive: кру́г­лых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: кругл
+shortform_feminine: круг­ла́
+shortform_neutral: кру́г­ло
+shortform_plural: кру́г­лы
 
-comparative:
+comparative: круг­ле́е
 superlative:
 
 comment: null

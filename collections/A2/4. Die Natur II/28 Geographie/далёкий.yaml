@@ -1,44 +1,46 @@
-name: делёкий
-name_accent:
+name: далёкий
+name_accent: далёкий
 wordclass: adjective
 translation:
+  - weit
+  - fern
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: да­лё­кий
+masculine_genitive: да­лё­ко­го
+masculine_dative: да­лё­ко­му
+masculine_accusative: да­лё­кий
+masculine_instrumental: да­лёк­им
+masculine_prepositive: да­лёк­ом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: да­лё­кая
+feminine_genitive: да­лё­кой
+feminine_dative: да­лё­кой
+feminine_accusative: да­лё­кую
+feminine_instrumental: да­лё­кой
+feminine_prepositive: да­лё­кой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: да­лё­кое
+neutral_genitive: да­лё­ко­го
+neutral_dative: да­лё­ко­му
+neutral_accusative: да­лё­кое
+neutral_instrumental: да­лёк­им
+neutral_prepositive: да­лёк­ом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: да­лё­кие
+plural_genitive: да­лёк­их
+plural_dative: да­лёк­им
+plural_accusative: да­лё­кие
+plural_instrumental: да­лё­ки­ми
+plural_prepositive: да­лёк­их
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: да­лёк
+shortform_feminine: да­ле­ка́
+shortform_neutral: да­ле­ко́
+shortform_plural: да­ле­ки́
 
-comparative:
+comparative: да́ль­ше
 superlative:
 
 comment: null

@@ -1,28 +1,29 @@
 name: юг
-name_accent:
+name_accent: юг
 wordclass: substantive
 translation:
+  - Süden
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: юг
+singular_genitive: ю́га
+singular_dative: ю́гу
+singular_accusative: юг
+singular_instrumental: ю́г­ом
+singular_prepositive: ю́ге
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ю́ги
+plural_genitive: ю́г­ов
+plural_dative: ю́г­ам
+plural_accusative: ю́ги
+plural_instrumental: ю́га­ми
+plural_prepositive: ю́г­ах
 
 partitive: null
 locative: null

@@ -1,44 +1,46 @@
 name: чистый
-name_accent:
+name_accent: чи́с­тый
 wordclass: adjective
 translation:
+  - sauber
+  - rein
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: чи́с­тый
+masculine_genitive: чи́с­то­го
+masculine_dative: чи́с­то­му
+masculine_accusative: чи́с­тый
+masculine_instrumental: чи́с­тым
+masculine_prepositive: чи́с­том
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: чи́с­тая
+feminine_genitive: чи́с­той
+feminine_dative: чи́с­той
+feminine_accusative: чи́с­тую
+feminine_instrumental: чи́с­той
+feminine_prepositive: чи́с­той
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: чи́с­тое
+neutral_genitive: чи́с­то­го
+neutral_dative: чи́с­то­му
+neutral_accusative: чи́с­тое
+neutral_instrumental: чи́с­тым
+neutral_prepositive: чи́с­том
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: чи́с­тые
+plural_genitive: чи́с­тых
+plural_dative: чи́с­тым
+plural_accusative: чи́с­тые
+plural_instrumental: чи́с­ты­ми
+plural_prepositive: чи́с­тых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: чист
+shortform_feminine: чис­та́
+shortform_neutral: чи́с­то
+shortform_plural: чи́с­ты
 
-comparative:
+comparative: чи́­ще
 superlative:
 
 comment: null

@@ -1,31 +1,32 @@
 name: ветер
-name_accent:
+name_accent: ве́­тер
 wordclass: substantive
 translation:
+  - Wind
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: shifting
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ве́­тер
+singular_genitive: ве́т­ра
+singular_dative: ве́т­ру
+singular_accusative: ве́­тер
+singular_instrumental: ве́т­ром
+singular_prepositive: ве́т­ре
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ве́т­ры, вет­ра́
+plural_genitive: вет­ро́в
+plural_dative: вет­ра́м
+plural_accusative: ве́т­ры, вет­ра́
+plural_instrumental: вет­ра́­ми
+plural_prepositive: вет­ра́х
 
 partitive: null
-locative: null
+locative: на вет­ру́
 
 comment: null
 usage: null

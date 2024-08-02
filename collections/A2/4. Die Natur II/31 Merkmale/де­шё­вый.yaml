@@ -1,0 +1,48 @@
+name: де­шё­вый
+name_accent: де­шё­вый
+wordclass: adjective
+translation:
+  - günstig
+  - billig
+
+is_gradable: true
+
+masculine_nominative: де­шё­вый
+masculine_genitive: де­шё­во­го
+masculine_dative: де­шё­во­му
+masculine_accusative: де­шё­вый
+masculine_instrumental: де­шёв­ым
+masculine_prepositive: де­шёв­ом
+
+feminine_nominative: де­шё­вая
+feminine_genitive: де­шё­вой
+feminine_dative: де­шё­вой
+feminine_accusative: де­шё­вую
+feminine_instrumental: де­шё­вой
+feminine_prepositive: де­шё­вой
+
+neutral_nominative: де­шё­вое
+neutral_genitive: де­шё­во­го
+neutral_dative: де­шё­во­му
+neutral_accusative: де­шё­вое
+neutral_instrumental: де­шёв­ым
+neutral_prepositive: де­шёв­ом
+
+plural_nominative: де­шё­вые
+plural_genitive: де­шёв­ых
+plural_dative: де­шёв­ым
+plural_accusative: де­шё­вые
+plural_instrumental: де­шё­вы­ми
+plural_prepositive: де­шёв­ых
+
+shortform_masculine: дё­шев
+shortform_feminine: де­ше­ва́
+shortform_neutral: дё­ше­во
+shortform_plural: дё­ше­вы
+
+comparative: де­ше́в­ле
+superlative:
+
+comment: null
+usage: null
+etymology: null

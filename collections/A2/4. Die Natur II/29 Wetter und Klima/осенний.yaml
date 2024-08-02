@@ -1,42 +1,44 @@
 name: осенний
-name_accent:
+name_accent: ос­е́н­ний
 wordclass: adjective
 translation:
+  - Herbst-
+  - herbstlich
 
-is_gradable: true
+is_gradable: false
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ос­е́н­ний
+masculine_genitive: ос­е́н­не­го
+masculine_dative: ос­е́н­не­му
+masculine_accusative: ос­е́н­ний
+masculine_instrumental: ос­е́н­ним
+masculine_prepositive: ос­е́н­нем
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ос­е́н­няя
+feminine_genitive: ос­е́н­ней
+feminine_dative: ос­е́н­ней
+feminine_accusative: ос­е́н­нюю
+feminine_instrumental: ос­е́н­ней
+feminine_prepositive: ос­е́н­ней
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ос­е́н­нее
+neutral_genitive: ос­е́н­не­го
+neutral_dative: ос­е́н­не­му
+neutral_accusative: ос­е́н­нее
+neutral_instrumental: ос­е́н­ним
+neutral_prepositive: ос­е́н­нем
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ос­е́н­ние
+plural_genitive: ос­е́н­них
+plural_dative: ос­е́н­ним
+plural_accusative: ос­е́н­ние
+plural_instrumental: ос­е́н­ни­ми
+plural_prepositive: ос­е́н­них
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ос­е́н­нем
+shortform_feminine: ос­е́н­ней
+shortform_neutral: ос­е́н­нем
+shortform_plural: ос­е́н­них
 
 comparative:
 superlative:

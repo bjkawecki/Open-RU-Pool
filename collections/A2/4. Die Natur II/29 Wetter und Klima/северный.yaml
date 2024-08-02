@@ -1,44 +1,46 @@
 name: северный
-name_accent:
+name_accent: се́­вер­ный
 wordclass: adjective
 translation:
+  - Nord-
+  - nördlich
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: се́­вер­ный
+masculine_genitive: се́­вер­но­го
+masculine_dative: се́­вер­но­му
+masculine_accusative: се́­вер­ный
+masculine_instrumental: се́­вер­ным
+masculine_prepositive: се́­вер­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: се́­вер­ная
+feminine_genitive: се́­вер­ной
+feminine_dative: се́­вер­ной
+feminine_accusative: се́­вер­ную
+feminine_instrumental: се́­вер­ной
+feminine_prepositive: се́­вер­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: се́­вер­ное
+neutral_genitive: се́­вер­но­го
+neutral_dative: се́­вер­но­му
+neutral_accusative: се́­вер­ное
+neutral_instrumental: се́­вер­ным
+neutral_prepositive: се́­вер­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: се́­вер­ные
+plural_genitive: се́­вер­ных
+plural_dative: се́­вер­ным
+plural_accusative: се́­вер­ные
+plural_instrumental: се́­вер­ны­ми
+plural_prepositive: се́­вер­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: се́­вер­ен
+shortform_feminine: се́­вер­на
+shortform_neutral: се́­вер­но
+shortform_plural: се́­вер­ны
 
-comparative:
+comparative: се́­вер­нее
 superlative:
 
 comment: null

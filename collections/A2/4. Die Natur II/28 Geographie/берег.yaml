@@ -1,31 +1,32 @@
 name: берег
-name_accent:
+name_accent: бе́­рег
 wordclass: substantive
 translation:
+  - Ufer
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: shifting
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: бе́­рег
+singular_genitive: бе́­ре­га
+singular_dative: бе́­ре­гу
+singular_accusative: бе́­рег
+singular_instrumental: бе́­рег­ом
+singular_prepositive: бе́­ре­ге
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: бе­ре­га́
+plural_genitive: бе­рег­о́в
+plural_dative: бе­рег­а́м
+plural_accusative: бе­ре­га́
+plural_instrumental: бе­ре­га́­ми
+plural_prepositive: бе­рег­а́х
 
 partitive: null
-locative: null
+locative: на бе­ре­гу́
 
 comment: null
 usage: null

@@ -2,43 +2,45 @@ name: прохладный
 name_accent:
 wordclass: adjective
 translation:
+  - kühl
+  - frisch
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: прох­ла́­дный
+masculine_genitive: прох­ла́­дно­го
+masculine_dative: прох­ла́­дно­му
+masculine_accusative: прох­ла́­дный
+masculine_instrumental: прох­ла́­дным
+masculine_prepositive: прох­ла́­дном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: прох­ла́­дная
+feminine_genitive: прох­ла́­дной
+feminine_dative: прох­ла́­дной
+feminine_accusative: прох­ла́­дную
+feminine_instrumental: прох­ла́­дной
+feminine_prepositive: прох­ла́­дной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: прох­ла́­дное
+neutral_genitive: прох­ла́­дно­го
+neutral_dative: прох­ла́­дно­му
+neutral_accusative: прох­ла́­дное
+neutral_instrumental: прох­ла́­дным
+neutral_prepositive: прох­ла́­дном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: прох­ла́­дные
+plural_genitive: прох­ла́­дных
+plural_dative: прох­ла́­дным
+plural_accusative: прох­ла́­дные
+plural_instrumental: прох­ла́­дны­ми
+plural_prepositive: прох­ла́­дных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: прох­ла́­ден
+shortform_feminine: прох­ла́­дна
+shortform_neutral: прох­ла́­дно
+shortform_plural: прох­ла́­дны
 
-comparative:
+comparative: прох­ла́­днее
 superlative:
 
 comment: null

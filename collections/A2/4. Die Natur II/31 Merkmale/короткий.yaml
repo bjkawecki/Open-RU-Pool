@@ -1,44 +1,45 @@
 name: короткий
-name_accent:
+name_accent: ко­ро́т­кий
 wordclass: adjective
 translation:
+  - kurz
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ко­ро́т­кий
+masculine_genitive: ко­ро́т­ко­го
+masculine_dative: ко­ро́т­ко­му
+masculine_accusative: ко­ро́т­кий
+masculine_instrumental: ко­ро́т­ким
+masculine_prepositive: ко­ро́т­ком
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ко­ро́т­кая
+feminine_genitive: ко­ро́т­кой
+feminine_dative: ко­ро́т­кой
+feminine_accusative: ко­ро́т­кую
+feminine_instrumental: ко­ро́т­кой
+feminine_prepositive: ко­ро́т­кой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ко­ро́т­кое
+neutral_genitive: ко­ро́т­ко­го
+neutral_dative: ко­ро́т­ко­му
+neutral_accusative: ко­ро́т­кое
+neutral_instrumental: ко­ро́т­ким
+neutral_prepositive: ко­ро́т­ком
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ко­ро́т­кие
+plural_genitive: ко­ро́т­ких
+plural_dative: ко­ро́т­ким
+plural_accusative: ко­ро́т­кие
+plural_instrumental: ко­ро́т­кие
+plural_prepositive: ко­ро́т­ких
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ко́­рот­ок
+shortform_feminine: ко­рот­ка́
+shortform_neutral: ко́­рот­ко
+shortform_plural: ко́­рот­ки
 
-comparative:
+comparative: ко­ро́­че
 superlative:
 
 comment: null

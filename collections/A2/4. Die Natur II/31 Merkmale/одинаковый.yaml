@@ -2,43 +2,45 @@ name: одинаковый
 name_accent:
 wordclass: adjective
 translation:
+  - gleich
+  - gleichartig
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: оди­на́­ко­вый
+masculine_genitive: оди­на́­ко­во­го
+masculine_dative: оди­на́­ко­во­му
+masculine_accusative: оди­на́­ко­вый
+masculine_instrumental: оди­на́­ко­вым
+masculine_prepositive: оди­на́­ко­вом
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
+feminine_nominative: оди­на́­ко­вая
+feminine_genitive: оди­на́­ко­вой
+feminine_dative: оди­на́­ко­вой
 feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_instrumental: оди­на́­ко­вой
+feminine_prepositive: оди­на́­ко­вой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: оди­на́­ко­вое
+neutral_genitive: оди­на́­ко­во­го
+neutral_dative: оди­на́­ко­во­му
+neutral_accusative: оди­на́­ко­вое
+neutral_instrumental: оди­на́­ко­вым
+neutral_prepositive: оди­на́­ко­вом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: оди­на́­ко­вые
+plural_genitive: оди­на́­ко­вых
+plural_dative: оди­на́­ко­вым
+plural_accusative: оди­на́­ко­вые
+plural_instrumental: оди­на́­ко­вы­ми
+plural_prepositive: оди­на́­ко­вых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: оди­на́к­ов
+shortform_feminine: оди­на́­ко­ва
+shortform_neutral: оди­на́­ко­во
+shortform_plural: оди­на́­ко­вы
 
-comparative:
+comparative: оди­на́­ко­вее
 superlative:
 
 comment: null

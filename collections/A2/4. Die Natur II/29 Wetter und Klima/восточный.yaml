@@ -1,44 +1,46 @@
 name: восточный
-name_accent:
+name_accent: вос­то́­чный
 wordclass: adjective
 translation:
+  - östlich
+  - Ost-
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: вос­то́­чный
+masculine_genitive: вос­то́­чно­го
+masculine_dative: вос­то́­чно­му
+masculine_accusative: вос­то́­чный
+masculine_instrumental: вос­то́­чным
+masculine_prepositive: вос­то́­чном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: вос­то́­чная
+feminine_genitive: вос­то́­чной
+feminine_dative: вос­то́­чной
+feminine_accusative: вос­то́­чную
+feminine_instrumental: вос­то́­чной
+feminine_prepositive: вос­то́­чной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: вос­то́­чное
+neutral_genitive: вос­то́­чно­го
+neutral_dative: вос­то́­чно­му
+neutral_accusative: вос­то́­чное
+neutral_instrumental: вос­то́­чным
+neutral_prepositive: вос­то́­чном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: вос­то́­чные
+plural_genitive: вос­то́­чных
+plural_dative: вос­то́­чным
+plural_accusative: вос­то́­чные
+plural_instrumental: вос­то́­чны­ми
+plural_prepositive: вос­то́­чных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: вос­то́­чен
+shortform_feminine: вос­то́­чна
+shortform_neutral: вос­то́­чно
+shortform_plural: вос­то́­чны
 
-comparative:
+comparative: вос­то́­чнее
 superlative:
 
 comment: null

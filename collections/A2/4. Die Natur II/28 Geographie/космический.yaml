@@ -1,37 +1,40 @@
 name: космический
-name_accent:
+name_accent: кос­ми́­чес­кий
 wordclass: adjective
 translation:
+  - kosmisch
+  - Raum-
+  - Weltraum-
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: кос­ми́­чес­кий
+masculine_genitive: кос­ми́­чес­ко­го
+masculine_dative: кос­ми́­чес­ко­му
+masculine_accusative: кос­ми́­чес­кий
+masculine_instrumental: кос­ми́­чес­ким
+masculine_prepositive: кос­ми́­чес­ком
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: кос­ми́­чес­кая
+feminine_genitive: кос­ми́­чес­кой
+feminine_dative: кос­ми́­чес­кой
+feminine_accusative: кос­ми́­чес­кую
+feminine_instrumental: кос­ми́­чес­кой
+feminine_prepositive: кос­ми́­чес­кой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: кос­ми́­чес­кое
+neutral_genitive: кос­ми́­чес­ко­го
+neutral_dative: кос­ми́­чес­ко­му
+neutral_accusative: кос­ми́­чес­кое
+neutral_instrumental: кос­ми́­чес­ким
+neutral_prepositive: кос­ми́­чес­ком
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: кос­ми́­чес­кие
+plural_genitive: кос­ми́­чес­ких
+plural_dative: кос­ми́­чес­ким
+plural_accusative: кос­ми́­чес­кие
+plural_instrumental: кос­ми́­чес­ки­ми
+plural_prepositive: кос­ми́­чес­ких
 
 shortform_masculine:
 shortform_feminine:

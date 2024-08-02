@@ -1,37 +1,39 @@
 name: университетский
-name_accent:
+name_accent: уни­вер­си­те́тс­кий
 wordclass: adjective
 translation:
+  - akademisch
+  - Universitäts-
 
-is_gradable: true
+is_gradable: false
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: уни­вер­си­те́тс­кий
+masculine_genitive: уни­вер­си­те́тс­ко­го
+masculine_dative: уни­вер­си­те́тс­ко­му
+masculine_accusative: уни­вер­си­те́тс­кий
+masculine_instrumental: уни­вер­си­те́тс­ким
+masculine_prepositive: уни­вер­си­те́тс­ком
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: уни­вер­си­те́тс­кая
+feminine_genitive: уни­вер­си­те́тс­кой
+feminine_dative: уни­вер­си­те́тс­кой
+feminine_accusative: уни­вер­си­те́тс­кую
+feminine_instrumental: уни­вер­си­те́тс­кой
+feminine_prepositive: уни­вер­си­те́тс­кой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: уни­вер­си­те́тс­кое
+neutral_genitive: уни­вер­си­те́тс­ко­го
+neutral_dative: уни­вер­си­те́тс­ко­му
+neutral_accusative: уни­вер­си­те́тс­кое
+neutral_instrumental: уни­вер­си­те́тс­ким
+neutral_prepositive: уни­вер­си­те́тс­ком
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: уни­вер­си­те́тс­кие
+plural_genitive: уни­вер­си­те́тс­ких
+plural_dative: уни­вер­си­те́тс­ким
+plural_accusative: уни­вер­си­те́тс­кие
+plural_instrumental: уни­вер­си­те́тс­ки­ми
+plural_prepositive: уни­вер­си­те́тс­ких
 
 shortform_masculine:
 shortform_feminine:

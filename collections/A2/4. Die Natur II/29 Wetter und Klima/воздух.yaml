@@ -1,21 +1,22 @@
 name: воздух
-name_accent:
+name_accent: во́з­дух
 wordclass: substantive
 translation:
+  - Luft
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
-is_singular_tantum: null
+is_singular_tantum: true
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: во́з­дух
+singular_genitive: во́з­ду­ха
+singular_dative: во́з­ду­ху
+singular_accusative: во́з­дух
+singular_instrumental: во́з­ду­хом
+singular_prepositive: во́з­ду­хе
 
 plural_nominative:
 plural_genitive:
@@ -24,7 +25,7 @@ plural_accusative:
 plural_instrumental:
 plural_prepositive:
 
-partitive: null
+partitive: воздуху
 locative: null
 
 comment: null

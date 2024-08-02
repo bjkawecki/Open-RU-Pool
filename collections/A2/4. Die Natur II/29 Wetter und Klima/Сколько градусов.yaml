@@ -1,7 +1,9 @@
 name: Сколько градусов
-name_accent:
+name_accent: Ско́лько гра́дусов
 wordclass: phrase
 translation:
+  - Wie viel Grad sind es?
+  - Wie warm ist es?
 
 metaphrase:
 

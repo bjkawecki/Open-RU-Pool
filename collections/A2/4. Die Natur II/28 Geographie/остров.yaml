@@ -1,28 +1,29 @@
 name: остров
-name_accent:
+name_accent: о́ст­ров
 wordclass: substantive
 translation:
+  - Insel
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: shifting
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: о́ст­ров
+singular_genitive: о́ст­ро­ва
+singular_dative: о́ст­ро­ву
+singular_accusative: о́ст­ров
+singular_instrumental: о́ст­ро­вом
+singular_prepositive: о́ст­ро­ве
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ост­ро­ва́
+plural_genitive: ост­ро­во́в
+plural_dative: ост­ро­ва́м
+plural_accusative: ост­ро­ва́
+plural_instrumental: ост­ро­ва́­ми
+plural_prepositive: ост­ро­ва́х
 
 partitive: null
 locative: null

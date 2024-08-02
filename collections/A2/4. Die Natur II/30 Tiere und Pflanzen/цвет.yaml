@@ -1,0 +1,34 @@
+name: цвет
+name_accent: цвет
+wordclass: substantive
+translation:
+  - Farbe
+  - Blüte
+
+genus: m
+declination_class: 2
+stress: root
+is_animate: false
+is_singular_tantum: null
+is_plural_tantum: null
+
+singular_nominative: цвет
+singular_genitive: цве́­та
+singular_dative: цве́­ту
+singular_accusative: цвет
+singular_instrumental: цве́­том
+singular_prepositive: цве́­те
+
+plural_nominative: цве­та́
+plural_genitive: цве­то́в
+plural_dative: цве­та́м
+plural_accusative: цве­та́
+plural_instrumental: цве­та́­ми
+plural_prepositive: цве­та́х
+
+partitive: null
+locative: null
+
+comment: null
+usage: null
+etymology: null

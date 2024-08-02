@@ -1,44 +1,46 @@
 name: южный
-name_accent:
+name_accent: ю́ж­ный
 wordclass: adjective
 translation:
+  - Süd-
+  - südlich
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: ю́ж­ный
+masculine_genitive: ю́ж­но­го
+masculine_dative: ю́ж­но­му
+masculine_accusative: ю́ж­ный
+masculine_instrumental: ю́ж­ным
+masculine_prepositive: ю́ж­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: ю́ж­ная
+feminine_genitive: ю́ж­ной
+feminine_dative: ю́ж­ной
+feminine_accusative: ю́ж­ную
+feminine_instrumental: ю́ж­ной
+feminine_prepositive: ю́ж­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: ю́ж­ное
+neutral_genitive: ю́ж­но­го
+neutral_dative: ю́ж­но­му
+neutral_accusative: ю́ж­ное
+neutral_instrumental: ю́ж­ным
+neutral_prepositive: ю́ж­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ю́ж­ные
+plural_genitive: ю́ж­ных
+plural_dative: ю́ж­ным
+plural_accusative: ю́ж­ные
+plural_instrumental: ю́ж­ны­ми
+plural_prepositive: ю́ж­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: ю́ж­ен
+shortform_feminine: юж­на́
+shortform_neutral: ю́ж­но
+shortform_plural: ю́ж­ны
 
-comparative:
+comparative: юж­не́е
 superlative:
 
 comment: null

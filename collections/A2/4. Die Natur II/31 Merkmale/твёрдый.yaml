@@ -1,44 +1,46 @@
 name: твёрдый
-name_accent:
+name_accent: твёрдый
 wordclass: adjective
 translation:
+  - fest
+  - hart
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
+masculine_nominative: твёр­дый
+masculine_genitive: твёр­до­го
+masculine_dative: твёр­до­му
+masculine_accusative: твёр­дый
 masculine_instrumental:
 masculine_prepositive:
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: твёр­дая
+feminine_genitive: твёр­дой
+feminine_dative: твёр­дой
+feminine_accusative: твёр­дую
+feminine_instrumental: твёр­дой
+feminine_prepositive: твёр­дой
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: твёр­дое
+neutral_genitive: твёр­до­го
+neutral_dative: твёр­до­му
+neutral_accusative: твёр­дое
+neutral_instrumental: твёр­дым
+neutral_prepositive: твёр­дом
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: твёр­дые
+plural_genitive: твёр­дых
+plural_dative: твёр­дым
+plural_accusative: твёр­дые
+plural_instrumental: твёр­ды­ми
+plural_prepositive: твёр­дых
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: твёрд
+shortform_feminine: твер­да́
+shortform_neutral: твёр­до
+shortform_plural: твёр­ды
 
-comparative:
+comparative: твёр­же
 superlative:
 
 comment: null

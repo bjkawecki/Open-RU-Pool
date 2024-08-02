@@ -1,28 +1,28 @@
 name: ёлка
-name_accent:
+name_accent: ёлка
 wordclass: substantive
 translation:
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: ёлка
+singular_genitive: ёл­ки
+singular_dative: ёл­ке
+singular_accusative: ёл­ку
+singular_instrumental: ёл­кой
+singular_prepositive: ёл­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: ёл­ки
+plural_genitive: ёл­ок
+plural_dative: ёл­кам
+plural_accusative: ёл­ки
+plural_instrumental: ёл­ка­ми
+plural_prepositive: ёл­ках
 
 partitive: null
 locative: null

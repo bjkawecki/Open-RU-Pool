@@ -1,44 +1,46 @@
 name: грязный
-name_accent:
+name_accent: гря́з­ный
 wordclass: adjective
 translation:
+  - schmutzig
+  - dreckig
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: гря́з­ный
+masculine_genitive: гря́з­но­го
+masculine_dative: гря́з­но­му
+masculine_accusative: гря́з­ный
+masculine_instrumental: гря́з­ным
+masculine_prepositive: гря́з­ном
 
-feminine_nominative:
-feminine_genitive:
-feminine_dative:
-feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_nominative: гря́з­ная
+feminine_genitive: гря́з­ной
+feminine_dative: гря́з­ной
+feminine_accusative: гря́з­ную
+feminine_instrumental: гря́з­ной
+feminine_prepositive: гря́з­ной
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: гря́з­ное
+neutral_genitive: гря́з­но­го
+neutral_dative: гря́з­но­му
+neutral_accusative: гря́з­ное
+neutral_instrumental: гря́з­ным
+neutral_prepositive: гря́з­ном
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: гря́з­ные
+plural_genitive: гря́з­ных
+plural_dative: гря́з­ным
+plural_accusative: гря́з­ные
+plural_instrumental: гря́з­ны­ми
+plural_prepositive: гря́з­ных
 
-shortform_masculine:
-shortform_feminine:
-shortform_neutral:
-shortform_plural:
+shortform_masculine: гря́­зен
+shortform_feminine: гряз­на́
+shortform_neutral: гря́з­но
+shortform_plural: гря́з­ны
 
-comparative:
+comparative: гряз­не́е
 superlative:
 
 comment: null

@@ -1,0 +1,47 @@
+name: зак­рытый
+name_accent: зак­ры́­тый
+wordclass: adjective
+translation:
+  - geschlossen
+
+is_gradable: true
+
+masculine_nominative: зак­ры́­тый
+masculine_genitive: зак­ры́­то­го
+masculine_dative: зак­ры́­то­му
+masculine_accusative: зак­ры́­тый
+masculine_instrumental: зак­ры́­тым
+masculine_prepositive: зак­ры́­том
+
+feminine_nominative: зак­ры́­тая
+feminine_genitive: зак­ры́­той
+feminine_dative: зак­ры́­той
+feminine_accusative: зак­ры́­тую
+feminine_instrumental: зак­ры́­той
+feminine_prepositive: зак­ры́­той
+
+neutral_nominative: зак­ры́­тое
+neutral_genitive: зак­ры́­то­го
+neutral_dative: зак­ры́­то­му
+neutral_accusative: зак­ры́­тое
+neutral_instrumental: зак­ры́­тым
+neutral_prepositive: зак­ры́­том
+
+plural_nominative: зак­ры́­тые
+plural_genitive: зак­ры́­тых
+plural_dative: зак­ры́­тым
+plural_accusative: зак­ры́­тые
+plural_instrumental: зак­ры́­ты­ми
+plural_prepositive: зак­ры́­тых
+
+shortform_masculine: закрыт
+shortform_feminine: зак­ры́­та
+shortform_neutral: зак­ры́­то
+shortform_plural: зак­ры́­ты
+
+comparative: зак­ры́­тее
+superlative:
+
+comment: null
+usage: null
+etymology: null
