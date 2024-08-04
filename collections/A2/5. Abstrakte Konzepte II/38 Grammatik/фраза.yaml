@@ -2,27 +2,29 @@ name: фраза
 name_accent:
 wordclass: substantive
 translation:
+  - Phrase
+  - Satz
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: фра́­за
+singular_genitive: фра́­зы
+singular_dative: фра́­зе
+singular_accusative: фра́­зу
+singular_instrumental: фра́­зой
+singular_prepositive: фра́­зе
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: фра́­зы
+plural_genitive: фраз
+plural_dative: фра́­зам
+plural_accusative: фра́­зы
+plural_instrumental: фра́­за­ми
+plural_prepositive: фра́­зах
 
 partitive: null
 locative: null

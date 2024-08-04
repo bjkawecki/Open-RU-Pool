@@ -1,7 +1,8 @@
 name: часть речи
-name_accent:
+name_accent: часть ре́чи
 wordclass: compound
 translation:
+  - Wortart
 
 comment: null
 usage: null

@@ -2,31 +2,32 @@ name: склонение
 name_accent:
 wordclass: substantive
 translation:
+  - Deklination
 
-genus:
-declination_class:
-stress:
+genus: n
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: скло­не́­ние
+singular_genitive: скло­не́­ния
+singular_dative: скло­не́­нию
+singular_accusative: скло­не́­ние
+singular_instrumental: скло­не́­ни­ем
+singular_prepositive: скло­не́­нии
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: скло­не́­ния
+plural_genitive: скло­не́­ний
+plural_dative: скло­не́­ни­ям
+plural_accusative: скло­не́­ния
+plural_instrumental: скло­не́­ни­ями
+plural_prepositive: скло­не́­ни­ях
 
 partitive: null
 locative: null
 
-comment: null
+comment: Beugung von Nomen
 usage: null
 etymology: null

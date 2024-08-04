@@ -1,7 +1,8 @@
 name: член предложения
-name_accent:
+name_accent: член предложе́ния
 wordclass: compound
 translation:
+  - Satzglied
 
 comment: null
 usage: null

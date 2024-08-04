@@ -1,28 +1,30 @@
 name: чередование
-name_accent:
+name_accent: че­ре­до­ва́­ние
 wordclass: substantive
 translation:
+  - Alternanz
+  - Latuwechsel
 
-genus:
-declination_class:
-stress:
+genus: n
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: че­ре­до­ва́­ние
+singular_genitive: че­ре­до­ва́­ния
+singular_dative: че­ре­до­ва́­нию
+singular_accusative: че­ре­до­ва́­ние
+singular_instrumental: че­ре­до­ва́­ни­ем
+singular_prepositive: че­ре­до­ва́­нии
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: че­ре­до­ва́­ния
+plural_genitive: че­ре­до­ва́­ний
+plural_dative: че­ре­до­ва́­ни­ям
+plural_accusative: че­ре­до­ва́­ния
+plural_instrumental: че­ре­до­ва́­ни­ями
+plural_prepositive: че­ре­до­ва́­ни­ях
 
 partitive: null
 locative: null

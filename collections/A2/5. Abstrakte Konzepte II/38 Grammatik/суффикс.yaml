@@ -1,28 +1,30 @@
 name: суффикс
-name_accent:
+name_accent: су́ффикс
 wordclass: substantive
 translation:
+  - Suffix
+  - Nachsilbe
 
-genus:
-declination_class:
-stress:
+genus: m
+declination_class: 2
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: су́ф­фикс
+singular_genitive: су́ф­фик­са
+singular_dative: су́ф­фик­су
+singular_accusative: су́ф­фикс
+singular_instrumental: су́ф­фик­сом
+singular_prepositive: су́ф­фик­се
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: су́ф­фик­сы
+plural_genitive: су́ф­фик­сов
+plural_dative: су́ф­фик­сам
+plural_accusative: су́ф­фик­сы
+plural_instrumental: су́ф­фик­са­ми
+plural_prepositive: су́ф­фик­сах
 
 partitive: null
 locative: null

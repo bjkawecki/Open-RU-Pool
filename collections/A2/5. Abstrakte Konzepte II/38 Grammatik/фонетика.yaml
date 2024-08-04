@@ -1,28 +1,30 @@
 name: фонетика
-name_accent:
+name_accent: фо­не́­ти­ка
 wordclass: substantive
 translation:
+  - Phonetik
+  - Lautlehre
 
-genus:
-declination_class:
-stress:
+genus: f
+declination_class: 1
+stress: root
 is_animate: false
 is_singular_tantum: null
 is_plural_tantum: null
 
-singular_nominative:
-singular_genitive:
-singular_dative:
-singular_accusative:
-singular_instrumental:
-singular_prepositive:
+singular_nominative: фо­не́­ти­ка
+singular_genitive: фо­не́­ти­ки
+singular_dative: фо­не́­ти­ке
+singular_accusative: фо­не́­ти­ку
+singular_instrumental: фо­не́­ти­кой
+singular_prepositive: фо­не́­ти­ке
 
-plural_nominative:
-plural_genitive:
-plural_dative:
-plural_accusative:
-plural_instrumental:
-plural_prepositive:
+plural_nominative: фо­не́­ти­ки
+plural_genitive: фо­не́т­ик
+plural_dative: фо­не́­ти­кам
+plural_accusative: фо­не́­ти­ки
+plural_instrumental: фо­не́­ти­ка­ми
+plural_prepositive: фо­не́­ти­ках
 
 partitive: null
 locative: null

@@ -1,7 +1,8 @@
 name: твёрдый согласный звук
-name_accent:
+name_accent: твёрдый согла́сный звук
 wordclass: compound
 translation:
+  - harter Konsonant
 
 comment: null
 usage: null
