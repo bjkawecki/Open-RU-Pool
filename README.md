@@ -7,6 +7,21 @@ This repository aims for an easy to manage Russian word pool organized as a coll
 
 The language of the folders and translations currently is German. For the source material see the section [references](#References).
 
+## About the folder stucture
+
+The problem with words is that they can appear in many different contexts.
+The challenge is therefore to assign a word to a topic as precisely as possible. 
+The collection of words is divided into a twofold order.
+
+The first order is general, the second order is specific.
+Most of the folder names should be self-explanatory.
+For the folders that are not, I will provide a brief explanation below. 
+
+| Subtopic    | Explanation |
+| -------- | ------- |
+| Der Mensch als Vernunftwesen ⮕ Eigenschaften | For adjectives that do not clearly fit another subtopic  |
+| Abstrakte Konzepte ⮕ Qualität | For adverbs that do not clearly fit another subtopic |
+
 
 ## References
 
