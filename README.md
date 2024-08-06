@@ -19,8 +19,8 @@ For the folders that are not, I will provide a brief explanation below.
 
 | Subtopic    | Explanation |
 | -------- | ------- |
-| Der Mensch als Vernunftwesen ⮕ Eigenschaften | For adjectives that do not clearly fit another subtopic  |
-| Abstrakte Konzepte ⮕ Qualität | For adverbs that do not clearly fit another subtopic |
+| 2. Der Mensch als Vernunftwesen ⮕ Eigenschaften | For adjectives that do not clearly fit another subtopic  |
+| 5. Abstrakte Konzepte ⮕ Qualität | For adverbs that do not clearly fit another subtopic |
 
 
 ## References
