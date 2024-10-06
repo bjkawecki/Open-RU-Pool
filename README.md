@@ -3,28 +3,28 @@
 ![Static Badge](https://img.shields.io/badge/Data-YAML-%23CB171E?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Script-Python3-%233776AB?style=flat-square)
 
-This repository aims for an easy to manage Russian word pool organized as a collection of yaml-files. Each word has one yaml-file with all its information.
+Dieses Repository enthält einen einfach zu verwaltenden russischen Wortbestand, der als Sammlung von yaml-Dateien organisiert ist. Pro Wort gibt es eine yaml-Datei mit allen Informationen.
 
-The language of the folders and translations currently is German. For the source material see the section [references](#References).
+Die Sprache der Ordner und Übersetzungen ist derzeit Deutsch. Für das Quellmaterial siehe den Abschnitt [Literaturhinweise](#Literaturhinweise).
 
-## About the folder stucture
+## Über die Struktur der Ordner
 
-The problem with words is that they can appear in many different contexts.
-The challenge is therefore to assign a word to a topic as precisely as possible. 
-The collection of words is divided into a twofold order.
+Das Problem der Sortierung von Wörtern ist, dass sie meist in vielen verschiedenen Kontexten vorkommen können.
+Die Herausforderung besteht also darin, ein Wort möglichst genau einem Thema zuzuordnen.
+Die Wortsammlung ist hier zweigeteilt.
 
-The first order is general, the second order is specific.
-Most of the folder names should be self-explanatory.
-For the folders that are not, I will provide a brief explanation below. 
+Die erste Reihenfolge ist allgemein, die zweite ist spezifisch.
+Die Ordnernamen sollten selbsterklärend sein.
+Für manche Ordner gebe ich dennoch im Folgenden eine kurze Erklärung.
 
-| Subtopic    | Explanation |
-| -------- | ------- |
-| 2. Der Mensch als Vernunftwesen ⮕ Eigenschaften | For adjectives that do not clearly fit another subtopic  |
-| 2. Der Mensch als Vernunftwesen ⮕ Intellekt und Geist | For intellectual processes  |
-| 5. Abstrakte Konzepte ⮕ Qualität | For adverbs that do not clearly fit another subtopic |
+| Unterthema                                            | Erklärung                                    |
+| ----------------------------------------------------- | -------------------------------------------- |
+| 2. Der Mensch als Vernunftwesen ⮕ Eigenschaften       | Für Adjektive ohne eindeutiges Unterthema    |
+| 2. Der Mensch als Vernunftwesen ⮕ Intellekt und Geist | Für geistige Prozesse                        |
+| 3. Der Mensch und die Gesellschaft ⮕ Land und Stadt   | Für Objekte und Abläufe im öffentlichen Raum |
+| 5. Abstrakte Konzepte ⮕ Qualität                      | Für Adverbien ohne eindeutiges Unterthema    |
 
-
-## References
+## Literaturhinweise
 
 - Andrjuša, N. P., Kozlova, T. V. (2014). Leksičeskij minimum po russkomy jazyku kak inostrannomy.<br>Ėlementarnyj uroven', Sank-Peterburg: Zlatoust. (ISBN 978-5-86547-858-4)
 
