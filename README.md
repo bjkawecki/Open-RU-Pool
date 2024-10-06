@@ -18,7 +18,7 @@ Die Ordnernamen sollten selbsterklärend sein.
 Für manche Namen gibt es im Foldgenden dennoch eine kurze Erklärung.
 
 | Thema                    | Unterthema                  | Erklärung                                 |
-| ------------------------ | --------------------------- | ----------------------------------------- |
+| ------------------------ | --- | --- |
 | Mensch als Lebewesen     | Aussehen und Körper         |                                           |
 | Mensch als Lebewesen     | Essen und Lebensmittel      |                                           |
 | Mensch als Lebewesen     | Gesundheit und Hygiene      |                                           |
