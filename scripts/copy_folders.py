@@ -11,5 +11,5 @@ def ignore_files(dir, files):
 # calling the shutil.copytree() method and
 # passing the src,dst,and ignore parameter
 shutil.copytree(
-    "collections/A1", "collections/b2/", ignore=ignore_files, dirs_exist_ok=True
+    "collections/B2", "collections/c1/", ignore=ignore_files, dirs_exist_ok=True
 )
