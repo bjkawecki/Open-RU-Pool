@@ -32,4 +32,8 @@ Für manche Ordner gebe ich dennoch im Folgenden eine kurze Erklärung.
 
 - Andrjuša, N. P., Kozlova, T. V. (2014). Leksičeskij minimum po russkomy jazyku kak inostrannomy.<br>Pervyj sertifikacionnyj uroven', Sank-Peterburg: Zlatoust. (ISBN 978–5–86547–862–1)
 
+- Andrjuša, N. P., Kozlova, T. V. (2014). Leksičeskij minimum po russkomy jazyku kak inostrannomy.<br>Vtoroj sertifikacionnyj uroven', Sank-Peterburg: Zlatoust. (ISBN 978-5-86547-799-0)
+
+- Andrjuša, N. P., Kozlova, T. V. (2019). Leksičeskij minimum po russkomy jazyku kak inostrannomy.<br>Tretij sertifikacionnyj uroven', Sank-Peterburg: Zlatoust. (ISBN 978-5-86547-970-3)
+
 <!-- - [udarenie.ru](https://udarenieru.ru/index.php): Grammatičeskij slovar'.   -->
