@@ -17,58 +17,58 @@ Die erste Reihenfolge ist allgemein, die zweite ist spezifisch.
 Die Ordnernamen sollten selbsterklärend sein.
 Für manche Namen gibt es im Foldgenden dennoch eine kurze Erklärung.
 
-| Thema                           | Unterthema                  | Erklärung                                 |
-| ------------------------------- | --------------------------- | ----------------------------------------- |
-| Der Mensch als Lebewesen        | Aussehen und Körper         |                                           |
-| Der Mensch als Lebewesen        | Essen und Lebensmittel      |                                           |
-| Der Mensch als Lebewesen        | Gesundheit und Hygiene      |                                           |
-| Der Mensch als Lebewesen        | Haushalt und Wohnen         |                                           |
-| Der Mensch als Lebewesen        | Kleidung und Schuhe         |                                           |
-| Der Mensch als Lebewesen        | Lebensabschnitte            |                                           |
-| Der Mensch als Lebewesen        | Sinne und Wahrnehmung       |                                           |
-| Der Mensch als Vernunftwesen    | Ausdruck und Handeln        |                                           |
-| Der Mensch als Vernunftwesen    | Bedürfnisse und Gefühle     |                                           |
-| Der Mensch als Vernunftwesen    | Begriffe und Ideen          |                                           |
-| Der Mensch als Vernunftwesen    | Eigenschaften               | Adjektive ohne eindeutiges Unterthema     |
-| Der Mensch als Vernunftwesen    | Gemüt und Wille             |                                           |
-| Der Mensch als Vernunftwesen    | Gerichtete Handlungen       |                                           |
-| Der Mensch als Vernunftwesen    | Intellekt und Geist         | Geistige Prozesse                         |
-| Der Mensch als Vernunftwesen    | Technik und Technologie     |                                           |
-| Der Mensch als Vernunftwesen    | Ungerichtete Handlungen     |                                           |
-| Der Mensch als Vernunftwesen    | Wertung und Urteil          |                                           |
-| Der Mensch und die Gesellschaft | Arbeit und Beruf            |                                           |
-| Der Mensch und die Gesellschaft | Bewegung                    |                                           |
-| Der Mensch und die Gesellschaft | Beziehungen und Familie     |                                           |
-| Der Mensch und die Gesellschaft | Bildung und Unterricht      |                                           |
-| Der Mensch und die Gesellschaft | Dokumente und Drucksachen   |                                           |
-| Der Mensch und die Gesellschaft | Etikette und Sitten         |                                           |
-| Der Mensch und die Gesellschaft | Feiertage und Freizeit      |                                           |
-| Der Mensch und die Gesellschaft | Finanzen und Handel         |                                           |
-| Der Mensch und die Gesellschaft | Forschung und Wissenschaft  |                                           |
-| Der Mensch und die Gesellschaft | Güter und Stoffe            |                                           |
-| Der Mensch und die Gesellschaft | Herkunft und Identität      |                                           |
-| Der Mensch und die Gesellschaft | Hobby und Sport             |                                           |
-| Der Mensch und die Gesellschaft | Ideologie und Politik       |                                           |
-| Der Mensch und die Gesellschaft | Industrie und Wirtschaft    |                                           |
-| Der Mensch und die Gesellschaft | Kommunikation und Medien    |                                           |
-| Der Mensch und die Gesellschaft | Krieg und Militär           |                                           |
-| Der Mensch und die Gesellschaft | Kriminalität und Recht      |                                           |
-| Der Mensch und die Gesellschaft | Kunst und Kultur            |                                           |
-| Der Mensch und die Gesellschaft | Land und Stadt              | Objekte und Vorgänge im öffentlichen Raum |
-| Der Mensch und die Gesellschaft | Literatur und Sprache       |                                           |
-| Der Mensch und die Gesellschaft | Medizin und Therapie        |                                           |
-| Der Mensch und die Gesellschaft | Musik und Theater           |                                           |
-| Der Mensch und die Gesellschaft | Staat und Verwaltung        |                                           |
-| Der Mensch und die Gesellschaft | Transport und Verkehr       |                                           |
-| Die Natur                       | Geographie und Umwelt       |                                           |
-| Die Natur                       | Klima und Wetter            |                                           |
-| Die Natur                       | Merkmale und Vorgänge       |                                           |
-| Die Natur                       | Mineralien, Pflanzen, Tiere |                                           |
-| Abstrakte Konzepte              | Grammatik und Linguistik    |                                           |
-| Abstrakte Konzepte              | Maß und Quantität           |                                           |
-| Abstrakte Konzepte              | Qualität                    | Adverbien ohne eindeutiges Unterthema     |
-| Abstrakte Konzepte              | Raum                        |                                           |
-| Abstrakte Konzepte              | Zeit                        |                                           |
+| Thema                    | Unterthema                  | Erklärung                                 |
+| ------------------------ | --------------------------- | ----------------------------------------- |
+| Mensch als Lebewesen     | Aussehen und Körper         |                                           |
+| Mensch als Lebewesen     | Essen und Lebensmittel      |                                           |
+| Mensch als Lebewesen     | Gesundheit und Hygiene      |                                           |
+| Mensch als Lebewesen     | Haushalt und Wohnen         |                                           |
+| Mensch als Lebewesen     | Kleidung und Schuhe         |                                           |
+| Mensch als Lebewesen     | Lebensabschnitte            |                                           |
+| Mensch als Lebewesen     | Sinne und Wahrnehmung       |                                           |
+| Mensch als Vernunftwesen | Ausdruck und Handeln        |                                           |
+| Mensch als Vernunftwesen | Bedürfnisse und Gefühle     |                                           |
+| Mensch als Vernunftwesen | Begriffe und Ideen          |                                           |
+| Mensch als Vernunftwesen | Eigenschaften               | Adjektive ohne eindeutiges Unterthema     |
+| Mensch als Vernunftwesen | Gemüt und Wille             |                                           |
+| Mensch als Vernunftwesen | Gerichtete Handlungen       |                                           |
+| Mensch als Vernunftwesen | Intellekt und Geist         | Geistige Prozesse                         |
+| Mensch als Vernunftwesen | Technik und Technologie     |                                           |
+| Mensch als Vernunftwesen | Ungerichtete Handlungen     |                                           |
+| Mensch als Vernunftwesen | Wertung und Urteil          |                                           |
+| Mensch und Gesellschaft  | Arbeit und Beruf            |                                           |
+| Mensch und Gesellschaft  | Bewegung                    |                                           |
+| Mensch und Gesellschaft  | Beziehungen und Familie     |                                           |
+| Mensch und Gesellschaft  | Bildung und Unterricht      |                                           |
+| Mensch und Gesellschaft  | Dokumente und Drucksachen   |                                           |
+| Mensch und Gesellschaft  | Etikette und Sitten         |                                           |
+| Mensch und Gesellschaft  | Feiertage und Freizeit      |                                           |
+| Mensch und Gesellschaft  | Finanzen und Handel         |                                           |
+| Mensch und Gesellschaft  | Forschung und Wissenschaft  |                                           |
+| Mensch und Gesellschaft  | Güter und Stoffe            |                                           |
+| Mensch und Gesellschaft  | Herkunft und Identität      |                                           |
+| Mensch und Gesellschaft  | Hobby und Sport             |                                           |
+| Mensch und Gesellschaft  | Ideologie und Politik       |                                           |
+| Mensch und Gesellschaft  | Industrie und Wirtschaft    |                                           |
+| Mensch und Gesellschaft  | Kommunikation und Medien    |                                           |
+| Mensch und Gesellschaft  | Krieg und Militär           |                                           |
+| Mensch und Gesellschaft  | Kriminalität und Recht      |                                           |
+| Mensch und Gesellschaft  | Kunst und Kultur            |                                           |
+| Mensch und Gesellschaft  | Land und Stadt              | Objekte und Vorgänge im öffentlichen Raum |
+| Mensch und Gesellschaft  | Literatur und Sprache       |                                           |
+| Mensch und Gesellschaft  | Medizin und Therapie        |                                           |
+| Mensch und Gesellschaft  | Musik und Theater           |                                           |
+| Mensch und Gesellschaft  | Staat und Verwaltung        |                                           |
+| Mensch und Gesellschaft  | Transport und Verkehr       |                                           |
+| Natur                    | Geographie und Umwelt       |                                           |
+| Natur                    | Klima und Wetter            |                                           |
+| Natur                    | Merkmale und Vorgänge       |                                           |
+| Natur                    | Mineralien, Pflanzen, Tiere |                                           |
+| Abstrakte Konzepte       | Grammatik und Linguistik    |                                           |
+| Abstrakte Konzepte       | Maß und Quantität           |                                           |
+| Abstrakte Konzepte       | Qualität                    | Adverbien ohne eindeutiges Unterthema     |
+| Abstrakte Konzepte       | Raum                        |                                           |
+| Abstrakte Konzepte       | Zeit                        |                                           |
 
 ## Literaturhinweise
 
