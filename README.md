@@ -17,12 +17,12 @@ Die erste Reihenfolge ist allgemein, die zweite ist spezifisch.
 Die Ordnernamen sollten selbsterklärend sein.
 Für manche Ordner gebe ich dennoch im Folgenden eine kurze Erklärung.
 
-| Unterthema                                            | Erklärung                                    |
-| ----------------------------------------------------- | -------------------------------------------- |
-| 2. Der Mensch als Vernunftwesen ⮕ Eigenschaften       | Für Adjektive ohne eindeutiges Unterthema    |
-| 2. Der Mensch als Vernunftwesen ⮕ Intellekt und Geist | Für geistige Prozesse                        |
-| 3. Der Mensch und die Gesellschaft ⮕ Land und Stadt   | Für Objekte und Abläufe im öffentlichen Raum |
-| 5. Abstrakte Konzepte ⮕ Qualität                      | Für Adverbien ohne eindeutiges Unterthema    |
+| Thema                              | Unterthema          | Erklärung                                    |
+| ---------------------------------- | ------------------- | -------------------------------------------- |
+| 2. Der Mensch als Vernunftwesen    | Eigenschaften       | Für Adjektive ohne eindeutiges Unterthema    |
+| 2. Der Mensch als Vernunftwesen    | Intellekt und Geist | Für geistige Prozesse                        |
+| 3. Der Mensch und die Gesellschaft | Land und Stadt      | Für Objekte und Abläufe im öffentlichen Raum |
+| 5. Abstrakte Konzepte              | Qualität            | Für Adverbien ohne eindeutiges Unterthema    |
 
 ## Literaturhinweise
 
