@@ -26,16 +26,16 @@ Für manche Namen gibt es im Foldgenden dennoch eine kurze Erklärung.
 | `Mensch als Lebewesen       ` | Kleidung und Schuhe         |                                           |
 | `Mensch als Lebewesen       ` | Lebensabschnitte            |                                           |
 | `Mensch als Lebewesen       ` | Sinne und Wahrnehmung       |                                           |
-| `Mensch als Vernunftwesen   ` | Ausdruck und Handeln        |                                           |
-| `Mensch als Vernunftwesen   ` | Bedürfnisse und Gefühle     |                                           |
-| `Mensch als Vernunftwesen   ` | Begriffe und Ideen          |                                           |
-| `Mensch als Vernunftwesen   ` | Eigenschaften               | Adjektive ohne eindeutiges Unterthema     |
-| `Mensch als Vernunftwesen   ` | Gemüt und Wille             |                                           |
-| `Mensch als Vernunftwesen   ` | Gerichtete Handlungen       |                                           |
-| `Mensch als Vernunftwesen   ` | Intellekt und Geist         | Geistige Prozesse                         |
-| `Mensch als Vernunftwesen   ` | Technik und Technologie     |                                           |
-| `Mensch als Vernunftwesen   ` | Ungerichtete Handlungen     |                                           |
-| `Mensch als Vernunftwesen   ` | Wertung und Urteil          |                                           |
+| `Mensch als Vernunftwesen  `  | Ausdruck und Handeln        |                                           |
+| `Mensch als Vernunftwesen  `  | Bedürfnisse und Gefühle     |                                           |
+| `Mensch als Vernunftwesen  `  | Begriffe und Ideen          |                                           |
+| `Mensch als Vernunftwesen  `  | Eigenschaften               | Adjektive ohne eindeutiges Unterthema     |
+| `Mensch als Vernunftwesen  `  | Gemüt und Wille             |                                           |
+| `Mensch als Vernunftwesen  `  | Gerichtete Handlungen       |                                           |
+| `Mensch als Vernunftwesen  `  | Intellekt und Geist         | Geistige Prozesse                         |
+| `Mensch als Vernunftwesen  `  | Technik und Technologie     |                                           |
+| `Mensch als Vernunftwesen  `  | Ungerichtete Handlungen     |                                           |
+| `Mensch als Vernunftwesen  `  | Wertung und Urteil          |                                           |
 | `Mensch und Gesellschaft`     | Arbeit und Beruf            |                                           |
 | `Mensch und Gesellschaft`     | Bewegung                    |                                           |
 | `Mensch und Gesellschaft`     | Beziehungen und Familie     |                                           |
