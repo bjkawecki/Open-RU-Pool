@@ -21,7 +21,13 @@ Für manche Namen gibt es im Folgenden dennoch eine kurze Erklärung.
 
 Als Faustregel gilt: Je allgemeiner die Bedeutung eines Wortes, je mehr Konktext möglich sind, desto allgemeiner ist das zugeordnete Thema (und umgekehrt).
 
-Beispiel: Das Wort "работать" ist ein intransitives Verb und könnte daher dem Thema "Ungerichtete Handlungen" zugeordnet werden. Das speziellere Thema ist hingegen "Arbeit und Beruf", in dem sich das Wort daher befindet.
+**Beispiel 1**
+
+Das Wort "работать" ist ein intransitives Verb und könnte daher dem Thema "Ungerichtete Handlungen" zugeordnet werden. Das speziellere Thema ist hingegen "Arbeit und Beruf", in dem sich das Wort daher befindet.
+
+**Beispiel 2**
+
+Das Wort "бестактность" ist zweifellos ein Begriff oder eine Idee. Das spezifischere Thema ist hingegen "Etikette und Sitten".
 
 ## Themen und Unterthemen
 
