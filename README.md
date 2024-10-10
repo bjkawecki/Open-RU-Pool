@@ -17,22 +17,26 @@ Die Zuordnung eines Wortes zu einem Thema zielt auf höchstmögliche Intuitivit�
 Die Wortsammlung ist hier zweigeteilt.
 Die erste Reihenfolge ist allgemein, die zweite ist spezifisch.
 Die Ordnernamen sollten selbsterklärend sein.
-Für manche Namen gibt es im Folgenden dennoch eine kurze Erklärung.
+Für manche Themen gibt es im Folgenden zusätzlich Hinweise, was sie unter anderem enthalten.
 
 Als Faustregel gilt: Je allgemeiner die Bedeutung eines Wortes, je mehr Konktext möglich sind, desto allgemeiner ist das zugeordnete Thema (und umgekehrt).
 Wenn möglich sollte ein Wort einem Thema mit hoher Spezifität zugeordnet werden.
 
 **Beispiel 1**
 
-Das Wort "работать" ist ein intransitives Verb und könnte dem Thema "Ungerichtete Handlungen" (Spezifiät 0) zugeordnet werden. Das spezifischere Thema ist hingegen "Arbeit und Beruf".
+Das Wort "работать" (arbeiten) ist ein intransitives Verb und könnte dem Thema "Ungerichtete Handlungen" (Spezifität 0) zugeordnet werden. Das spezifischere Thema ist hingegen "Arbeit und Beruf".
 
 **Beispiel 2**
 
-Das Wort "бестактность" ist zweifellos ein Begriff oder eine Idee. Das spezifischere Thema ist hingegen "Etikette und Sitten".
+Das Wort "бестактность" (Taktlosigkeit) ist ein Begriff oder eine Idee (Speziftiät 0). Das spezifischere Thema ist hingegen "Etikette und Sitten".
+
+**Beispiel 3**
+
+Da Wort "блестящий" (glänzend) beschreibt etwas, das man objektiv über den Augensinn wahrnimmt. Ebenso wird das Wort figurativ gebraucht, um etwas subjektiv als hervorragend zu bewerten. Da beide Kontexte gleichwertig sind, ist das unspezifische Thema "Eigenschaften" am passendsten.
 
 ## Themen und Unterthemen
 
-| Thema                              | Unterthema                  | Erklärung                                            | Spezifität |
+| Thema                              | Unterthema                  | Enthält                                              | Spezifität |
 | ---------------------------------- | --------------------------- | ---------------------------------------------------- | ---------: |
 | Mensch als Lebewesen               | Aussehen und Körper         |                                                      |          3 |
 | Mensch als Lebewesen               | Essen und Lebensmittel      |                                                      |          3 |
@@ -44,19 +48,19 @@ Das Wort "бестактность" ist zweifellos ein Begriff oder eine Idee. D
 | Mensch&#160;als&#160;Vernunftwesen | Ausdruck und Handeln        |                                                      |          3 |
 | Mensch&#160;als&#160;Vernunftwesen | Bedürfnisse und Gefühle     |                                                      |          3 |
 | Mensch&#160;als&#160;Vernunftwesen | Begriffe und Ideen          |                                                      |          0 |
-| Mensch&#160;als&#160;Vernunftwesen | Eigenschaften               | Beschreibende Adjektive ohne spezifisches Unterthema |          0 |
+| Mensch&#160;als&#160;Vernunftwesen | Eigenschaften               | beschreibende Adjektive ohne spezifisches Unterthema |          0 |
 | Mensch&#160;als&#160;Vernunftwesen | Gemüt und Wille             |                                                      |          3 |
-| Mensch&#160;als&#160;Vernunftwesen | Gerichtete Handlungen       | Transitive Verben                                    |          0 |
-| Mensch&#160;als&#160;Vernunftwesen | Intellekt und Geist         | Geistige Prozesse                                    |          2 |
+| Mensch&#160;als&#160;Vernunftwesen | Gerichtete Handlungen       | transitive Verben                                    |          0 |
+| Mensch&#160;als&#160;Vernunftwesen | Intellekt und Geist         | geistige Prozesse                                    |          2 |
 | Mensch&#160;als&#160;Vernunftwesen | Technik und Technologie     |                                                      |          3 |
-| Mensch&#160;als&#160;Vernunftwesen | Ungerichtete Handlungen     | Instransitive Verben                                 |          0 |
+| Mensch&#160;als&#160;Vernunftwesen | Ungerichtete Handlungen     | instransitive Verben                                 |          0 |
 | Mensch&#160;als&#160;Vernunftwesen | Wertung und Urteil          |                                                      |          1 |
 | Mensch und Gesellschaft            | Arbeit und Beruf            |                                                      |          2 |
 | Mensch und Gesellschaft            | Bewegung                    |                                                      |          3 |
 | Mensch und Gesellschaft            | Beziehungen und Familie     |                                                      |          3 |
 | Mensch und Gesellschaft            | Bildung und Unterricht      |                                                      |          3 |
 | Mensch und Gesellschaft            | Dokumente und Drucksachen   |                                                      |          3 |
-| Mensch und Gesellschaft            | Etikette und Sitten         | Auch für umgangssprachliche Ausdrücke                |          3 |
+| Mensch und Gesellschaft            | Etikette und Sitten         | umgangssprachliche Ausdrücke                         |          3 |
 | Mensch und Gesellschaft            | Feiertage und Freizeit      |                                                      |          3 |
 | Mensch und Gesellschaft            | Finanzen und Handel         |                                                      |          3 |
 | Mensch und Gesellschaft            | Forschung und Wissenschaft  |                                                      |          3 |
@@ -68,7 +72,7 @@ Das Wort "бестактность" ist zweifellos ein Begriff oder eine Idee. D
 | Mensch und Gesellschaft            | Kommunikation und Medien    |                                                      |          3 |
 | Mensch und Gesellschaft            | Krieg und Militär           |                                                      |          3 |
 | Mensch und Gesellschaft            | Kriminalität und Recht      |                                                      |          3 |
-| Mensch und Gesellschaft            | Kunst und Kultur            |                                                      |          3 |
+| Mensch und Gesellschaft            | Kunst und Kultur            | Kulturelle Güter und Instutitionen                   |          3 |
 | Mensch und Gesellschaft            | Land und Stadt              | Objekte und Vorgänge im öffentlichen Raum            |          3 |
 | Mensch und Gesellschaft            | Literatur und Sprache       |                                                      |          3 |
 | Mensch und Gesellschaft            | Medizin und Therapie        |                                                      |          3 |
@@ -77,7 +81,7 @@ Das Wort "бестактность" ist zweifellos ein Begriff oder eine Idee. D
 | Mensch und Gesellschaft            | Transport und Verkehr       |                                                      |          3 |
 | Natur                              | Geographie und Umwelt       |                                                      |          3 |
 | Natur                              | Klima und Wetter            |                                                      |          3 |
-| Natur                              | Merkmale und Vorgänge       |                                                      |          2 |
+| Natur                              | Merkmale und Vorgänge       | Farben                                               |          2 |
 | Natur                              | Mineralien, Pflanzen, Tiere |                                                      |          3 |
 | Abstrakte Konzepte                 | Grammatik und Linguistik    |                                                      |          3 |
 | Abstrakte Konzepte                 | Maß und Quantität           |                                                      |          1 |
