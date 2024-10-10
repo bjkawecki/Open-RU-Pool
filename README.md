@@ -7,15 +7,21 @@ Dieses Repository enthält einen einfach zu verwaltenden russischen Wortbestand,
 
 Die Sprache der Ordner und Übersetzungen ist derzeit Deutsch. Für das Quellmaterial siehe den Abschnitt [Literaturhinweise](#Literaturhinweise).
 
-## Über die Struktur der Ordner
+## Über die Zuordnung zu Themen
 
 Das Problem der Sortierung von Wörtern ist, dass sie meist in vielen verschiedenen Kontexten vorkommen können.
-Die Herausforderung besteht also darin, ein Wort möglichst genau einem Thema zuzuordnen.
-Die Wortsammlung ist hier zweigeteilt.
+Die Herausforderung besteht darin, ein Wort möglichst genau einem Thema zuzuordnen.
 
+Die Zuordnung eines Wortes zu einem Thema zielt auf höchstmögliche Intuitivität und schließt nicht die Möglichkeit der Zuordnung zu einem anderen Thema aus.
+
+Die Wortsammlung ist hier zweigeteilt.
 Die erste Reihenfolge ist allgemein, die zweite ist spezifisch.
 Die Ordnernamen sollten selbsterklärend sein.
 Für manche Namen gibt es im Folgenden dennoch eine kurze Erklärung.
+
+Als Faustregel gilt: Je allgemeiner die Bedeutung eines Wortes, je mehr Konktext möglich sind, desto allgemeiner ist das zugeordnete Thema (und umgekehrt).
+
+Beispiel: Das Wort "работать" ist ein intransitives Verb und könnte daher dem Thema "Ungerichtete Handlungen" zugeordnet werden. Das speziellere Thema ist hingegen "Arbeit und Beruf", in dem sich das Wort daher befindet.
 
 ## Themen und Unterthemen
 
