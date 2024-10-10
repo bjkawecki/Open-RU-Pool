@@ -36,7 +36,7 @@ Da Wort "блестящий" (glänzend) beschreibt etwas, das man objektiv übe
 
 ## Themen und Unterthemen
 
-| Thema                              | Unterthema                  | Enthält                                              | Spezifität |
+| Thema                              | Unterthema                  | Enthält u. a.                                        | Spezifität |
 | ---------------------------------- | --------------------------- | ---------------------------------------------------- | ---------: |
 | Mensch als Lebewesen               | Aussehen und Körper         |                                                      |          3 |
 | Mensch als Lebewesen               | Essen und Lebensmittel      |                                                      |          3 |
