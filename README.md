@@ -23,7 +23,7 @@ Als Faustregel gilt: Je allgemeiner die Bedeutung eines Wortes, je mehr Konktext
 
 **Beispiel 1**
 
-Das Wort "работать" ist ein intransitives Verb und könnte daher dem Thema "Ungerichtete Handlungen" zugeordnet werden. Das speziellere Thema ist hingegen "Arbeit und Beruf", in dem sich das Wort daher befindet.
+Das Wort "работать" ist ein intransitives Verb und könnte dem Thema "Ungerichtete Handlungen" zugeordnet werden. Das spezifischere Thema ist hingegen "Arbeit und Beruf".
 
 **Beispiel 2**
 
