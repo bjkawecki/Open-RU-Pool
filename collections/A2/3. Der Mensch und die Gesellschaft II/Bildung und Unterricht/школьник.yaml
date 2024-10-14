@@ -3,12 +3,12 @@ name_accent: шко́ль­ник
 wordclass: substantive
 translation:
   - Schüler
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: шко́ль­ник
 singular_genitive: шко́ль­ни­ка

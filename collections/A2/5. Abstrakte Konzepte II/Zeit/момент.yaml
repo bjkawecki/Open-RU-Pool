@@ -6,12 +6,12 @@ translation:
   - Augenblick
   - Zeitpunkt
 
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: мо­ме́нт
 singular_genitive: мо­ме́н­та

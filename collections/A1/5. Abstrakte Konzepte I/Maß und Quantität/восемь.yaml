@@ -4,7 +4,7 @@ wordclass: numeral
 translation:
   - acht
 numeral_type: cardinal
-declination_type: adjective
+declination_type: substantive
 
 masculine_nominative: null
 masculine_genitive: null

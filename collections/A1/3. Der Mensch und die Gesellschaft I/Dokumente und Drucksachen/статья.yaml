@@ -5,12 +5,12 @@ translation:
   - Artikel
   - Aufsatz
   - Beitrag
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: статья́
 singular_genitive: статьи́
 singular_dative: статье́

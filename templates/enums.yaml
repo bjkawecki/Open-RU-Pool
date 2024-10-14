@@ -13,9 +13,9 @@ wordclass:
   - verb
 
 genus:
-  - m
-  - f
-  - n
+  - masculine
+  - feminine
+  - neutral
 
 declination_class:
   - 1
@@ -64,13 +64,13 @@ aspect:
   - dual
 
 conjugation_class:
-  - 1
-  - 2
+  - e
+  - i
   - irregular
 
 direction:
-  - multi
-  - uni
+  - multidirectional
+  - unidirectional
 
 object_case:
   - genitive

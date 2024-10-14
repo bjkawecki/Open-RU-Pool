@@ -3,12 +3,12 @@ name: август
 name_accent: а́вгуст
 translation:
   - August
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: а́вгуст
 singular_genitive: а́в­гу­ста
 singular_dative: а́в­гу­сту

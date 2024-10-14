@@ -5,12 +5,12 @@ translation:
   - Sache
   - Ding
 
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: shifting
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: вещь
 singular_genitive: ве́­щи

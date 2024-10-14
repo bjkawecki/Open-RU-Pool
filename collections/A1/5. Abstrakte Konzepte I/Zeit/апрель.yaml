@@ -3,12 +3,12 @@ name: апрель
 name_accent: апре́ль
 translation:
   - April
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: апре́ль
 singular_genitive: ап­ре́­ля
 singular_dative: ап­ре́­лю

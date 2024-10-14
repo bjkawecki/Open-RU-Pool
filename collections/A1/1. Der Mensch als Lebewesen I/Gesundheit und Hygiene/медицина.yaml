@@ -3,12 +3,12 @@ name: медицина
 name_accent: медици́на
 translation:
   - Medizin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: медици́на
 singular_genitive: ме­ди­ци́­ны
 singular_dative: ме­ди­ци́­не

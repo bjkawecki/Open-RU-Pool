@@ -3,12 +3,12 @@ name_accent: библиоте́ка
 wordclass: substantive
 translation:
   - Bibliothek
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: библиоте́ка
 singular_genitive: биб­ли­оте́­ки
 singular_dative: биб­ли­оте́­ке

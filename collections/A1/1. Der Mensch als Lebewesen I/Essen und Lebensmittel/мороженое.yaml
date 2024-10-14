@@ -4,12 +4,12 @@ name_accent: моро́женое
 translation:
   - Speiseeis
   - Eis
-genus: n
+genus: neutral
 declination_class: adjective
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: моро́женое
 singular_genitive: мо­ро́­же­но­го
 singular_dative: мо­ро́­же­но­му

@@ -3,12 +3,12 @@ name: жена
 name_accent: жена́
 translation:
   - Ehefrau
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: shifting
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: жена́
 singular_genitive: же­ны́
 singular_dative: же­не́

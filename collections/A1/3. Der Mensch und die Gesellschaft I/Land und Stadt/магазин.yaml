@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - Geschäft
   - Laden
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: магази́н
 singular_genitive: ма­га­зи́­на
 singular_dative: ма­га­зи́­ну

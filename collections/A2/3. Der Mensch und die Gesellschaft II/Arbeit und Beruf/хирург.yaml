@@ -3,12 +3,12 @@ name_accent: хиру́рг
 wordclass: substantive
 translation:
   - Chirurg
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: хи­ру́рг
 singular_genitive: хи­ру́р­га

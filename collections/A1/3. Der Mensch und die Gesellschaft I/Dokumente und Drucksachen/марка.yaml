@@ -4,12 +4,12 @@ name_accent: ма́рка
 translation:
   - Marke
   - Mark
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ма́рка
 singular_genitive: ма́р­ки
 singular_dative: ма́р­ке

@@ -3,12 +3,12 @@ name: папа
 name_accent: па́па
 translation:
   - Papa
-genus: m
-declination_class: 1
+genus: masculine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: па́па
 singular_genitive: па́­пы
 singular_dative: па́­пе

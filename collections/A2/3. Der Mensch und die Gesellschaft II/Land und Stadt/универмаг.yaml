@@ -5,12 +5,12 @@ translation:
   - Kaufhaus
   - Warenhaus
 
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: уни­вер­ма́г
 singular_genitive: уни­вер­ма́­га

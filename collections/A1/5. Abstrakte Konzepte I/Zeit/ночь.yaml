@@ -3,12 +3,12 @@ name: ночь
 name_accent: ночь
 translation:
   - Nacht
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ночь
 singular_genitive: но́­чи
 singular_dative: но́­чи

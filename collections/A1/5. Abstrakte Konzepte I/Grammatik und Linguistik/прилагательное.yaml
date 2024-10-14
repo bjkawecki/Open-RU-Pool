@@ -4,7 +4,7 @@ wordclass: substantive
 translation:
   - Adjektiv
 
-genus: n
+genus: neutral
 
 declination_class: adjective
 
@@ -12,9 +12,9 @@ stress: root
 
 is_animate: false
 
-is_singular_tantum: null
+is_singular_tantum: False
 
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative: при­ла­га́­тель­ное
 singular_genitive: при­ла­га́­тель­но­го

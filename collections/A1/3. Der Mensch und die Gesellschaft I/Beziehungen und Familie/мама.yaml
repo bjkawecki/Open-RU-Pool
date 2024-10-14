@@ -3,12 +3,12 @@ name: мама
 name_accent: ма́ма
 translation:
   - Mama
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ма́ма
 singular_genitive: ма́­мы
 singular_dative: ма́­ме

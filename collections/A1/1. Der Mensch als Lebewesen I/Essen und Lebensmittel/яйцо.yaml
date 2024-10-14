@@ -3,12 +3,12 @@ name: яйцо
 name_accent: яйцо́
 translation:
   - Ei
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: яй­цо́
 singular_genitive: яй­ца́
 singular_dative: яй­цу́

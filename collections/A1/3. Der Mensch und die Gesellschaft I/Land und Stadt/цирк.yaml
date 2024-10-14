@@ -3,12 +3,12 @@ name: цирк
 name_accent: цирк
 translation:
   - Zirkus
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: цирк
 singular_genitive: ци́р­ка
 singular_dative: ци́р­ку

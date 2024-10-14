@@ -3,12 +3,12 @@ name: открытка
 name_accent: откры́тка
 translation:
   - Ansichtskarte
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: откры́тка
 singular_genitive: отк­ры́т­ки
 singular_dative: отк­ры́т­ке

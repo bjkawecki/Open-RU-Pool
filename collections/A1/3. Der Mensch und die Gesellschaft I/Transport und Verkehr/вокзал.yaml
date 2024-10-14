@@ -3,12 +3,12 @@ name: вокзал
 name_accent: вокза́л
 translation:
   - Bahnhof
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: вокза́л
 singular_genitive: вок­за́­ла
 singular_dative: вок­за́­лу

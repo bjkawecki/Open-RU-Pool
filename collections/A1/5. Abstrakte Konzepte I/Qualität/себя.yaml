@@ -2,7 +2,7 @@ name: себя
 name_accent: себя́
 wordclass: pronoun
 translation:
-
+  - sich
 pronoun_type: reflexive
 
 declination_type: substantive

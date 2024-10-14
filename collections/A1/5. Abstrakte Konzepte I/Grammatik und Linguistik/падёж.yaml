@@ -5,17 +5,17 @@ translation:
   - Kasus
   - Fall
 
-genus: m
+genus: masculine
 
-declination_class: 2
+declination_class: "2"
 
 stress: root
 
 is_animate: false
 
-is_singular_tantum: null
+is_singular_tantum: False
 
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative: падёж
 singular_genitive: па­де­жа́

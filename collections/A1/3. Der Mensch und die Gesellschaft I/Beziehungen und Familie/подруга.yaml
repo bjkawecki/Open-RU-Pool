@@ -3,12 +3,12 @@ name: подруга
 name_accent: подру́га
 translation:
   - Freundin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: подру́га
 singular_genitive: под­ру́­ги
 singular_dative: под­ру́­ге

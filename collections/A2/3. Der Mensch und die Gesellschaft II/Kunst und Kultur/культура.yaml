@@ -3,12 +3,12 @@ name_accent: куль­ту́­ра
 wordclass: substantive
 translation:
   - Kultur
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: куль­ту́­ра
 singular_genitive: куль­ту́­ры

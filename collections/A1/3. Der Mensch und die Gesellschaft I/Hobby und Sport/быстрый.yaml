@@ -1,1 +1,46 @@
 name: быстрый
+name_accent:
+wordclass: adjective
+translation:
+  - schnell
+is_gradable: true
+
+masculine_nominative: бы́ст­рый
+masculine_genitive: бы́ст­ро­го
+masculine_dative: бы́ст­ро­му
+masculine_accusative: бы́ст­рый
+masculine_instrumental: бы́ст­рым
+masculine_prepositive: бы́ст­ром
+
+feminine_nominative: бы́ст­рая
+feminine_genitive: бы́ст­рой
+feminine_dative: бы́ст­рой
+feminine_accusative: бы́ст­рою
+feminine_instrumental: бы́ст­рой
+feminine_prepositive: бы́ст­рой
+
+neutral_nominative: бы́ст­рое
+neutral_genitive: бы́ст­ро­го
+neutral_dative: бы́ст­ро­му
+neutral_accusative: бы́ст­рое
+neutral_instrumental: бы́ст­рым
+neutral_prepositive: бы́ст­ром
+
+plural_nominative: бы́ст­рые
+plural_genitive: бы́ст­рых
+plural_dative: бы́ст­рым
+plural_accusative: бы́ст­рые
+plural_instrumental: бы́ст­ры­ми
+plural_prepositive: бы́ст­рых
+
+shortform_masculine: быстр
+shortform_feminine: быст­ра́
+shortform_neutral: бы́ст­ро
+shortform_plural: бы́ст­ры
+
+comparative: быст­ре́е
+superlative: самый бы́ст­рый
+
+comment: null
+usage: null
+etymology: null

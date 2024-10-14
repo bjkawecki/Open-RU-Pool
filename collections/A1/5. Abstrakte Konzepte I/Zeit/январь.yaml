@@ -3,12 +3,12 @@ name: январь
 name_accent: янва́рь
 translation:
   - Januar
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: suffix
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: янва́рь
 singular_genitive: ян­ва­ря́
 singular_dative: ян­ва­рю́

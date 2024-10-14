@@ -3,12 +3,12 @@ name: Финляндия
 name_accent: Финля́ндия
 translation:
   - Finnland
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
+is_animate: False
 is_singular_tantum: true
-is_plural_tantum: null
+is_plural_tantum: False
 singular_nominative: Финля́ндия
 singular_genitive: Финля́ндии
 singular_dative: Финля́ндии

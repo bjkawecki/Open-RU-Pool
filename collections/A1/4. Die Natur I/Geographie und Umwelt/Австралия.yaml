@@ -3,12 +3,12 @@ name: Австралия
 name_accent: Австра́лия
 translation:
   - Australien
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
+is_animate: False
 is_singular_tantum: true
-is_plural_tantum: null
+is_plural_tantum: False
 singular_nominative: Австра́лия
 singular_genitive: Австра́лии
 singular_dative: Австра́лии

@@ -5,12 +5,12 @@ translation:
   - Fachbereich
   - Spezialgebiet
   - Branche
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: спе­ци­а́ль­ность
 singular_genitive: спе­ци­а́ль­нос­ти

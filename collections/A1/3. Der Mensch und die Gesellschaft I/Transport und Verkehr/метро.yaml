@@ -4,12 +4,12 @@ name_accent: метро́
 translation:
   - U-Bahn
   - Metro
-genus: n
+genus: neutral
 declination_class: none
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: метро́
 singular_genitive: метро́
 singular_dative: метро́

@@ -4,9 +4,9 @@ wordclass: substantive
 translation:
   - Kind
 
-genus: m
+genus: masculine
 
-declination_class: 2
+declination_class: "2"
 
 stress: root
 
@@ -14,7 +14,7 @@ is_animate: true
 
 is_singular_tantum: true
 
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative: ре­бён­ок
 singular_genitive: ре­бён­ка

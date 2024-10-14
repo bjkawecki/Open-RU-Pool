@@ -3,12 +3,12 @@ name: мужчина
 name_accent: мужчи́на
 translation:
   - Mann
-genus: m
-declination_class: 1
+genus: masculine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: мужчи́на
 singular_genitive: муж­чи́­ны
 singular_dative: муж­чи́­не

@@ -3,12 +3,12 @@ name: карта
 name_accent: ка́рта
 translation:
   - Karte
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ка́рта
 singular_genitive: ка́р­ты
 singular_dative: ка́р­те

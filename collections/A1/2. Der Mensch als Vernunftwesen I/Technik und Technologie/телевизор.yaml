@@ -3,12 +3,12 @@ name: телевизор
 name_accent: телеви́зор
 translation:
   - Fernseher
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: телеви́зор
 singular_genitive: те­ле­ви́­зо­ра
 singular_dative: те­ле­ви́­зо­ру

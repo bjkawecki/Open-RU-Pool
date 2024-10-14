@@ -4,12 +4,12 @@ name_accent: челове́к
 translation:
   - Mensch
   - Mann
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: челове́к
 singular_genitive: че­ло­ве́­ка
 singular_dative: че­ло­ве́­ку

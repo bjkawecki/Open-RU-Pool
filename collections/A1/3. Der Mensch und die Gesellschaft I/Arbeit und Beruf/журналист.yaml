@@ -3,12 +3,12 @@ name: журналист
 name_accent: журнали́ст
 translation:
   - Journalist
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: журнали́ст
 singular_genitive: жур­на­ли́с­та
 singular_dative: жур­на­ли́с­ту

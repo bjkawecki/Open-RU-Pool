@@ -3,12 +3,12 @@ name: учебник
 name_accent: уче́бник
 translation:
   - Lehrbuch
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: уче́бник
 singular_genitive: уч­е́б­ни­ка
 singular_dative: уч­е́б­ни­ку

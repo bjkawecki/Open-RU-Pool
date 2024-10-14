@@ -3,12 +3,12 @@ name: колбаса
 name_accent: колбаса́
 translation:
   - Wurst
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: suffix
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: колбаса́
 singular_genitive: кол­ба­сы́
 singular_dative: кол­ба­се́

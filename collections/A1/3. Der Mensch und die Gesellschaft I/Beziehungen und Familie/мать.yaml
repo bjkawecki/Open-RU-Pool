@@ -3,12 +3,12 @@ name: мать
 name_accent: мать
 translation:
   - Mutter
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: shifting
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: мать
 singular_genitive: ма́­те­ри
 singular_dative: ма́­те­ри

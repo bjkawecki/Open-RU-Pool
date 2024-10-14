@@ -3,12 +3,12 @@ name: кресло
 name_accent: кре́сло
 translation:
   - Sessel
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: кре́сло
 singular_genitive: кре́с­ла
 singular_dative: кре́с­лу

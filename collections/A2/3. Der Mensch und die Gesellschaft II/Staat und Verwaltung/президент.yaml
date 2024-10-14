@@ -3,12 +3,12 @@ name_accent: пре­зид­е́нт
 wordclass: substantive
 translation:
   - Präsident
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: пре­зид­е́нт
 singular_genitive: пре­зид­е́н­та

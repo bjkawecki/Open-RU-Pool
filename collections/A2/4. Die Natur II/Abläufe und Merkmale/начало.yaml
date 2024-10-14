@@ -5,12 +5,12 @@ translation:
   - Beginn
   - Anfang
 
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: на­ча́­ло
 singular_genitive: на­ча́­ла

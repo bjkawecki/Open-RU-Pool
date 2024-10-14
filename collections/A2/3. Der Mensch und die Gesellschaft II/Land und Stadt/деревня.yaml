@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - Dorf
 
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: shifting
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: де­ре́в­ня
 singular_genitive: де­ре́в­ни

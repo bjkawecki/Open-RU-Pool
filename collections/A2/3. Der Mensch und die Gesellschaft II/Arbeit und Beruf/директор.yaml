@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - Direktor
 
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: ди­ре́к­тор
 singular_genitive: ди­ре́к­то­ра

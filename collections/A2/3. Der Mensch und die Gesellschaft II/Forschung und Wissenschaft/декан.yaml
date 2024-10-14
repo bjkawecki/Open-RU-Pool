@@ -3,12 +3,12 @@ name_accent: де­ка́н
 wordclass: substantive
 translation:
   - Dekan
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: де­ка́н
 singular_genitive: де­ка́­на

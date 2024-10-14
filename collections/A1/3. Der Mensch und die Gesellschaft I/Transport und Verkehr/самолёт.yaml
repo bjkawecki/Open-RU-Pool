@@ -3,12 +3,12 @@ name: самолёт
 name_accent: самолёт
 translation:
   - Flugzeug
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: самолёт
 singular_genitive: са­мо­лё­та
 singular_dative: са­мо­лё­ту

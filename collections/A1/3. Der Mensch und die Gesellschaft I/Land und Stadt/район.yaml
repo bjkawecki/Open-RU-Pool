@@ -4,12 +4,12 @@ name_accent: райо́н
 translation:
   - Ortsteil
   - Landkreis
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: райо́н
 singular_genitive: рай­о́на
 singular_dative: рай­о́ну

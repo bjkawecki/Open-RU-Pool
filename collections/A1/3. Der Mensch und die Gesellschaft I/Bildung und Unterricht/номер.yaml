@@ -4,12 +4,12 @@ name_accent: но́мер
 translation:
   - Nummer
   - Hotelzimmer
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: но́мер
 singular_genitive: но́­ме­ра
 singular_dative: но́­ме­ру

@@ -3,12 +3,12 @@ name_accent: поли́ция
 wordclass: substantive
 translation:
   - Polizei
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: поли́ция
 singular_genitive: по­ли́­ции
 singular_dative: по­ли́­ции

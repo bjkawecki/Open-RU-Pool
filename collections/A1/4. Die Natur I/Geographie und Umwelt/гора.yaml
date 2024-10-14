@@ -3,12 +3,12 @@ name: гора
 name_accent: гора́
 translation:
   - Berg
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: гора́
 singular_genitive: го­ры́
 singular_dative: го­ре́

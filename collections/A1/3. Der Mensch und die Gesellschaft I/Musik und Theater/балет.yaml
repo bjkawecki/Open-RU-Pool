@@ -3,12 +3,12 @@ name: балет
 name_accent: бале́т
 translation:
   - Balett
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: бале́т
 singular_genitive: ба­ле́­та
 singular_dative: ба­ле́­ту

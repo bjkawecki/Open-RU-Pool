@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - Wortendung
 
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: ок­он­ча́­ние
 singular_genitive: ок­он­ча́­ния

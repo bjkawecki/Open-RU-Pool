@@ -3,12 +3,12 @@ name: группа
 name_accent: гру́ппа
 translation:
   - Gruppe
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: гру́ппа
 singular_genitive: гру́п­пы
 singular_dative: гру́п­пе

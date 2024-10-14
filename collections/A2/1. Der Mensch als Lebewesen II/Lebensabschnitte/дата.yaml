@@ -6,17 +6,17 @@ translation:
   - Zeitpunkt
   - Termin
 
-genus: m
+genus: masculine
 
-declination_class: 1
+declination_class: "1"
 
 stress: root
 
 is_animate: false
 
-is_singular_tantum: null
+is_singular_tantum: False
 
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative: да́­та
 singular_genitive: да́­ты

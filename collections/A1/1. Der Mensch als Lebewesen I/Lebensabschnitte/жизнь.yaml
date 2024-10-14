@@ -3,12 +3,12 @@ name: жизнь
 name_accent: жизнь
 translation:
   - Leben
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: жизнь
 singular_genitive: жи́з­ни
 singular_dative: жи́з­ни

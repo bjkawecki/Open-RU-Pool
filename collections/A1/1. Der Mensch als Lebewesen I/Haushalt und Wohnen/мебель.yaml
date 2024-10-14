@@ -3,12 +3,12 @@ name: мебель
 name_accent: ме́бель
 translation:
   - Möbel
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ме́бель
 singular_genitive: ме́­бе­ли
 singular_dative: ме́­бе­ли

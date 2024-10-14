@@ -5,12 +5,12 @@ translation:
   - Phonetik
   - Lautlehre
 
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: фо­не́­ти­ка
 singular_genitive: фо­не́­ти­ки

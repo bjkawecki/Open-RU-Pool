@@ -4,9 +4,9 @@ wordclass: substantive
 translation:
   - Finger
   - Zeh
-genus: m
+genus: masculine
 
-declination_class: 2
+declination_class: "2"
 
 stress: root
 

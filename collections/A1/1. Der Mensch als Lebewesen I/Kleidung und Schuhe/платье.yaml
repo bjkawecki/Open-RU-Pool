@@ -3,12 +3,12 @@ name: платье
 name_accent: пла́тье
 translation:
   - Kleid
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: пла́тье
 singular_genitive: пла́тья
 singular_dative: пла́тью

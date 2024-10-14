@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - Mantel
 
-genus: n
+genus: neutral
 declination_class: none
 stress: suffix
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: пальто́
 singular_genitive: пальто́

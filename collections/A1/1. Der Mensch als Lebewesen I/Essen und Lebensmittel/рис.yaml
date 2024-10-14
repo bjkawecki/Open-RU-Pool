@@ -3,12 +3,12 @@ name: рис
 name_accent: рис
 translation:
   - Reis
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: рис
 singular_genitive: ри́­са
 singular_dative: ри́­су

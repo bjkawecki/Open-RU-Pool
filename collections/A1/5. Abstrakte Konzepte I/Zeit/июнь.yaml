@@ -3,12 +3,12 @@ name_accent: ию́нь
 wordclass: substantive
 translation:
   - Juni
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ию́нь
 singular_genitive: ию́ня
 singular_dative: ию́ню

@@ -3,12 +3,12 @@ name: учитель
 name_accent: учи́тель
 translation:
   - Lehrer
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: учи́тель
 singular_genitive: учи́­те­ля
 singular_dative: учи́­те­лю

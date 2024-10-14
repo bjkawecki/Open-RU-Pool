@@ -3,12 +3,12 @@ name: секунда
 name_accent: секу́нда
 translation:
   - Sekunde
-genus: m
-declination_class: 1
+genus: masculine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: секу́нда
 singular_genitive: се­ку́н­ды
 singular_dative: се­ку́н­де

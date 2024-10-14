@@ -3,12 +3,12 @@ name_accent: ка­ни́­ку­лы
 wordclass: substantive
 translation:
   - Ferien
-genus: null
+genus: neutralull
 declination_class: null
 stress: root
 is_animate: false
 is_singular_tantum: true
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative:
 singular_genitive:

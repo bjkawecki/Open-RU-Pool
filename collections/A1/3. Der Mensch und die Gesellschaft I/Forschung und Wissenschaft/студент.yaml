@@ -3,12 +3,12 @@ name: студент
 name_accent: студе́нт
 translation:
   - Student
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: студе́нт
 singular_genitive: сту­де́н­та
 singular_dative: сту­де́н­ту

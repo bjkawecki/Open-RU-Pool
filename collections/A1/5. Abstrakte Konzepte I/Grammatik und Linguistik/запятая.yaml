@@ -4,17 +4,17 @@ wordclass: substantive
 translation:
   - Komma
 
-genus: f
+genus: feminine
 
-declination_class: 1
+declination_class: "1"
 
 stress: suffix
 
 is_animate: false
 
-is_singular_tantum: null
+is_singular_tantum: False
 
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative: за­пя­та́я
 singular_genitive: за­пя­то́й

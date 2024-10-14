@@ -3,12 +3,12 @@ name_accent: режиссёр
 wordclass: substantive
 translation:
   - Regisseur
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: ре­жис­сёр
 singular_genitive: ре­жис­сё­ра

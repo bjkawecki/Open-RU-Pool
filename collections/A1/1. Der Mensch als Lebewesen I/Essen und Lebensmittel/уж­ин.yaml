@@ -3,12 +3,12 @@ name: уж­ин
 name_accent: у́ж­ин
 translation:
   - Abendessen
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: у́ж­ин
 singular_genitive: у́жи­на
 singular_dative: у́жи­ну

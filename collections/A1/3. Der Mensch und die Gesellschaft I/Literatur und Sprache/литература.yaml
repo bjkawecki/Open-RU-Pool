@@ -3,12 +3,12 @@ name: литература
 name_accent: литерату́ра
 translation:
   - Literatur
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: литерату́ра
 singular_genitive: ли­те­ра­ту́­ры
 singular_dative: ли­те­ра­ту́­ре

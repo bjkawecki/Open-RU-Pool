@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - Fernsehsendung
   - Fernsehübertragung
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: 1
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: тѐ­ле­пе­ре­да́­ча
 singular_genitive: тѐ­ле­пе­ре­да́­чи

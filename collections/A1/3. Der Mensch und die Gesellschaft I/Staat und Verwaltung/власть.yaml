@@ -6,12 +6,12 @@ translation:
   - Gewalt
   - Herrschaft
   - Staatsmacht
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: власть
 singular_genitive: вла́с­ти
 singular_dative: вла́с­ти

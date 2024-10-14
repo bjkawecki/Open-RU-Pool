@@ -3,12 +3,12 @@ name: чемпион
 name_accent: чемпио́н
 translation:
   - Champion
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: чемпио́н
 singular_genitive: чем­пи­о́на
 singular_dative: чем­пи­о́ну

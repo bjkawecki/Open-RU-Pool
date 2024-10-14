@@ -4,12 +4,12 @@ name_accent: столо́вая
 translation:
   - Kantine
   - Esszimmer
-genus: f
+genus: feminine
 declination_class: adjective
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: столо́вая
 singular_genitive: сто­ло́­вой
 singular_dative: сто­ло́­вой

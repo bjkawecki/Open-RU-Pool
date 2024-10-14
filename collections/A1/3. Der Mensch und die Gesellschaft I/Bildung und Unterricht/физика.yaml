@@ -3,12 +3,12 @@ name: физика
 name_accent: фи́зика
 translation:
   - Physik
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: фи́зика
 singular_genitive: фи́­зи­ки
 singular_dative: фи́­зи­ке

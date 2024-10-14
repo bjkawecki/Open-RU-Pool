@@ -3,12 +3,12 @@ name: программа
 name_accent: програ́мма
 translation:
   - Programm
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: програ́мма
 singular_genitive: прог­ра́м­мы
 singular_dative: прог­ра́м­ме

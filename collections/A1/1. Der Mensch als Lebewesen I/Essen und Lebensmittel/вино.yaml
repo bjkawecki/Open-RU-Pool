@@ -3,12 +3,12 @@ name: вино
 name_accent: вино́
 translation:
   - Wein
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: вино́
 singular_genitive: ви­на́
 singular_dative: ви­ну́

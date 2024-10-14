@@ -3,12 +3,12 @@ name: время
 name_accent: вре́мя
 translation:
   - Zeit
-genus: n
+genus: neutral
 declination_class: irregular
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: вре́мя
 singular_genitive: вре́­ме­ни
 singular_dative: вре́­ме­ни

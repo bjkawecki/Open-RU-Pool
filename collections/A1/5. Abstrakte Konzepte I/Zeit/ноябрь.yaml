@@ -3,12 +3,12 @@ name: ноябрь
 name_accent: ноя́брь
 translation:
   - November
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: suffix
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ноя́брь
 singular_genitive: но­яб­ря́
 singular_dative: но­яб­рю́

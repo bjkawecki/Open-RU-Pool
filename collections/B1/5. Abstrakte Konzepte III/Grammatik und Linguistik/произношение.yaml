@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - Aussprache
 
-genus: n
-declination_class: 1
+genus: neutral
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: про­из­но­ше́­ние
 singular_genitive: про­из­но­ше́­ния

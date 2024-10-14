@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - Gesetz
   - Recht
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: за­ко́н
 singular_genitive: за­ко́­на

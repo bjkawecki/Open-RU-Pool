@@ -3,11 +3,11 @@ name: шахматы
 name_accent: ша́хматы
 translation:
   - Schach
-genus: none
+genus: neutralone
 declination_class: irregular
 stress: root
-is_animate: null
-is_singular_tantum: null
+is_animate: False
+is_singular_tantum: False
 is_plural_tantum: true
 singular_nominative: null
 singular_genitive: null

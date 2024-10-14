@@ -3,12 +3,12 @@ name: спорт
 name_accent: спорт
 translation:
   - Sport
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: suffix
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: спорт
 singular_genitive: спо́р­та
 singular_dative: спо́р­ту

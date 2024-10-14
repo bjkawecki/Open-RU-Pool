@@ -3,12 +3,12 @@ name_accent: ге­о́г­раф
 wordclass: substantive
 translation:
   - Geograph
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: ге­о́г­раф
 singular_genitive: ге­о́г­ра­фа

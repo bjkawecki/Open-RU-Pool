@@ -3,12 +3,12 @@ name: француженка
 name_accent: францу́женка
 translation:
   - Französin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: францу́женка
 singular_genitive: фран­цу́­жен­ки
 singular_dative: фран­цу́­жен­ке

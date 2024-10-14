@@ -3,12 +3,12 @@ name: ученица
 name_accent: учени́ца
 translation:
   - Schülerin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: учени́ца
 singular_genitive: уче­ни́­цы
 singular_dative: уче­ни́­це

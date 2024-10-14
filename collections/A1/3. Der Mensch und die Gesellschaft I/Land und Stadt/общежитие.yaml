@@ -3,12 +3,12 @@ name_accent: общежи́тие
 wordclass: substantive
 translation:
   - Wohnheim
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: общежи́тие
 singular_genitive: об­ще­жи́­тия
 singular_dative: об­ще­жи́­тию

@@ -3,12 +3,12 @@ name: живопись
 name_accent: жи́вопись
 translation:
   - Malerei
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: жи́­воп­ись
 singular_genitive: жи́­во­пи­си
 singular_dative: жи́­во­пи­си

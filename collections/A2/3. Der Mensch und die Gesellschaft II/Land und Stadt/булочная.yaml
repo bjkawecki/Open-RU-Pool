@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - Bäckerei
 
-genus: f
+genus: feminine
 declination_class: adjective
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: бу́­лоч­ная
 singular_genitive: бу́­лоч­ной

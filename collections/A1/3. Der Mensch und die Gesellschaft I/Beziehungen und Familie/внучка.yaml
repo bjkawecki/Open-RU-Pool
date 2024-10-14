@@ -3,12 +3,12 @@ name: внучка
 name_accent: вну́чка
 translation:
   - Enkelin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: вну́чка
 singular_genitive: вну́ч­ки
 singular_dative: вну́ч­ке

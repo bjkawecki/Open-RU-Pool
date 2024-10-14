@@ -3,12 +3,12 @@ name: искусство
 name_accent: иску́сство
 translation:
   - Kunst
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: иску́сство
 singular_genitive: ис­ку́с­ства
 singular_dative: ис­ку́с­ству

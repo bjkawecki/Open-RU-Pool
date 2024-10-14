@@ -3,12 +3,12 @@ name: писатель
 name_accent: писа́тель
 translation:
   - Schriftsteller
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: писа́тель
 singular_genitive: пи­са́­те­ля
 singular_dative: пи­са́­те­лю

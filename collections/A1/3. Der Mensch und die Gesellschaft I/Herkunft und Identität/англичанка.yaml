@@ -3,12 +3,12 @@ name: англичанка
 name_accent: англича́нка
 translation:
   - Engländerin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: англича́нка
 singular_genitive: анг­ли­ча́н­ки
 singular_dative: анг­ли­ча́н­ке

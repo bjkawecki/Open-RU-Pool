@@ -3,12 +3,12 @@ name: яблоко
 name_accent: я́блоко
 translation:
   - Apfel
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: я́блоко
 singular_genitive: я́б­ло­ка
 singular_dative: я́б­ло­ку

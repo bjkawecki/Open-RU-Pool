@@ -3,12 +3,12 @@ name: слово
 name_accent: сло́во
 translation:
   - Wort
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: сло́во
 singular_genitive: сло́­ва
 singular_dative: сло́­ву

@@ -3,12 +3,12 @@ name: магнитофон
 name_accent: магнитофо́н
 translation:
   - Abspielgerät
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: магнитофо́н
 singular_genitive: маг­ни­то­фо́­на
 singular_dative: маг­ни­то­фо́­ну

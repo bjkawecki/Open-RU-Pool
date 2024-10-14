@@ -5,12 +5,12 @@ translation:
   - Prozent
   - Anteil
 
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: про­це́нт
 singular_genitive: про­це́н­та

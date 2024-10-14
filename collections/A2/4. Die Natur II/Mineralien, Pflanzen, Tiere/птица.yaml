@@ -3,12 +3,12 @@ name_accent: пти́­ца
 wordclass: substantive
 translation:
 
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: пти́­ца
 singular_genitive: пти́­цы

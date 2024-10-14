@@ -3,12 +3,12 @@ name: молоко
 name_accent: молоко́
 translation:
   - Milch
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: suffix
-is_animate: null
+is_animate: False
 is_singular_tantum: true
-is_plural_tantum: null
+is_plural_tantum: False
 singular_nominative: молоко́
 singular_genitive: мо­ло­ка́
 singular_dative: мо­ло­ку́

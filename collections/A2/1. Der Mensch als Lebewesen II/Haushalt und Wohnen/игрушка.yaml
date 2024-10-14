@@ -3,12 +3,12 @@ name_accent: иг­ру́­шка
 wordclass: substantive
 translation:
 
-genus: f
-declination_class: 2
+genus: feminine
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: иг­ру́­шка
 singular_genitive: иг­ру́­шки

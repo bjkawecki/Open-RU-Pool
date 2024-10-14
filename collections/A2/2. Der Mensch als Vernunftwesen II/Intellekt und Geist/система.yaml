@@ -3,12 +3,12 @@ name_accent: сис­те́­ма
 wordclass: substantive
 translation:
   - System
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: сис­те́­ма
 singular_genitive: сис­те́­мы

@@ -3,12 +3,12 @@ name: страница
 name_accent: страни́ца
 translation:
   - Seite
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: страни́ца
 singular_genitive: стра­ни́­цы
 singular_dative: стра­ни́­це

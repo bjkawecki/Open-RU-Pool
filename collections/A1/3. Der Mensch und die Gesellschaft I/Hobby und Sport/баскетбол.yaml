@@ -3,12 +3,12 @@ name: баскетбол
 name_accent: баскетбо́л
 translation:
   - Basketball
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: баскетбо́л
 singular_genitive: бас­ке­тбо́­ла
 singular_dative: бас­ке­тбо́­лу

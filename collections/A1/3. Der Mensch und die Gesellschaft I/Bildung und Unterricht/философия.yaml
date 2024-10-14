@@ -3,12 +3,12 @@ name: философия
 name_accent: филосо́фия
 translation:
   - Philosophie
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: филосо́фия
 singular_genitive: фи­ло­со́­фии
 singular_dative: фи­ло­со́­фии

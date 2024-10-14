@@ -3,12 +3,12 @@ name: час
 name_accent: час
 translation:
   - Stunde
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: час
 singular_genitive: ча́­са
 singular_dative: ча́­су

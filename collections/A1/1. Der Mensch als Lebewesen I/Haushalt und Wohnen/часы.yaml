@@ -3,11 +3,11 @@ name: часы
 name_accent: часы́
 translation:
   - Uhr
-genus: none
+genus: neutralone
 declination_class: irregular
 stress: shifting
-is_animate: null
-is_singular_tantum: null
+is_animate: False
+is_singular_tantum: False
 is_plural_tantum: true
 singular_nominative: null
 singular_genitive: null

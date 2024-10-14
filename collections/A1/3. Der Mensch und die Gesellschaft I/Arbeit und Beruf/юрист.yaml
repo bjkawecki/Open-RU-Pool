@@ -3,12 +3,12 @@ name: юрист
 name_accent: юри́ст
 translation:
   - Jurist
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: юри́ст
 singular_genitive: юр­и́с­та
 singular_dative: юр­и́с­ту

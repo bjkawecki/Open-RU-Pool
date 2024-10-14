@@ -6,12 +6,12 @@ translation:
   - Konfekt
   - Praline
 
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: кон­фе́­та
 singular_genitive: кон­фе́­ты

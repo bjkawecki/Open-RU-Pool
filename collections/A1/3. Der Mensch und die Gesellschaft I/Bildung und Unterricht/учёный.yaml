@@ -4,12 +4,12 @@ name_accent: учёный
 translation:
   - Wissenschaftler
   - Gelehrter
-genus: m
+genus: masculine
 declination_class: adjective
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: учёный
 singular_genitive: учё­но­го
 singular_dative: учё­но­му

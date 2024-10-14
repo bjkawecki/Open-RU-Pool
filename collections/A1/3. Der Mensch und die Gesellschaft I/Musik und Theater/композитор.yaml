@@ -3,12 +3,12 @@ name: композитор
 name_accent: компози́тор
 translation:
   - Komponist
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: компози́тор
 singular_genitive: ком­по­зи́­то­ра
 singular_dative: ком­по­зи́­то­ру

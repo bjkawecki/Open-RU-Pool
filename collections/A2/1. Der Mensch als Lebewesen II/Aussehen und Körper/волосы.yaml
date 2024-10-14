@@ -5,15 +5,15 @@ translation:
   - Haare
   - Haar
 
-genus: m
+genus: masculine
 
-declination_class: 2
+declination_class: "2"
 
 stress: shifting
 
 is_animate: false
 
-is_singular_tantum: null
+is_singular_tantum: False
 
 is_plural_tantum: true
 

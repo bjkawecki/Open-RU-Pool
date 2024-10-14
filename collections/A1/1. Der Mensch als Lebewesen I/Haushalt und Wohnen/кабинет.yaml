@@ -5,12 +5,12 @@ translation:
   - Arbeitszimmer
   - Unterrichtsraum
   - Kabinett
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: кабине́т
 singular_genitive: ка­би­не́­та
 singular_dative: ка­би­не́­ту

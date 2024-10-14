@@ -3,12 +3,12 @@ name: окно
 name_accent: окно́
 translation:
   - Fenster
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: окно́
 singular_genitive: ок­на́
 singular_dative: ок­ну́

@@ -3,12 +3,12 @@ name: работа
 name_accent: рабо́та
 translation:
   - Arbeit
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: рабо́та
 singular_genitive: ра­бо́­ты
 singular_dative: ра­бо́­те

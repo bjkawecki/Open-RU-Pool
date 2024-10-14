@@ -3,12 +3,12 @@ name: животное
 name_accent: живо́тное
 translation:
   - Tier
-genus: n
+genus: neutral
 declination_class: adjective
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: жи­во́т­ное
 singular_genitive: жи­во́т­но­го
 singular_dative: жи­во́т­но­му

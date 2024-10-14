@@ -4,12 +4,12 @@ name_accent: хозя́ин
 translation:
   - Gastgeber
   - Wirt
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: хозя́ин
 singular_genitive: хо­зя́­ина
 singular_dative: хо­зя́­ину

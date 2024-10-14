@@ -3,12 +3,12 @@ name: архитектура
 name_accent: архитекту́ра
 translation:
   - Architektur
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: архитекту́ра
 singular_genitive: ар­хи­тек­ту́­ры
 singular_dative: ар­хи­тек­ту́­ре

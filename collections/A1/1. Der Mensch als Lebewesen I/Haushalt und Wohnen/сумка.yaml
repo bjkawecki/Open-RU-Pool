@@ -3,12 +3,12 @@ name: сумка
 name_accent: су́мка
 translation:
   - Tasche
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: су́мка
 singular_genitive: су́м­ки
 singular_dative: су́м­ке

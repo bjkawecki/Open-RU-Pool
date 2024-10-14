@@ -3,12 +3,12 @@ name_accent: по­ли́­ти­ка
 wordclass: substantive
 translation:
   - Politik
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: по­ли́­ти­ка
 singular_genitive: по­ли́­ти­ки

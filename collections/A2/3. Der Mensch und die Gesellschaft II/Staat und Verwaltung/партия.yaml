@@ -3,12 +3,12 @@ name_accent: па́р­тия
 wordclass: substantive
 translation:
   - Partei
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: па́р­тия
 singular_genitive: па́р­тии

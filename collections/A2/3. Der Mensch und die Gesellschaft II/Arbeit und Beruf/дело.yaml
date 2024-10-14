@@ -5,12 +5,12 @@ translation:
   - Angelegenheit
   - Geschäft
   - Sache
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: де́­ло
 singular_genitive: де́­ла

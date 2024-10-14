@@ -4,12 +4,12 @@ wordclass: substantive
 translation:
   - See
 
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: о́зе­ро
 singular_genitive: о́зе­ра

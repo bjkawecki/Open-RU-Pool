@@ -3,12 +3,12 @@ name: тетрадь
 name_accent: тетра́дь
 translation:
   - Heft
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: тетра́дь
 singular_genitive: тет­ра́­ди
 singular_dative: тет­ра́­ди

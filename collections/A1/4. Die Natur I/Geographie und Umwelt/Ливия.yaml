@@ -3,12 +3,12 @@ name: Ливия
 name_accent: Ли́вия
 translation:
   - Libyen
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: Ли́вия
 singular_genitive: Ли́вии
 singular_dative: Ли́вии

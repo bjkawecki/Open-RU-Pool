@@ -3,12 +3,12 @@ name: месяц
 name_accent: ме́сяц
 translation:
   - Monat
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ме́сяц
 singular_genitive: ме́­ся­ца
 singular_dative: ме́­ся­цу

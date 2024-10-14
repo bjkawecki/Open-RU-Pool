@@ -3,12 +3,12 @@ name: дом
 name_accent: дом
 translation:
   - Haus
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: дом
 singular_genitive: до́­ма
 singular_dative: до́­му

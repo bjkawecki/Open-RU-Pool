@@ -3,12 +3,12 @@ name: экономист
 name_accent: экономи́ст
 translation:
   - Ökonom
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: экономи́ст
 singular_genitive: эко­ном­и́с­та
 singular_dative: эко­ном­и́с­ту

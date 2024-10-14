@@ -4,7 +4,7 @@ wordclass: substantive
 translation:
   - Gedankenstrich
 
-genus: n
+genus: neutral
 
 declination_class: none
 
@@ -12,9 +12,9 @@ stress: root
 
 is_animate: false
 
-is_singular_tantum: null
+is_singular_tantum: False
 
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative: тире́
 singular_genitive: тире́

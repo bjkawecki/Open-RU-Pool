@@ -5,12 +5,12 @@ translation:
   - Preis
   - Prämie
   - Bonus
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: пре́мия
 singular_genitive: пре́­мии
 singular_dative: пре́­мии

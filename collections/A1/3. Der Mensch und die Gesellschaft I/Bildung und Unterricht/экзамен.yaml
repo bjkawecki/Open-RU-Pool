@@ -4,12 +4,12 @@ name_accent: экза́мен
 translation:
   - Prüfung
   - Examen
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: экза́мен
 singular_genitive: эк­за́­ме­на
 singular_dative: эк­за́­ме­ну

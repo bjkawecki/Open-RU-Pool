@@ -3,12 +3,12 @@ name: цветок
 name_accent: цвето́к
 translation:
   - Blume
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: suffix
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: цвето́к
 singular_genitive: цвет­ка́
 singular_dative: цвет­ку́

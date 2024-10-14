@@ -3,12 +3,12 @@ name: октябрь
 name_accent: октя́брь
 translation:
   - Oktober
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: suffix
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: октя́брь
 singular_genitive: ок­тя­бря́
 singular_dative: ок­тя­брю́

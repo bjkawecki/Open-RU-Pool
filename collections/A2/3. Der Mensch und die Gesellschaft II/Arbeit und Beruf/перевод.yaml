@@ -3,12 +3,12 @@ name_accent: пе­рев­о́д
 wordclass: substantive
 translation:
   - Übersetzung
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: пе­рев­о́д
 singular_genitive: пе­ре­во́­да

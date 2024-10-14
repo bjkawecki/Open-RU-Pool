@@ -3,12 +3,12 @@ name: бизнесмен
 name_accent: бизнесме́н
 translation:
   - Geschäftsmann
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: бизнесме́н
 singular_genitive: биз­не­сме́­на
 singular_dative: биз­не­сме́­ну

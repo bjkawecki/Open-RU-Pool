@@ -3,12 +3,12 @@ name: цена
 name_accent: цена́
 translation:
   - Preis
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: цена́
 singular_genitive: це­ны́
 singular_dative: це­не́

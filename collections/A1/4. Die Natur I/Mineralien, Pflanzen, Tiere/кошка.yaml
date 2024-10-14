@@ -3,12 +3,12 @@ name: кошка
 name_accent: ко́шка
 translation:
   - Katze
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ко́шка
 singular_genitive: ко́ш­ки
 singular_dative: ко́ш­ке

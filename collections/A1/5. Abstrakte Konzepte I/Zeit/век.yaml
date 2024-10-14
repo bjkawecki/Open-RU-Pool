@@ -4,12 +4,12 @@ name_accent: век
 translation:
   - Jahrhundert
   - Zeitalter
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: век
 singular_genitive: ве́­ка
 singular_dative: ве́­ку

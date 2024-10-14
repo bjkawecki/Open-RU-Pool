@@ -1,1 +1,54 @@
 name: дать
+name_accent: дать
+wordclass: verb
+translation:
+  - geben
+
+aspect: perfective
+aspect_partner: да­ва́ть
+conjugation_class: irregular
+
+is_motion_verb: false
+motion_partner: null
+direction: null
+
+direct_object_case: accusative
+direct_object_preposition: null
+indirect_object_case: null
+indirect_object_preposition: null
+is_reflexive: false
+
+present_singular_1:
+present_singular_2:
+present_singular_3:
+present_plural_1:
+present_plural_2:
+present_plural_3:
+
+future_singular_1: дам
+future_singular_2: дашь
+future_singular_3: даст
+future_plural_1: да­ди́м
+future_plural_2: да­ди́­те
+future_plural_3: да­ду́т
+
+past_masculine: дал
+past_feminine: да­ла́
+past_neutral: да́­ло
+past_plural: да́­ли
+
+participle_active_present:
+participle_active_past: да́в­ший
+
+participle_adverbial_present:
+participle_adverbial_passive: да́в­ши, дав
+
+participle_passive_present:
+participle_passive_past: да́н­ный
+
+imperative_singular: дай
+imperative_plural: да́й­те
+
+comment: null
+usage: null
+etymology: null

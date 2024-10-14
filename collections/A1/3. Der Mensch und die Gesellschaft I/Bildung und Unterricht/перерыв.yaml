@@ -4,12 +4,12 @@ name_accent: переры́в
 translation:
   - Pause
   - Unterbrechung
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: переры́в
 singular_genitive: пе­ре­ры́­ва
 singular_dative: пе­ре­ры́­ву

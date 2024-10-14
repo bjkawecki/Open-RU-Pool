@@ -5,7 +5,7 @@ translation:
   - Name
   - Vorname
 
-genus: n
+genus: neutral
 
 declination_class: irregular
 
@@ -13,9 +13,9 @@ stress: shifting
 
 is_animate: false
 
-is_singular_tantum: null
+is_singular_tantum: False
 
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative: и́мя
 singular_genitive: и́ме­ни

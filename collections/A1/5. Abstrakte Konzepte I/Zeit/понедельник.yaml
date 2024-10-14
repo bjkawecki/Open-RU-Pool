@@ -3,12 +3,12 @@ name: понедельник
 name_accent: понеде́льник
 translation:
   - Montag
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: понеде́льник
 singular_genitive: по­нед­е́ль­ни­ка
 singular_dative: по­нед­е́ль­ни­ку

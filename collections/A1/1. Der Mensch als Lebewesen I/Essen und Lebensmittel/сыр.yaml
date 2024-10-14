@@ -3,12 +3,12 @@ name: сыр
 name_accent: сыр
 translation:
   - Käse
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: сыр
 singular_genitive: сы́­ра
 singular_dative: сы́­ру

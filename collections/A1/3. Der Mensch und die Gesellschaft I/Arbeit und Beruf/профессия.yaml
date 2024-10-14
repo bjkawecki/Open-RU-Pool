@@ -4,12 +4,12 @@ name_accent: профе́ссия
 translation:
   - Beruf
   - Metier
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: профе́ссия
 singular_genitive: про­фе́с­сии
 singular_dative: про­фе́с­сии

@@ -4,12 +4,12 @@ name_accent: оде́жда
 translation:
   - Kleidung
   - Kleider
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: оде́жда
 singular_genitive: од­е́ж­ды
 singular_dative: од­е́ж­де

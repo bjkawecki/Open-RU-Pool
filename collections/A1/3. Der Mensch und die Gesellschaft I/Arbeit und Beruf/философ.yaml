@@ -3,12 +3,12 @@ name: философ
 name_accent: фило́соф
 translation:
   - Philosoph
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: фило́соф
 singular_genitive: фи­ло́­со­фа
 singular_dative: фи­ло́­со­фу

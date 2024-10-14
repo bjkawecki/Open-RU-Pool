@@ -5,12 +5,12 @@ translation:
   - Wasserkocher
   - Teekessel
   - Teekanne
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: чайник
 singular_genitive: ча́й­ни­ка
 singular_dative: ча́й­ни­ку

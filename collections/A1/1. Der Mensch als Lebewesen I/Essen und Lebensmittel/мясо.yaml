@@ -3,12 +3,12 @@ name: мясо
 name_accent: мя́со
 translation:
   - Fleisch
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: мя́со
 singular_genitive: мя́­са
 singular_dative: мя́­су

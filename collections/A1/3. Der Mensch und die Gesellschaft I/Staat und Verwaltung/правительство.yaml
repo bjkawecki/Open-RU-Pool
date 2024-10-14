@@ -3,12 +3,12 @@ name: правительство
 name_accent: прави́тельство
 translation:
   - Regierung
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: прави́тельство
 singular_genitive: пра­ви́т­ель­ства
 singular_dative: пра­ви́т­ель­ству

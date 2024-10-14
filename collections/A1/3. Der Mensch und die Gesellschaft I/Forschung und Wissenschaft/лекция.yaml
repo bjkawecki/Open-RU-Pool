@@ -3,12 +3,12 @@ name: лекция
 name_accent: ле́кция
 translation:
   - Vorlesung
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ле́кция
 singular_genitive: ле́к­ции
 singular_dative: ле́к­ции

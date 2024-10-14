@@ -3,12 +3,12 @@ name: сестра
 name_accent: сестра́
 translation:
   - Schwester
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: shifting
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: сестра́
 singular_genitive: сест­ры́
 singular_dative: сест­ре́

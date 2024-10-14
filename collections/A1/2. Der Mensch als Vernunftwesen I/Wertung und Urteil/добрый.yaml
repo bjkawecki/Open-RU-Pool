@@ -1,1 +1,49 @@
 name: добрый
+name_accent: до́б­рый
+wordclass: adjective
+translation:
+  - gutmütig
+  - brav
+  - gutherzig
+
+is_gradable: true
+
+masculine_nominative: до́б­рый
+masculine_genitive: до́б­ро­го
+masculine_dative: до́б­ро­му
+masculine_accusative: до́б­рый
+masculine_instrumental: до́б­рым
+masculine_prepositive: до́б­ром
+
+feminine_nominative: до́б­рая
+feminine_genitive: до́б­рой
+feminine_dative: до́б­рой
+feminine_accusative: до́б­рую
+feminine_instrumental: до́б­рой
+feminine_prepositive: до́б­рой
+
+neutral_nominative: до́б­рое
+neutral_genitive: до́б­ро­го
+neutral_dative: до́б­ро­му
+neutral_accusative: до́б­рое
+neutral_instrumental: до́б­рым
+neutral_prepositive: до́б­ром
+
+plural_nominative: до́б­рые
+plural_genitive: до́б­рых
+plural_dative: до́б­рым
+plural_accusative: до́б­рые
+plural_instrumental: до́б­ры­ми
+plural_prepositive: до́б­рых
+
+shortform_masculine: добр
+shortform_feminine: доб­ра́
+shortform_neutral: до́б­ро
+shortform_plural: до́б­ры
+
+comparative: доб­ре́е
+superlative: самый до́б­рый
+
+comment: null
+usage: null
+etymology: null

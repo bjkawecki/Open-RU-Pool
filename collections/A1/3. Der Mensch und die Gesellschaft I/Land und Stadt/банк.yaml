@@ -3,12 +3,12 @@ name: банк
 name_accent: банк
 translation:
   - Bank
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: банк
 singular_genitive: ба́н­ка
 singular_dative: ба́н­ку

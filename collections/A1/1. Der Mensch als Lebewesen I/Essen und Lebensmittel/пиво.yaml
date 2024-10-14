@@ -3,12 +3,12 @@ name: пиво
 name_accent: пи́во
 translation:
   - Bier
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
-is_animate: null
+is_animate: False
 is_singular_tantum: true
-is_plural_tantum: null
+is_plural_tantum: False
 singular_nominative: пи́во
 singular_genitive: пи́­ва
 singular_dative: пи́­ву

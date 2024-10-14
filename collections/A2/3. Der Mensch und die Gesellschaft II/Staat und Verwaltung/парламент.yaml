@@ -3,12 +3,12 @@ name_accent: пар­ла́­мент
 wordclass: substantive
 translation:
   - Parlament
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: пар­ла́­мент
 singular_genitive: пар­ла́­мен­та

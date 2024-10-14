@@ -3,12 +3,12 @@ name: роман
 name_accent: рома́н
 translation:
   - Roman
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: рома́н
 singular_genitive: ро­ма́­на
 singular_dative: ро­ма́­ну

@@ -3,12 +3,12 @@ name: Африка
 name_accent: А́фрика
 translation:
   - Afrika
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: А́фрика
 singular_genitive: А́фрики
 singular_dative: А́фрике

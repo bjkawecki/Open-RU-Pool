@@ -3,12 +3,12 @@ name_accent: фи́рма
 wordclass: substantive
 translation:
   - Firma
-genus: f
-declination_class: 2
+genus: feminine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: фи́рма
 singular_genitive: фи́р­мы
 singular_dative: фи́р­ме

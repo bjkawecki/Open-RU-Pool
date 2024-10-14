@@ -3,12 +3,12 @@ name: Швеция
 name_accent: Шве́ция
 translation:
   - Schweden
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: Шве́ция
 singular_genitive: Шве́ции
 singular_dative: Шве́ции

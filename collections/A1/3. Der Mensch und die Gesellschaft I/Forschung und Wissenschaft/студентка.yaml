@@ -3,12 +3,12 @@ name: студентка
 name_accent: студе́нтка
 translation:
   - Studentin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: студе́нтка
 singular_genitive: сту­де́нт­ки
 singular_dative: сту­де́нт­ке

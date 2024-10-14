@@ -3,12 +3,12 @@ name_accent: те́х­ни­ка
 wordclass: substantive
 translation:
   - Technik
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: те́х­ни­ка
 singular_genitive: те́х­ни­ки

@@ -3,12 +3,12 @@ name: Бразилия
 name_accent: Брази́лия
 translation:
   - Brasilien
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: Брази́лия
 singular_genitive: Брази́лии
 singular_dative: Брази́лии

@@ -6,17 +6,17 @@ translation:
   - Jugendjahre
   - Adoloszenz
 
-genus: f
+genus: feminine
 
-declination_class: 3
+declination_class: "3"
 
 stress: root
 
 is_animate: false
 
-is_singular_tantum: null
+is_singular_tantum: False
 
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative: ю́н­ость
 singular_genitive: ю́н­ос­ти

@@ -3,12 +3,12 @@ name: смерть
 name_accent: смерть
 translation:
   - Tod
-genus: f
-declination_class: 3
+genus: feminine
+declination_class: "3"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: смерть
 singular_genitive: сме́р­ти
 singular_dative: сме́р­ти

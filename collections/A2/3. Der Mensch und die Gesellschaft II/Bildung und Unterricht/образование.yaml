@@ -3,12 +3,12 @@ name_accent: об­ра­зо­ва́­ние
 wordclass: substantive
 translation:
   - Bildung
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: об­ра­зо­ва́­ние
 singular_genitive: об­ра­зо­ва́­ния

@@ -5,12 +5,12 @@ translation:
   - Ort
   - Platz
   - Stelle
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ме́сто
 singular_genitive: ме́с­та
 singular_dative: ме́с­ту

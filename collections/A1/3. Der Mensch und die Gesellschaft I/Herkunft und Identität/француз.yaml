@@ -3,12 +3,12 @@ name: француз
 name_accent: францу́з
 translation:
   - Franzose
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: францу́з
 singular_genitive: фран­цу́­за
 singular_dative: фран­цу́­зу

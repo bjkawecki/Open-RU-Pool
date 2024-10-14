@@ -3,12 +3,12 @@ name: столица
 name_accent: столи́ца
 translation:
   - Hauptstadt
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: столи́ца
 singular_genitive: сто­ли́­цы
 singular_dative: сто­ли́­це

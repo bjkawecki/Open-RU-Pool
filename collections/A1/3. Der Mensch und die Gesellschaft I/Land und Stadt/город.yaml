@@ -3,12 +3,12 @@ name: город
 name_accent: го́род
 translation:
   - Stadt
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: го́род
 singular_genitive: го́­ро­да
 singular_dative: го́­ро­ду

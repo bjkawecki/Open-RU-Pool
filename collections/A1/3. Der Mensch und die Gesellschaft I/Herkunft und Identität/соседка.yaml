@@ -3,12 +3,12 @@ name: соседка
 name_accent: сосе́дка
 translation:
   - Nachbarin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: suffix
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: сосе́дка
 singular_genitive: со­се́д­ки
 singular_dative: со­се́д­ке

@@ -3,12 +3,12 @@ name: рубашка
 name_accent: руба́шка
 translation:
   - Hemd
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: руба́шка
 singular_genitive: ру­ба́ш­ки
 singular_dative: ру­ба́ш­ке

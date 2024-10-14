@@ -3,12 +3,12 @@ name: иностранка
 name_accent: иностра́нка
 translation:
   - Ausländerin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: иностра́нка
 singular_genitive: ин­ост­ра́н­ки
 singular_dative: ин­ост­ра́н­ке

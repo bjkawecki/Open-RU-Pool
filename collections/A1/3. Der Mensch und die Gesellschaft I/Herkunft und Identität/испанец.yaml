@@ -3,12 +3,12 @@ name: испанец
 name_accent: испа́нец
 translation:
   - Spanier
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: испа́нец
 singular_genitive: ис­па́­нца
 singular_dative: ис­па́­нцу

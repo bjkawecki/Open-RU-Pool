@@ -3,12 +3,12 @@ name: температура
 name_accent: температу́ра
 translation:
   - Temperatur
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: температу́ра
 singular_genitive: тем­пе­ра­ту́­ры
 singular_dative: тем­пе­ра­ту́­ре

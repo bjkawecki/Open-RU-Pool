@@ -3,12 +3,12 @@ name: история
 name_accent: исто́рия
 translation:
   - Geschichte
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: исто́рия
 singular_genitive: ис­то́­рии
 singular_dative: ис­то́­рии

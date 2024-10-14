@@ -3,12 +3,12 @@ name: менеджер
 name_accent: ме́неджер
 translation:
   - Manager
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ме́неджер
 singular_genitive: ме́­нед­же­ра
 singular_dative: ме́­нед­же­ру

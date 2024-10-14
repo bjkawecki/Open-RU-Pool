@@ -6,17 +6,17 @@ translation:
   - Jugendlicher
   - junger Mann
 
-genus: m
+genus: masculine
 
-declination_class: 1
+declination_class: "1"
 
 stress: root
 
 is_animate: true
 
-is_singular_tantum: null
+is_singular_tantum: False
 
-is_plural_tantum: null
+is_plural_tantum: False
 
 singular_nominative: ю́но­ша
 singular_genitive: ю́но­ши

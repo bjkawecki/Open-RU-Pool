@@ -3,12 +3,12 @@ name: море
 name_accent: мо́ре
 translation:
   - Meer
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: мо́ре
 singular_genitive: мо́­ря
 singular_dative: мо́­рю

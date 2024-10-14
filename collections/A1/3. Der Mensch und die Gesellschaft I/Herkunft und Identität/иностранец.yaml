@@ -3,12 +3,12 @@ name: иностранец
 name_accent: иностра́нец
 translation:
   - Ausländer
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: иностра́нец
 singular_genitive: ин­ост­ра́н­ца
 singular_dative: ин­ост­ра́н­цу

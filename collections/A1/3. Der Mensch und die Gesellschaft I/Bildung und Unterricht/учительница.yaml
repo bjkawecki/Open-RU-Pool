@@ -3,12 +3,12 @@ name: учительница
 name_accent: учи́тельница
 translation:
   - Lehrerin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: учи́тельница
 singular_genitive: учи́­тель­ни­цы
 singular_dative: учи́­тель­ни­це

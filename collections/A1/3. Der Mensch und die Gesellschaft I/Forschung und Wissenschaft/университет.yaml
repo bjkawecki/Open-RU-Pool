@@ -3,12 +3,12 @@ name: университет
 name_accent: университе́т
 translation:
   - Universität
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: университе́т
 singular_genitive: уни­вер­си­те́­та
 singular_dative: уни­вер­си­те́­ту

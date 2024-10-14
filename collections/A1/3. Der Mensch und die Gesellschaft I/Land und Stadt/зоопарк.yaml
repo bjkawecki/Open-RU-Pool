@@ -3,12 +3,12 @@ name_accent: зоопа́рк
 wordclass: substantive
 translation:
   - Zoo
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: зоопа́рк
 singular_genitive: зо­оп­а́р­ка
 singular_dative: зо­оп­а́р­ку

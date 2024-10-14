@@ -4,11 +4,11 @@ name_accent: лю́ди
 translation:
   - Menschen
   - Leute
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: shifting
 is_animate: true
-is_singular_tantum: null
+is_singular_tantum: False
 is_plural_tantum: true
 singular_nominative: null
 singular_genitive: null

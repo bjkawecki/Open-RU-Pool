@@ -3,12 +3,12 @@ name: музыка
 name_accent: му́зыка
 translation:
   - Musik
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: му́зыка
 singular_genitive: му́­зы­ки
 singular_dative: му́­зы­ке

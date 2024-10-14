@@ -3,12 +3,12 @@ name: письмо
 name_accent: письмо́
 translation:
   - Brief
-genus: n
-declination_class: 2
+genus: neutral
+declination_class: "2"
 stress: shifting
-is_animate: null
-is_singular_tantum: null
-is_plural_tantum: null
+is_animate: False
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: письмо́
 singular_genitive: пись­ма́
 singular_dative: пись­му́

@@ -3,12 +3,12 @@ name: москвичка
 name_accent: москви́чка
 translation:
   - Moskauerin
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: москви́чка
 singular_genitive: моск­ви́ч­ки
 singular_dative: моск­ви́ч­ке

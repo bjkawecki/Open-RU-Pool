@@ -6,8 +6,8 @@ genus:
 declination_class:
 stress:
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative:
 singular_genitive:

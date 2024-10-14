@@ -6,12 +6,12 @@ translation:
   - Ausflug
   - Fahrt
 
-genus: f
-declination_class: 1
+genus: feminine
+declination_class: "1"
 stress: root
 is_animate: false
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 
 singular_nominative: по­е́зд­ка
 singular_genitive: по­е́зд­ки

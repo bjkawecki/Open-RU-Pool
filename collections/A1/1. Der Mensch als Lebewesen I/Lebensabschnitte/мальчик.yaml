@@ -3,12 +3,12 @@ name: мальчик
 name_accent: ма́льчик
 translation:
   - Junge
-genus: m
-declination_class: 2
+genus: masculine
+declination_class: "2"
 stress: root
 is_animate: true
-is_singular_tantum: null
-is_plural_tantum: null
+is_singular_tantum: False
+is_plural_tantum: False
 singular_nominative: ма́льчик
 singular_genitive: ма́ль­чи­ка
 singular_dative: ма́ль­чи­ку
