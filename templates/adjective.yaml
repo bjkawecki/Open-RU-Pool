@@ -4,37 +4,37 @@ translation:
 
 is_gradable: true
 
-masculine_nominative:
-masculine_genitive:
-masculine_dative:
-masculine_accusative:
-masculine_instrumental:
-masculine_prepositive:
+masculine_nominative: &mas_nom_var
+masculine_genitive: &mas_neu_gen_var
+masculine_dative: &mas_neu_dat_var
+masculine_accusative: *mas_nom_var
+masculine_instrumental: &mas_neu_ins_var
+masculine_prepositive: &mas_neu_pre_var
 
 feminine_nominative:
-feminine_genitive:
-feminine_dative:
+feminine_genitive: &fem_gen_data_ins_pre_var
+feminine_dative: *fem_gen_data_ins_pre_var
 feminine_accusative:
-feminine_instrumental:
-feminine_prepositive:
+feminine_instrumental: *fem_gen_data_ins_pre_var
+feminine_prepositive: *fem_gen_data_ins_pre_var
 
-neutral_nominative:
-neutral_genitive:
-neutral_dative:
-neutral_accusative:
-neutral_instrumental:
-neutral_prepositive:
+neutral_nominative: &neu_acc_var
+neutral_genitive: *mas_neu_gen_var
+neutral_dative: *mas_neu_dat_var
+neutral_accusative: *neu_acc_var
+neutral_instrumental: *mas_neu_ins_var
+neutral_prepositive: *mas_neu_pre_var
 
-plural_nominative:
-plural_genitive:
+plural_nominative: &plu_nom_var
+plural_genitive: &plu_gen_var
 plural_dative:
-plural_accusative:
+plural_accusative: *plu_nom_var
 plural_instrumental:
-plural_prepositive:
+plural_prepositive: *plu_gen_var
 
 shortform_masculine:
 shortform_feminine:
-shortform_neutral:
+shortform_neural:
 shortform_plural:
 
 comparative:
