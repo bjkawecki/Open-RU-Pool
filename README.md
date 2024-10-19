@@ -2,6 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Data-YAML-%23CB171E?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/Script-Python3-%233776AB?style=flat-square)
+![Static Badge](https://img.shields.io/badge/License-CC_BY–SA_4.0-%239E9E9E?style=flat-square)
 
 Dieses Repository enthält einen einfach zu verwaltenden russischen Wortbestand, der als Sammlung von yaml-Dateien organisiert ist. Pro Wort gibt es eine yaml-Datei mit allen Informationen.
 
@@ -92,6 +93,11 @@ Da Wort "блестящий" (glänzend) beschreibt etwas, das man objektiv übe
 ## Weitere Hinweise zum Aufbau des Wortschatzes
 
 - Von Adjektiven abgeleitete Adverbien werden in der Regel nicht aufgeführt.
+
+## Lizenz
+
+Diese Arbeit unterliegt den Bestimmungen einer
+[Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Literaturhinweise
 
