@@ -34,10 +34,6 @@ Das Wort "бестактность" (Taktlosigkeit) ist ein Begriff oder eine Id
 
 Da Wort "блестящий" (glänzend) beschreibt etwas, das man objektiv über den Augensinn wahrnimmt. Ebenso wird das Wort figurativ gebraucht, um etwas subjektiv als hervorragend zu bewerten. Da beide Kontexte gleichwertig sind, ist das unspezifische Thema "Eigenschaften" am passendsten.
 
-## Weitere Hinweise zum Aufbau des Wortschatzes
-
-- Von Adjektiven abgeleitete Adverbien werden in der Regel nicht aufgeführt.
-
 ## Themen und Unterthemen
 
 | Thema                              | Unterthema                  | Enthält u. a.                             | Spezifität |
@@ -92,6 +88,10 @@ Da Wort "блестящий" (glänzend) beschreibt etwas, das man objektiv übe
 | Abstrakte Konzepte                 | Qualität                    | Adverbien, Konjunktionen, Präpositionen   |          1 |
 | Abstrakte Konzepte                 | Raum                        |                                           |          1 |
 | Abstrakte Konzepte                 | Zeit                        |                                           |          1 |
+
+## Weitere Hinweise zum Aufbau des Wortschatzes
+
+- Von Adjektiven abgeleitete Adverbien werden in der Regel nicht aufgeführt.
 
 ## Literaturhinweise
 
