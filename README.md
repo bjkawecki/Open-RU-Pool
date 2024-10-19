@@ -94,11 +94,6 @@ Da Wort "блестящий" (glänzend) beschreibt etwas, das man objektiv übe
 
 - Von Adjektiven abgeleitete Adverbien werden in der Regel nicht aufgeführt.
 
-## Lizenz
-
-Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
-
 ## Literaturhinweise
 
 - Andrjuša, N. P., Kozlova, T. V. (2014). Leksičeskij minimum po russkomy jazyku kak inostrannomy.<br>Ėlementarnyj uroven', Sank-Peterburg: Zlatoust. (ISBN 978-5-86547-858-4)
@@ -112,3 +107,8 @@ Diese Arbeit unterliegt den Bestimmungen einer
 - Andrjuša, N. P., Kozlova, T. V. (2019). Leksičeskij minimum po russkomy jazyku kak inostrannomy.<br>Tretij sertifikacionnyj uroven', Sank-Peterburg: Zlatoust. (ISBN 978-5-86547-970-3)
 
 <!-- - [udarenie.ru](https://udarenieru.ru/index.php): Grammatičeskij slovar'.   -->
+
+## Lizenz
+
+Diese Arbeit unterliegt den Bestimmungen einer
+[Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz](http://creativecommons.org/licenses/by-sa/4.0/).
